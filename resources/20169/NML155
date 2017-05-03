@@ -1,0 +1,61 @@
+{
+    "NML155H1-F-20169": {
+        "courseId": "1666",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Elementary Modern Hebrew I",
+        "code": "NML155H1",
+        "courseDescription": "<p>See MHB155H1 in <a target=_blank\" href=\"http:\/\/www.artsandscience.utoronto.ca\/ofr\/calendar\/crs_rlg.htm#MHB155H1\">Religion<\/a>.<\/p>\"",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39529": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "39529",
+                        "assignedRoom1": "UC 152",
+                        "assignedRoom2": null
+                    },
+                    "TH-39530": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "39530",
+                        "assignedRoom1": "UC 152",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161191": {
+                        "instructorId": "1161191",
+                        "firstName": "Y",
+                        "lastName": "Nizri"
+                    }
+                },
+                "meetingId": "3417",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

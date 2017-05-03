@@ -1,0 +1,160 @@
+{
+    "FRE274H1-S-20169": {
+        "courseId": "900",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Introduction to the Linguistic Analysis of French",
+        "code": "FRE274H1",
+        "courseDescription": "<p>An analytical study of contemporary French phonetics and phonology, morphology, syntax and semantics. This course is designed to prepare students for more advanced study of French linguistics at the 300 and 400 levels.<\/p>",
+        "prerequisite": "FRE272H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "The Department reserves the right to place students in the language course appropriate to their level of linguistic competence, based on the results of a placement test. For more information on taking the placement test and guidelines on how to enroll into our courses, please visit: <a href=\"http:\/\/www.french.utoronto.ca\/undergraduate\/enrolment_guidelines \">www.french.utoronto.ca\/undergraduate\/enrolment_guidelines <\/a><u>",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-33339": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "33339",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 107"
+                    }
+                },
+                "instructors": {
+                    "1159958": {
+                        "instructorId": "1159958",
+                        "firstName": "S",
+                        "lastName": "Bello"
+                    }
+                },
+                "meetingId": "1845",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "59",
+                        "postCode": "ASMAJ0525",
+                        "postName": "MA FRENCH LANG & FRENCH LING",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "251",
+                        "postCode": "ASSPE0525",
+                        "postName": "SP FRENCH LANG & FRENCH LING",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-42298": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42298",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "TF 103"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "1846",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-42299": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "42299",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "TF 103"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "1847",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

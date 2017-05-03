@@ -1,0 +1,53 @@
+{
+    "NML456H1-S-20169": {
+        "courseId": "3859",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Modern Hebrew Prose",
+        "code": "NML456H1",
+        "courseDescription": "<p>A study of an important modern writer of Hebrew fiction. (Conducted in Hebrew) (Offered in alternate years)<\/p>",
+        "prerequisite": "Permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-47141": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "47141",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 315"
+                    }
+                },
+                "instructors": {
+                    "1161216": {
+                        "instructorId": "1161216",
+                        "firstName": "H",
+                        "lastName": "Fox"
+                    }
+                },
+                "meetingId": "15294",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: Sept 30, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

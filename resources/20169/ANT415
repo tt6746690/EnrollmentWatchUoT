@@ -1,0 +1,53 @@
+{
+    "ANT415Y1-Y-20169": {
+        "courseId": "84",
+        "org": "ANT",
+        "orgName": "Anthropology (ANT) (ARH) (JAH) (JAL) (HAJ)",
+        "courseTitle": "Laboratory in Faunal Archaeo-Osteology",
+        "code": "ANT415Y1",
+        "courseDescription": "<p>Examination and interpretation of faunal material from archaeological sites as evidence for culture.<\/p>",
+        "prerequisite": "ARH312Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Josie Alaimo, the Undergraduate Administrator, at josie.alaimo@utoronto.ca",
+        "breadthCategories": "Living Things and Their Environment (4), The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-45819": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45819",
+                        "assignedRoom1": "AP 430",
+                        "assignedRoom2": "AP 430"
+                    }
+                },
+                "instructors": {
+                    "1158498": {
+                        "instructorId": "1158498",
+                        "firstName": "T",
+                        "lastName": "Friesen"
+                    }
+                },
+                "meetingId": "158",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

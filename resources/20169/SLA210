@@ -1,0 +1,61 @@
+{
+    "SLA210H1-F-20169": {
+        "courseId": "2238",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Russian for Heritage Speakers",
+        "code": "SLA210H1",
+        "courseDescription": "<p>This course is designed for students with Russian background, students raised in homes where Russian is\/was spoken, who speak or merely understand basic Russian but are otherwise illiterate in Russian (cannot\/have difficulty reading or writing). This course helps heritage learners of Russian develop\/maintain writing and reading skills as well as develop cultural literacy. <strong>(Online course in 2011-2012).<\/strong><\/p>",
+        "prerequisite": "Permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40200": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "40200",
+                        "assignedRoom1": "AH 204",
+                        "assignedRoom2": null
+                    },
+                    "TH-40199": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "40199",
+                        "assignedRoom1": "AH 204",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162334": {
+                        "instructorId": "1162334",
+                        "firstName": "J",
+                        "lastName": "Mikhailova"
+                    }
+                },
+                "meetingId": "4643",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "ACT370H1-S-20169": {
+        "courseId": "33",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Financial Principles for Actuarial Science II",
+        "code": "ACT370H1",
+        "courseDescription": "<p>Mathematical theory of financial derivatives, discrete and continuous option pricing models, hedging strategies and exotic option valuation.<\/p>",
+        "prerequisite": "ACT240H1 (minimum grade C); ACT245H1 (minimum grade C); ACT247H1 (minimum grade C); (STA257H1,STA261H1); MAT237Y1\/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "RSM435H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47555": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47555",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 162"
+                    },
+                    "WE-47556": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47556",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 162"
+                    }
+                },
+                "instructors": {
+                    "1158431": {
+                        "instructorId": "1158431",
+                        "firstName": "X",
+                        "lastName": "Huang"
+                    }
+                },
+                "meetingId": "45",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "110",
+                "actualEnrolment": "95",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Jan. 5, 2017",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-47557": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47557",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 162"
+                    },
+                    "WE-47558": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47558",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 162"
+                    }
+                },
+                "instructors": {
+                    "1158432": {
+                        "instructorId": "1158432",
+                        "firstName": "X",
+                        "lastName": "Huang"
+                    }
+                },
+                "meetingId": "14875",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "28",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Room Changed: Jan. 5, 2017",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

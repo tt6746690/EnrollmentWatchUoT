@@ -1,0 +1,53 @@
+{
+    "SDS375H1-F-20169": {
+        "courseId": "4247",
+        "org": "SDST",
+        "orgName": "Sexual Diversity Studies, Mark S. Bonham Centre (SDS) (JNS) (JPU) (JSU)",
+        "courseTitle": "Special Topics in Sexual Diversity Studies A (formerly UNI375H1)",
+        "code": "SDS375H1",
+        "courseDescription": "<p>Topics vary from year to year depending on instructor. This seminar is intended to expose students in the Sexual Diversity Studies program to topics that may not be covered by permanent university courses.<\/p>",
+        "prerequisite": "SDS255H1\/SDS256H1\/UNI255H1\/UNI256H1 or permission of the instructor",
+        "corequisite": "",
+        "exclusion": "UNI375H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-46585": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "46585",
+                        "assignedRoom1": "UC 330",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162280": {
+                        "instructorId": "1162280",
+                        "firstName": "N",
+                        "lastName": "Matte"
+                    }
+                },
+                "meetingId": "13975",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "Intro to Trans Studies",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "42",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "**Room Changed: Sept 7, 2016**",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

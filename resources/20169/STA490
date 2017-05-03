@@ -1,0 +1,89 @@
+{
+    "STA490Y1-Y-20169": {
+        "courseId": "2452",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Statistical Consultation, Communication, and Collaboration (formerlySTA490H1)",
+        "code": "STA490Y1",
+        "courseDescription": "<p>Through case studies and collaboration with researchers in other disciplines, students develop skills in the collaborative practice of Statistics. Focus is on pragmatic solutions to practical issues including study design, dealing with common complications in data analysis, and ethical practice, with particular emphasis on written communication.<\/p>",
+        "prerequisite": "STA303H1 (permission of instructor)",
+        "corequisite": "one additional 400 level STA course",
+        "exclusion": "STA490H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46979": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "46979",
+                        "assignedRoom1": "SS 2123",
+                        "assignedRoom2": "SS 2123"
+                    },
+                    "TH-46978": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46978",
+                        "assignedRoom1": "SS 2123",
+                        "assignedRoom2": "SS 2123"
+                    }
+                },
+                "instructors": {
+                    "1162630": {
+                        "instructorId": "1162630",
+                        "firstName": "A",
+                        "lastName": "Gibbs"
+                    }
+                },
+                "meetingId": "5036",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "Room Changed: September 16, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": "324",
+                        "postCode": "ASSPE1540",
+                        "postName": "SP APPLIED STATISTICS",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

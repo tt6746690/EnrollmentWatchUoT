@@ -1,0 +1,113 @@
+{
+    "EEB496H1-S-20169": {
+        "courseId": "652",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Seminar in Behaviour and Behavioural Ecology",
+        "code": "EEB496H1",
+        "courseDescription": "<p>Topics in behavioural ecology including predator-prey interactions, host-parasite interactions, mate choice, and foraging. Other topics for general discussions may include animal emotions, consciousness, culture and welfare. Evaluation based on presentations, participation in class discussions, and written assignments.<\/p>",
+        "prerequisite": "EEB322H1 (minimum GPA of 2.7); and one of EEB318H1\/EEB323H1\/EEB324H1\/EEB362H1\/EEB403H1\/EEB403H0\/EEB405H1\/EEB405H0\/EEB406H1\/EEB406H0\/EEB407H1\/EEB407H0\/EEB410H1\/EEB410H1 or PSY362H1\/PSY390H1\/PSY392H1\/PSY397H1",
+        "corequisite": "",
+        "exclusion": "EEB495H1\/EEB495Y1\/EEB496Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-33250": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "33250",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RW 15A"
+                    }
+                },
+                "instructors": {
+                    "1159647": {
+                        "instructorId": "1159647",
+                        "firstName": "D",
+                        "lastName": "McLennan"
+                    },
+                    "1159648": {
+                        "instructorId": "1159648",
+                        "firstName": "F",
+                        "lastName": "Rodd"
+                    }
+                },
+                "meetingId": "1373",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "12",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "75",
+                        "postCode": "ASMAJ1006",
+                        "postName": "MA ECOLOGY & EVOLUTIONARY BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "270",
+                        "postCode": "ASSPE1006",
+                        "postName": "SP ECOLOGY & EVOLUTIONARY BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

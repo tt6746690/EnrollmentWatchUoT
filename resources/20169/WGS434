@@ -1,0 +1,53 @@
+{
+    "WGS434H1-F-20169": {
+        "courseId": "2644",
+        "org": "WGSI",
+        "orgName": "Women and Gender Studies (WGS)",
+        "courseTitle": "Advanced Topics in Women and Gender Studies",
+        "code": "WGS434H1",
+        "courseDescription": "<p>An upper level seminar. Topics vary from year to year depending on instructor. Topic for 2011-2012: Gender and Transnationalism in the Black Diaspora. This course introduces students to feminist discussions of material and cultural processes underpinning the transnational production and circulation of blackness.&nbsp; Among the topics that will be explored are migratory circuits, the cultural politics of memory, sexuality and the boundaries of diaspora, carceral regimes and the forging of transnational political communities.<\/p>",
+        "prerequisite": "WGS160Y1, one full course at THE 300+ level in WGS, and one half course in WGS.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-43087": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43087",
+                        "assignedRoom1": "WI 2006",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162920": {
+                        "instructorId": "1162920",
+                        "firstName": "R",
+                        "lastName": "Diaz"
+                    }
+                },
+                "meetingId": "6787",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Trans\/national Sexuality",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

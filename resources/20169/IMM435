@@ -1,0 +1,86 @@
+{
+    "IMM435H1-F-20169": {
+        "courseId": "1259",
+        "org": "IMM",
+        "orgName": "Immunology (IMM) (MIJ)",
+        "courseTitle": "Practical Immunology",
+        "code": "IMM435H1",
+        "courseDescription": "<p>Application of basic principles acquired from IMM350H1\/IMM351H1 (IMM334Y1\/IMM335Y1); immunological procedures performed in research and diagnostic laboratories using molecular and cellular approaches; instruction through lectures, video tapes, and practical exercises in the laboratory.<\/p>",
+        "prerequisite": "BCH210H1\/BCH242Y1, IMM350H1\/IMM351H1 (IMM334Y1\/IMM335Y1)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-45983": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45983",
+                        "assignedRoom1": "MS 2381",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160547": {
+                        "instructorId": "1160547",
+                        "firstName": "I",
+                        "lastName": "Dimitriou"
+                    },
+                    "1160548": {
+                        "instructorId": "1160548",
+                        "firstName": "R",
+                        "lastName": "Ehrhardt"
+                    }
+                },
+                "meetingId": "2567",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "267",
+                        "postCode": "ASSPE1002",
+                        "postName": "SP IMMUNOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

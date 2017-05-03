@@ -1,0 +1,108 @@
+{
+    "GGR336H1-S-20169": {
+        "courseId": "3324",
+        "org": "GGR",
+        "orgName": "Geography (GGR) (JFG) (JFE) (JGE) (JGI) (JUG) (JEG)",
+        "courseTitle": "Urban Historical Geography of North America",
+        "code": "GGR336H1",
+        "courseDescription": "<p>This course explores the emergence and reproduction of class and racial social spaces, the development of new economic spaces, and the growing importance of the reform and planning movements. Emphasis is on metropolitan development between 1850 and 1950.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "8.0 FCE's including one of GGR124H1, GGR241H1, GGR254H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-27106": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "27106",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2110"
+                    }
+                },
+                "instructors": {
+                    "1160154": {
+                        "instructorId": "1160154",
+                        "firstName": "R",
+                        "lastName": "Lewis"
+                    }
+                },
+                "meetingId": "14045",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "93",
+                "actualEnrolment": "73",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "31",
+                        "subjectCode": "GGR",
+                        "subjectName": "GEOGRAPHY",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "31",
+                        "subjectCode": "GGR",
+                        "subjectName": "GEOGRAPHY",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

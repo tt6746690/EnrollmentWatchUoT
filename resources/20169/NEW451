@@ -1,0 +1,53 @@
+{
+    "NEW451H1-F-20169": {
+        "courseId": "3771",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Special Topics in African Studies",
+        "code": "NEW451H1",
+        "courseDescription": "<p>An upper level course. Topics of study vary from year to year.<\/p>",
+        "prerequisite": "NEW150Y1\/NEW250Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-22717": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "22717",
+                        "assignedRoom1": "WI 523",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161111": {
+                        "instructorId": "1161111",
+                        "firstName": "M",
+                        "lastName": "Lo"
+                    }
+                },
+                "meetingId": "7051",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Migration, Mobility, and Displacement in Contemporary Africa",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

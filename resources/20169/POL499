@@ -1,0 +1,53 @@
+{
+    "POL499Y1-Y-20169": {
+        "courseId": "1955",
+        "org": "POL",
+        "orgName": "Political Science (POL) (JHP) (JPA) (JPD) (JPF) (JPP) (JPR) (JPU) (JRA)",
+        "courseTitle": "Senior Thesis and Thesis Seminar",
+        "code": "POL499Y1",
+        "courseDescription": "<p>A 40 to 60 page (15,000 to 20,000 word) research paper (75% of the final mark) written under the supervision of&nbsp;a political science&nbsp;faculty member and a companion thesis seminar (25% of final mark). The seminar provides a forum for students to periodically present and discuss their on-going research and to examine issues and approaches related to the structure, organization and presentation of the thesis. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "4th year status in Specialist or Joint Specialist programs in Political Science; 3.0 GPA in Political Science courses; supervisor's approval; an approved thesis proposal.",
+        "corequisite": "",
+        "exclusion": "POL495Y1\/POL496H1\/POL497H1 (taken in the same session)",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For enrolment in this course, contact the Student and Alumni\/Advancement Coordinator, Elizabeth Jagdeo at e.jagdeo@utoronto.ca for details.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-11322": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "11322",
+                        "assignedRoom1": "UC 255",
+                        "assignedRoom2": "UC 255"
+                    }
+                },
+                "instructors": {
+                    "1161665": {
+                        "instructorId": "1161665",
+                        "firstName": "D",
+                        "lastName": "Kingsbury"
+                    }
+                },
+                "meetingId": "4002",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

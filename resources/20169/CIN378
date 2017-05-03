@@ -1,0 +1,61 @@
+{
+    "CIN378H1-F-20169": {
+        "courseId": "2788",
+        "org": "CINE",
+        "orgName": "Cinema Studies (CIN)",
+        "courseTitle": "Aspects of a National Cinema (formerly INI381H1)",
+        "code": "CIN378H1",
+        "courseDescription": "<p>In-depth treatment of a national cinema. Past courses include: \"British Cinema,\"&nbsp;\"Australian and New Zealand Cinema,\" and \"The Other Europe.\"<\/p>",
+        "prerequisite": "CIN105Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-37414": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "37414",
+                        "assignedRoom1": "IN 312",
+                        "assignedRoom2": null
+                    },
+                    "WE-37415": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "37415",
+                        "assignedRoom1": "IN 312",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158963": {
+                        "instructorId": "1158963",
+                        "firstName": "C",
+                        "lastName": "Babey"
+                    }
+                },
+                "meetingId": "14033",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "The Other Europe",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

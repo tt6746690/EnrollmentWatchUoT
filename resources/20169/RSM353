@@ -1,0 +1,141 @@
+{
+    "RSM353H1-F-20169": {
+        "courseId": "2157",
+        "org": "COMPG",
+        "orgName": "Rotman Commerce (RSM) (MGT)",
+        "courseTitle": "Consumer Behaviour (formerly RSM451H1)",
+        "code": "RSM353H1",
+        "courseDescription": "<p>Formulating successful marketing strategies requires an understanding of consumers&rsquo; cultures, motivations, cognitions, and emotions. Students will learn how to use theoretical perspectives from psychology, economics, anthropology, and other disciplines to generate predictions about consumers, interpret consumer reactions to marketing stimuli, and develop rigorous skills in marketing analysis. Not eligible for CR\/NCR option. Contact Rotman Commerce for details.<\/p>",
+        "prerequisite": "",
+        "corequisite": "RSM251H1",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-18130": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "18130",
+                        "assignedRoom1": "WO 25",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162172": {
+                        "instructorId": "1162172",
+                        "firstName": "S",
+                        "lastName": "Hawkins"
+                    }
+                },
+                "meetingId": "4481",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "53",
+                "actualEnrolment": "51",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TH-46643": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "46643",
+                        "assignedRoom1": "WO 25",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162173": {
+                        "instructorId": "1162173",
+                        "firstName": "S",
+                        "lastName": "Hawkins"
+                    }
+                },
+                "meetingId": "15269",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Added: September 9. 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "20",
+                        "assocOrgCode": "COMPG",
+                        "assocOrgName": "Rotman Commerce",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

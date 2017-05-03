@@ -1,0 +1,47 @@
+{
+    "HST451Y1-Y-20169": {
+        "courseId": "1227",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Independent Research in Health Studies (formerly UNI451Y1)",
+        "code": "HST451Y1",
+        "courseDescription": "<p>This two-semester course designation will permit students to gain academic credit for health studies pursued independently under the supervision of a University of Toronto faculty member; or to participate in an ongoing health research project under the joint supervision of the projects Principal Investigator and the Director of the Health Studies Program. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "HST209H1, HST250H1",
+        "corequisite": "",
+        "exclusion": "UNI451Y1",
+        "recommendedPreparation": "HST350Y1",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: College approval is required. Please contact Khamla Sengthavy for further information at: UC165, Monday to Friday, 9:00am-4:30pm, 416-978-8083, or khamla.sengthavy@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2469",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

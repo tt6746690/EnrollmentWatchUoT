@@ -1,0 +1,61 @@
+{
+    "ESS312H1-S-20169": {
+        "courseId": "3080",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Hydrogeology",
+        "code": "ESS312H1",
+        "courseDescription": "<p>Groundwater flow, the role of groundwater in geologic processes, and physical, chemical and biological constraints on contaminant source transport and attenuation.<\/p>",
+        "prerequisite": "ESS311H1",
+        "corequisite": "",
+        "exclusion": "GLG450H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47463": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47463",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 2100"
+                    },
+                    "WE-47464": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47464",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 2100"
+                    }
+                },
+                "instructors": {
+                    "1159854": {
+                        "instructorId": "1159854",
+                        "firstName": "G",
+                        "lastName": "Ferris"
+                    }
+                },
+                "meetingId": "14341",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Change: Dec. 16, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

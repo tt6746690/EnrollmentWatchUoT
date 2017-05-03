@@ -1,0 +1,108 @@
+{
+    "HIS414H1-F-20169": {
+        "courseId": "3444",
+        "org": "HIS",
+        "orgName": "History (HIS) (JHA) (JHP) (JHN) (JSH) (JAH)",
+        "courseTitle": "Down and Out in Medieval Europe",
+        "code": "HIS414H1",
+        "courseDescription": "<p>Explores the life conditions of individuals on the lower echelons of medieval society (the poor, servants and apprentices, the exiled, prisoners, slaves, foreigners and lepers).&nbsp; In parallel, we will discuss the various conceptions of poverty that prevailed in the Middle Ages.&nbsp; These objectives will allow us to glimpse the European Middle Ages from an unusual angle as well as reflect on important socio-economic and religious changes.<\/p>",
+        "prerequisite": "HIS220Y1 or a course on the Middle Ages",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-45503": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45503",
+                        "assignedRoom1": "UC F204",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160309": {
+                        "instructorId": "1160309",
+                        "firstName": "I",
+                        "lastName": "Cochelin"
+                    }
+                },
+                "meetingId": "14413",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "16",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P*",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "64",
+                        "postCode": "ASMAJ0652",
+                        "postName": "MA HISTORY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "35",
+                        "subjectCode": "HIS",
+                        "subjectName": "HISTORY",
+                        "designationId": "5",
+                        "designationCode": "SPE",
+                        "designationName": "Specialist",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

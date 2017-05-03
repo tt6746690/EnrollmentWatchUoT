@@ -1,0 +1,104 @@
+{
+    "LAS410H1-F-20169": {
+        "courseId": "1386",
+        "org": "LAS",
+        "orgName": "Latin American Studies (LAS)",
+        "courseTitle": "Independent Study",
+        "code": "LAS410H1",
+        "courseDescription": "<p>This course provides an opportunity for students to do academic research related to Latin American issues under the supervision of a faculty member. The intent is that the student, aided and advised by the supervisor, will read relevant literature, and plan, execute, analyze and report on an original and independent investigation of an appropriate topic. For application forms, please visit the \"Resources\" section of the programme's website. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "LAS200Y\/(LAS200H1, 201H1) and LAS300H\/LAS301H",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d enrolment control courses: contact LAS Coordinator in JHB 535 on Wednesdays or Fridays, from 10 a.m. to 4:00 p.m. or by email at las.coord@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160701": {
+                        "instructorId": "1160701",
+                        "firstName": "",
+                        "lastName": "TBA"
+                    }
+                },
+                "meetingId": "2744",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "LAS410H1-S-20169": {
+        "courseId": "1386",
+        "org": "LAS",
+        "orgName": "Latin American Studies (LAS)",
+        "courseTitle": "Independent Study",
+        "code": "LAS410H1",
+        "courseDescription": "<p>This course provides an opportunity for students to do academic research related to Latin American issues under the supervision of a faculty member. The intent is that the student, aided and advised by the supervisor, will read relevant literature, and plan, execute, analyze and report on an original and independent investigation of an appropriate topic. For application forms, please visit the \"Resources\" section of the programme's website. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "LAS200Y\/(LAS200H1, 201H1) and LAS300H\/LAS301H",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d enrolment control courses: contact LAS Coordinator in JHB 535 on Wednesdays or Fridays, from 10 a.m. to 4:00 p.m. or by email at las.coord@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160702": {
+                        "instructorId": "1160702",
+                        "firstName": "",
+                        "lastName": "TBA"
+                    }
+                },
+                "meetingId": "2745",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

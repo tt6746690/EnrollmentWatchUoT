@@ -1,0 +1,1201 @@
+{
+    "GER100Y1-Y-20169": {
+        "courseId": "943",
+        "org": "GER",
+        "orgName": "German (GER) (JGJ)",
+        "courseTitle": "Introduction to German I",
+        "code": "GER100Y1",
+        "courseDescription": "<p>This is the language course to take if you have had no previous experience of the German language. The emphasis is on comprehension, speaking, reading, writing, vocabulary and basic grammar. This course can be counted towards all programs in German.<\/p>\n<p>Note: Students with any previous knowledge of German are REQUIRED to take a placement test offered at the department.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Senior high school German or equivalent. \n\nNote: Students with any previous knowledge of German are required to take a placement test offered at the department.",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "This course is for students with no prior background in German. If you have had any background in German, you are required to take a placement test, which takes thirty minutes.  You can register for the test at gayle.grisdale@utoronto.ca.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-35556": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "35556",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "TU-35557": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "35557",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "WE-35558": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "35558",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "FR-35559": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "35559",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    }
+                },
+                "instructors": {
+                    "1160044": {
+                        "instructorId": "1160044",
+                        "firstName": "A",
+                        "lastName": "Warren"
+                    },
+                    "1160045": {
+                        "instructorId": "1160045",
+                        "firstName": "T",
+                        "lastName": "Wilczek"
+                    }
+                },
+                "meetingId": "1928",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "MO-35552": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "35552",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "TU-35553": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "35553",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "WE-35554": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "35554",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "FR-35555": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "35555",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    }
+                },
+                "instructors": {
+                    "1160046": {
+                        "instructorId": "1160046",
+                        "firstName": "M",
+                        "lastName": "Hager"
+                    },
+                    "1160047": {
+                        "instructorId": "1160047",
+                        "firstName": "A",
+                        "lastName": "Warren"
+                    }
+                },
+                "meetingId": "1929",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-0301": {
+                "schedule": {
+                    "MO-34316": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "34316",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "TU-34317": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "34317",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "WE-34318": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "34318",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "FR-34319": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "34319",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    }
+                },
+                "instructors": {
+                    "1160048": {
+                        "instructorId": "1160048",
+                        "firstName": "K",
+                        "lastName": "Heinz"
+                    },
+                    "1160049": {
+                        "instructorId": "1160049",
+                        "firstName": "A",
+                        "lastName": "Warren"
+                    }
+                },
+                "meetingId": "1930",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-0401": {
+                "schedule": {
+                    "MO-47648": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47648",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "TU-47649": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47649",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "WE-47650": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47650",
+                        "assignedRoom1": "CR 405",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "FR-47651": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47651",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "AH 302"
+                    }
+                },
+                "instructors": {
+                    "1160050": {
+                        "instructorId": "1160050",
+                        "firstName": "S",
+                        "lastName": "Oghatian"
+                    },
+                    "1160051": {
+                        "instructorId": "1160051",
+                        "firstName": "L",
+                        "lastName": "Pehar"
+                    }
+                },
+                "meetingId": "1931",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "Room Changed: January 9th, 2017",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-0501": {
+                "schedule": {
+                    "MO-34337": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "34337",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "TU-34338": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "34338",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "WE-34339": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "34339",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "FR-34340": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "34340",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    }
+                },
+                "instructors": {
+                    "1160052": {
+                        "instructorId": "1160052",
+                        "firstName": "V",
+                        "lastName": "Curran"
+                    },
+                    "1160053": {
+                        "instructorId": "1160053",
+                        "firstName": "T",
+                        "lastName": "Sudenis"
+                    }
+                },
+                "meetingId": "1932",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-0601": {
+                "schedule": {
+                    "MO-34344": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "34344",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "WE-34345": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "34345",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    }
+                },
+                "instructors": {
+                    "1160054": {
+                        "instructorId": "1160054",
+                        "firstName": "S",
+                        "lastName": "Gargova"
+                    },
+                    "1160055": {
+                        "instructorId": "1160055",
+                        "firstName": "H",
+                        "lastName": "Kim"
+                    }
+                },
+                "meetingId": "1933",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0601",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-0701": {
+                "schedule": {
+                    "TU-34353": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "34353",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "CR 406"
+                    },
+                    "TH-34354": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "34354",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "CR 406"
+                    }
+                },
+                "instructors": {
+                    "1160056": {
+                        "instructorId": "1160056",
+                        "firstName": "D",
+                        "lastName": "Khamseh"
+                    },
+                    "1160057": {
+                        "instructorId": "1160057",
+                        "firstName": "L",
+                        "lastName": "Pehar"
+                    }
+                },
+                "meetingId": "1934",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0701",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-34363": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "34363",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "CR 406"
+                    },
+                    "WE-34364": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "34364",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "CR 406"
+                    }
+                },
+                "instructors": {
+                    "1160058": {
+                        "instructorId": "1160058",
+                        "firstName": "W",
+                        "lastName": "Horsfall"
+                    },
+                    "1160059": {
+                        "instructorId": "1160059",
+                        "firstName": "A",
+                        "lastName": "Warren"
+                    }
+                },
+                "meetingId": "1935",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5102": {
+                "schedule": {
+                    "MO-47288": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "47288",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "VC 211"
+                    },
+                    "WE-47289": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "47289",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "VC 211"
+                    }
+                },
+                "instructors": {
+                    "1160060": {
+                        "instructorId": "1160060",
+                        "firstName": "L",
+                        "lastName": "Cote-Pitre"
+                    },
+                    "1160061": {
+                        "instructorId": "1160061",
+                        "firstName": "E",
+                        "lastName": "Luzi"
+                    }
+                },
+                "meetingId": "1936",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "Room Changed for \"S\" Term Only: November 14, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5201": {
+                "schedule": {
+                    "TU-34377": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "34377",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "CR 406"
+                    },
+                    "TH-34378": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "34378",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "CR 406"
+                    }
+                },
+                "instructors": {
+                    "1160062": {
+                        "instructorId": "1160062",
+                        "firstName": "E",
+                        "lastName": "Lange"
+                    },
+                    "1160063": {
+                        "instructorId": "1160063",
+                        "firstName": "T",
+                        "lastName": "Sudenis"
+                    }
+                },
+                "meetingId": "1937",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5202": {
+                "schedule": {
+                    "TU-34381": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "34381",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    },
+                    "TH-34382": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "34382",
+                        "assignedRoom1": "AH 302",
+                        "assignedRoom2": "AH 302"
+                    }
+                },
+                "instructors": {
+                    "1160064": {
+                        "instructorId": "1160064",
+                        "firstName": "S",
+                        "lastName": "Gargova"
+                    },
+                    "1160065": {
+                        "instructorId": "1160065",
+                        "firstName": "J",
+                        "lastName": "Wakelin"
+                    }
+                },
+                "meetingId": "6078",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

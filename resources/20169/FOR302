@@ -1,0 +1,79 @@
+{
+    "FOR302H1-S-20169": {
+        "courseId": "884",
+        "org": "FOR",
+        "orgName": "Forestry (FOR) (JFG)",
+        "courseTitle": "Societal Values and Forest Management",
+        "code": "FOR302H1",
+        "courseDescription": "<p>The course will provide diverse perspectives about societal values and forests, such as Aboriginal perspective, ecosystem services and human well-being, climate change and carbon sequestration, and forest management systems, such as community-based forest management and adaptive management systems; and will develop an understanding of the need of integrative approach to address the social, cultural, economic, and scientific issues associated with forest management.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "FOR200H1, FOR201H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47320": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47320",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1073"
+                    }
+                },
+                "instructors": {
+                    "1159938": {
+                        "instructorId": "1159938",
+                        "firstName": "R",
+                        "lastName": "Roy"
+                    }
+                },
+                "meetingId": "1821",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "49",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: November 22, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-21017": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "21017",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1085"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13868",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

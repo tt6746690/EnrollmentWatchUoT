@@ -1,0 +1,58 @@
+{
+    "CSB428H1-F-20169": {
+        "courseId": "369",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Advanced Cell Biology II: Cell Polarity and Cytoskeletal Dynamics",
+        "code": "CSB428H1",
+        "courseDescription": "<p>This advanced course covers cell polarity and cytoskeletal dynamics emphasizing current literature. For each topic, the course examines (1) the proteins involved, (2) their interactions and regulation, and (3) how they organize specific cellular structures. The coordination of these complexes required for orchestrating complex cellular processes are addressed.<\/p>",
+        "prerequisite": "Minimum grade of 73% in BCH311H1\/CSB349H1\/MGY311Y1, minimum grade of 73% in CSB328H1\/CSB331H1\/CSB340H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-45171": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45171",
+                        "assignedRoom1": "SS 1078",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159096": {
+                        "instructorId": "1159096",
+                        "firstName": "T",
+                        "lastName": "Harris"
+                    },
+                    "1159097": {
+                        "instructorId": "1159097",
+                        "firstName": "S",
+                        "lastName": "Plotnikov"
+                    }
+                },
+                "meetingId": "805",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

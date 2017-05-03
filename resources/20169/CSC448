@@ -1,0 +1,116 @@
+{
+    "CSC448H1-F-20169": {
+        "courseId": "2851",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Formal Languages and Automata",
+        "code": "CSC448H1",
+        "courseDescription": "<p>Regular, deterministic, context free, context sensitive, and recursively enumerable languages via generative grammars and corresponding automata (finite state machines, push down machines, and Turing machines). Topics include complexity bounds for recognition, language decision problems and operations on languages. Ordinarily offered in years alternating with CSC438H1.<\/p>",
+        "prerequisite": "CSC236H1\/CSC240H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-44962": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44962",
+                        "assignedRoom1": "WI 523",
+                        "assignedRoom2": null
+                    },
+                    "TU-44963": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "44963",
+                        "assignedRoom1": "WI 523",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159300": {
+                        "instructorId": "1159300",
+                        "firstName": "F",
+                        "lastName": "Ellen"
+                    }
+                },
+                "meetingId": "12971",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "NEW339H1-S-20169": {
+        "courseId": "1574",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Yogacara Buddhism and Western Psychology",
+        "code": "NEW339H1",
+        "courseDescription": "<p>A comparative study of mind in Indian Yogacara Buddhism and modern psychology. Yogacara teachings address the three aspects of mind, the storehouse consciousness, and the notion that the root of all phenomena is mind, allowing a dialogue with the modern scientific understanding of the mind in psychology.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NEW232Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-30897": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "30897",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 144"
+                    }
+                },
+                "instructors": {
+                    "1161079": {
+                        "instructorId": "1161079",
+                        "firstName": "H",
+                        "lastName": "Shiu"
+                    }
+                },
+                "meetingId": "3298",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "39",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "183",
+                        "postCode": "ASMIN1017",
+                        "postName": "MI BUDDHISM, PSY & MENTAL HLTH",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

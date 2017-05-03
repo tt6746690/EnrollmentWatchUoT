@@ -1,0 +1,520 @@
+{
+    "RSM225H1-F-20169": {
+        "courseId": "2136",
+        "org": "COMPG",
+        "orgName": "Rotman Commerce (RSM) (MGT)",
+        "courseTitle": "Legal Environment of Business I",
+        "code": "RSM225H1",
+        "courseDescription": "<p><span lang=\"EN-US\">Introduces students to the Canadian legal system as it relates to business entities. The course focuses on general legal concepts, including sources of law and the court structure; business entity law (including corporate law), commercial law (contract) as well as the law of torts. <\/span>Not eligible for CR\/NCR option. Contact Rotman Commerce for details.<\/p>",
+        "prerequisite": "RSM100H1\/MGT100H1\/RSM100Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-37279": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "37279",
+                        "assignedRoom1": "WO 25",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162046": {
+                        "instructorId": "1162046",
+                        "firstName": "J",
+                        "lastName": "Rybak"
+                    }
+                },
+                "meetingId": "4374",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "48",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TU-43577": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "43577",
+                        "assignedRoom1": "WO 30",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162047": {
+                        "instructorId": "1162047",
+                        "firstName": "D",
+                        "lastName": "Shear"
+                    }
+                },
+                "meetingId": "13257",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "56",
+                "actualEnrolment": "45",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            },
+            "LEC-5201": {
+                "schedule": {
+                    "WE-27600": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "27600",
+                        "assignedRoom1": "WO 20",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162048": {
+                        "instructorId": "1162048",
+                        "firstName": "D",
+                        "lastName": "Shear"
+                    }
+                },
+                "meetingId": "4375",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "59",
+                "actualEnrolment": "53",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            },
+            "LEC-5301": {
+                "schedule": {
+                    "WE-29807": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "29807",
+                        "assignedRoom1": "WO 35",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162049": {
+                        "instructorId": "1162049",
+                        "firstName": "R",
+                        "lastName": "Sahni"
+                    }
+                },
+                "meetingId": "4376",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "50",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            },
+            "LEC-5401": {
+                "schedule": {
+                    "TH-27596": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:30",
+                        "meetingEndTime": "20:30",
+                        "meetingScheduleId": "27596",
+                        "assignedRoom1": "WO 20",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162050": {
+                        "instructorId": "1162050",
+                        "firstName": "J",
+                        "lastName": "Seidman"
+                    }
+                },
+                "meetingId": "4377",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "59",
+                "actualEnrolment": "54",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            },
+            "LEC-5501": {
+                "schedule": {
+                    "TU-46500": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "46500",
+                        "assignedRoom1": "WO 25",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162051": {
+                        "instructorId": "1162051",
+                        "firstName": "L",
+                        "lastName": "Noble"
+                    }
+                },
+                "meetingId": "15265",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "50",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Will open for enrolment on September 7, 2016 at 12pm",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "20",
+                        "assocOrgCode": "COMPG",
+                        "assocOrgName": "Rotman Commerce",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "RSM225H1-S-20169": {
+        "courseId": "2136",
+        "org": "COMPG",
+        "orgName": "Rotman Commerce (RSM) (MGT)",
+        "courseTitle": "Legal Environment of Business I",
+        "code": "RSM225H1",
+        "courseDescription": "<p><span lang=\"EN-US\">Introduces students to the Canadian legal system as it relates to business entities. The course focuses on general legal concepts, including sources of law and the court structure; business entity law (including corporate law), commercial law (contract) as well as the law of torts. <\/span>Not eligible for CR\/NCR option. Contact Rotman Commerce for details.<\/p>",
+        "prerequisite": "RSM100H1\/MGT100H1\/RSM100Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-37280": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "37280",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WW 119"
+                    }
+                },
+                "instructors": {
+                    "1162052": {
+                        "instructorId": "1162052",
+                        "firstName": "J",
+                        "lastName": "Rybak"
+                    }
+                },
+                "meetingId": "4378",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "44",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "WE-19937": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "19937",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WO 30"
+                    }
+                },
+                "instructors": {
+                    "1162053": {
+                        "instructorId": "1162053",
+                        "firstName": "D",
+                        "lastName": "Shear"
+                    }
+                },
+                "meetingId": "4379",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "58",
+                "actualEnrolment": "47",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "HPS299Y1-Y-20169": {
+        "courseId": "1194",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "Research Opportunity Program",
+        "code": "HPS299Y1",
+        "courseDescription": "<p>Credit course for supervised participation in faculty research project. Details at <a target=\"_blank\" href=\"http:\/\/www.artsci.utoronto.ca\/current\/course\/rop\">http:\/\/www.artsci.utoronto.ca\/current\/course\/rop<\/a>. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Enrolment for the Research Opportunity Program is done by Arts and Science. For more information, please see:\r\nhttp:\/\/www.artsci.utoronto.ca\/current\/focus\/course\/rop",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160410": {
+                        "instructorId": "1160410",
+                        "firstName": "H",
+                        "lastName": "Barseghyan"
+                    }
+                },
+                "meetingId": "2414",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

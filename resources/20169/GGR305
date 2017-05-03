@@ -1,0 +1,108 @@
+{
+    "GGR305H1-S-20169": {
+        "courseId": "992",
+        "org": "GGR",
+        "orgName": "Geography (GGR) (JFG) (JFE) (JGE) (JGI) (JUG) (JEG)",
+        "courseTitle": "Biogeography",
+        "code": "GGR305H1",
+        "courseDescription": "<p>Identifies&nbsp;patterns in&nbsp;and explains processes behind&nbsp;plant and animal distributions through space and time. Topics covered include ecological and evolutionary dynamics, disturbance, dispersal, migration, continental drift, speciation, extinction, paleoenvironments and island biogeography. We also examine terrestrial and marine biomes, the meaning of biodiversity, conservation challenges,&nbsp;and recent biogeographic changes associated with human impact.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "8.0 FCE's including JEG100H1\/GGR100H1 or (BIO120H1, BIO130H1)",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-32937": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "32937",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2110"
+                    }
+                },
+                "instructors": {
+                    "1160144": {
+                        "instructorId": "1160144",
+                        "firstName": "N",
+                        "lastName": "Hewitt"
+                    }
+                },
+                "meetingId": "2114",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "67",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "31",
+                        "subjectCode": "GGR",
+                        "subjectName": "GEOGRAPHY",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "31",
+                        "subjectCode": "GGR",
+                        "subjectName": "GEOGRAPHY",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

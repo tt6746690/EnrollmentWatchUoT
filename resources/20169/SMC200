@@ -1,0 +1,53 @@
+{
+    "SMC200H1-F-20169": {
+        "courseId": "4344",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Christian Imagination I: Visual Arts (formerly SMC200Y1)",
+        "code": "SMC200H1",
+        "courseDescription": "<p>The purpose of this course is to introduce students to the depth and breadth of the imagination in the western Christian tradition, through an exploration of the visual arts.&nbsp;<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "SMC200Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-24909": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "24909",
+                        "assignedRoom1": "AH 103",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162386": {
+                        "instructorId": "1162386",
+                        "firstName": "D",
+                        "lastName": "Pereyra"
+                    }
+                },
+                "meetingId": "14247",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

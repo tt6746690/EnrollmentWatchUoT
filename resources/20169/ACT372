@@ -1,0 +1,58 @@
+{
+    "ACT372H1-S-20169": {
+        "courseId": "35",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Basic Ratemaking Methods For P&C Insurance",
+        "code": "ACT372H1",
+        "courseDescription": "<p>This course covers the basic ratemaking methods for P&amp;C insurance.&nbsp; It assumes that students are familiar with traditional reserving diagnoses and projection methods.&nbsp; The syllabus would introduce concepts related to earning of exposures, on-level factors, catastrophe loading, large loss loading and credibility.<\/p>",
+        "prerequisite": "ACT371H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "None",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-40483": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "40483",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2111"
+                    }
+                },
+                "instructors": {
+                    "1158434": {
+                        "instructorId": "1158434",
+                        "firstName": "S",
+                        "lastName": "Broverman"
+                    },
+                    "1158435": {
+                        "instructorId": "1158435",
+                        "firstName": "A",
+                        "lastName": "Le"
+                    }
+                },
+                "meetingId": "47",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

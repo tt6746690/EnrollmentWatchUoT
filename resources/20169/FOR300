@@ -1,0 +1,84 @@
+{
+    "FOR300H1-S-20169": {
+        "courseId": "883",
+        "org": "FOR",
+        "orgName": "Forestry (FOR) (JFG)",
+        "courseTitle": "Forest Products in Sustainable Forestry",
+        "code": "FOR300H1",
+        "courseDescription": "<p>Traditional and non-traditional forest products; wood structure; properties and material attributes; functional characteristics and logistics of wood product industry. Contribution of innovative product development to conservation; adding value; residue use; biorefinery; under-utilized species; wood protection. Forest product certification; eco-labelling; life cycle analysis.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "FOR200H1, FOR201H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-42283": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42283",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 4001"
+                    }
+                },
+                "instructors": {
+                    "1159936": {
+                        "instructorId": "1159936",
+                        "firstName": "M",
+                        "lastName": "Sain"
+                    },
+                    "1159937": {
+                        "instructorId": "1159937",
+                        "firstName": "N",
+                        "lastName": "Yan"
+                    }
+                },
+                "meetingId": "1820",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "FR-21013": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "21013",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 4001"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13867",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "ENV481H1-F-20169": {
+        "courseId": "770",
+        "org": "ENVMT",
+        "orgName": "Environment, School of (ENV) (JEE) (JEH) (JGE)",
+        "courseTitle": "Special Topics in the Environment",
+        "code": "ENV481H1",
+        "courseDescription": "<p>Special topics course designed for advanced Specialist and Major students in&nbsp;School of the&nbsp;Environment programs.<\/p>",
+        "prerequisite": "(ENV221H1,ENV222H1) and completion of at least 10 FCE and enrolment in a School Environmental program, or permission of Academic Associate Director.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-38438": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38438",
+                        "assignedRoom1": "SS 2110",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159828": {
+                        "instructorId": "1159828",
+                        "firstName": "J",
+                        "lastName": "Robinson"
+                    }
+                },
+                "meetingId": "1671",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "The U of T Campus as a Living Lab of Sustainability",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ENV481H1-S-20169": {
+        "courseId": "770",
+        "org": "ENVMT",
+        "orgName": "Environment, School of (ENV) (JEE) (JEH) (JGE)",
+        "courseTitle": "Special Topics in the Environment",
+        "code": "ENV481H1",
+        "courseDescription": "<p>Special topics course designed for advanced Specialist and Major students in&nbsp;School of the&nbsp;Environment programs.<\/p>",
+        "prerequisite": "(ENV221H1,ENV222H1) and completion of at least 10 FCE and enrolment in a School Environmental program, or permission of Academic Associate Director.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "To request enrolment in E courses, as well as in PE courses in the second round of course enrolments, contact D.Powell at 416-946-8100 or by david.powell@utoronto.ca ",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159829": {
+                        "instructorId": "1159829",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1672",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ENV481H1-Y-20169": {
+        "courseId": "770",
+        "org": "ENVMT",
+        "orgName": "Environment, School of (ENV) (JEE) (JEH) (JGE)",
+        "courseTitle": "Special Topics in the Environment",
+        "code": "ENV481H1",
+        "courseDescription": "<p>Special topics course designed for advanced Specialist and Major students in&nbsp;School of the&nbsp;Environment programs.<\/p>",
+        "prerequisite": "(ENV221H1,ENV222H1) and completion of at least 10 FCE and enrolment in a School Environmental program, or permission of Academic Associate Director.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To request enrolment in E courses, as well as in PE courses in the second round of course enrolments, contact D.Powell at 416-946-8100 or by david.powell@utoronto.ca ",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159830": {
+                        "instructorId": "1159830",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1673",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

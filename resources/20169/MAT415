@@ -1,0 +1,61 @@
+{
+    "MAT415H1-S-20169": {
+        "courseId": "3702",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Algebraic Number Theory",
+        "code": "MAT415H1",
+        "courseDescription": "<p>A selection from the following: finite fields; global and local fields; valuation theory; ideals and divisors; differents and discriminants; ramification and inertia; class numbers and units; cyclotomic fields; diophantine equations.<\/p>",
+        "prerequisite": "MAT347Y1 or permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47415": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47415",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2179"
+                    },
+                    "TH-47416": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47416",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 157"
+                    }
+                },
+                "instructors": {
+                    "1160937": {
+                        "instructorId": "1160937",
+                        "firstName": "H",
+                        "lastName": "Kim"
+                    }
+                },
+                "meetingId": "14627",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Dec. 9, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

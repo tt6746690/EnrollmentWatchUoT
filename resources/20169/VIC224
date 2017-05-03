@@ -1,0 +1,53 @@
+{
+    "VIC224Y1-Y-20169": {
+        "courseId": "2558",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Introduction to Material Culture",
+        "code": "VIC224Y1",
+        "courseDescription": "<p>This course is about things - the everyday objects of past and present cultures. It examines the meanings people have invested in objects and how those meanings have changed over time. Using interdisciplinary approaches, students investigate objects found in homes, retail spaces, cities, art galleries and museums in order to develop new understandings of the objects that structure their daily lives and their material world.<\/p>",
+        "prerequisite": "Completion of 4.0 FCE",
+        "corequisite": "",
+        "exclusion": "VIC111H1\/VIC111Y1, VIC224H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40644": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "40644",
+                        "assignedRoom1": "NF 007",
+                        "assignedRoom2": "NF 007"
+                    }
+                },
+                "instructors": {
+                    "1162788": {
+                        "instructorId": "1162788",
+                        "firstName": "J",
+                        "lastName": "Papayiannis"
+                    }
+                },
+                "meetingId": "5207",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

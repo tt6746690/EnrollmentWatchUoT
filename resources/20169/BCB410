@@ -1,0 +1,53 @@
+{
+    "BCB410H1-F-20169": {
+        "courseId": "140",
+        "org": "BCH",
+        "orgName": "Biochemistry (BCH) (BCB)",
+        "courseTitle": "Applied Bioinformatics",
+        "code": "BCB410H1",
+        "courseDescription": "<p>Practical introduction to concepts, standards and tools for the implementation of strategies in bioinformatics and computational biology. Student led discussions plus a strong component of hands-on exercises.<\/p>",
+        "prerequisite": "BCH311H1\/MGY311Y1; (CSC324H1\/CSC373H1\/CSC375H1) or permission of the course coordinator",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-41125": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "41125",
+                        "assignedRoom1": "LM 123",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158575": {
+                        "instructorId": "1158575",
+                        "firstName": "B",
+                        "lastName": "Steipe"
+                    }
+                },
+                "meetingId": "288",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

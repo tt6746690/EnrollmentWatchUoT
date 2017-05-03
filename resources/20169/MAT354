@@ -1,0 +1,113 @@
+{
+    "MAT354H1-F-20169": {
+        "courseId": "1479",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Complex Analysis I",
+        "code": "MAT354H1",
+        "courseDescription": "<p>Complex numbers, the complex plane and Riemann sphere, M&ouml;bius transformations, elementary functions and their mapping properties, conformal mapping, holomorphic functions, Cauchy's theorem and integral formula. Taylor and Laurent series, maximum modulus principle, Schwarz' lemma, residue theorem and residue calculus.<\/p>",
+        "prerequisite": "MAT257Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39342": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39342",
+                        "assignedRoom1": "GB 405",
+                        "assignedRoom2": null
+                    },
+                    "TH-39341": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "39341",
+                        "assignedRoom1": "GB 405",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160923": {
+                        "instructorId": "1160923",
+                        "firstName": "J",
+                        "lastName": "Bland"
+                    }
+                },
+                "meetingId": "3177",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "38",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-42125": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42125",
+                        "assignedRoom1": "AB 114",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15120",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "36",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-42126": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "42126",
+                        "assignedRoom1": "BA 2155",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15121",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "36",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

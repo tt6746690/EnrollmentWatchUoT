@@ -1,0 +1,295 @@
+{
+    "PHL232H1-F-20169": {
+        "courseId": "1747",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "Knowledge and Reality",
+        "code": "PHL232H1",
+        "courseDescription": "<p>An introduction to issues in the fundamental branches of philosophy: metaphysics, which considers the overall framework of reality; epistemology, or the theory of knowledge; and related problems in the philosophy of science. Topics in metaphysics may include: mind and body, causality, space and time, God, freedom and determinism; topics in epistemology may include perception, evidence, belief, truth, skepticism.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39677": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39677",
+                        "assignedRoom1": "LM 159",
+                        "assignedRoom2": null
+                    },
+                    "WE-39678": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39678",
+                        "assignedRoom1": "LM 159",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161303": {
+                        "instructorId": "1161303",
+                        "firstName": "A",
+                        "lastName": "Murray"
+                    }
+                },
+                "meetingId": "3581",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "208",
+                "actualEnrolment": "172",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-39679": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39679",
+                        "assignedRoom1": "UC 175",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3582",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "WE-39680": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39680",
+                        "assignedRoom1": "UC D301",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3583",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0103": {
+                "schedule": {
+                    "WE-39681": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39681",
+                        "assignedRoom1": "WE 74",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3584",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-39682": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "39682",
+                        "assignedRoom1": "UC 175",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3585",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0202": {
+                "schedule": {
+                    "WE-39683": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "39683",
+                        "assignedRoom1": "UC D301",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3586",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0203": {
+                "schedule": {
+                    "WE-39684": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "39684",
+                        "assignedRoom1": "WE 74",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3587",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0203",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "WE-39685": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "39685",
+                        "assignedRoom1": "UC 175",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3588",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0302": {
+                "schedule": {
+                    "WE-39686": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "39686",
+                        "assignedRoom1": "UC D301",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3589",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0302",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0303": {
+                "schedule": {
+                    "WE-39687": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "39687",
+                        "assignedRoom1": "WE 74",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3590",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0303",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "SLA302H1-F-20169": {
+        "courseId": "4291",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "The Imaginary Jew",
+        "code": "SLA302H1",
+        "courseDescription": "<p>The course examines the genesis and evolution of the image of the Jew, central to all European cultures, from the theology and psychology of Christian anti-Judaism to their reflection in folklore, visual, plastic, and verbal arts, and to the survival of the imaginary Jew in secular forms. Special attention is given to the Jews of Slavic and East European imagination. All readings are in English.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-36924": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "36924",
+                        "assignedRoom1": "AH 400",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162354": {
+                        "instructorId": "1162354",
+                        "firstName": "L",
+                        "lastName": "Livak"
+                    }
+                },
+                "meetingId": "12655",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

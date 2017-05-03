@@ -1,0 +1,53 @@
+{
+    "PLN425H1-Y-20169": {
+        "courseId": "1869",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (PLN)",
+        "courseTitle": "Research in Planetary Science",
+        "code": "PLN425H1",
+        "courseDescription": "<p>Research report by student in consultation with individual staff member in Astronomy, Chemistry, Geology or Physics. This course is intended for students in the final year of the Planetary Science specialist program. Students must enrol with the course coordinator. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Lillian Lanca at lanca@astro.utoronto.ca.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161524": {
+                        "instructorId": "1161524",
+                        "firstName": "R",
+                        "lastName": "Ghent"
+                    }
+                },
+                "meetingId": "3879",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

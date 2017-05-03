@@ -1,0 +1,200 @@
+{
+    "PHY426H1-F-20169": {
+        "courseId": "1848",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Advanced Practical Physics I",
+        "code": "PHY426H1",
+        "courseDescription": "<p>This course is a continuation of PHY424H1, but students have more freedom to progressively focus on specific areas of physics, do extended experiments, projects, or computational modules.<\/p>",
+        "prerequisite": "PHY424H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39927": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39927",
+                        "assignedRoom1": "MP 251",
+                        "assignedRoom2": null
+                    },
+                    "FR-39926": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39926",
+                        "assignedRoom1": "MP 251",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161459": {
+                        "instructorId": "1161459",
+                        "firstName": "S",
+                        "lastName": "Julian"
+                    },
+                    "1161460": {
+                        "instructorId": "1161460",
+                        "firstName": "N",
+                        "lastName": "Krasnopolskaia"
+                    },
+                    "1161461": {
+                        "instructorId": "1161461",
+                        "firstName": "P",
+                        "lastName": "Krieger"
+                    },
+                    "1161462": {
+                        "instructorId": "1161462",
+                        "firstName": "C",
+                        "lastName": "Netterfield"
+                    },
+                    "1161463": {
+                        "instructorId": "1161463",
+                        "firstName": "X",
+                        "lastName": "Xing"
+                    }
+                },
+                "meetingId": "3853",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "MO-46034": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46034",
+                        "assignedRoom1": "MP 251",
+                        "assignedRoom2": null
+                    },
+                    "TH-46035": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46035",
+                        "assignedRoom1": "MP 251",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161464": {
+                        "instructorId": "1161464",
+                        "firstName": "N",
+                        "lastName": "Krasnopolskaia"
+                    }
+                },
+                "meetingId": "15249",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: August 18, 2016",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PHY426H1-S-20169": {
+        "courseId": "1848",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Advanced Practical Physics I",
+        "code": "PHY426H1",
+        "courseDescription": "<p>This course is a continuation of PHY424H1, but students have more freedom to progressively focus on specific areas of physics, do extended experiments, projects, or computational modules.<\/p>",
+        "prerequisite": "PHY424H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39931": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39931",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 251"
+                    },
+                    "FR-39930": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39930",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 251"
+                    }
+                },
+                "instructors": {
+                    "1161465": {
+                        "instructorId": "1161465",
+                        "firstName": "N",
+                        "lastName": "Krasnopolskaia"
+                    },
+                    "1161466": {
+                        "instructorId": "1161466",
+                        "firstName": "R",
+                        "lastName": "Orr"
+                    },
+                    "1161467": {
+                        "instructorId": "1161467",
+                        "firstName": "A",
+                        "lastName": "Steinberg"
+                    },
+                    "1161468": {
+                        "instructorId": "1161468",
+                        "firstName": "J",
+                        "lastName": "Wei"
+                    },
+                    "1161469": {
+                        "instructorId": "1161469",
+                        "firstName": "L",
+                        "lastName": "Yang"
+                    }
+                },
+                "meetingId": "3854",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

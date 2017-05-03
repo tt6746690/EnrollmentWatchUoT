@@ -1,0 +1,61 @@
+{
+    "MAT475H1-S-20169": {
+        "courseId": "1496",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Problem Solving Seminar",
+        "code": "MAT475H1",
+        "courseDescription": "<p>This course addresses the question: How do you attack a problem the likes of which you have never seen before? Students will apply Polya's principles of mathematical problem solving, draw upon their previous mathematical knowledge, and explore the creative side of mathematics in solving a variety of interesting problems and explaining those solutions to others.<\/p>",
+        "prerequisite": "MAT224H1\/MAT247H1, MAT235Y1\/MAT237Y1\/MAT257Y1, and at least 1.0 FCE at the 300+ level in APM\/MAT",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-43025": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "43025",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1071"
+                    },
+                    "TH-43026": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43026",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1071"
+                    }
+                },
+                "instructors": {
+                    "1160946": {
+                        "instructorId": "1160946",
+                        "firstName": "V",
+                        "lastName": "Ivrii"
+                    }
+                },
+                "meetingId": "3194",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

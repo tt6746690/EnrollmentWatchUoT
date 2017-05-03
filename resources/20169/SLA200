@@ -1,0 +1,53 @@
+{
+    "SLA200H1-S-20169": {
+        "courseId": "2234",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Culture and Politics in Europe",
+        "code": "SLA200H1",
+        "courseDescription": "<p>Introduction to the issues of the interaction between cultural expression and political life, with a historical focus on Central and Eastern Europe. The mutually influential relationship between artistic activity and political dynamics in modern societies is examined through literature, visual arts, drama, music, and film. Taught in English, all materials in English.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-29386": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "29386",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 404"
+                    }
+                },
+                "instructors": {
+                    "1162329": {
+                        "instructorId": "1162329",
+                        "firstName": "M",
+                        "lastName": "Tarnawsky"
+                    }
+                },
+                "meetingId": "4639",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

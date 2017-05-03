@@ -1,0 +1,79 @@
+{
+    "GGR310H1-S-20169": {
+        "courseId": "3320",
+        "org": "GGR",
+        "orgName": "Geography (GGR) (JFG) (JFE) (JGE) (JGI) (JUG) (JEG)",
+        "courseTitle": "Bioenergy from Sustainable Forest Management",
+        "code": "GGR310H1",
+        "courseDescription": "<p><span style=\"white-space: normal; word-spacing: 0px; text-transform: none; float: none; color: #222222; text-align: left; font: 12px\/18px 'Helvetica Neue', Helvetica, Arial, sans-serif; widows: 1; display: inline !important; letter-spacing: normal; background-color: #ffffff; text-indent: 0px; -webkit-text-stroke-width: 0px;\">Socio-economic, technical, political and environmental issues associated with the utilization of forest biomass (e.g., harvesting residues, thinnings, salvage, short rotation woody crops) for a source of renewable energy.<\/span><\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "FOR310H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-33049": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "33049",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 4001"
+                    }
+                },
+                "instructors": {
+                    "1160146": {
+                        "instructorId": "1160146",
+                        "firstName": "C",
+                        "lastName": "Smith"
+                    }
+                },
+                "meetingId": "14037",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-42633": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42633",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 4001"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15138",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

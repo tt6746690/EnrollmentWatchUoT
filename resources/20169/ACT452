@@ -1,0 +1,61 @@
+{
+    "ACT452H1-S-20169": {
+        "courseId": "37",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Loss Models II",
+        "code": "ACT452H1",
+        "courseDescription": "<p>Estimation of Loss and Survival Models using complete, censored and truncated data. Product-Limit estimation, empirical estimation, moment and percentile estimation, maximum likelihood estimation and simulation models.<\/p>",
+        "prerequisite": "ACT348H1, ACT451H1; STA261H1, STA347H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-40486": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40486",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1072"
+                    },
+                    "WE-40487": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "40487",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1072"
+                    }
+                },
+                "instructors": {
+                    "1158437": {
+                        "instructorId": "1158437",
+                        "firstName": "S",
+                        "lastName": "Broverman"
+                    }
+                },
+                "meetingId": "49",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

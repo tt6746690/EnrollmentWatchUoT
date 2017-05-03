@@ -1,0 +1,69 @@
+{
+    "APM461H1-S-20169": {
+        "courseId": "113",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Combinatorial Methods",
+        "code": "APM461H1",
+        "courseDescription": "<p>A selection of topics from such areas as graph theory, combinatorial algorithms, enumeration, construction of combinatorial identities.<\/p>",
+        "prerequisite": "MAT224H1\/MAT247H1, MAT137Y1\/MAT157Y1, MAT301H1\/MAT347Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "MAT344H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-36733": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "36733",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 6183"
+                    },
+                    "TH-36734": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "36734",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 6183"
+                    },
+                    "TH-36735": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "36735",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 6183"
+                    }
+                },
+                "instructors": {
+                    "1158541": {
+                        "instructorId": "1158541",
+                        "firstName": "A",
+                        "lastName": "Nabutovsky"
+                    }
+                },
+                "meetingId": "197",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

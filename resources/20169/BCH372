@@ -1,0 +1,81 @@
+{
+    "BCH372Y1-Y-20169": {
+        "courseId": "149",
+        "org": "BCH",
+        "orgName": "Biochemistry (BCH) (BCB)",
+        "courseTitle": "Summer Research in Biochemistry",
+        "code": "BCH372Y1",
+        "courseDescription": "<p>Real-world opportunity to apply theoretical knowledge and hone technical skills through full-time research in an active research laboratory for students who have completed second year. Students are responsible for arranging for supervision by a Department of Biochemistry faculty member in advance of the academic year-end. Participants must have a minimum cGPA of 3.0 and the approval of the course coordinator. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "BCH242Y1, and permission of Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please send an email, with your student ID, to jennifer.haughton@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158607": {
+                        "instructorId": "1158607",
+                        "firstName": "J",
+                        "lastName": "Glover"
+                    }
+                },
+                "meetingId": "307",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "343",
+                        "postCode": "ASSPE1762",
+                        "postName": "SP BIOCHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

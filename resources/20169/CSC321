@@ -1,0 +1,363 @@
+{
+    "CSC321H1-S-20169": {
+        "courseId": "413",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Introduction to Neural Networks and Machine Learning",
+        "code": "CSC321H1",
+        "courseDescription": "<p>The first half of the course is about supervised learning for regression and classification problems and will include the perceptron learning procedure, backpropagation, and methods for ensuring good generalisation to new data. The second half of the course is about unsupervised learning methods that discover hidden causes and will include K-means, the EM algorithm, Boltzmann machines, and deep belief nets.<\/p>",
+        "prerequisite": "(MAT136H1 with a minimum mark of 77)\/(MAT137Y1 with a minimum mark of 73)\/(MAT157Y1 with a minimum mark of 67)\/MAT235Y1\/MAT237Y1\/MAT257Y1, MAT221H1\/MAT223H1\/MAT240H1; STA247H1\/STA255H1\/STA257H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "MAT235Y1\/MAT237Y1\/MAT257Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-44925": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44925",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1073"
+                    },
+                    "TH-44923": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44923",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1073"
+                    },
+                    "TH-44924": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "44924",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1200"
+                    }
+                },
+                "instructors": {
+                    "1159224": {
+                        "instructorId": "1159224",
+                        "firstName": "R",
+                        "lastName": "Grosse"
+                    }
+                },
+                "meetingId": "930",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "48",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "TU-38730": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38730",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "SS 1073"
+                    },
+                    "TH-38731": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38731",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "SS 1073"
+                    },
+                    "TH-38732": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "38732",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "BA 1200"
+                    }
+                },
+                "instructors": {
+                    "1159225": {
+                        "instructorId": "1159225",
+                        "firstName": "R",
+                        "lastName": "Grosse"
+                    }
+                },
+                "meetingId": "14813",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-2501": {
+                "schedule": {
+                    "TU-25325": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "25325",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1200"
+                    },
+                    "TU-25326": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "20:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "25326",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1200"
+                    }
+                },
+                "instructors": {
+                    "1159226": {
+                        "instructorId": "1159226",
+                        "firstName": "R",
+                        "lastName": "Grosse"
+                    }
+                },
+                "meetingId": "931",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TU-40739": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "40739",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1200"
+                    },
+                    "TU-40740": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "20:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "40740",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1200"
+                    }
+                },
+                "instructors": {
+                    "1159227": {
+                        "instructorId": "1159227",
+                        "firstName": "R",
+                        "lastName": "Grosse"
+                    }
+                },
+                "meetingId": "932",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "62",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

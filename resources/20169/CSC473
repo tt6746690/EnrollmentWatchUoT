@@ -1,0 +1,124 @@
+{
+    "CSC473H1-S-20169": {
+        "courseId": "2852",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Advanced Algorithm Design",
+        "code": "CSC473H1",
+        "courseDescription": "<p><span style=\"font-size: 8.5pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">Advanced algorithm design techniques, with emphasis on the role that geometry, approximation, randomization, and parallelism play in modern algorithms. Examples will be drawn from linear programming and basics of continuous optimization; randomized algorithms for string matching, graph problems, and number theory problems; streaming algorithms and parallel algorithms in the Map-Reduce model. <\/span><\/p>",
+        "prerequisite": "CSC373H1, MAT221H1\/MAT223H1\/MAT240H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-45215": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45215",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WI 524"
+                    },
+                    "WE-45216": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45216",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WI 524"
+                    },
+                    "FR-45217": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45217",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WI 524"
+                    }
+                },
+                "instructors": {
+                    "1159309": {
+                        "instructorId": "1159309",
+                        "firstName": "A",
+                        "lastName": "Nikolov"
+                    }
+                },
+                "meetingId": "12987",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

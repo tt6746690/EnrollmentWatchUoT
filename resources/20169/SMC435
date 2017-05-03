@@ -1,0 +1,104 @@
+{
+    "SMC435H1-F-20169": {
+        "courseId": "2343",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Independent Studies in Mediaeval Studies",
+        "code": "SMC435H1",
+        "courseDescription": "<p>An independent research project to be proposed by the student and supervised by a member of faculty affiliated with the Mediaeval Studies Program. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Ten full courses",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For \"E\" indicator courses, please contact Monica Phonsavatdy at m.phonsavatdy@utoronto.ca or 416-926-7256 (50 St. Joseph Street, Odette Hall, Room 125, St. Michael's College).",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162443": {
+                        "instructorId": "1162443",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "4780",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SMC435H1-S-20169": {
+        "courseId": "2343",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Independent Studies in Mediaeval Studies",
+        "code": "SMC435H1",
+        "courseDescription": "<p>An independent research project to be proposed by the student and supervised by a member of faculty affiliated with the Mediaeval Studies Program. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Ten full courses",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For \"E\" indicator courses, please contact Monica Phonsavatdy at m.phonsavatdy@utoronto.ca or 416-926-7256 (50 St. Joseph Street, Odette Hall, Room 125, St. Michael's College).",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162444": {
+                        "instructorId": "1162444",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "4781",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

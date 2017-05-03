@@ -1,0 +1,104 @@
+{
+    "VIC329H1-S-20169": {
+        "courseId": "2577",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Internship in Material Culture",
+        "code": "VIC329H1",
+        "courseDescription": "<p><span style=\"font-family: 'Helvetica','sans-serif'; color: #222222; font-size: 9pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-CA; mso-fareast-language: EN-CA; mso-bidi-language: AR-SA;\">A practical or experiential learning opportunity under the supervision of a faculty member, normally at a museum, art gallery or other cultural agency (as approved by the supervisor). Not eligible for CR\/NCR.<\/span><\/p>",
+        "prerequisite": "Completion of 9 FCE",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Interested students should contact vic.academics@utoronto.ca by July 29th. ",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162810": {
+                        "instructorId": "1162810",
+                        "firstName": "C",
+                        "lastName": "Sutton"
+                    }
+                },
+                "meetingId": "5231",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "VIC329H1-Y-20169": {
+        "courseId": "2577",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Internship in Material Culture",
+        "code": "VIC329H1",
+        "courseDescription": "<p><span style=\"font-family: 'Helvetica','sans-serif'; color: #222222; font-size: 9pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-CA; mso-fareast-language: EN-CA; mso-bidi-language: AR-SA;\">A practical or experiential learning opportunity under the supervision of a faculty member, normally at a museum, art gallery or other cultural agency (as approved by the supervisor). Not eligible for CR\/NCR.<\/span><\/p>",
+        "prerequisite": "Completion of 9 FCE",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Interested students should contact vic.academics@utoronto.ca by July 29th. ",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162811": {
+                        "instructorId": "1162811",
+                        "firstName": "C",
+                        "lastName": "Sutton"
+                    }
+                },
+                "meetingId": "5232",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

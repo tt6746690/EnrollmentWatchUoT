@@ -1,0 +1,53 @@
+{
+    "HPS309H1-S-20169": {
+        "courseId": "1196",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "Worldviews: Aristotelian-Medieval Worldview",
+        "code": "HPS309H1",
+        "courseDescription": "<p>This course reconstructs the Aristotelian-medieval mosaic of theories including physics, cosmology, theology, astronomy\/astrology, optics, and physiology\/medicine. We analyze the role of metaphysics in medieval science, including determinism\/indeterminism, plenism\/vacuism, finitism\/infinitism, theism\/deism, and teleology\/mechanism. Finally, we explicate the Aristotelian-medieval method, by focusing on the notions of demonstrative truth, intuition, and deduction.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "HPS100H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-30266": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "30266",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 215"
+                    }
+                },
+                "instructors": {
+                    "1160411": {
+                        "instructorId": "1160411",
+                        "firstName": "H",
+                        "lastName": "Barseghyan"
+                    }
+                },
+                "meetingId": "2417",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "86",
+                "actualEnrolment": "68",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

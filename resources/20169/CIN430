@@ -1,0 +1,61 @@
+{
+    "CIN430H1-S-20169": {
+        "courseId": "264",
+        "org": "CINE",
+        "orgName": "Cinema Studies (CIN)",
+        "courseTitle": "Advanced Study in Cinema as Social and Cultural Practice (formerly INI463H1)",
+        "code": "CIN430H1",
+        "courseDescription": "<p>See course description for CIN432H1 listed below.<\/p>",
+        "prerequisite": "At least ten full-course equivalents, including CIN105Y1, CIN201Y1, CIN301Y1\/ permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Please note: Students must complete CIN105Y1, CIN201Y1, and CIN301Y1 before taking any fourth year Cinema Studies courses. For \u2018E\u2019 indicator Cinema Studies Courses: Contact the Undergraduate Assistant, 416-978-8571, cinema.studies@utoronto.ca . ",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-43417": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "43417",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "WE-43418": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43418",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "IN 313"
+                    }
+                },
+                "instructors": {
+                    "1158965": {
+                        "instructorId": "1158965",
+                        "firstName": "B",
+                        "lastName": "Wright"
+                    }
+                },
+                "meetingId": "14000",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Bond, James Bond",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "Tuesdays 15:00-18:00 will take place in Media Commons Room 1",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

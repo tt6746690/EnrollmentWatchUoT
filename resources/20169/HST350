@@ -1,0 +1,108 @@
+{
+    "HST350Y1-Y-20169": {
+        "courseId": "1220",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Health Research & Practice (formerly UNI350Y1)",
+        "code": "HST350Y1",
+        "courseDescription": "<p>For students enrolled in the Health Studies Specialist and Major programs. Students engage in activities that will prepare them for independent research and practicum projects. Includes, but not limited to, sessions on topic selection and program development, finding a supervisor, ethics and professionalism, formulating a grant proposal.<\/p>",
+        "prerequisite": "HST250H1",
+        "corequisite": "",
+        "exclusion": "UNI350Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-34124": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "34124",
+                        "assignedRoom1": "UC B203",
+                        "assignedRoom2": "UC B203"
+                    }
+                },
+                "instructors": {
+                    "1160451": {
+                        "instructorId": "1160451",
+                        "firstName": "D",
+                        "lastName": "Schluter"
+                    }
+                },
+                "meetingId": "2462",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "144",
+                        "postCode": "ASMAJ2085",
+                        "postName": "MA HEALTH STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "363",
+                        "postCode": "ASSPE2085",
+                        "postName": "SP HEALTH STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

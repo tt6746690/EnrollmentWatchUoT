@@ -1,0 +1,108 @@
+{
+    "CRI431H1-F-20169": {
+        "courseId": "346",
+        "org": "CRIM",
+        "orgName": "Criminology and Sociolegal Studies, Centre for (CRI)",
+        "courseTitle": "Mental Health, Morality & Legal Controls (formerly WDW431H1)",
+        "code": "CRI431H1",
+        "courseDescription": "<p>A critical exploration of contemporary debates in criminology, and legal and moral philosophy concerning the diagnostic and criminal justice labeling of mental disorders such as psychopathy and paedophilia, and their representation in popular culture.<\/p>",
+        "prerequisite": "2 CRI 300 half-credit lecture\/seminar courses",
+        "corequisite": "",
+        "exclusion": "WDW431H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42709": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42709",
+                        "assignedRoom1": "WW 119",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159061": {
+                        "instructorId": "1159061",
+                        "firstName": "W",
+                        "lastName": "Watson"
+                    }
+                },
+                "meetingId": "760",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "32",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "70",
+                        "postCode": "ASMAJ0826",
+                        "postName": "MA CRIMINOLOGY & SOCIOL STUDY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "263",
+                        "postCode": "ASSPE0826",
+                        "postName": "SP CRIMINOLOGY & SOCIOL STUDY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

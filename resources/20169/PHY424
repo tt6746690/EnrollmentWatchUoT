@@ -1,0 +1,200 @@
+{
+    "PHY424H1-F-20169": {
+        "courseId": "1847",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Advanced Physics Laboratory",
+        "code": "PHY424H1",
+        "courseDescription": "<p>Experiments in this course are designed to form a bridge to current experimental research. A wide range of exciting experiments relevant to modern research in physics is available. The laboratory is open from 9 a.m. - 5 p.m., Monday to Friday.<\/p>",
+        "prerequisite": "PHY250H1, PHY256H1, PHY324H1",
+        "corequisite": "",
+        "exclusion": "PHY326H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39919": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39919",
+                        "assignedRoom1": "MP 251",
+                        "assignedRoom2": null
+                    },
+                    "FR-39918": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39918",
+                        "assignedRoom1": "MP 251",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161448": {
+                        "instructorId": "1161448",
+                        "firstName": "S",
+                        "lastName": "Julian"
+                    },
+                    "1161449": {
+                        "instructorId": "1161449",
+                        "firstName": "N",
+                        "lastName": "Krasnopolskaia"
+                    },
+                    "1161450": {
+                        "instructorId": "1161450",
+                        "firstName": "P",
+                        "lastName": "Krieger"
+                    },
+                    "1161451": {
+                        "instructorId": "1161451",
+                        "firstName": "C",
+                        "lastName": "Netterfield"
+                    },
+                    "1161452": {
+                        "instructorId": "1161452",
+                        "firstName": "X",
+                        "lastName": "Xing"
+                    }
+                },
+                "meetingId": "3851",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "MO-46032": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46032",
+                        "assignedRoom1": "MP 251",
+                        "assignedRoom2": null
+                    },
+                    "TH-46033": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46033",
+                        "assignedRoom1": "MP 251",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161453": {
+                        "instructorId": "1161453",
+                        "firstName": "N",
+                        "lastName": "Krasnopolskaia"
+                    }
+                },
+                "meetingId": "15248",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: August 18, 2016",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PHY424H1-S-20169": {
+        "courseId": "1847",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Advanced Physics Laboratory",
+        "code": "PHY424H1",
+        "courseDescription": "<p>Experiments in this course are designed to form a bridge to current experimental research. A wide range of exciting experiments relevant to modern research in physics is available. The laboratory is open from 9 a.m. - 5 p.m., Monday to Friday.<\/p>",
+        "prerequisite": "PHY250H1, PHY256H1, PHY324H1",
+        "corequisite": "",
+        "exclusion": "PHY326H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39923": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39923",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 251"
+                    },
+                    "FR-39922": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39922",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 251"
+                    }
+                },
+                "instructors": {
+                    "1161454": {
+                        "instructorId": "1161454",
+                        "firstName": "N",
+                        "lastName": "Krasnopolskaia"
+                    },
+                    "1161455": {
+                        "instructorId": "1161455",
+                        "firstName": "R",
+                        "lastName": "Orr"
+                    },
+                    "1161456": {
+                        "instructorId": "1161456",
+                        "firstName": "A",
+                        "lastName": "Steinberg"
+                    },
+                    "1161457": {
+                        "instructorId": "1161457",
+                        "firstName": "J",
+                        "lastName": "Wei"
+                    },
+                    "1161458": {
+                        "instructorId": "1161458",
+                        "firstName": "L",
+                        "lastName": "Yang"
+                    }
+                },
+                "meetingId": "3852",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

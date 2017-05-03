@@ -1,0 +1,68 @@
+{
+    "PSL470H1-S-20169": {
+        "courseId": "1990",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Cardiovascular Physiology",
+        "code": "PSL470H1",
+        "courseDescription": "<p>Development of the cardiovascular system from conception to adulthood with particular emphasis on maturational changes, age-related differences and developmental problems from cellular\/molecular to whole organ\/system.<\/p>",
+        "prerequisite": "PSL300H1, PSL301H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-40022": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "40022",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 2170"
+                    }
+                },
+                "instructors": {
+                    "1161759": {
+                        "instructorId": "1161759",
+                        "firstName": "I",
+                        "lastName": "Caniggia"
+                    },
+                    "1161760": {
+                        "instructorId": "1161760",
+                        "firstName": "E",
+                        "lastName": "Hickey"
+                    },
+                    "1161761": {
+                        "instructorId": "1161761",
+                        "firstName": "I",
+                        "lastName": "Scott"
+                    },
+                    "1161762": {
+                        "instructorId": "1161762",
+                        "firstName": "M",
+                        "lastName": "Seed"
+                    }
+                },
+                "meetingId": "4052",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "140",
+                "actualEnrolment": "75",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "MAT477H1-F-20169": {
+        "courseId": "3707",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Seminar in Mathematics",
+        "code": "MAT477H1",
+        "courseDescription": "<p>Seminar in an advanced topic. Content will generally vary from semester to semester. Student presentations are required.<\/p>",
+        "prerequisite": "MAT347Y1, MAT354H1, MAT357H1; or permission of instructor.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-45318": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45318",
+                        "assignedRoom1": "UC 244",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160947": {
+                        "instructorId": "1160947",
+                        "firstName": "D",
+                        "lastName": "Panchenko"
+                    }
+                },
+                "meetingId": "7076",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Changed: August 2, 2016",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "MAT477H1-S-20169": {
+        "courseId": "3707",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Seminar in Mathematics",
+        "code": "MAT477H1",
+        "courseDescription": "<p>Seminar in an advanced topic. Content will generally vary from semester to semester. Student presentations are required.<\/p>",
+        "prerequisite": "MAT347Y1, MAT354H1, MAT357H1; or permission of instructor.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47600": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "47600",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 6180"
+                    },
+                    "TH-47601": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47601",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1240"
+                    }
+                },
+                "instructors": {
+                    "1160948": {
+                        "instructorId": "1160948",
+                        "firstName": "M",
+                        "lastName": "Gualtieri"
+                    }
+                },
+                "meetingId": "7077",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Jan. 6, 2017",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "STA248H1-S-20169": {
+        "courseId": "2432",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Statistics for Computer Scientists",
+        "code": "STA248H1",
+        "courseDescription": "<p>A survey of statistical methodology with emphasis on data analysis and applications. The topics covered include descriptive statistics, data collection and the design of experiments, univariate and multivariate design, tests of significance and confidence intervals, power, multiple regression and the analysis of variance, and count data. Students learn to use a statistical computer package as part of the course (Note: STA248H1&nbsp;does not count as a distribution requirement course).<\/p>",
+        "prerequisite": "STA247H1\/STA257H1; CSC108H1\/CSC148H1",
+        "corequisite": "",
+        "exclusion": "ECO220Y1\/ECO227Y1\/GGR270Y11\/PSY201H1\/SOC300Y1\/STA220H1\/STA221H1\/STA250H1\/STA255H1\/STA261H1\/EEB225H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-42731": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42731",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "HS 610"
+                    },
+                    "TH-42730": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42730",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "HS 610"
+                    }
+                },
+                "instructors": {
+                    "1162596": {
+                        "instructorId": "1162596",
+                        "firstName": "K",
+                        "lastName": "Huynh Wong"
+                    }
+                },
+                "meetingId": "5009",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "250",
+                "actualEnrolment": "185",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "CSB327H1-F-20169": {
+        "courseId": "354",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Extracellular Matrix Dynamics and Associated Pathologies",
+        "code": "CSB327H1",
+        "courseDescription": "<p>Examines the expression, structure and function of the four major classes of ECM macromolecules: collagen, proteoglycans, non-collagenous structural proteins and glycoproteins. In addition to forming elaborate networks that give tissues and organs their unique architectural design and biomechanical properties, ECM molecules act as potent regulators of all cellular activities. Emphasis is placed on the morphoregulatory contribution(s) of ECM molecules to normal and pathological development.<\/p>",
+        "prerequisite": "BIO230H1\/(BIO240H1, BIO241H1)\/BIO255H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-33412": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "33412",
+                        "assignedRoom1": "LM 159",
+                        "assignedRoom2": null
+                    },
+                    "WE-33413": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "33413",
+                        "assignedRoom1": "LM 159",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159071": {
+                        "instructorId": "1159071",
+                        "firstName": "M",
+                        "lastName": "Ringuette"
+                    }
+                },
+                "meetingId": "780",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "208",
+                "actualEnrolment": "113",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "74",
+                        "postCode": "ASMAJ1003",
+                        "postName": "MA CELL & MOLECULAR BIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "268",
+                        "postCode": "ASSPE1003",
+                        "postName": "SP CELL & MOLECULAR BIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "301",
+                        "postCode": "ASSPE1305",
+                        "postName": "SP DEVELOPMENTAL BIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "ESS322H1-F-20169": {
+        "courseId": "784",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Igneous and Metamorphic Petrology",
+        "code": "ESS322H1",
+        "courseDescription": "<p>An overview of the nature and origin of igneous as well as metamorphic rocks, with particular emphasis on the interpretation of textures and mineral assemblages as they reflect rock-forming processes. Laboratory exercises familiarise students with the most common rock types, and provide practical examples of the theoretical principles discussed in lectures. This course also has a mandatory weekend field trip to view igneous and metamorphic rocks and structures in the Bancroft or Montreal area.<\/p>",
+        "prerequisite": "ESS222H1 & ESS211H1\/ENV233H1",
+        "corequisite": "",
+        "exclusion": "GLG318H1,GLG319H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-42249": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "42249",
+                        "assignedRoom1": "ES 2101",
+                        "assignedRoom2": null
+                    },
+                    "TH-42250": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42250",
+                        "assignedRoom1": "ES 2101",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159855": {
+                        "instructorId": "1159855",
+                        "firstName": "Z",
+                        "lastName": "Zajacz"
+                    }
+                },
+                "meetingId": "1701",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

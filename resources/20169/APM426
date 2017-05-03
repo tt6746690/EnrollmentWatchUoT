@@ -1,0 +1,61 @@
+{
+    "APM426H1-S-20169": {
+        "courseId": "2731",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "General Relativity",
+        "code": "APM426H1",
+        "courseDescription": "<p>Einstein's theory of gravity. Special relativity and the geometry of Lorentz manifolds. Gravity as a manifestation of spacetime curvature. Einstein's equations. Cosmological implications: big bang and inflationary universe. Schwarzschild stars: bending of light and perihelion precession of Mercury. Topics from black hole dynamics and gravitational waves. The Penrose singularity theorem.<\/p>",
+        "prerequisite": "MAT363H1\/MAT367H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41730": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41730",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA B024"
+                    },
+                    "WE-41731": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41731",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA B024"
+                    }
+                },
+                "instructors": {
+                    "1158537": {
+                        "instructorId": "1158537",
+                        "firstName": "S",
+                        "lastName": "Aretakis"
+                    }
+                },
+                "meetingId": "14975",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

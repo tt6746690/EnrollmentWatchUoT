@@ -1,0 +1,124 @@
+{
+    "CSC446H1-S-20169": {
+        "courseId": "2850",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Computational Methods for Partial Differential Equations",
+        "code": "CSC446H1",
+        "courseDescription": "<p>Finite difference methods for hyperbolic and parabolic equations; consistency, convergence, and stability. Finite element methods for 2-point boundary value problems and elliptic equations. Special problems of interest. Ordinarily offered in years alternating with CSC456H1.<\/p>",
+        "prerequisite": "CSC351H1\/(CSC336H1 (75%))\/equivalent mathematical background; MAT237Y1\/MAT257Y1; APM346H1\/APM351Y1\/(MAT244H1\/MAT267H1 and exposure to PDEs)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-44956": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44956",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 85"
+                    },
+                    "WE-44957": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44957",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 85"
+                    },
+                    "FR-44958": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44958",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 85"
+                    }
+                },
+                "instructors": {
+                    "1159299": {
+                        "instructorId": "1159299",
+                        "firstName": "K",
+                        "lastName": "Jackson"
+                    }
+                },
+                "meetingId": "12944",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

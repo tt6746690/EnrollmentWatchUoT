@@ -1,0 +1,195 @@
+{
+    "RSM470H1-F-20169": {
+        "courseId": "2196",
+        "org": "COMPG",
+        "orgName": "Rotman Commerce (RSM) (MGT)",
+        "courseTitle": "Management Science Modeling with Spreadsheets",
+        "code": "RSM470H1",
+        "courseDescription": "<p>The course presents quantitative methods of modeling business and other systems in order to objectively evaluate available alternatives and select the &lsquo;best&rsquo; one with respect to pre-defined criteria. Topics include: Decision Analysis, Linear Programming, Integer Programming, Network Methods, Simulation and Waiting Line Models.&nbsp; Enrolment is restricted to 3rd and 4th year Rotman Commerce students. Not eligible for CR\/NCR option. Contact Rotman Commerce for details.<\/p>",
+        "prerequisite": "ECO220Y1\/ECO227Y1\/(STA220H1,STA255H1)\/(STA257H1,STA261H1)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-18753": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "18753",
+                        "assignedRoom1": "WO 25",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162258": {
+                        "instructorId": "1162258",
+                        "firstName": "O",
+                        "lastName": "Berman"
+                    }
+                },
+                "meetingId": "4566",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TU-25845": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "25845",
+                        "assignedRoom1": "WW 126",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162259": {
+                        "instructorId": "1162259",
+                        "firstName": "O",
+                        "lastName": "Berman"
+                    }
+                },
+                "meetingId": "4567",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            }
+        }
+    }
+}

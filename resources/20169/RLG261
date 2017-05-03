@@ -1,0 +1,53 @@
+{
+    "RLG261H1-F-20169": {
+        "courseId": "4649",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Introduction to Tibetan I (formerly RLG261Y1)",
+        "code": "RLG261H1",
+        "courseDescription": "<p>An introduction to Classical Tibetan language for beginners. Development of basic grammar and vocabulary, with readings of simple texts. This is an online course. Lectures will be delivered via the web and mandatory tutorials will require live webinar participation. The final exam will require attendance on the St. George campus, or in another authorized exam centre.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "RLG261Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161923": {
+                        "instructorId": "1161923",
+                        "firstName": "F",
+                        "lastName": "Garrett"
+                    }
+                },
+                "meetingId": "13488",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

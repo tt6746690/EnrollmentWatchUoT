@@ -1,0 +1,104 @@
+{
+    "SMC471H1-F-20169": {
+        "courseId": "2351",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Internship",
+        "code": "SMC471H1",
+        "courseDescription": "<p>Arranged by each student in consultation with faculty, the internship enables teacher candidates to integrate, extend and deepen their learning experiences in a way not otherwise available in the program. Those wishing to take this course must have their program approved by the Program Director. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Enrolment in Christianity and Culture CTEP Major",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For \"E\" indicator courses, please contact Monica Phonsavatdy at m.phonsavatdy@utoronto.ca or 416-926-7256 (50 St. Joseph Street, Odette Hall, Room 125, St. Michael's College).",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162455": {
+                        "instructorId": "1162455",
+                        "firstName": "M",
+                        "lastName": "O'Connor"
+                    }
+                },
+                "meetingId": "4790",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SMC471H1-S-20169": {
+        "courseId": "2351",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Internship",
+        "code": "SMC471H1",
+        "courseDescription": "<p>Arranged by each student in consultation with faculty, the internship enables teacher candidates to integrate, extend and deepen their learning experiences in a way not otherwise available in the program. Those wishing to take this course must have their program approved by the Program Director. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Enrolment in Christianity and Culture CTEP Major",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For \"E\" indicator courses, please contact Monica Phonsavatdy at m.phonsavatdy@utoronto.ca or 416-926-7256 (50 St. Joseph Street, Odette Hall, Room 125, St. Michael's College).",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162456": {
+                        "instructorId": "1162456",
+                        "firstName": "M",
+                        "lastName": "O'Connor"
+                    }
+                },
+                "meetingId": "15312",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "Added: November 11, 2017",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "GER300Y1-Y-20169": {
+        "courseId": "954",
+        "org": "GER",
+        "orgName": "German (GER) (JGJ)",
+        "courseTitle": "Intermediate German",
+        "code": "GER300Y1",
+        "courseDescription": "<p>Continuing the work done in GER100Y1 and GER200Y1, this course offers German at the intermediate level focusing on extension of vocabulary, specific problems of grammar, essay-writing, reading and conversation. The Department reserves the right to place students in the appropriate course in the series GER200Y1 and GER300Y1.<\/p>",
+        "prerequisite": "GER200Y1 or German placement test",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42400": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42400",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": "CR 403"
+                    },
+                    "WE-42401": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42401",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": "CR 403"
+                    }
+                },
+                "instructors": {
+                    "1160094": {
+                        "instructorId": "1160094",
+                        "firstName": "D",
+                        "lastName": "Khamseh"
+                    },
+                    "1160095": {
+                        "instructorId": "1160095",
+                        "firstName": "V",
+                        "lastName": "Rummel"
+                    }
+                },
+                "meetingId": "1970",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TU-42404": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42404",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": "CR 403"
+                    },
+                    "TH-42405": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42405",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": "CR 403"
+                    }
+                },
+                "instructors": {
+                    "1160096": {
+                        "instructorId": "1160096",
+                        "firstName": "Y",
+                        "lastName": "Aly"
+                    },
+                    "1160097": {
+                        "instructorId": "1160097",
+                        "firstName": "T",
+                        "lastName": "Sudenis"
+                    }
+                },
+                "meetingId": "1971",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-42408": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "42408",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": "CR 403"
+                    },
+                    "WE-42409": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "42409",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": "CR 403"
+                    }
+                },
+                "instructors": {
+                    "1160098": {
+                        "instructorId": "1160098",
+                        "firstName": "C",
+                        "lastName": "Bohnke"
+                    },
+                    "1160099": {
+                        "instructorId": "1160099",
+                        "firstName": "S",
+                        "lastName": "Gargova"
+                    }
+                },
+                "meetingId": "1972",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

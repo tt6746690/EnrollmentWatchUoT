@@ -1,0 +1,53 @@
+{
+    "ITA321H1-S-20169": {
+        "courseId": "1320",
+        "org": "ITA",
+        "orgName": "Italian (ITA)",
+        "courseTitle": "Dante: Divina Commedia (Purgatorio and Paradiso)",
+        "code": "ITA321H1",
+        "courseDescription": "<p>A continuation of ITA320H1, this course examines the <em>Purgatorio<\/em> and the <em>Paradiso<\/em> in the context of Dante's vision of contemporary society. This course includes a component designed to enhance students' research experience.<\/p>",
+        "prerequisite": "ITA320H1",
+        "corequisite": "",
+        "exclusion": "ITA311H\/ITA320Y",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-38879": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "38879",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 405"
+                    }
+                },
+                "instructors": {
+                    "1160629": {
+                        "instructorId": "1160629",
+                        "firstName": "E",
+                        "lastName": "Brilli"
+                    }
+                },
+                "meetingId": "2657",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

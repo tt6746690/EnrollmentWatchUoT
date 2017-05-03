@@ -1,0 +1,73 @@
+{
+    "CJS200H1-S-20169": {
+        "courseId": "273",
+        "org": "JSP",
+        "orgName": "Jewish Studies, Centre for (CJS) (JGJ)",
+        "courseTitle": "Introduction to Jewish Thought",
+        "code": "CJS200H1",
+        "courseDescription": "<p>A balanced presentation of the multifaceted approach to the discipline by treating Jewish religion and thought.&nbsp; The course introduces students not only to a chronological and thematic overview of the subject, but also to different methodological approaches.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-43251": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "43251",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "JH 100A"
+                    }
+                },
+                "instructors": {
+                    "1158974": {
+                        "instructorId": "1158974",
+                        "firstName": "G",
+                        "lastName": "Citron"
+                    },
+                    "1158975": {
+                        "instructorId": "1158975",
+                        "firstName": "Y",
+                        "lastName": "Fehige"
+                    },
+                    "1158976": {
+                        "instructorId": "1158976",
+                        "firstName": "T",
+                        "lastName": "Meacham"
+                    },
+                    "1158977": {
+                        "instructorId": "1158977",
+                        "firstName": "Y",
+                        "lastName": "Nizri"
+                    },
+                    "1158978": {
+                        "instructorId": "1158978",
+                        "firstName": "C",
+                        "lastName": "Orwin"
+                    }
+                },
+                "meetingId": "650",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

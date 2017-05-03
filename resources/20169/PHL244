@@ -1,0 +1,61 @@
+{
+    "PHL244H1-S-20169": {
+        "courseId": "3915",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "Human Nature",
+        "code": "PHL244H1",
+        "courseDescription": "<p>Aspects of human nature, e.g., emotion, instincts, motivation. Theories of human nature, e.g., behaviourism, psychoanalysis.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-44277": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:30",
+                        "meetingScheduleId": "44277",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 400"
+                    },
+                    "TH-44278": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:30",
+                        "meetingScheduleId": "44278",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 400"
+                    }
+                },
+                "instructors": {
+                    "1161309": {
+                        "instructorId": "1161309",
+                        "firstName": "B",
+                        "lastName": "Reece"
+                    }
+                },
+                "meetingId": "14544",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "198",
+                "actualEnrolment": "158",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

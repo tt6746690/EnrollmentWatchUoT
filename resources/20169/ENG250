@@ -1,0 +1,455 @@
+{
+    "ENG250Y1-Y-20169": {
+        "courseId": "675",
+        "org": "ENG",
+        "orgName": "English (ENG) (JEI)",
+        "courseTitle": "American Literature",
+        "code": "ENG250Y1",
+        "courseDescription": "<p>An introductory survey of major works in American literature, this course explores works in a variety of genres, including poetry, fiction, essays, and slave narratives.<\/p>",
+        "prerequisite": "1.0 ENG FCE or any 4.0 FCE",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Students enrolled in L0101 are to enroll in a tutorial section at W1 or W2.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-32291": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "32291",
+                        "assignedRoom1": "SS 2135",
+                        "assignedRoom2": "SS 2135"
+                    }
+                },
+                "instructors": {
+                    "1159679": {
+                        "instructorId": "1159679",
+                        "firstName": "A",
+                        "lastName": "Ackerman"
+                    }
+                },
+                "meetingId": "1470",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "180",
+                "actualEnrolment": "133",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "123",
+                        "postCode": "ASMAJ1645",
+                        "postName": "MA ENGLISH",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "211",
+                        "postCode": "ASMIN1645",
+                        "postName": "MI ENGLISH",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "330",
+                        "postCode": "ASSPE1645",
+                        "postName": "SP ENGLISH",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-42037": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "42037",
+                        "assignedRoom1": "WE 69",
+                        "assignedRoom2": "WE 69"
+                    }
+                },
+                "instructors": {
+                    "1159680": {
+                        "instructorId": "1159680",
+                        "firstName": "A",
+                        "lastName": "Ackerman"
+                    }
+                },
+                "meetingId": "1471",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "WE-42038": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "42038",
+                        "assignedRoom1": "UC 57",
+                        "assignedRoom2": "UC 57"
+                    }
+                },
+                "instructors": {
+                    "1159681": {
+                        "instructorId": "1159681",
+                        "firstName": "A",
+                        "lastName": "Ackerman"
+                    }
+                },
+                "meetingId": "1472",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0103": {
+                "schedule": {
+                    "WE-42039": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "42039",
+                        "assignedRoom1": "UC 63",
+                        "assignedRoom2": "UC 63"
+                    }
+                },
+                "instructors": {
+                    "1159682": {
+                        "instructorId": "1159682",
+                        "firstName": "A",
+                        "lastName": "Ackerman"
+                    }
+                },
+                "meetingId": "1473",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0104": {
+                "schedule": {
+                    "WE-42040": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "42040",
+                        "assignedRoom1": "UC 55",
+                        "assignedRoom2": "UC 55"
+                    }
+                },
+                "instructors": {
+                    "1159683": {
+                        "instructorId": "1159683",
+                        "firstName": "A",
+                        "lastName": "Ackerman"
+                    }
+                },
+                "meetingId": "1474",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0104",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0105": {
+                "schedule": {
+                    "WE-42041": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "42041",
+                        "assignedRoom1": "UC 53",
+                        "assignedRoom2": "UC 53"
+                    }
+                },
+                "instructors": {
+                    "1159684": {
+                        "instructorId": "1159684",
+                        "firstName": "A",
+                        "lastName": "Ackerman"
+                    }
+                },
+                "meetingId": "1475",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0105",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-42042": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42042",
+                        "assignedRoom1": "WE 69",
+                        "assignedRoom2": "WE 69"
+                    }
+                },
+                "instructors": {
+                    "1159685": {
+                        "instructorId": "1159685",
+                        "firstName": "A",
+                        "lastName": "Ackerman"
+                    }
+                },
+                "meetingId": "1477",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0202": {
+                "schedule": {
+                    "WE-42044": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42044",
+                        "assignedRoom1": "UC 57",
+                        "assignedRoom2": "UC 57"
+                    }
+                },
+                "instructors": {
+                    "1159686": {
+                        "instructorId": "1159686",
+                        "firstName": "A",
+                        "lastName": "Ackerman"
+                    }
+                },
+                "meetingId": "1478",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0203": {
+                "schedule": {
+                    "WE-42045": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42045",
+                        "assignedRoom1": "UC 63",
+                        "assignedRoom2": "UC 63"
+                    }
+                },
+                "instructors": {
+                    "1159687": {
+                        "instructorId": "1159687",
+                        "firstName": "A",
+                        "lastName": "Ackerman"
+                    }
+                },
+                "meetingId": "1479",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0203",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0204": {
+                "schedule": {
+                    "WE-42050": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42050",
+                        "assignedRoom1": "UC 55",
+                        "assignedRoom2": "UC 55"
+                    }
+                },
+                "instructors": {
+                    "1159688": {
+                        "instructorId": "1159688",
+                        "firstName": "A",
+                        "lastName": "Ackerman"
+                    }
+                },
+                "meetingId": "1480",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0204",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0205": {
+                "schedule": {
+                    "WE-42051": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42051",
+                        "assignedRoom1": "UC 53",
+                        "assignedRoom2": "UC 53"
+                    }
+                },
+                "instructors": {
+                    "1159689": {
+                        "instructorId": "1159689",
+                        "firstName": "A",
+                        "lastName": "Ackerman"
+                    }
+                },
+                "meetingId": "1481",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0205",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

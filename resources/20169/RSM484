@@ -1,0 +1,108 @@
+{
+    "RSM484H1-S-20169": {
+        "courseId": "2200",
+        "org": "COMPG",
+        "orgName": "Rotman Commerce (RSM) (MGT)",
+        "courseTitle": "Real Estate Finance and Investment (formerly RSM380H1)",
+        "code": "RSM484H1",
+        "courseDescription": "<p>Real estate assets account for about one-third of the value of all capital assets in the world. This course provides an understanding of real estate investment, valuation and liabilities along with the public policy associated with home ownership, using modern finance and economic tools. Not eligible for CR\/NCR option. Contact Rotman Commerce for details.<\/p>",
+        "prerequisite": "ECO204Y1\/ECO206Y1, ECO220Y1\/ECO227Y1\/(STA220H1,STA255H1)\/(STA257H1,STA261H1), RSM332H1",
+        "corequisite": "RSM333H1",
+        "exclusion": "RSM380H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-47354": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "47354",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WO 25"
+                    }
+                },
+                "instructors": {
+                    "1162264": {
+                        "instructorId": "1162264",
+                        "firstName": "J",
+                        "lastName": "Shaw"
+                    }
+                },
+                "meetingId": "14230",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Room Changed: December 2nd, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            }
+        }
+    }
+}

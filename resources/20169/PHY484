@@ -1,0 +1,139 @@
+{
+    "PHY484H1-S-20169": {
+        "courseId": "1862",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Relativity Theory II",
+        "code": "PHY484H1",
+        "courseDescription": "<p>Applications of General Relativity to Astrophysics and Cosmology. Introduction to black holes, large-scale structure of the universe.<\/p>",
+        "prerequisite": "PHY483H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "APM346H1\/APM351Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47568": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47568",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 1318A"
+                    },
+                    "TH-47569": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47569",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 1318A"
+                    }
+                },
+                "instructors": {
+                    "1161510": {
+                        "instructorId": "1161510",
+                        "firstName": "H",
+                        "lastName": "Pfeiffer"
+                    },
+                    "1161511": {
+                        "instructorId": "1161511",
+                        "firstName": "C",
+                        "lastName": "Thompson"
+                    }
+                },
+                "meetingId": "3872",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "47",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Jan. 5, 2017",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-47570": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47570",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 1318A"
+                    },
+                    "TH-47571": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47571",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 1318A"
+                    }
+                },
+                "instructors": {
+                    "1161512": {
+                        "instructorId": "1161512",
+                        "firstName": "H",
+                        "lastName": "Pfeiffer"
+                    },
+                    "1161513": {
+                        "instructorId": "1161513",
+                        "firstName": "C",
+                        "lastName": "Thompson"
+                    }
+                },
+                "meetingId": "14870",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Room Changed: Jan. 5, 2017",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

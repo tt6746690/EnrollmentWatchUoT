@@ -1,0 +1,108 @@
+{
+    "ENG384Y1-Y-20169": {
+        "courseId": "720",
+        "org": "ENG",
+        "orgName": "English (ENG) (JEI)",
+        "courseTitle": "Literature and Psychoanalysis",
+        "code": "ENG384Y1",
+        "courseDescription": "<p>An introduction to psychoanalysis for students of literature, this course considers major psychoanalytic ideas through close readings of selected texts by Freud. The course also explores critiques and applications of Freud's work and examines a selection of literary texts that engage psychoanalytic theory.<\/p>",
+        "prerequisite": "2.0 ENG FCE and any 4.0 FCE",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1), Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-46819": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "46819",
+                        "assignedRoom1": "VC 206",
+                        "assignedRoom2": "VC 206"
+                    }
+                },
+                "instructors": {
+                    "1159735": {
+                        "instructorId": "1159735",
+                        "firstName": "E",
+                        "lastName": "Soros"
+                    }
+                },
+                "meetingId": "14525",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "Literature and Psychoanalysis",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "Room Changed: September 14, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": "123",
+                        "postCode": "ASMAJ1645",
+                        "postName": "MA ENGLISH",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "330",
+                        "postCode": "ASSPE1645",
+                        "postName": "SP ENGLISH",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

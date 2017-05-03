@@ -1,0 +1,53 @@
+{
+    "NMC315H1-F-20169": {
+        "courseId": "3796",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "The Structure of Arabic Language (formerly NML315H1)",
+        "code": "NMC315H1",
+        "courseDescription": "<p>This course investigates formal properties of Arabic language. &nbsp;It provides students with an in-depth knowledge of the grammar of the language focussing on the areas of phonetics, phonology, morphology, syntax, and the interaction between phonology and morphology.<\/p>",
+        "prerequisite": "NML210Y1 or LIN100Y1, or permission of the instructor",
+        "corequisite": "",
+        "exclusion": "NML315H1",
+        "recommendedPreparation": "LIN229H1, LIN232H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-42658": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42658",
+                        "assignedRoom1": "BF 323",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161157": {
+                        "instructorId": "1161157",
+                        "firstName": "A",
+                        "lastName": "Ali"
+                    }
+                },
+                "meetingId": "14369",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

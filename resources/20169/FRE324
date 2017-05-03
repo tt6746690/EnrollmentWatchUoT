@@ -1,0 +1,53 @@
+{
+    "FRE324H1-S-20169": {
+        "courseId": "908",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "French Literature in the Time of Revolutions and Industrialization",
+        "code": "FRE324H1",
+        "courseDescription": "<p>The long 19th century (1789-1914) is characterized by change: from political upheavals to literary, scientific, and media revolutions, the spread of literacy, and the rapid development of industrialization and colonization. A study of the evolution of literature (genres, forms, movements), as influenced by these changing socio-political and economic contexts.<\/p>",
+        "prerequisite": "FRE240H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "FRE241H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-42309": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42309",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "TF 102"
+                    }
+                },
+                "instructors": {
+                    "1159963": {
+                        "instructorId": "1159963",
+                        "firstName": "P",
+                        "lastName": "Theriault"
+                    }
+                },
+                "meetingId": "1855",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

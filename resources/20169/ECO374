@@ -1,0 +1,176 @@
+{
+    "ECO374H1-F-20169": {
+        "courseId": "579",
+        "org": "ECO",
+        "orgName": "Economics (ECO)",
+        "courseTitle": "Applied Econometrics (for Commerce)",
+        "code": "ECO374H1",
+        "courseDescription": "<p>An introduction to econometrics similar to ECO375H1, with greater focus on applications drawn from business and financial economics. The course is built around the statistical foundations and economic applications of the multiple regression model. Using statistical software, students will also learn how to conduct, present, and critique empirical research.<\/p>",
+        "prerequisite": "ECO200Y1\/ECO204Y1\/ECO206Y1, ECO220Y1(70%)\/ECO227Y1\/(STA257H1,STA261H1)",
+        "corequisite": "",
+        "exclusion": "ECO375H1, ECO327Y5",
+        "recommendedPreparation": "MAT221H\/MAT223H1\/MAT240H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-19943": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "19943",
+                        "assignedRoom1": "SS 2105",
+                        "assignedRoom2": null
+                    },
+                    "WE-19944": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "19944",
+                        "assignedRoom1": "SS 2105",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159524": {
+                        "instructorId": "1159524",
+                        "firstName": "Y",
+                        "lastName": "Wan"
+                    }
+                },
+                "meetingId": "1246",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            }
+        }
+    },
+    "ECO374H1-S-20169": {
+        "courseId": "579",
+        "org": "ECO",
+        "orgName": "Economics (ECO)",
+        "courseTitle": "Applied Econometrics (for Commerce)",
+        "code": "ECO374H1",
+        "courseDescription": "<p>An introduction to econometrics similar to ECO375H1, with greater focus on applications drawn from business and financial economics. The course is built around the statistical foundations and economic applications of the multiple regression model. Using statistical software, students will also learn how to conduct, present, and critique empirical research.<\/p>",
+        "prerequisite": "ECO200Y1\/ECO204Y1\/ECO206Y1, ECO220Y1(70%)\/ECO227Y1\/(STA257H1,STA261H1)",
+        "corequisite": "",
+        "exclusion": "ECO375H1, ECO327Y5",
+        "recommendedPreparation": "MAT221H\/MAT223H1\/MAT240H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-22503": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "22503",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2105"
+                    },
+                    "FR-22504": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "22504",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2105"
+                    }
+                },
+                "instructors": {
+                    "1159525": {
+                        "instructorId": "1159525",
+                        "firstName": "M",
+                        "lastName": "Burda"
+                    }
+                },
+                "meetingId": "1247",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            }
+        }
+    }
+}

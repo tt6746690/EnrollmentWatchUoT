@@ -1,0 +1,53 @@
+{
+    "RLG366H1-F-20169": {
+        "courseId": "4162",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Hindu Philosophy",
+        "code": "RLG366H1",
+        "courseDescription": "<p>A study of different schools, texts, and issues of Hindu philosophy.<\/p>",
+        "prerequisite": "RLG100Y1\/RLG205Y1\/RLG280Y1\/ ;See note above for general Prerequisites",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-29947": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "29947",
+                        "assignedRoom1": "NF 006",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161951": {
+                        "instructorId": "1161951",
+                        "firstName": "A",
+                        "lastName": "Dhand"
+                    }
+                },
+                "meetingId": "7000",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "The Upanishads",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

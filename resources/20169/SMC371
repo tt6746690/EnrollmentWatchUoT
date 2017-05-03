@@ -1,0 +1,53 @@
+{
+    "SMC371H1-S-20169": {
+        "courseId": "4380",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Faith and Physics",
+        "code": "SMC371H1",
+        "courseDescription": "<p>The complex interplay between religious belief, culture, and the emergence of modern physical theory: rise and fall of mechanistic theories, relativity, particle physics and models of the Universe, Big Bang theory and Black Holes, etc.<\/p>",
+        "prerequisite": "Four university courses",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-25055": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "25055",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 204"
+                    }
+                },
+                "instructors": {
+                    "1162421": {
+                        "instructorId": "1162421",
+                        "firstName": "R",
+                        "lastName": "Paskauskas"
+                    }
+                },
+                "meetingId": "13051",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

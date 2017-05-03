@@ -1,0 +1,53 @@
+{
+    "PRT258H1-F-20169": {
+        "courseId": "1965",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "Introduction to Luso-Brazilian Studies (formerly PRT258Y1)",
+        "code": "PRT258H1",
+        "courseDescription": "<p>The introductory study of literary texts and consideration of the various ways authors express and situate themselves in culture. Semiotics, gender, the literary canon, advertising, the nature of literary language, and cinema.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "PRT258Y1",
+        "recommendedPreparation": "PRT219Y1\/PRT220Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-31905": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "31905",
+                        "assignedRoom1": "VC 211",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161682": {
+                        "instructorId": "1161682",
+                        "firstName": "A",
+                        "lastName": "Jordao"
+                    }
+                },
+                "meetingId": "13911",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

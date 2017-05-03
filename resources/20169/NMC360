@@ -1,0 +1,84 @@
+{
+    "NMC360H1-F-20169": {
+        "courseId": "3805",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Archaeology of the Biblical World I: The Bronze Age",
+        "code": "NMC360H1",
+        "courseDescription": "<p>The archaeology of Syria-Palestine from prehistoric times until the end of the Late Bronze Age (ca. 1200 BCE), with a special emphasis on the development of complex society, and inter-relations with the neighboring regions of Egypt and Syro-Mesopotamia. Attention will also be given to the history of archaeological research in the region, current field techniques and methods of archaeological analysis, and the relationship between archaeological evidence and contemporary written records, including the Hebrew Bible. (Offered in alternate years)<\/p>",
+        "prerequisite": "NMC260H1, NMC262H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NMC102H1, NMC104H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "15145",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "August 4, 2016",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "NMC360H1-S-20169": {
+        "courseId": "3805",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Archaeology of the Biblical World I: The Bronze Age",
+        "code": "NMC360H1",
+        "courseDescription": "<p>The archaeology of Syria-Palestine from prehistoric times until the end of the Late Bronze Age (ca. 1200 BCE), with a special emphasis on the development of complex society, and inter-relations with the neighboring regions of Egypt and Syro-Mesopotamia. Attention will also be given to the history of archaeological research in the region, current field techniques and methods of archaeological analysis, and the relationship between archaeological evidence and contemporary written records, including the Hebrew Bible. (Offered in alternate years)<\/p>",
+        "prerequisite": "NMC260H1, NMC262H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NMC102H1, NMC104H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47630": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "47630",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 415"
+                    }
+                },
+                "instructors": {
+                    "1161161": {
+                        "instructorId": "1161161",
+                        "firstName": "A",
+                        "lastName": "Porter"
+                    }
+                },
+                "meetingId": "15229",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time & Room Changed: Jan 9, 2017",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

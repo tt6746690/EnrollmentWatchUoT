@@ -1,0 +1,71 @@
+{
+    "MGY420H1-F-20169": {
+        "courseId": "1515",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Regulation of Gene Expression",
+        "code": "MGY420H1",
+        "courseDescription": "<p>Regulatory mechanisms controlling gene expression in eukaryotes; students will read, discuss, and present the primary research literature in class. Topics include: assembly of the initiation complex; roles of transcription factors, co-activators and cis-acting regulatory elements; promoter escape; mechanisms that control elongation, termination and anti-termination of transcription; chromatin control of transcription.<\/p>",
+        "prerequisite": "BCH311H1\/CSB349H1\/MGY311Y1",
+        "corequisite": "",
+        "exclusion": "BIO477H5 (UTM)",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39393": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39393",
+                        "assignedRoom1": "MS 4171",
+                        "assignedRoom2": null
+                    },
+                    "WE-39394": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39394",
+                        "assignedRoom1": "MS 4171",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160997": {
+                        "instructorId": "1160997",
+                        "firstName": "E",
+                        "lastName": "Campos"
+                    },
+                    "1160998": {
+                        "instructorId": "1160998",
+                        "firstName": "J",
+                        "lastName": "Greenblatt"
+                    },
+                    "1160999": {
+                        "instructorId": "1160999",
+                        "firstName": "M",
+                        "lastName": "Meneghini"
+                    }
+                },
+                "meetingId": "3223",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

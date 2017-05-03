@@ -1,0 +1,125 @@
+{
+    "CHM410H1-F-20169": {
+        "courseId": "230",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Analytical Environmental Chemistry",
+        "code": "CHM410H1",
+        "courseDescription": "<p>An analytical theory, instrumental, and methodology course focused on the measurement of pollutants in soil, water, air, and biological tissues and the determination of physical\/chemical properties including vapour pressure, degradation rates, partitioning. Lab experiments involve application of theory. (Lab Materials Fee: $25).<\/p>",
+        "prerequisite": "CHM217H1, CHM210H1\/CHM310H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "CHM317H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46552": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46552",
+                        "assignedRoom1": "LM 155",
+                        "assignedRoom2": null
+                    },
+                    "TH-46553": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46553",
+                        "assignedRoom1": "SS 1084",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158918": {
+                        "instructorId": "1158918",
+                        "firstName": "J",
+                        "lastName": "D'eon"
+                    }
+                },
+                "meetingId": "5761",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "28",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "FR-43801": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:30",
+                        "meetingScheduleId": "43801",
+                        "assignedRoom1": "LM 9",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158919": {
+                        "instructorId": "1158919",
+                        "firstName": "J",
+                        "lastName": "D'eon"
+                    }
+                },
+                "meetingId": "5762",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "14",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "FR-43802": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:30",
+                        "meetingScheduleId": "43802",
+                        "assignedRoom1": "LM 9",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158920": {
+                        "instructorId": "1158920",
+                        "firstName": "J",
+                        "lastName": "D'eon"
+                    }
+                },
+                "meetingId": "5763",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "14",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

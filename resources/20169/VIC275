@@ -1,0 +1,53 @@
+{
+    "VIC275H1-F-20169": {
+        "courseId": "2563",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Creative Writing: Short Fiction",
+        "code": "VIC275H1",
+        "courseDescription": "<p class=\"MsoNormal\"><span lang=\"EN-US\">This course is for aspiring fiction writers who wish to deepen their craft.&nbsp; Each seminar will feature a lecture on technical issues such as plot and characterization, as well as an analysis of a short story by a classic writer. Students will write their own stories, with editorial input from the instructor. &nbsp;<\/span><\/p>",
+        "prerequisite": "Application Required.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "To enroll in this course, students must submit an application by June 1st. For more information, visit www.vic.utoronto.ca\/students\/academics\/creative\/courses.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-42929": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42929",
+                        "assignedRoom1": "VC 304",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162796": {
+                        "instructorId": "1162796",
+                        "firstName": "J",
+                        "lastName": "BEMROSE"
+                    }
+                },
+                "meetingId": "5216",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

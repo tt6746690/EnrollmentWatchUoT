@@ -1,0 +1,69 @@
+{
+    "STA453H1-S-20169": {
+        "courseId": "2449",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Mathematical Statistics II (formerly STA352Y1)",
+        "code": "STA453H1",
+        "courseDescription": "<p>Continuation of STA452H1:&nbsp; statistical theory and its applications at an advanced mathematical level. Topics include classical estimation, theory with methods based on the likelihood function and the likelihood statistics. Testing hypothesis and the evaluation of conference from both a bayesian and frequentist point of view.<\/p>",
+        "prerequisite": "STA452H1",
+        "corequisite": "",
+        "exclusion": "STA352Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-40538": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "40538",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1083"
+                    },
+                    "WE-40539": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "40539",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1083"
+                    },
+                    "FR-40537": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "40537",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1083"
+                    }
+                },
+                "instructors": {
+                    "1162626": {
+                        "instructorId": "1162626",
+                        "firstName": "D",
+                        "lastName": "Brenner"
+                    }
+                },
+                "meetingId": "5032",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

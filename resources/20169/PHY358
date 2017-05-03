@@ -1,0 +1,145 @@
+{
+    "PHY358H1-S-20169": {
+        "courseId": "1839",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Atoms, Molecules and Solids",
+        "code": "PHY358H1",
+        "courseDescription": "<p>Quantum theory of atoms, molecules, and solids; variational principle and perturbation theory; hydrogen and helium atoms; exchange and correlation energies; multielectron atoms; simple molecules; bonding and antibonding orbitals; rotation and vibration of molecules; crystal binding; electron in a periodic potential; reciprocal lattice; Bloch's theorem; nearly-free electron model; Kronig-Penney model; energy bands; metals, semiconductors, and insulators; Fermi surfaces. This course is not a prerequisite for any PHY400-level course.<\/p>",
+        "prerequisite": "PHY356H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39890": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39890",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 134"
+                    },
+                    "WE-39891": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39891",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 134"
+                    },
+                    "FR-39889": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39889",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 134"
+                    }
+                },
+                "instructors": {
+                    "1161435": {
+                        "instructorId": "1161435",
+                        "firstName": "A",
+                        "lastName": "Paramekanti"
+                    }
+                },
+                "meetingId": "3842",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "78",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-37403": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "37403",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 134"
+                    },
+                    "WE-37404": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "37404",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 134"
+                    },
+                    "FR-37405": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "37405",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 134"
+                    }
+                },
+                "instructors": {
+                    "1161436": {
+                        "instructorId": "1161436",
+                        "firstName": "A",
+                        "lastName": "Paramekanti"
+                    }
+                },
+                "meetingId": "14779",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "8",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

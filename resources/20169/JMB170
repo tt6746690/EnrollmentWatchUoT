@@ -1,0 +1,33 @@
+{
+    "JMB170Y1-Y-20169": {
+        "courseId": "1364",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Biology, Models, and Mathematics",
+        "code": "JMB170Y1",
+        "courseDescription": "<p>Applications of mathematics to biological problems in physiology, genetics, evolution, growth, population dynamics, cell biology, ecology, and behaviour. Mathematical topics include: power functions and regression; exponential and logistic functions; binomial theorem and probability; calculus, including derivatives, max\/min, integration, areas, integration by parts, substitution; differential equations, including linear constant coefficient systems; dynamic programming; Markov processes; and chaos. This course is intended for students in Life Sciences.<\/p>",
+        "prerequisite": "",
+        "corequisite": "BIO120H1",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "2713",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 12, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "SLA207H1-S-20169": {
+        "courseId": "2236",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Intermediate Polish II",
+        "code": "SLA207H1",
+        "courseDescription": "<p>This course is a continuation of SLA206H1.&nbsp; Develops speaking, listening, writing, and reading Polish language skills.&nbsp; Many elements of Polish culture are examined through readings of original texts, listening to Polish programs and songs, watching films and TV programs, which form the basis for class discussions.<\/p>",
+        "prerequisite": "SLA206H1 or permission of instructor",
+        "corequisite": "",
+        "exclusion": "SLA206Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-40192": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "40192",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 204"
+                    },
+                    "TH-40191": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "40191",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 204"
+                    }
+                },
+                "instructors": {
+                    "1162332": {
+                        "instructorId": "1162332",
+                        "firstName": "A",
+                        "lastName": "Rabczuk"
+                    }
+                },
+                "meetingId": "4641",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "27",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

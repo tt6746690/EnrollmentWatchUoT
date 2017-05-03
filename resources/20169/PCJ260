@@ -1,0 +1,143 @@
+{
+    "PCJ260Y1-Y-20169": {
+        "courseId": "1695",
+        "org": "GLAF",
+        "orgName": "Peace, Conflict and Justice Studies (PCJ) (MUN)",
+        "courseTitle": "Introduction to Peace and Conflict Studies (formerly PCS260Y1, UNI110Y1, UNI260Y1)",
+        "code": "PCJ260Y1",
+        "courseDescription": "<p class=\"MsoNormal\">A review of the full range of theories explaining the nature and causes of conflict and possibilities for its resolution; provides students with a set of theoretical tools for effective analysis of interpersonal, civil, and international conflict.<\/p>",
+        "prerequisite": "Only for current PCJ program students in second year and higher\/permission of the Program Director",
+        "corequisite": "",
+        "exclusion": "PCS260Y1, UNI110Y1, UNI260Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Students not in the Peace, Conflict and Justice Program must have approval from the Program Administrator to take PCJ courses. Please contact the Program Administrator at pcj.programme@utoronto.ca.",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-21625": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "21625",
+                        "assignedRoom1": "SS 1085",
+                        "assignedRoom2": "SS 562"
+                    },
+                    "TH-21624": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "21624",
+                        "assignedRoom1": "SS 1085",
+                        "assignedRoom2": "SS 562"
+                    }
+                },
+                "instructors": {
+                    "1161221": {
+                        "instructorId": "1161221",
+                        "firstName": "W",
+                        "lastName": "Greaves"
+                    }
+                },
+                "meetingId": "3446",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "94",
+                        "postCode": "ASMAJ1228",
+                        "postName": "MA PEACE, CONFLICT & JUSTICE",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "253",
+                        "postCode": "ASSPE0575",
+                        "postName": "SP IR\/PEACE,CONFLICT & JUSTICE",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "293",
+                        "postCode": "ASSPE1228",
+                        "postName": "SP PEACE, CONFLICT & JUSTICE",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

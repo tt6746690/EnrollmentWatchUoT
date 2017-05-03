@@ -1,0 +1,53 @@
+{
+    "NEW250Y1-Y-20169": {
+        "courseId": "1559",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Africa in the 21st Century: Challenges and Opportunities",
+        "code": "NEW250Y1",
+        "courseDescription": "<p>A critical examination of Africa as a living space rather than merely a site of intellectual speculation and study.&nbsp; Uses scholarly and popular literature to explore the issues that engage the attention of ordinary Africans, ranging from the dramatic to the seemingly trivial, as they struggle to fashion meaningful lives in fast-changing societies.&nbsp; Topics include urban transition and city life; economic, political and cultural impacts of globalization; new religious movements and changing conceptions of selfhood; new African diasporas in the West; dynamics of gender relations, kinships and identities; and the politics of liberalization.&nbsp; Materials studied will include print and electronic news media and other mass media resources from Africa and across the world.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1), Society and its Institutions (3)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-45400": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45400",
+                        "assignedRoom1": "WI 524",
+                        "assignedRoom2": "WI 524"
+                    }
+                },
+                "instructors": {
+                    "1161060": {
+                        "instructorId": "1161060",
+                        "firstName": "M",
+                        "lastName": "Levin"
+                    }
+                },
+                "meetingId": "3281",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

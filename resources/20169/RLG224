@@ -1,0 +1,53 @@
+{
+    "RLG224H1-S-20169": {
+        "courseId": "4108",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Problems in Religious Ethics",
+        "code": "RLG224H1",
+        "courseDescription": "<p>An introduction to the analysis of ethical problems in the context of the religious traditions of the West. Abortion, euthanasia, poverty, environmental degradation, militarism, sex, marriage, and the roles of men and women.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-47144": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "47144",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2108"
+                    }
+                },
+                "instructors": {
+                    "1161913": {
+                        "instructorId": "1161913",
+                        "firstName": "D",
+                        "lastName": "Perley"
+                    }
+                },
+                "meetingId": "5691",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "85",
+                "actualEnrolment": "58",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

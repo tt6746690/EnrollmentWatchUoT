@@ -1,0 +1,53 @@
+{
+    "CSB397Y0-Y-20169": {
+        "courseId": "367",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Research Abroad in Cell & Systems Biology",
+        "code": "CSB397Y0",
+        "courseDescription": "<p>An independent research project conducted in a cell biology, developmental biology, plant biology, neurophysiology, or systems biology research lab in an approved partner university.&nbsp; The laboratory research is supervised by a faculty member at the partner institution. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "BIO230H1\/BIO255H1\/BIO271H1 with a minimum grade of 73%; permission of the CSB Undergraduate Associate Chair",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For students going on a 3rd year exchange program through CIE who are interested in doing a research course while abroad, contact the CSB Undergraduate Office (416-978-8879) or the Undergraduate Coordinator, Janet Mannone, at janet.mannone@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-3001": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159093": {
+                        "instructorId": "1159093",
+                        "firstName": "L",
+                        "lastName": "Buck"
+                    }
+                },
+                "meetingId": "803",
+                "teachingMethod": "LEC",
+                "sectionNumber": "3001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

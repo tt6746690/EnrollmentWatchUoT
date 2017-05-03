@@ -1,0 +1,139 @@
+{
+    "PHY250H1-S-20169": {
+        "courseId": "1828",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Electricity and Magnetism",
+        "code": "PHY250H1",
+        "courseDescription": "<p>An introductory course in Electromagnetism. Topics include: Point charges, Coulomb&rsquo;s law, electrostatic field and potential, Gauss's Law, conductors, electrostatic energy, magnetostatics, Ampere's Law, Biot-Savart Law, the Lorentz Force Law, Faraday&rsquo;s Law, Maxwell's equations in free space.<\/p>",
+        "prerequisite": "PHY132H1\/PHY152H1",
+        "corequisite": "MAT235Y1\/MAT237Y1\/MAT257Y1",
+        "exclusion": "PHY238Y1,PHY251H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39826": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39826",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 103"
+                    },
+                    "WE-39827": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39827",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 103"
+                    }
+                },
+                "instructors": {
+                    "1161418": {
+                        "instructorId": "1161418",
+                        "firstName": "D",
+                        "lastName": "Jones"
+                    }
+                },
+                "meetingId": "3812",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "196",
+                "actualEnrolment": "157",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-44817": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44817",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Department"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3813",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "58",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "MO-44818": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "44818",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Department"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3814",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "41",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "WE-44819": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44819",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Department"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3815",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "57",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "CHM328H1-S-20169": {
+        "courseId": "223",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Modern Physical Chemistry",
+        "code": "CHM328H1",
+        "courseDescription": "<p>This course explores the microscopic description of macroscopic phenomena in chemistry. Statistical mechanics is introduced as the bridge between the microscopic and macroscopic views, and applied to a variety of chemical problems including reaction dynamics. More advanced topics in thermodynamics are introduced and discussed as required.<\/p>",
+        "prerequisite": "(CHM220H1\/CHM222H1,CHM221H1\/CHM223H1)\/CHM225Y1, MAT235Y1\/MAT237Y1",
+        "corequisite": "",
+        "exclusion": "JCP322H5, CHMC20H3",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41220": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41220",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 123"
+                    },
+                    "TH-41219": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41219",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 123"
+                    }
+                },
+                "instructors": {
+                    "1158902": {
+                        "instructorId": "1158902",
+                        "firstName": "J",
+                        "lastName": "Schofield"
+                    }
+                },
+                "meetingId": "547",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "28",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

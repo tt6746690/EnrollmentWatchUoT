@@ -1,0 +1,53 @@
+{
+    "PHL243H1-S-20169": {
+        "courseId": "3914",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "Philosophy of Human Sexuality",
+        "code": "PHL243H1",
+        "courseDescription": "<p>Philosophical issues about sex and sexual identity in the light of biological, psychological and ethical theories of sex and gender; the concept of gender; male and female sex roles; perverse sex; sexual liberation; love and sexuality.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-17103": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "17103",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MB 128"
+                    }
+                },
+                "instructors": {
+                    "1161308": {
+                        "instructorId": "1161308",
+                        "firstName": "R",
+                        "lastName": "De Sousa"
+                    }
+                },
+                "meetingId": "5764",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "200",
+                "actualEnrolment": "145",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "CHM347H1-F-20169": {
+        "courseId": "227",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Organic Chemistry of Biological Compounds",
+        "code": "CHM347H1",
+        "courseDescription": "<p>An organic chemical approach to the structure and reactions of major classes of biological molecules: carbohydrates, amino acids, peptides and proteins, phosphates, lipids, heterocycles, vitamins, nucleotides and polynucleotides. This is achieved through studies of advanced stereochemistry, chemical modification, reactions and synthesis. In addition to lectures and reading from texts, there will be opportunities for independent written assignments on several of the topics.<\/p>",
+        "prerequisite": "CHM247H1\/CHM249H1",
+        "corequisite": "",
+        "exclusion": "CHM347H5, CHMC47H3",
+        "recommendedPreparation": "CHM217H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Students may attend either one of the tutorial times.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41225": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41225",
+                        "assignedRoom1": "LM 161",
+                        "assignedRoom2": null
+                    },
+                    "WE-41226": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41226",
+                        "assignedRoom1": "LM 161",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158911": {
+                        "instructorId": "1158911",
+                        "firstName": "M",
+                        "lastName": "Nitz"
+                    }
+                },
+                "meetingId": "555",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "47",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-41227": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41227",
+                        "assignedRoom1": "SS 1071",
+                        "assignedRoom2": null
+                    },
+                    "FR-41228": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "41228",
+                        "assignedRoom1": "SS 1071",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "556",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

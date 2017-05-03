@@ -1,0 +1,61 @@
+{
+    "CIN470H1-F-20169": {
+        "courseId": "2797",
+        "org": "CINE",
+        "orgName": "Cinema Studies (CIN)",
+        "courseTitle": "Advanced Study in History and Nation (formerly INI469H1)",
+        "code": "CIN470H1",
+        "courseDescription": "<p>See course description for CIN472H1 listed below.<\/p>",
+        "prerequisite": "At least ten full-course equivalents, including CIN105Y1, CIN201Y1, CIN301Y1\/ permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Please note: Students must complete CIN105Y1, CIN201Y1, and CIN301Y1 before taking any fourth year Cinema Studies courses. For \u2018E\u2019 indicator Cinema Studies Courses: Contact the Undergraduate Assistant, 416-978-8571, cinema.studies@utoronto.ca . ",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-24128": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "24128",
+                        "assignedRoom1": "IN 222",
+                        "assignedRoom2": null
+                    },
+                    "TH-24129": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "24129",
+                        "assignedRoom1": "IN 313",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158969": {
+                        "instructorId": "1158969",
+                        "firstName": "A",
+                        "lastName": "Zambenedetti"
+                    }
+                },
+                "meetingId": "14161",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

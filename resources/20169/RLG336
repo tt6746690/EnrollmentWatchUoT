@@ -1,0 +1,53 @@
+{
+    "RLG336H1-S-20169": {
+        "courseId": "4141",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Monsters and Others in the Christian Middle Ages",
+        "code": "RLG336H1",
+        "courseDescription": "<p>A course looking at the theories about and responses to the monstrous in the European Christian Middle Ages.<\/p>",
+        "prerequisite": "See note above for general prerequisites",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-44130": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44130",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "JH 100"
+                    }
+                },
+                "instructors": {
+                    "1161942": {
+                        "instructorId": "1161942",
+                        "firstName": "J",
+                        "lastName": "Harris"
+                    }
+                },
+                "meetingId": "6794",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "51",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

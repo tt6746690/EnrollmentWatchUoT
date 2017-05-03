@@ -1,0 +1,53 @@
+{
+    "FOR416H1-F-20169": {
+        "courseId": "891",
+        "org": "FOR",
+        "orgName": "Forestry (FOR) (JFG)",
+        "courseTitle": "Urban Forestry and Green Infrastructure",
+        "code": "FOR416H1",
+        "courseDescription": "<p>Trees in and around the city are key to providing multiple engineered and ecological services that only recently have been brought into the responsible fiscal planning of every municipality around the globe.&nbsp; Reviews the role of trees and woodlands in providing environmental, social and economic benefits to urban and peri-urban residents and to the broader environment. Examines approaches to the characterization of urban forest ecosystems, and their planning and management.<\/p>",
+        "prerequisite": "FOR200H1, FOR201H1",
+        "corequisite": "",
+        "exclusion": "FOR421H1 (APSC)",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For more information, please contact susanwy.lee@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-42799": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42799",
+                        "assignedRoom1": "WB 119",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159949": {
+                        "instructorId": "1159949",
+                        "firstName": "M",
+                        "lastName": "Seehausen"
+                    }
+                },
+                "meetingId": "1830",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

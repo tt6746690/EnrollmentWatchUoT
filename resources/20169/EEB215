@@ -1,0 +1,61 @@
+{
+    "EEB215H1-F-20169": {
+        "courseId": "615",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Conservation Biology",
+        "code": "EEB215H1",
+        "courseDescription": "<p>Introduction to the scientific discipline that deals with threatened species and habitats. Topics include: biodiversity, extinction, threats, demography, genetic diversity, protecting, managing and restoring ecosystems (e.g., nature reserves, captive breeding, conservation corridors), sustainable development, and global warming. Ties between the study of conservation biology and environmental law, economics, and policy will also be covered. For non-science students in all years and disciplines.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "BIO120H1\/BIO150Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41942": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "41942",
+                        "assignedRoom1": "SS 2127",
+                        "assignedRoom2": null
+                    },
+                    "TH-41941": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41941",
+                        "assignedRoom1": "SS 1069",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159572": {
+                        "instructorId": "1159572",
+                        "firstName": "B",
+                        "lastName": "Raboy"
+                    }
+                },
+                "meetingId": "1295",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "66",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "LMP436H1-S-20169": {
+        "courseId": "1444",
+        "org": "LMP",
+        "orgName": "Laboratory Medicine and Pathobiology (LMP)",
+        "courseTitle": "Microbial Pathogenesis",
+        "code": "LMP436H1",
+        "courseDescription": "<p>Molecular mechanism involved in pathogenesis of infectious disease. Topics include recurrent themes in the establishment of infectious disease, such as adherence and spread of pathogenic bacteria as well as evasion of host defences. Emphasis is placed on genetic characterization and expression of virulence determinants and on interactions between bacterial pathogens and their hosts.<\/p>",
+        "prerequisite": "BCH210H1\/BCH242Y1, IMM340H1\/IMM350H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-30491": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "30491",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3278"
+                    }
+                },
+                "instructors": {
+                    "1160784": {
+                        "instructorId": "1160784",
+                        "firstName": "S",
+                        "lastName": "Girardin"
+                    }
+                },
+                "meetingId": "2876",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "311",
+                        "postCode": "ASSPE1389",
+                        "postName": "SP MOL GEN&MICRO: MICROBIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "357",
+                        "postCode": "ASSPE2025",
+                        "postName": "SP PATHOBIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

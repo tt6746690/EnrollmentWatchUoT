@@ -1,0 +1,303 @@
+{
+    "EEB323H1-F-20169": {
+        "courseId": "627",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Evolutionary Genetics",
+        "code": "EEB323H1",
+        "courseDescription": "<p>Evolutionary biology rests on a foundation of evolutionary genetics. This course focuses on the core ideas in population genetics and extends to evolutionary genomics. Students are exposed to the mathematical theory underlying evolutionary genetics and will learn the mathematical foundations underlying these ideas. Topics include the population genetics of mutation, migration, drift, and selection, analysis of sequence variation, and the evolution of sexual reproduction.<\/p>",
+        "prerequisite": "BIO220H1, BIO260H1\/HMB265H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "(MAT135H1, MAT136H1)\/MAT135Y1\/MAT136Y1\/MAT137Y1\/MAT157Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-33163": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "33163",
+                        "assignedRoom1": "SS 2108",
+                        "assignedRoom2": null
+                    },
+                    "TH-33162": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "33162",
+                        "assignedRoom1": "SS 2108",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159593": {
+                        "instructorId": "1159593",
+                        "firstName": "A",
+                        "lastName": "Agrawal"
+                    },
+                    "1159594": {
+                        "instructorId": "1159594",
+                        "firstName": "A",
+                        "lastName": "Cutter"
+                    }
+                },
+                "meetingId": "1330",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "62",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "42",
+                        "postCode": "ASMAJ0110",
+                        "postName": "MA BIODIV & CONSERVATION BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "75",
+                        "postCode": "ASMAJ1006",
+                        "postName": "MA ECOLOGY & EVOLUTIONARY BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "150",
+                        "postCode": "ASMAJ2364",
+                        "postName": "MA BIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "157",
+                        "postCode": "ASMAJ2655",
+                        "postName": "MA GENOME BIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "270",
+                        "postCode": "ASSPE1006",
+                        "postName": "SP ECOLOGY & EVOLUTIONARY BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "371",
+                        "postCode": "ASSPE2364",
+                        "postName": "SP BIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-44259": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "44259",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159595": {
+                        "instructorId": "1159595",
+                        "firstName": "A",
+                        "lastName": "Agrawal"
+                    },
+                    "1159596": {
+                        "instructorId": "1159596",
+                        "firstName": "A",
+                        "lastName": "Cutter"
+                    }
+                },
+                "meetingId": "1331",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Instructors will notify students regarding specific rooms.",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "TH-44260": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "44260",
+                        "assignedRoom1": "",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159597": {
+                        "instructorId": "1159597",
+                        "firstName": "A",
+                        "lastName": "Agrawal"
+                    },
+                    "1159598": {
+                        "instructorId": "1159598",
+                        "firstName": "A",
+                        "lastName": "Cutter"
+                    }
+                },
+                "meetingId": "1332",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Instructors will notify students regarding specific rooms.",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

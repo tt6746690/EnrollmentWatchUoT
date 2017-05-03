@@ -1,0 +1,53 @@
+{
+    "FRE388H1-S-20169": {
+        "courseId": "918",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Bilingualism and second language acquisition of French",
+        "code": "FRE388H1",
+        "courseDescription": "<p>An overview of the cognitive aspects of bilingualism and language acquisition among early and late bilingual French speakers. Topics will include psycholinguistic processing and representation in the multilingual mind; the role and analysis of input in second language acquisition; patterns of interlanguage grammatical development; the nature and sources of intra and interlearner variation; and the effect of instruction on learning.<\/p>",
+        "prerequisite": "FRE272H1 + FRE383H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-8049": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "8049",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "TF 101"
+                    }
+                },
+                "instructors": {
+                    "1159977": {
+                        "instructorId": "1159977",
+                        "firstName": "A",
+                        "lastName": "Takam"
+                    }
+                },
+                "meetingId": "5451",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "38",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

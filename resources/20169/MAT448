@@ -1,0 +1,92 @@
+{
+    "MAT448H1-F-20169": {
+        "courseId": "1492",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Introduction to Commutative Algebra and Algebraic Geometry",
+        "code": "MAT448H1",
+        "courseDescription": "<p>Basic notions of algebraic geometry, with emphasis on commutative algebra or geometry according to the interests of the instructor. Algebraic topics: localization, integral dependence and Hilbert's Nullstellensatz, valuation theory, power series rings and completion, dimension theory. Geometric topics: affine and projective varieties, dimension and intersection theory, curves and surfaces, varieties over the complex numbers. This course will be offered in alternating years.<\/p>",
+        "prerequisite": "MAT347Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-46942": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:30",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46942",
+                        "assignedRoom1": "BA 6180",
+                        "assignedRoom2": null
+                    },
+                    "TH-46943": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:30",
+                        "meetingScheduleId": "46943",
+                        "assignedRoom1": "BA 6180",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160941": {
+                        "instructorId": "1160941",
+                        "firstName": "P",
+                        "lastName": "Milman"
+                    }
+                },
+                "meetingId": "15214",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time & Room Change: September 16, 2016",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "MAT448H1-S-20169": {
+        "courseId": "1492",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Introduction to Commutative Algebra and Algebraic Geometry",
+        "code": "MAT448H1",
+        "courseDescription": "<p>Basic notions of algebraic geometry, with emphasis on commutative algebra or geometry according to the interests of the instructor. Algebraic topics: localization, integral dependence and Hilbert's Nullstellensatz, valuation theory, power series rings and completion, dimension theory. Geometric topics: affine and projective varieties, dimension and intersection theory, curves and surfaces, varieties over the complex numbers. This course will be offered in alternating years.<\/p>",
+        "prerequisite": "MAT347Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "15151",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 26, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

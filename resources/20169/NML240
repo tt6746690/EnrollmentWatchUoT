@@ -1,0 +1,61 @@
+{
+    "NML240Y1-Y-20169": {
+        "courseId": "1670",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Introduction to Middle Egyptian",
+        "code": "NML240Y1",
+        "courseDescription": "<p>Grammar and reading of selected hieroglyphic texts.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-43777": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43777",
+                        "assignedRoom1": "BL 305",
+                        "assignedRoom2": "BL 305"
+                    },
+                    "TH-43776": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43776",
+                        "assignedRoom1": "BL 305",
+                        "assignedRoom2": "BL 305"
+                    }
+                },
+                "instructors": {
+                    "1161197": {
+                        "instructorId": "1161197",
+                        "firstName": "S",
+                        "lastName": "Zago"
+                    }
+                },
+                "meetingId": "3421",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Changed: July 12, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "CLA383H1-S-20169": {
+        "courseId": "2822",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Comedy",
+        "code": "CLA383H1",
+        "courseDescription": "<p>The origin and development of Greek and Roman comedy, based on a study of representative plays.<\/p>",
+        "prerequisite": "CLA160H1 + 1 of CLA219H1\/CLA230H1\/CLA231H1\/CLA232H1\/CLA233H1\/CLA236H1\/CLA260H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-38472": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "38472",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "LI 220"
+                    },
+                    "TH-38473": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "38473",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "LI 220"
+                    }
+                },
+                "instructors": {
+                    "1159018": {
+                        "instructorId": "1159018",
+                        "firstName": "J",
+                        "lastName": "Welsh"
+                    }
+                },
+                "meetingId": "14088",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "54",
+                        "postCode": "ASMAJ0382",
+                        "postName": "MA CLASSICAL CIVILIZATION",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "167",
+                        "postCode": "ASMIN0382",
+                        "postName": "MI CLASSICAL CIVILIZATION",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

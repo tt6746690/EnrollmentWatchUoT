@@ -1,0 +1,816 @@
+{
+    "LIN200H1-F-20169": {
+        "courseId": "1404",
+        "org": "LIN",
+        "orgName": "Linguistics (LIN) (JLP) (JLS) (JAL) (JFL) ",
+        "courseTitle": "Introduction to Language",
+        "code": "LIN200H1",
+        "courseDescription": "<p>A general-interest course on language. Possible topics include: the structure of language; how language changes over time, the social and psychological aspects of language, language and culture, the origin of language, writing systems, and language acquisition. (This course cannot be used as an entrance to programs in linguistics, and cannot be used as a prerequisite to any linguistics courses unless otherwise indicated.)<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "LIN101H1, LIN102H1, ANT253H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Students in the L2001 WW TESOL Restricted lecture section must enroll in T5103 (restricted for WW TESOL students only).",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-2001": {
+                "schedule": {
+                    "TH-47010": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "47010",
+                        "assignedRoom1": "ES 1050",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160730": {
+                        "instructorId": "1160730",
+                        "firstName": "P",
+                        "lastName": "Howson"
+                    }
+                },
+                "meetingId": "12942",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "7",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Restricted, for WW TESOL students only",
+                "enrollmentControls": [
+                    {
+                        "postId": "401",
+                        "postCode": "WW   TESOL",
+                        "postName": "Certificate TESOL",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-2002": {
+                "schedule": {
+                    "TH-30399": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "30399",
+                        "assignedRoom1": "ES 1050",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160731": {
+                        "instructorId": "1160731",
+                        "firstName": "P",
+                        "lastName": "Howson"
+                    }
+                },
+                "meetingId": "12943",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2002",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Restricted, for APSC students only",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TH-47011": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "47011",
+                        "assignedRoom1": "ES 1050",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160732": {
+                        "instructorId": "1160732",
+                        "firstName": "P",
+                        "lastName": "Howson"
+                    }
+                },
+                "meetingId": "2772",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "243",
+                "actualEnrolment": "183",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-38938": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "38938",
+                        "assignedRoom1": "UC 152",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2773",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-38939": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "38939",
+                        "assignedRoom1": "UC 152",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2774",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0202": {
+                "schedule": {
+                    "TH-38940": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "38940",
+                        "assignedRoom1": "UC 256",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2775",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "TH-38941": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "38941",
+                        "assignedRoom1": "UC 152",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2776",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5102": {
+                "schedule": {
+                    "TH-38942": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "38942",
+                        "assignedRoom1": "UC 256",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2777",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5103": {
+                "schedule": {
+                    "TH-35288": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "35288",
+                        "assignedRoom1": "LM 155",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2780",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Restricted, for WW TESOL students only",
+                "enrollmentControls": [
+                    {
+                        "postId": "401",
+                        "postCode": "WW   TESOL",
+                        "postName": "Certificate TESOL",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "TUT-5201": {
+                "schedule": {
+                    "TH-38943": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "38943",
+                        "assignedRoom1": "UC 152",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2778",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5202": {
+                "schedule": {
+                    "TH-38944": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "38944",
+                        "assignedRoom1": "UC 256",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2779",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "LIN200H1-S-20169": {
+        "courseId": "1404",
+        "org": "LIN",
+        "orgName": "Linguistics (LIN) (JLP) (JLS) (JAL) (JFL) ",
+        "courseTitle": "Introduction to Language",
+        "code": "LIN200H1",
+        "courseDescription": "<p>A general-interest course on language. Possible topics include: the structure of language; how language changes over time, the social and psychological aspects of language, language and culture, the origin of language, writing systems, and language acquisition. (This course cannot be used as an entrance to programs in linguistics, and cannot be used as a prerequisite to any linguistics courses unless otherwise indicated.)<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "LIN101H1, LIN102H1, ANT253H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Students in the L2001 WW TESOL Restricted lecture section must enroll in T5103 (restricted for WW TESOL students only).",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-2001": {
+                "schedule": {
+                    "TH-35286": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "35286",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    }
+                },
+                "instructors": {
+                    "1160733": {
+                        "instructorId": "1160733",
+                        "firstName": "A",
+                        "lastName": "Dinkin"
+                    }
+                },
+                "meetingId": "13336",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Restricted, for WW TESOL students only",
+                "enrollmentControls": [
+                    {
+                        "postId": "401",
+                        "postCode": "WW   TESOL",
+                        "postName": "Certificate TESOL",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-2002": {
+                "schedule": {
+                    "TH-30408": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "30408",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    }
+                },
+                "instructors": {
+                    "1160734": {
+                        "instructorId": "1160734",
+                        "firstName": "A",
+                        "lastName": "Dinkin"
+                    }
+                },
+                "meetingId": "13337",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2002",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Restricted, for APSC students only",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TH-38947": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "38947",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    }
+                },
+                "instructors": {
+                    "1160735": {
+                        "instructorId": "1160735",
+                        "firstName": "A",
+                        "lastName": "Dinkin"
+                    }
+                },
+                "meetingId": "2785",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "215",
+                "actualEnrolment": "170",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-38949": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "38949",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 152"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2786",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-38951": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "38951",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 152"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2787",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0202": {
+                "schedule": {
+                    "TH-38952": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "38952",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 256"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2788",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "TH-38953": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "38953",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 152"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2789",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5102": {
+                "schedule": {
+                    "TH-38954": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "38954",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 256"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2790",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5103": {
+                "schedule": {
+                    "TH-47713": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "47713",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2791",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Room Changed: Jan 13, 2017. Restricted, for WW TESOL students only",
+                "enrollmentControls": [
+                    {
+                        "postId": "401",
+                        "postCode": "WW   TESOL",
+                        "postName": "Certificate TESOL",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "TUT-5201": {
+                "schedule": {
+                    "TH-38955": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "38955",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 152"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2793",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "32",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5202": {
+                "schedule": {
+                    "TH-30404": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "30404",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 256"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2794",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "32",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

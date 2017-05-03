@@ -1,0 +1,33 @@
+{
+    "NML320H1-S-20169": {
+        "courseId": "3849",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Intermediate Aramaic: Targum",
+        "code": "NML320H1",
+        "courseDescription": "<p>An intensive study of various Targumim to the Pentateuch: Onkelos, Pseudo-Jonathan, Neophyti, Samaritan and Fragment Targumim. Differences among them in vocabulary, syntax and verb usage are discussed, as well as their relationship to the Palestinian midrashim. (Offered in alternate years)<\/p>",
+        "prerequisite": "NML220Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "15250",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "September 30, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

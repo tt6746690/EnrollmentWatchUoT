@@ -1,0 +1,131 @@
+{
+    "LAS200H1-F-20169": {
+        "courseId": "1382",
+        "org": "LAS",
+        "orgName": "Latin American Studies (LAS)",
+        "courseTitle": "Latin America: History, Civilization and Culture- 19th Century (formerly LAS200Y1)",
+        "code": "LAS200H1",
+        "courseDescription": "<p class=\"MsoNormal\">An introductory course studying the development of Latin American societies from their precolumbian past to the 19<sup>th<\/sup> century building of modern nations. Cultural, historical, political, and social topics are examined combining historical documents with art, music and other texts from popular culture.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "IAS200Y1, LAS200Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-44098": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44098",
+                        "assignedRoom1": "JH 100",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160696": {
+                        "instructorId": "1160696",
+                        "firstName": "V",
+                        "lastName": "Rivas"
+                    }
+                },
+                "meetingId": "2732",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "37",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-44099": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "44099",
+                        "assignedRoom1": "JH 100",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2733",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TU-46489": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46489",
+                        "assignedRoom1": "OI 5160",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2735",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Sept 6, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "WE-46490": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46490",
+                        "assignedRoom1": "OI 7192",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2736",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Sept 6, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

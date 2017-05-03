@@ -1,0 +1,53 @@
+{
+    "GER336H1-S-20169": {
+        "courseId": "3285",
+        "org": "GER",
+        "orgName": "German (GER) (JGJ)",
+        "courseTitle": "Focus On Berlin (formerly GER422H1)",
+        "code": "GER336H1",
+        "courseDescription": "<p>This course offers an exploration of the cultural developments of one of the most exciting capitals of the world, from the Bismarckian era to German reunification and beyond.<\/p>",
+        "prerequisite": "GER205H1",
+        "corequisite": "",
+        "exclusion": "GER422H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-35931": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "35931",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 103"
+                    }
+                },
+                "instructors": {
+                    "1160103": {
+                        "instructorId": "1160103",
+                        "firstName": "A",
+                        "lastName": "Gerstner"
+                    }
+                },
+                "meetingId": "6197",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

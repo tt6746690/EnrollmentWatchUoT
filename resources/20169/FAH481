@@ -1,0 +1,155 @@
+{
+    "FAH481H1-F-20169": {
+        "courseId": "846",
+        "org": "FAR",
+        "orgName": "Art (FAH)",
+        "courseTitle": "Internship (formerly FAH455H1)",
+        "code": "FAH481H1",
+        "courseDescription": "<p>The internship is designed to offer hands-on experience pertaining to the study, exhibition, and care of works of art, focused on the collections and activities of the University Art Centre, an auction house, a public museum, or a private gallery. Students must provide proof of their acceptance as an intern by the Art Centre\/auction house\/museum\/gallery in order to be enrolled in the course. This course is Pass\/Fail. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "8 FAH half courses; permission of instructor (application in department)",
+        "corequisite": "",
+        "exclusion": "FAH454H1\/FAH455H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact contact Louise Kermode at the Art Department for details, email undergrad.arthistory@utoronto.ca.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159914": {
+                        "instructorId": "1159914",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1770",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "FAH481H1-S-20169": {
+        "courseId": "846",
+        "org": "FAR",
+        "orgName": "Art (FAH)",
+        "courseTitle": "Internship (formerly FAH455H1)",
+        "code": "FAH481H1",
+        "courseDescription": "<p>The internship is designed to offer hands-on experience pertaining to the study, exhibition, and care of works of art, focused on the collections and activities of the University Art Centre, an auction house, a public museum, or a private gallery. Students must provide proof of their acceptance as an intern by the Art Centre\/auction house\/museum\/gallery in order to be enrolled in the course. This course is Pass\/Fail. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "8 FAH half courses; permission of instructor (application in department)",
+        "corequisite": "",
+        "exclusion": "FAH454H1\/FAH455H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159915": {
+                        "instructorId": "1159915",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1771",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "FAH481Y1-Y-20169": {
+        "courseId": "847",
+        "org": "FAR",
+        "orgName": "Art (FAH)",
+        "courseTitle": "Internship (formerly FAH455H1)",
+        "code": "FAH481Y1",
+        "courseDescription": "<p>&nbsp;The internship is designed to offer hands-on experience pertaining to the study, exhibition, and care of works of art, focused on the collections and activities of the University Art Centre, an auction house, a public museum, or a private gallery. Students must provide proof of their acceptance as an intern by the Art Centre\/auction house\/museum\/gallery in order to be enrolled in the course. This course is Pass\/Fail. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "8 FAH half courses; permission of instructor (application in department)",
+        "corequisite": "",
+        "exclusion": "FAH454H1\/FAH455H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact contact Louise Kermode at the Art Department for details, email undergrad.arthistory@utoronto.ca.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159916": {
+                        "instructorId": "1159916",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1772",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

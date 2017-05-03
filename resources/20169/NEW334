@@ -1,0 +1,81 @@
+{
+    "NEW334H1-S-20169": {
+        "courseId": "1572",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Science of Wisdom: Buddhist and Western Traditions",
+        "code": "NEW334H1",
+        "courseDescription": "<p>Provides a conceptual and practical exploration of several ancient wisdom traditions.&nbsp; Buddhist approaches to self-actualization and wisdom will be compared to four Western sites of wisdom (i.e., Mesopotamia, ancient Greece, Christian monasticism, Renaissance). Includes guided experiential exercises for each of the wisdom traditions.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NEW232Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-30879": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "30879",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 87"
+                    }
+                },
+                "instructors": {
+                    "1161075": {
+                        "instructorId": "1161075",
+                        "firstName": "M",
+                        "lastName": "Ferrari"
+                    }
+                },
+                "meetingId": "3296",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "183",
+                        "postCode": "ASMIN1017",
+                        "postName": "MI BUDDHISM, PSY & MENTAL HLTH",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

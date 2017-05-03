@@ -1,0 +1,53 @@
+{
+    "INI436H1-S-20169": {
+        "courseId": "1290",
+        "org": "INNIS",
+        "orgName": "Innis College (INI) (JGI) (JEI)",
+        "courseTitle": "Independent Research in Urban Studies",
+        "code": "INI436H1",
+        "courseDescription": "<p>Designed to allow strong students in the Major and Specialist programs to extend a piece of urban research under the supervision of a faculty member from any aligned department. Choice of &lsquo;H&rsquo; or &lsquo;Y&rsquo; session pursuant to the scope of the research envisioned, the proposed supervisor&rsquo;s assessment of depth of the inquiry, and the approval of the program director. Proposals, including a letter from an agreeable supervisor should be submitted to the program director by June 1 for a Fall or Year session course and by November 1 for a Spring session course. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "INI235Y1, completion of research design and research methods courses, and suitable 4th-year standing (in terms of credits completed) in an aligned social science discipline. Enrolment in the Urban Studies Major or Specialist programs.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For E indicator Urban Studies and Writing and Rhetoric courses: contact Tony Pi, 416-978-5809, Innis College Room 233, Monday to Friday, 9:00 a.m. to 4:30 p.m. during the summer, and 9:00 a.m. to 5:00 p.m. after Labour Day, urbanstudies.innis@utoronto.ca and writingandrhetoric.innis@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160577": {
+                        "instructorId": "1160577",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "2607",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

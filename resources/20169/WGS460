@@ -1,0 +1,108 @@
+{
+    "WGS460Y1-Y-20169": {
+        "courseId": "2648",
+        "org": "WGSI",
+        "orgName": "Women and Gender Studies (WGS)",
+        "courseTitle": "Honours Seminar",
+        "code": "WGS460Y1",
+        "courseDescription": "<p>Supervised undergraduate thesis project undertaken in the final year of study. Students attend a bi-weekly seminar to discuss research strategies, analytics, methods and findings. A required course for Specialist students. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "WGS160Y1, one full course at the 300+ level in WGS, and one half course in WGS.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40983": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "40983",
+                        "assignedRoom1": "WI 2008",
+                        "assignedRoom2": "WI 2008"
+                    }
+                },
+                "instructors": {
+                    "1162923": {
+                        "instructorId": "1162923",
+                        "firstName": "S",
+                        "lastName": "Trimble"
+                    }
+                },
+                "meetingId": "5378",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "252",
+                        "postCode": "ASSPE0571",
+                        "postName": "SP WOMEN AND GENDER STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "62",
+                        "postCode": "ASMAJ0571",
+                        "postName": "MA WOMEN AND GENDER STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

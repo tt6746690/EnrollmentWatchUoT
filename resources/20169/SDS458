@@ -1,0 +1,104 @@
+{
+    "SDS458H1-F-20169": {
+        "courseId": "2219",
+        "org": "SDST",
+        "orgName": "Sexual Diversity Studies, Mark S. Bonham Centre (SDS) (JNS) (JPU) (JSU)",
+        "courseTitle": "Research Essay in Sexual Diversity (formerly UNI458H1)",
+        "code": "SDS458H1",
+        "courseDescription": "<p>A research essay under the supervision of a faculty member with knowledge of sexual diversity, the proposal and supervisor subject to the approval of the SDS Program Director. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "SDS255H1\/SDS256H1\/UNI255H1\/UNI256H1",
+        "corequisite": "",
+        "exclusion": "UNI458H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: please contact Rebecca Thorpe in UC251, Monday to Friday, 9:00am to 4:30pm for further information or email: sexual.diversity@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162287": {
+                        "instructorId": "1162287",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "4595",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SDS458H1-S-20169": {
+        "courseId": "2219",
+        "org": "SDST",
+        "orgName": "Sexual Diversity Studies, Mark S. Bonham Centre (SDS) (JNS) (JPU) (JSU)",
+        "courseTitle": "Research Essay in Sexual Diversity (formerly UNI458H1)",
+        "code": "SDS458H1",
+        "courseDescription": "<p>A research essay under the supervision of a faculty member with knowledge of sexual diversity, the proposal and supervisor subject to the approval of the SDS Program Director. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "SDS255H1\/SDS256H1\/UNI255H1\/UNI256H1",
+        "corequisite": "",
+        "exclusion": "UNI458H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: please contact Rebecca Thorpe in UC251, Monday to Friday, 9:00am to 4:30pm for further information or email: sexual.diversity@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162288": {
+                        "instructorId": "1162288",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "4596",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

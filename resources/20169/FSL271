@@ -1,0 +1,53 @@
+{
+    "FSL271H1-F-20169": {
+        "courseId": "933",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "French Grammar, within Reason",
+        "code": "FSL271H1",
+        "courseDescription": "<p>An introduction to basic concepts of the French grammar from an analytic and descriptive point of view. Exploration of traditional grammar concepts such as subject, predicate, complement. This course provides understanding of the logic that is often hidden by the apparent complexity of grammatical rules.<\/p>",
+        "prerequisite": "FSL121Y1 or, upon first FRE\/FSL enrolment, equivalent as determined by the French Placement Test",
+        "corequisite": "",
+        "exclusion": "FSL321Y1 and higher.",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "The Department reserves the right to place students in the language course appropriate to their level of linguistic competence, based on the results of a placement test. For more information on taking the placement test and guidelines on how to enroll into our courses, please visit: <a href=\"http:\/\/www.french.utoronto.ca\/undergraduate\/enrolment_guidelines \">www.french.utoronto.ca\/undergraduate\/enrolment_guidelines <\/a><u>",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-38685": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "38685",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160022": {
+                        "instructorId": "1160022",
+                        "firstName": "Y",
+                        "lastName": "Portebois"
+                    }
+                },
+                "meetingId": "5690",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "54",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

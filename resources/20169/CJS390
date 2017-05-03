@@ -1,0 +1,104 @@
+{
+    "CJS390H1-F-20169": {
+        "courseId": "276",
+        "org": "JSP",
+        "orgName": "Jewish Studies, Centre for (CJS) (JGJ)",
+        "courseTitle": "Special Topics in Jewish Studies",
+        "code": "CJS390H1",
+        "courseDescription": "<p>An examination of issues in Jewish Studies. Content in any given year depends on instructor.<\/p>",
+        "prerequisite": "Permission of the instructor\/program",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-47031": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "47031",
+                        "assignedRoom1": "JH 235",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158983": {
+                        "instructorId": "1158983",
+                        "firstName": "N",
+                        "lastName": "Lemish"
+                    }
+                },
+                "meetingId": "14412",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Jewish Music, History, and Culture",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: September 19, 2016",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CJS390H1-S-20169": {
+        "courseId": "276",
+        "org": "JSP",
+        "orgName": "Jewish Studies, Centre for (CJS) (JGJ)",
+        "courseTitle": "Special Topics in Jewish Studies",
+        "code": "CJS390H1",
+        "courseDescription": "<p>An examination of issues in Jewish Studies. Content in any given year depends on instructor.<\/p>",
+        "prerequisite": "Permission of the instructor\/program",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-38894": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "38894",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1088"
+                    }
+                },
+                "instructors": {
+                    "1158984": {
+                        "instructorId": "1158984",
+                        "firstName": "J",
+                        "lastName": "Krongold"
+                    }
+                },
+                "meetingId": "654",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Literary Responses to the Holocaust",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "NEW453H1-F-20169": {
+        "courseId": "4672",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Language and Postcolonial Education in East Africa",
+        "code": "NEW453H1",
+        "courseDescription": "<p>Examines the choice of languages for education in East Africa using critical perspectives. &nbsp;Pays particular attention to the influences of the historical experience of colonialism, the socio-linguistic contours of each country and the strength of linguistic and educational lobby groups in East African countries.<\/p>",
+        "prerequisite": "NEW150Y1\/NEW250Y1",
+        "corequisite": "",
+        "exclusion": "NEW453Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-23664": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "23664",
+                        "assignedRoom1": "WE 54G",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161112": {
+                        "instructorId": "1161112",
+                        "firstName": "A",
+                        "lastName": "Wasike"
+                    }
+                },
+                "meetingId": "14129",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

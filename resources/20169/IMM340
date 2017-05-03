@@ -1,0 +1,94 @@
+{
+    "IMM340H1-F-20169": {
+        "courseId": "1252",
+        "org": "IMM",
+        "orgName": "Immunology (IMM) (MIJ)",
+        "courseTitle": "Fundamental Immunology",
+        "code": "IMM340H1",
+        "courseDescription": "<p>This course introduces the basic principles and key players of the immune system: differences and interplay between innate and adaptive immunity, how immune cells develop and function, how immune&nbsp;cells recognize threats and danger and mount an appropriate and measured response.<\/p>",
+        "prerequisite": "BIO230H1",
+        "corequisite": "",
+        "exclusion": "IMM334Y1\/IMM335Y1\/IMM341H1",
+        "recommendedPreparation": "IMM250H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47130": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "47130",
+                        "assignedRoom1": "MS 2158",
+                        "assignedRoom2": null
+                    },
+                    "TH-47131": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47131",
+                        "assignedRoom1": "MS 2158",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160535": {
+                        "instructorId": "1160535",
+                        "firstName": "L",
+                        "lastName": "Clemenza"
+                    },
+                    "1160536": {
+                        "instructorId": "1160536",
+                        "firstName": "T",
+                        "lastName": "Mallevaey"
+                    }
+                },
+                "meetingId": "2560",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "450",
+                "actualEnrolment": "346",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "Time & Room Changed: Sept 29, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": "73",
+                        "postCode": "ASMAJ1002",
+                        "postName": "MA IMMUNOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "STA305H1-S-20169": {
+        "courseId": "2439",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Design and Analysis of Experiments (formerly STA332H1)",
+        "code": "STA305H1",
+        "courseDescription": "<p>Experiments vs observational studies, experimental units. Designs with one source of variation. Complete randomized designs and randomized block designs. Factorial designs. Inferences for contrasts and means. Model assumptions. Crossed and nested treatment factors, random effects models. Analysis of variance and covariance. Sample size calculations.<\/p>",
+        "prerequisite": "STA302H1",
+        "corequisite": "",
+        "exclusion": "STA332H1, STA402H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-44567": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44567",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 400"
+                    },
+                    "WE-44568": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "44568",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 400"
+                    }
+                },
+                "instructors": {
+                    "1162610": {
+                        "instructorId": "1162610",
+                        "firstName": "N",
+                        "lastName": "Taback"
+                    }
+                },
+                "meetingId": "5022",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "178",
+                "actualEnrolment": "170",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TU-44569": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44569",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 100"
+                    },
+                    "TH-44570": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "44570",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 100"
+                    }
+                },
+                "instructors": {
+                    "1162611": {
+                        "instructorId": "1162611",
+                        "firstName": "W",
+                        "lastName": "Lin"
+                    }
+                },
+                "meetingId": "14084",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "265",
+                "actualEnrolment": "238",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

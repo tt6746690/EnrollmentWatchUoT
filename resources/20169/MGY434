@@ -1,0 +1,61 @@
+{
+    "MGY434H1-S-20169": {
+        "courseId": "1518",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Bacterial Signalling and Physiological Regulation",
+        "code": "MGY434H1",
+        "courseDescription": "<p>An in-depth look at bacteria, their evolution and genomes, and how they sense their environment and adapt to environmental stimuli. Topics discussed include the human microbiome, modern bacterial genomics and metagenomics and how they affect diagnosis and treatment of disease, bacterial community structures including biofilms and quorum sensing, and the contribution of metabolism to disease and stress resistance.<\/p>",
+        "prerequisite": "BCH210H1\/BCH242Y1, BCH311H1\/CSB349H1\/ MGY311Y1, MGY377H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39404": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:30",
+                        "meetingScheduleId": "39404",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4171"
+                    },
+                    "TH-39403": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:30",
+                        "meetingScheduleId": "39403",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4171"
+                    }
+                },
+                "instructors": {
+                    "1161008": {
+                        "instructorId": "1161008",
+                        "firstName": "A",
+                        "lastName": "Bognar"
+                    }
+                },
+                "meetingId": "3226",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

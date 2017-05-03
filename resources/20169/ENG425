@@ -1,0 +1,195 @@
+{
+    "ENG425H1-S-20169": {
+        "courseId": "729",
+        "org": "ENG",
+        "orgName": "English (ENG) (JEI)",
+        "courseTitle": "Advanced Studies: Canadian and Indigenous North American Literatures",
+        "code": "ENG425H1",
+        "courseDescription": "<p>Advanced Studies: Canadian and Indigenous North American Literatures<\/p>\n<p>Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "4.0 ENG FCE and any 9.0 FCE",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-47476": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47476",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "JH 616"
+                    }
+                },
+                "instructors": {
+                    "1159750": {
+                        "instructorId": "1159750",
+                        "firstName": "S",
+                        "lastName": "Kamboureli"
+                    }
+                },
+                "meetingId": "13787",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Canadian Literature",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "Room Changed: Dec. 19, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": "123",
+                        "postCode": "ASMAJ1645",
+                        "postName": "MA ENGLISH",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "330",
+                        "postCode": "ASSPE1645",
+                        "postName": "SP ENGLISH",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-43281": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "43281",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 256"
+                    }
+                },
+                "instructors": {
+                    "1159751": {
+                        "instructorId": "1159751",
+                        "firstName": "A",
+                        "lastName": "Muredda"
+                    }
+                },
+                "meetingId": "13786",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "Raising the Question Mark Child in Canadian Literature",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "123",
+                        "postCode": "ASMAJ1645",
+                        "postName": "MA ENGLISH",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "330",
+                        "postCode": "ASSPE1645",
+                        "postName": "SP ENGLISH",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

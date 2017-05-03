@@ -1,0 +1,145 @@
+{
+    "PHY456H1-F-20169": {
+        "courseId": "1855",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Quantum Mechanics II",
+        "code": "PHY456H1",
+        "courseDescription": "<p>Quantum dynamics in Heisenberg and Schrdinger pictures; WKB approximation; variational method; time-independent perturbation theory; spin; addition of angular momentum; time-dependent perturbation theory; scattering.<\/p>",
+        "prerequisite": "PHY356H1",
+        "corequisite": "",
+        "exclusion": "PHY457H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39971": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39971",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    },
+                    "TU-39973": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39973",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    },
+                    "TH-39972": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39972",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161498": {
+                        "instructorId": "1161498",
+                        "firstName": "P",
+                        "lastName": "Savard"
+                    }
+                },
+                "meetingId": "3863",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "83",
+                "actualEnrolment": "47",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-46120": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46120",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    },
+                    "TU-46121": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46121",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    },
+                    "TH-46122": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46122",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161499": {
+                        "instructorId": "1161499",
+                        "firstName": "P",
+                        "lastName": "Savard"
+                    }
+                },
+                "meetingId": "14867",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "12",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

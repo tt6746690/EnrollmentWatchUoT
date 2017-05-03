@@ -1,0 +1,53 @@
+{
+    "HIS335H1-F-20169": {
+        "courseId": "1085",
+        "org": "HIS",
+        "orgName": "History (HIS) (JHA) (JHP) (JHN) (JSH) (JAH)",
+        "courseTitle": "Soviet Cultural History",
+        "code": "HIS335H1",
+        "courseDescription": "<p>This course explores Russian culture - art, architecture, film and literature - from 1917 to the post-Soviet present. Readings and screenings trace the relation between culture, history, and revolution from the Russian Avant-Garde and proletarian culture to socialist realism, and from Krushchevs thaw to examples of Soviet postmodernism.<\/p>",
+        "prerequisite": "HIS250H1\/HIS250Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-42591": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "42591",
+                        "assignedRoom1": "SS 1084",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160259": {
+                        "instructorId": "1160259",
+                        "firstName": "T",
+                        "lastName": "Lahusen"
+                    }
+                },
+                "meetingId": "2224",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

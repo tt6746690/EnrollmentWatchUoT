@@ -1,0 +1,108 @@
+{
+    "HIS460H1-S-20169": {
+        "courseId": "1125",
+        "org": "HIS",
+        "orgName": "History (HIS) (JHA) (JHP) (JHN) (JSH) (JAH)",
+        "courseTitle": "Soviet History and Film, 1941-1991",
+        "code": "HIS460H1",
+        "courseDescription": "<p>Soviet film as a historical source and the institutional and ideological history of Soviet film production, distribution, and exhibition. Fiction and documentary film during World War II; the cinema of the Cold War and the Thaw; Soviet new realism and the return of the village; avant-garde cinema of the 1960s-80s; memory and historical revision in late Soviet film. Screenings include never-before-seen archival footage, as well as films and film clips subtitled by the instructor.<\/p>",
+        "prerequisite": "INI115Y1\/HIS250Y1\/335H1",
+        "corequisite": "",
+        "exclusion": "HIS450Y1\/SLA233H1\/SLA234H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-45511": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "45511",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RL Media Commons Room 1"
+                    }
+                },
+                "instructors": {
+                    "1160322": {
+                        "instructorId": "1160322",
+                        "firstName": "T",
+                        "lastName": "Lahusen"
+                    }
+                },
+                "meetingId": "2275",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "16",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P*",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "64",
+                        "postCode": "ASMAJ0652",
+                        "postName": "MA HISTORY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "257",
+                        "postCode": "ASSPE0652",
+                        "postName": "SP HISTORY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

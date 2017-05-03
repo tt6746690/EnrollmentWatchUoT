@@ -1,0 +1,61 @@
+{
+    "NML231H1-S-20169": {
+        "courseId": "3845",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Elementary Coptic II",
+        "code": "NML231H1",
+        "courseDescription": "<p>A continuation of NML230H1.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46836": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "46836",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1078"
+                    },
+                    "FR-46837": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "46837",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1078"
+                    }
+                },
+                "instructors": {
+                    "1161196": {
+                        "instructorId": "1161196",
+                        "firstName": "R",
+                        "lastName": "Bishara"
+                    }
+                },
+                "meetingId": "14523",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Changed: September 15, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

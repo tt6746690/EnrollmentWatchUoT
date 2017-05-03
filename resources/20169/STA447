@@ -1,0 +1,113 @@
+{
+    "STA447H1-S-20169": {
+        "courseId": "2447",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Stochastic Processes (formerly STA348H1)",
+        "code": "STA447H1",
+        "courseDescription": "<p>Discrete and continuous time processes with an emphasis on Markov, Gaussian and renewal processes. Martingales and further limit theorems. A variety of applications taken from some of the following areas are discussed in the context of stochastic modeling: Information Theory, Quantum Mechanics, Statistical Analyses of Stochastic Processes, Population Growth Models, Reliability, Queuing Models, Stochastic Calculus, Simulation (Monte Carlo Methods).<\/p>",
+        "prerequisite": "STA347H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-2001": {
+                "schedule": {
+                    "TH-37909": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "37909",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MS 2170"
+                    }
+                },
+                "instructors": {
+                    "1162623": {
+                        "instructorId": "1162623",
+                        "firstName": "J",
+                        "lastName": "Rosenthal"
+                    }
+                },
+                "meetingId": "14880",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TH-40529": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "40529",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 2170"
+                    }
+                },
+                "instructors": {
+                    "1162624": {
+                        "instructorId": "1162624",
+                        "firstName": "J",
+                        "lastName": "Rosenthal"
+                    }
+                },
+                "meetingId": "5030",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "97",
+                "actualEnrolment": "84",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

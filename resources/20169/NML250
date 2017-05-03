@@ -1,0 +1,69 @@
+{
+    "NML250Y1-Y-20169": {
+        "courseId": "1671",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Introductory Biblical Hebrew",
+        "code": "NML250Y1",
+        "courseDescription": "<p>An introduction to biblical Hebrew prose. Grammar and selected texts. For students with no previous knowledge of Hebrew.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Those who have completed Grade 8 Hebrew (or Grade 6 in Israel)",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39539": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39539",
+                        "assignedRoom1": "UC 175",
+                        "assignedRoom2": "UC 175"
+                    },
+                    "WE-39540": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39540",
+                        "assignedRoom1": "UC 175",
+                        "assignedRoom2": "UC 175"
+                    },
+                    "FR-39538": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39538",
+                        "assignedRoom1": "UC 175",
+                        "assignedRoom2": "UC 175"
+                    }
+                },
+                "instructors": {
+                    "1161198": {
+                        "instructorId": "1161198",
+                        "firstName": "L",
+                        "lastName": "Hare"
+                    }
+                },
+                "meetingId": "3422",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

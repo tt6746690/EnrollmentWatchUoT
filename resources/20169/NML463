@@ -1,0 +1,84 @@
+{
+    "NML463H1-F-20169": {
+        "courseId": "3863",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Structural Development of Iranian Languages",
+        "code": "NML463H1",
+        "courseDescription": "<p>This interdisciplinary course focuses on the structural development of Iranian Languages, especially Persian language, from Old Persian (551 BC) to Modern Persian (7th century) with the emphasis on the word formation and grammar. This course examines the role of language in maintaining cultural identity and shows the type and the mechanism of the development of a language in general and of Iranian languages in particular.<\/p>",
+        "prerequisite": "NML360Y1 or permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46565": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46565",
+                        "assignedRoom1": "SS 1087",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161220": {
+                        "instructorId": "1161220",
+                        "firstName": "A",
+                        "lastName": "Hojatollah Taleghani"
+                    }
+                },
+                "meetingId": "15191",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "**Room Changed: Sept 7, 2016**",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "NML463H1-S-20169": {
+        "courseId": "3863",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Structural Development of Iranian Languages",
+        "code": "NML463H1",
+        "courseDescription": "<p>This interdisciplinary course focuses on the structural development of Iranian Languages, especially Persian language, from Old Persian (551 BC) to Modern Persian (7th century) with the emphasis on the word formation and grammar. This course examines the role of language in maintaining cultural identity and shows the type and the mechanism of the development of a language in general and of Iranian languages in particular.<\/p>",
+        "prerequisite": "NML360Y1 or permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "14388",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 15, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

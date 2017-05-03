@@ -1,0 +1,157 @@
+{
+    "LIN228H1-F-20169": {
+        "courseId": "1408",
+        "org": "LIN",
+        "orgName": "Linguistics (LIN) (JLP) (JLS) (JAL) (JFL) ",
+        "courseTitle": "Phonetics",
+        "code": "LIN228H1",
+        "courseDescription": "<p>Investigation of the sounds most commonly used in languages from an articulatory and acoustic point of view, with practice in their recognition and production. Students will learn the International Phonetic Alphabet (IPA) and practice transcribing a wide variety of speech sounds.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "LIN101H1\/LIN200H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-47089": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "47089",
+                        "assignedRoom1": "SS 2117",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160739": {
+                        "instructorId": "1160739",
+                        "firstName": "A",
+                        "lastName": "Kochetov"
+                    }
+                },
+                "meetingId": "2817",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "151",
+                "actualEnrolment": "129",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Priority Enrolment Removed: July 20, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-38978": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "38978",
+                        "assignedRoom1": "UC 261",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2818",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "MO-38979": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "38979",
+                        "assignedRoom1": "UC 261",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2819",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0202": {
+                "schedule": {
+                    "MO-38980": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "38980",
+                        "assignedRoom1": "LM 155",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2820",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "MO-47090": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "47090",
+                        "assignedRoom1": "LM 155",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2821",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "46",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

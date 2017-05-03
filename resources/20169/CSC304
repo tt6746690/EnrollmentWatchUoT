@@ -1,0 +1,124 @@
+{
+    "CSC304H1-F-20169": {
+        "courseId": "2845",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Algorithmic Game Theory and Mechanism Design",
+        "code": "CSC304H1",
+        "courseDescription": "<p>A mathematical and computational introduction to game theory and mechanism design. Topics include games in matrix and extensive form, equilibria and price of anarchy, matching markets, auctions, network externalities, tipping points, voting theory. This course is intended for economics, mathematics, and computer science students.<\/p>",
+        "prerequisite": "STA247H1\/STA255H1\/STA257H1\/PSY201H1\/ECO227Y1, (MAT135H1, MAT136H1)\/MAT137Y1\/MAT157Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-45201": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45201",
+                        "assignedRoom1": "SS 1087",
+                        "assignedRoom2": null
+                    },
+                    "WE-45202": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45202",
+                        "assignedRoom1": "SS 1086",
+                        "assignedRoom2": null
+                    },
+                    "FR-45203": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45203",
+                        "assignedRoom1": "SS 1086",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159206": {
+                        "instructorId": "1159206",
+                        "firstName": "A",
+                        "lastName": "Borodin"
+                    }
+                },
+                "meetingId": "14285",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "23",
+                        "secondaryOrgCode": "CSC",
+                        "secondaryOrgName": "Department of Computer Science",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "23",
+                        "secondaryOrgCode": "CSC",
+                        "secondaryOrgName": "Department of Computer Science",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

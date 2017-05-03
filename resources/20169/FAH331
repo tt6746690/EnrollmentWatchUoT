@@ -1,0 +1,53 @@
+{
+    "FAH331H1-F-20169": {
+        "courseId": "830",
+        "org": "FAR",
+        "orgName": "Art (FAH)",
+        "courseTitle": "Netherlandish Renaissance Art and Culture (formerly FAH307H1)",
+        "code": "FAH331H1",
+        "courseDescription": "<p>Painting, sculpture and architecture of the Netherlands in the sixteenth century with reference to the arts in Italy, France, Germany and Spain. Consideration of Netherlandish art in the context of literature, religion, urban expansion, political and economic developments; and as a system of communication. Particular attention devoted to Hieronymus Bosch, Pieter Bruegel, the rise of secular art.<\/p>",
+        "prerequisite": "FAH230H1\/FAH231H1\/274H1\/279H1",
+        "corequisite": "",
+        "exclusion": "FAH307H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46571": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46571",
+                        "assignedRoom1": "SS 1069",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159901": {
+                        "instructorId": "1159901",
+                        "firstName": "E",
+                        "lastName": "Kavaler"
+                    }
+                },
+                "meetingId": "1754",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "52",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

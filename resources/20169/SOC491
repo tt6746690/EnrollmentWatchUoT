@@ -1,0 +1,53 @@
+{
+    "SOC491H1-F-20169": {
+        "courseId": "2400",
+        "org": "SOC",
+        "orgName": "Sociology (SOC)",
+        "courseTitle": "Independent Research",
+        "code": "SOC491H1",
+        "courseDescription": "<p>Independent Research courses allow students to pursue a specific topic of interest. These courses are offered at&nbsp;the 400-level, as full or half courses. Students work independently with a professor in the Department who acts as research supervisor. There are no formal class meetings, lectures, or readings other than what is agreed to with the supervisor. Professors accept supervisory responsibility at their discretion. They are not required to serve as research supervisors. It is recommended that students approach a professor working in the same sub-discipline of sociology. Often students become interested in a topic through a SOC course and approach the instructor of that course for supervision; however, this is not required. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Students must have completed 15.0 courses towards their degree, plus a SOC course at the 300+ level to be eligible for 400-level Independent Research. For further details, please visit our website at:http:\/\/know.soc.utoronto.ca\/index.php?option=com_content&task=view&id=62&Itemid=136",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: students must contact the Undergraduate Program Administrator at sociology.undergraduate@utoronto.ca or 416-946-4064.",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162530": {
+                        "instructorId": "1162530",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "4908",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

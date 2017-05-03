@@ -1,0 +1,71 @@
+{
+    "MGY451H1-F-20169": {
+        "courseId": "1520",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Genetic Analysis of Development I",
+        "code": "MGY451H1",
+        "courseDescription": "<p>Basic and advanced principles of genetic analysis applied to the study of two of the best-understood eukaryotic model organisms: the yeast Saccharomyces cerevisiae and the nematode worm Caenorhabditis elegans. We emphasize the use of genetic approaches to address problems in cell biology and development, such as the regulation of cell fate. Much of the knowledge gained from these simple organisms has proven broadly applicable, and the same principles of developmental genetic analysis underlie efforts to understand the development of more complex organisms.<\/p>",
+        "prerequisite": "BIO260H1\/HMB265H1, MGY311Y1\/CSB349H1\/BCH311H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39407": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "39407",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": null
+                    },
+                    "WE-39408": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "39408",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161010": {
+                        "instructorId": "1161010",
+                        "firstName": "M",
+                        "lastName": "Justice"
+                    },
+                    "1161011": {
+                        "instructorId": "1161011",
+                        "firstName": "H",
+                        "lastName": "Krause"
+                    },
+                    "1161012": {
+                        "instructorId": "1161012",
+                        "firstName": "A",
+                        "lastName": "Spence"
+                    }
+                },
+                "meetingId": "3228",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

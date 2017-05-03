@@ -1,0 +1,108 @@
+{
+    "GGR343H1-S-20169": {
+        "courseId": "1005",
+        "org": "GGR",
+        "orgName": "Geography (GGR) (JFG) (JFE) (JGE) (JGI) (JUG) (JEG)",
+        "courseTitle": "The Changing Geography of China",
+        "code": "GGR343H1",
+        "courseDescription": "<p>The evolving social, political and economic landscape of China. Focus on development strategies and their effects on agriculture, industry, urbanization, city planning and the environment since 1949. Special attention paid to the interconnected development trajectories shaping urban and rural areas, together with the complex interactions between the built and social environments.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "8.0 FCE's including 1.0 FCE in Geography (SOC SCI\/BR=3)",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-32982": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "32982",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2125"
+                    }
+                },
+                "instructors": {
+                    "1160160": {
+                        "instructorId": "1160160",
+                        "firstName": "A",
+                        "lastName": "Boland"
+                    }
+                },
+                "meetingId": "14516",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "52",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "31",
+                        "subjectCode": "GGR",
+                        "subjectName": "GEOGRAPHY",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "31",
+                        "subjectCode": "GGR",
+                        "subjectName": "GEOGRAPHY",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

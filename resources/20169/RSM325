@@ -1,0 +1,81 @@
+{
+    "RSM325H1-S-20169": {
+        "courseId": "2149",
+        "org": "COMPG",
+        "orgName": "Rotman Commerce (RSM) (MGT)",
+        "courseTitle": "Legal Environment of Business II",
+        "code": "RSM325H1",
+        "courseDescription": "<p><span lang=\"EN-US\">This course canvasses several areas of law that impact a business entity. Topics dealt with include agency law, employment law, the Personal Property Security Act and the rights of the secured creditor, bankruptcy law, relevant consumer protection legislation, intellectual property and other specific legal topics. <\/span>Not eligible for CR\/NCR option. Contact Rotman Commerce for details.<\/p>",
+        "prerequisite": "RSM225H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-21377": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:30",
+                        "meetingEndTime": "20:30",
+                        "meetingScheduleId": "21377",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WO 35"
+                    }
+                },
+                "instructors": {
+                    "1162133": {
+                        "instructorId": "1162133",
+                        "firstName": "J",
+                        "lastName": "Seidman"
+                    }
+                },
+                "meetingId": "4447",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "56",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "20",
+                        "adminOrgCode": "COMPG",
+                        "adminOrgName": "Rotman Commerce"
+                    }
+                ]
+            }
+        }
+    }
+}

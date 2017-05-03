@@ -1,0 +1,53 @@
+{
+    "EEB488H1-Y-20169": {
+        "courseId": "650",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Research Issues in Ecology and Evolutionary Biology",
+        "code": "EEB488H1",
+        "courseDescription": "<p>This course is taken concurrently by students who are enrolled in EEB498Y1 Advanced Research Project in Ecology and Evolutionary Biology, and uses a combination of seminars, discussions, and presentations (including presentations by students) designed to cover issues commonly encountered when conducting research in ecology and evolutionary biology. Topics may include experimental design, effective use of statistics, scientific writing and publishing, public communication, ethics, and career development. Students will be required to attend departmental seminars. This half-course runs from September to April and meets in alternate weeks. Students who apply to EEB497H1 in the fall session can also apply to enrol concurrently in EEB488H1.<\/p>",
+        "prerequisite": "Permission of the department",
+        "corequisite": "EEB498Y1 (or EEB497H1 Fall)",
+        "exclusion": "EEB499Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Application instructions for registration are found at <a href=\"http:\/\/www.eeb.utoronto.ca\/Learning\/u-courses\/up-courses.htm\">http:\/\/www.eeb.utoronto.ca\/Learning\/u-courses\/up-courses.htm<\/a>. For more information, please contact the Undergraduate Assistant, at undergrad.eeb@utoronto.ca.\r\n",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-42788": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:30",
+                        "meetingScheduleId": "42788",
+                        "assignedRoom1": "ES B142",
+                        "assignedRoom2": "ES B142"
+                    }
+                },
+                "instructors": {
+                    "1159640": {
+                        "instructorId": "1159640",
+                        "firstName": "A",
+                        "lastName": "Cutter"
+                    }
+                },
+                "meetingId": "1370",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

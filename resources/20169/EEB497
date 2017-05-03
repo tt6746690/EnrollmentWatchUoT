@@ -1,0 +1,104 @@
+{
+    "EEB497H1-F-20169": {
+        "courseId": "653",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Research Studies in Ecology & Evolutionary Biology",
+        "code": "EEB497H1",
+        "courseDescription": "<p>An independent studies half-course allowing students to conduct research which is supervised by a faculty member in the Department of Ecology and Evolutionary Biology. Highly motivated fourth-year students will work closely with a supervisor, and will be required to write up the results of their research in a final research paper. Students should contact a potential supervisor well before classes begin in the fall, winter, or summer session. Information on how to apply for the course is available on the EEB website. Students cannot take more than two independent research courses of EEB 497H1, 498Y1, and 499Y1, and the second project must be with a different supervisor. Students who apply to EEB497H1 in the fall session can also apply to enrol concurrently in EEB488H1Y. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Application instructions for registration are found at <a href=\"http:\/\/www.eeb.utoronto.ca\/Learning\/u-courses\/up-courses.htm\">http:\/\/www.eeb.utoronto.ca\/Learning\/u-courses\/up-courses.htm<\/a>. For more information, please contact the Undergraduate Assistant, at undergrad.eeb@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159649": {
+                        "instructorId": "1159649",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1374",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "EEB497H1-S-20169": {
+        "courseId": "653",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Research Studies in Ecology & Evolutionary Biology",
+        "code": "EEB497H1",
+        "courseDescription": "<p>An independent studies half-course allowing students to conduct research which is supervised by a faculty member in the Department of Ecology and Evolutionary Biology. Highly motivated fourth-year students will work closely with a supervisor, and will be required to write up the results of their research in a final research paper. Students should contact a potential supervisor well before classes begin in the fall, winter, or summer session. Information on how to apply for the course is available on the EEB website. Students cannot take more than two independent research courses of EEB 497H1, 498Y1, and 499Y1, and the second project must be with a different supervisor. Students who apply to EEB497H1 in the fall session can also apply to enrol concurrently in EEB488H1Y. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Application instructions for registration are found at <a href=\"http:\/\/www.eeb.utoronto.ca\/Learning\/u-courses\/up-courses.htm\">http:\/\/www.eeb.utoronto.ca\/Learning\/u-courses\/up-courses.htm<\/a>. For more information, please contact the Undergraduate Assistant, at undergrad.eeb@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159650": {
+                        "instructorId": "1159650",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1375",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

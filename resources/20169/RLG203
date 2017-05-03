@@ -1,0 +1,61 @@
+{
+    "RLG203H1-F-20169": {
+        "courseId": "4096",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Christianity",
+        "code": "RLG203H1",
+        "courseDescription": "<p>An introduction to the Christian religious tradition as it has developed from the 1st century C.E. to the present and has been expressed in teachings, institutions, social attitudes, and the arts.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "RLG203H5, RLG203Y1",
+        "recommendedPreparation": "RLG100Y1\/RLG200H1\/RLG280Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-44128": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "44128",
+                        "assignedRoom1": "JH 100",
+                        "assignedRoom2": null
+                    },
+                    "TH-44129": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "44129",
+                        "assignedRoom1": "JH 100",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161906": {
+                        "instructorId": "1161906",
+                        "firstName": "J",
+                        "lastName": "Harris"
+                    }
+                },
+                "meetingId": "5446",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

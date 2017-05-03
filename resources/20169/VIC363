@@ -1,0 +1,113 @@
+{
+    "VIC363H1-S-20169": {
+        "courseId": "2588",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Teaching Math: The JUMP Approach",
+        "code": "VIC363H1",
+        "courseDescription": "<p>This course will challenge the widely accepted idea that people need to be born with a special gift or natural ability to excel in mathematics. New research in education and cognitive science suggests that young learners often struggle in school because they are not taught in a way that allows their brains to work efficiently. This course will examine barriers that prevent students from learning and methods of teaching that can help all students reach their full potential (not only in math).&nbsp; Math lovers and math phobic students are welcome:&nbsp; the course aims to help students develop deeper levels of confidence and understanding in mathematics so they can become effective teachers themselves.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-34147": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "34147",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 119"
+                    }
+                },
+                "instructors": {
+                    "1162826": {
+                        "instructorId": "1162826",
+                        "firstName": "J",
+                        "lastName": "Mighton"
+                    },
+                    "1162827": {
+                        "instructorId": "1162827",
+                        "firstName": "T",
+                        "lastName": "Solomon"
+                    }
+                },
+                "meetingId": "5246",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "184",
+                        "postCode": "ASMIN1028",
+                        "postName": "MI EDUCATION & SOCIETY (CTEP)",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "185",
+                        "postCode": "ASMIN1029",
+                        "postName": "MI EDUCATION & SOCIETY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

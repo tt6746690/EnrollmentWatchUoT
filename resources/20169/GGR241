@@ -1,0 +1,53 @@
+{
+    "GGR241H1-S-20169": {
+        "courseId": "982",
+        "org": "GGR",
+        "orgName": "Geography (GGR) (JFG) (JFE) (JGE) (JGI) (JUG) (JEG)",
+        "courseTitle": "Geographies of Urban Social Exclusion",
+        "code": "GGR241H1",
+        "courseDescription": "<p>Introduction to the geographies of urban social exclusion and segregation after 1750. Using a selection of cities from around the world, the course examines the impacts and implications of urban social inequalities.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-37100": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "37100",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2117"
+                    }
+                },
+                "instructors": {
+                    "1160132": {
+                        "instructorId": "1160132",
+                        "firstName": "G",
+                        "lastName": "MacGregor"
+                    }
+                },
+                "meetingId": "14385",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "188",
+                "actualEnrolment": "152",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "EAS358Y1-Y-20169": {
+        "courseId": "516",
+        "org": "EAS",
+        "orgName": "East Asian Studies (EAS)",
+        "courseTitle": "Classical Chinese I",
+        "code": "EAS358Y1",
+        "courseDescription": "<p>An introduction to the Classical Chinese language with emphasis on grammatical analysis and translation into English. Open only to EAS majors and specialists.&nbsp;<\/p>",
+        "prerequisite": "at least 4 EAS half courses",
+        "corequisite": "",
+        "exclusion": "EAS206Y1,EAS306Y1,EAS335Y1",
+        "recommendedPreparation": "two or more years of Modern Standard Chinese",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-33295": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "33295",
+                        "assignedRoom1": "LA 214",
+                        "assignedRoom2": "LA 214"
+                    }
+                },
+                "instructors": {
+                    "1159411": {
+                        "instructorId": "1159411",
+                        "firstName": "G",
+                        "lastName": "Sanders"
+                    }
+                },
+                "meetingId": "1132",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "81",
+                        "postCode": "ASMAJ1058",
+                        "postName": "MA EAST ASIAN STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "278",
+                        "postCode": "ASSPE1058",
+                        "postName": "SP EAST ASIAN STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

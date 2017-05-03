@@ -1,0 +1,53 @@
+{
+    "PRT423H1-F-20169": {
+        "courseId": "1971",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "Portuguese for professionals",
+        "code": "PRT423H1",
+        "courseDescription": "<p>The course will help students to develop language on a range of topics from financial, legal, medical to educational. It will also provide students with the awareness of Lusopone cultures and improve cross-cultural competence.<\/p>",
+        "prerequisite": "PRT320Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "PRT420H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-40359": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "40359",
+                        "assignedRoom1": "NF 235",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161687": {
+                        "instructorId": "1161687",
+                        "firstName": "M",
+                        "lastName": "Marujo"
+                    }
+                },
+                "meetingId": "4023",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

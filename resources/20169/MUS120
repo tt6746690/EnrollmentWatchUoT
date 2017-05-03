@@ -1,0 +1,47 @@
+{
+    "MUS120Y1-Y-20169": {
+        "courseId": "1536",
+        "org": "MUSIC",
+        "orgName": "Music (MUS)",
+        "courseTitle": "Vocal and Instrumental Ensembles I",
+        "code": "MUS120Y1",
+        "courseDescription": "<p>Students rehearse and perform in concerts and reading sessions as assigned by the Faculty of Music. Provides experience in choral groups, orchestra, or in concert band and large wind groups of diverse instrumentation. Development of musicianship skills through performance of large ensemble works; emphasis on sight-reading, ear-training, and musical knowledge.<\/p>\n<p>Attendance at all sessions is required. Placement audition and permission of the Department required.<br \/>Download the excerpt that is relevant to the instrument you would like to audition on; excerpts will be available at www.music.utoronto.ca beginning early July. Complete and return the <a target=_blank\" href=\"http:\/\/www.artsandscience.utoronto.ca\/ofr\/calendar\/crs_mus.htm#MUS120Y1\">MUS120Y1<\/a> &amp; <a target=\"_blank\" href=\"http:\/\/www.artsandscience.utoronto.ca\/ofr\/calendar\/crs_mus.htm#MUS220Y1\">MUS220Y1<\/a> Audition Request Form before August 12",
+        "prerequisite": "2016.<\/p>",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Faculty of Music students cannot enroll in Arts & Science music courses. For 'E' indicator courses: contact the department for further information: (416) 978-3740; registrar.music@utoronto.ca",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3248",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

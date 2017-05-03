@@ -1,0 +1,53 @@
+{
+    "NML460Y1-Y-20169": {
+        "courseId": "3862",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Classical Persian Literature",
+        "code": "NML460Y1",
+        "courseDescription": "<p>Survey of Persian literature, chiefly poetry, from the 10th to the 15th centuries, based on selected readings at an advanced level from representative authors, including Rudaki, Nizami, Sadi, Rumi, and Hafiz, as well as from the Persian national epic, <em>Shah-nameh<\/em>. Introduction to the Persian prosodial system, and analysis of the rhetorical devices and imagery employed by the classical poets Intended for upper year students.<\/p>",
+        "prerequisite": "NML360Y1 or adequate knowledge of classical Persian",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-45899": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "45899",
+                        "assignedRoom1": "BF 200B",
+                        "assignedRoom2": "BF 200B"
+                    }
+                },
+                "instructors": {
+                    "1161218": {
+                        "instructorId": "1161218",
+                        "firstName": "M",
+                        "lastName": "Subtelny"
+                    }
+                },
+                "meetingId": "14389",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

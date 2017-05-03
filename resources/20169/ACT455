@@ -1,0 +1,61 @@
+{
+    "ACT455H1-S-20169": {
+        "courseId": "38",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Advanced Topics in Actuarial Science",
+        "code": "ACT455H1",
+        "courseDescription": "<p>Advanced life contingencies, multiple decrement theory, insurance policy expenses, multi-state transition models, Poisson processes.<\/p>",
+        "prerequisite": "ACT348H1; STA347H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40491": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "40491",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2110"
+                    },
+                    "TH-40490": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40490",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2110"
+                    }
+                },
+                "instructors": {
+                    "1158438": {
+                        "instructorId": "1158438",
+                        "firstName": "A",
+                        "lastName": "Badescu"
+                    }
+                },
+                "meetingId": "50",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

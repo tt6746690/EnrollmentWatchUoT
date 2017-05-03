@@ -1,0 +1,116 @@
+{
+    "DRM302H1-S-20169": {
+        "courseId": "458",
+        "org": "DRAMA",
+        "orgName": "Drama, Theatre and Performance Studies, Centre for (DRM) (JDC) (JIA)",
+        "courseTitle": "Directing I",
+        "code": "DRM302H1",
+        "courseDescription": "<p>An introduction to major concepts and artistic practices in directing. The course focuses on different styles, ideas, and goals of theatre directors in their relations to actors, audiences, and broad cultural and political contexts. A major component will be the practical application of basic directing techniques.<\/p>",
+        "prerequisite": "DRM100Y1\/DRM101Y1\/UNI102Y1",
+        "corequisite": "DRM220Y1\/DRM230Y1 or any course from Group A.",
+        "exclusion": "",
+        "recommendedPreparation": "DRM220Y1\/DRM230Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "There will be additional tutorial times which will be held regularly. Dates and times to be determined based on student availability.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-43455": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "43455",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UP 200"
+                    },
+                    "TH-43456": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "43456",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UP 200"
+                    }
+                },
+                "instructors": {
+                    "1159339": {
+                        "instructorId": "1159339",
+                        "firstName": "L",
+                        "lastName": "Cherniak"
+                    }
+                },
+                "meetingId": "1025",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "146",
+                        "postCode": "ASMAJ2148",
+                        "postName": "MA DRAMA",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "365",
+                        "postCode": "ASSPE2148",
+                        "postName": "SP DRAMA",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

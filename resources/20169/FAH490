@@ -1,0 +1,102 @@
+{
+    "FAH490H1-S-20169": {
+        "courseId": "3207",
+        "org": "FAR",
+        "orgName": "Art (FAH)",
+        "courseTitle": "Introduction to the Textile Arts of the Indian Ocean World",
+        "code": "FAH490H1",
+        "courseDescription": "<p>The Indian Ocean has been called the Cradle of Globalization. For thousands of years monsoon winds linked the people and arts of this vast Ocean that stretches from East Africa in the West to Indonesia (and beyond) in the East. Throughout its long history, handwoven textiles have been amongst the area&rsquo;s greatest art forms, trade goods, religious objects and markers of identity. This course will survey the wide variety of these forms, from c. 1100 to 1950. Special attention is placed on India, which lies at the center of the region, and originated many of the fibres, techniques, design and iconography of the wider area. Select regional manifestations are then examined in depth, using the ROM&rsquo;s extensive collections. These range from the silks of Madagascar, to embroidered men&rsquo;s wear of Oman, to the cosmopolitan batiks of northern coastal Java. It is seen that all these traditions can best be understood within the framework of the wider Indian Ocean region.<\/p>",
+        "prerequisite": "Permission of the instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Asian art, Islamic art, or anthropology",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-44201": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44201",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Department "
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15159",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "71",
+                        "postCode": "ASMAJ0908",
+                        "postName": "MA FINE ART (HISTORY OF ART)",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "264",
+                        "postCode": "ASSPE0908",
+                        "postName": "SP FINE ART (HISTORY OF ART)",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

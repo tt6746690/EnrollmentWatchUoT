@@ -1,0 +1,81 @@
+{
+    "PSY407H1-S-20169": {
+        "courseId": "2044",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Special Topics in Psychology",
+        "code": "PSY407H1",
+        "courseDescription": "<p>In depth examination of specific topics\/themes relating to Psychology.&nbsp; Content in any given year depends on instructor.&nbsp; This is not considered a seminar course.&nbsp; Priority is given to PSY Major program students during the first enrolment period.<\/p>",
+        "prerequisite": "PSY100H1, PSY201H1 (or exclusion), and one further 200-level PSY half-course",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-38495": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "38495",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "SS 1087"
+                    }
+                },
+                "instructors": {
+                    "1161869": {
+                        "instructorId": "1161869",
+                        "firstName": "P",
+                        "lastName": "Selby"
+                    }
+                },
+                "meetingId": "4176",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Drugs, Sex and Rock 'n' Roll: Addiction as a Disorder of Consumption",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "36",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "90",
+                        "postCode": "ASMAJ1160",
+                        "postName": "MA PSYCHOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

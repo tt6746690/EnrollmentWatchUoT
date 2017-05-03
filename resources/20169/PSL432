@@ -1,0 +1,81 @@
+{
+    "PSL432H1-S-20169": {
+        "courseId": "1984",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Theoretical Physiology",
+        "code": "PSL432H1",
+        "courseDescription": "<p>Theoretical treatment of neurophysiology. Mathematical modeling and analysis of neurophysiological systems.<\/p>",
+        "prerequisite": "MAT235Y1\/MAT237Y1; APM346H1\/MAT244H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "PHY200-series; PSL201Y1\/PSL300H1\/(BIO270H1, BIO271H1)",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "This course may be added using ROSI\/ACORN, but will appear with an interim status until reviewed. It is the responsibility of the student to check whether their status has been approved or refused. For questions, please contact Eva Eng at eva.eng@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46760": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46760",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3227"
+                    }
+                },
+                "instructors": {
+                    "1161740": {
+                        "instructorId": "1161740",
+                        "firstName": "D",
+                        "lastName": "Tweed"
+                    }
+                },
+                "meetingId": "4046",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "**Room Changed: September 12, 2016**",
+                "enrollmentControls": [
+                    {
+                        "postId": "1",
+                        "postCode": "*",
+                        "postName": "",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

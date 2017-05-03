@@ -1,0 +1,53 @@
+{
+    "SMC313H1-S-20169": {
+        "courseId": "2309",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Catholic Education in Ontario",
+        "code": "SMC313H1",
+        "courseDescription": "<p>An historical appraisal of the evolution of Catholic schools, universities, and catechetical education in Ontario. Special emphasis is placed on the evolution of Ontario's separate school system.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-40267": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "40267",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 103"
+                    }
+                },
+                "instructors": {
+                    "1162404": {
+                        "instructorId": "1162404",
+                        "firstName": "P",
+                        "lastName": "Reale"
+                    }
+                },
+                "meetingId": "4735",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

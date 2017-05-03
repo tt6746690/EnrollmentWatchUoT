@@ -1,0 +1,53 @@
+{
+    "RLG206H1-S-20169": {
+        "courseId": "4099",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Buddhism",
+        "code": "RLG206H1",
+        "courseDescription": "<p>The development, spread, and diversification of Buddhist traditions from southern to northeastern Asia, as well as to the West.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "RLG206H5, RLG206Y1",
+        "recommendedPreparation": "RLG100Y1\/RLG200H1\/RLG280Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-45055": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "45055",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1083"
+                    }
+                },
+                "instructors": {
+                    "1161909": {
+                        "instructorId": "1161909",
+                        "firstName": "A",
+                        "lastName": "Erlich"
+                    }
+                },
+                "meetingId": "14205",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "95",
+                "actualEnrolment": "72",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "PCL461H1-S-20169": {
+        "courseId": "1712",
+        "org": "PCL",
+        "orgName": "Pharmacology (PCL)",
+        "courseTitle": "Advanced Pharmacology Laboratory",
+        "code": "PCL461H1",
+        "courseDescription": "<p>Advanced laboratory exercises and discussions through tutorials and presentations in selected areas of pharmacology. Enrollment in this course is generally restricted to students enrolled in the Pharmacology Specialist and&nbsp;Pharmacology and Biomedical Toxicology&nbsp;Specialist programs.<\/p>",
+        "prerequisite": "PCL201H1, PCL302H1, PSL300H1\/PSL301H1, PCL366H1",
+        "corequisite": "",
+        "exclusion": "PCL365Y1\/PCL471Y1",
+        "recommendedPreparation": "PCL469H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-44574": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "44574",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Department"
+                    }
+                },
+                "instructors": {
+                    "1161248": {
+                        "instructorId": "1161248",
+                        "firstName": "S",
+                        "lastName": "Hamadanizadeh"
+                    }
+                },
+                "meetingId": "3467",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "362",
+                        "postCode": "ASSPE2082",
+                        "postName": "SP PHARMACOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "369",
+                        "postCode": "ASSPE2340",
+                        "postName": "SP PHARM & BIOMED TOXICOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

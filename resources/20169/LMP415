@@ -1,0 +1,86 @@
+{
+    "LMP415H1-S-20169": {
+        "courseId": "1443",
+        "org": "LMP",
+        "orgName": "Laboratory Medicine and Pathobiology (LMP)",
+        "courseTitle": "Forensic Pathobiology",
+        "code": "LMP415H1",
+        "courseDescription": "<p>A thematic review of the major scientific areas and research controversies in forensic medicine. The approach is mechanistic analysis and evidence-based medicine. Classical forensic medicine is critically analyzed with emphasis on experimental meth-ods to resolve controversies. We also explore how the justice system utilizes medical and scientific data.<\/p>",
+        "prerequisite": "LMP300Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For 'PE' indicator courses: Non-Pathobiology Specialists may be considered for enrolment. If space allows, students with similar backgrounds may be given special permission to enroll. For further information and\/or instructions, contact the LMP Undergraduate Office, Medical Sciences Bldg (MSB), room 6209, Phone: 416-946-7459\r\nEmail: teresa.trimboli@utoronto.ca. Earliest consideration for enrolment starts in June until August.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-14030": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "14030",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3278"
+                    }
+                },
+                "instructors": {
+                    "1160782": {
+                        "instructorId": "1160782",
+                        "firstName": "M",
+                        "lastName": "Bellis"
+                    },
+                    "1160783": {
+                        "instructorId": "1160783",
+                        "firstName": "J",
+                        "lastName": "Herath"
+                    }
+                },
+                "meetingId": "2875",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "357",
+                        "postCode": "ASSPE2025",
+                        "postName": "SP PATHOBIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

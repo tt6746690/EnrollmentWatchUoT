@@ -1,0 +1,53 @@
+{
+    "SLA400H1-S-20169": {
+        "courseId": "4315",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Studies in Medieval Russian Literature",
+        "code": "SLA400H1",
+        "courseDescription": "<p>Explores the development of the types of writing (e.g. chronicles, vitae, epics, tales, poetry) used to capture the cultural, political, religious, and aesthetic experiences of Mediaeval Rus' from the 11th to 17th century. Readings in English. Where appropriate, majors will read some excerpts in the original.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Some reading knowledge of Russian desirable but not required",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-29652": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "29652",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 103"
+                    }
+                },
+                "instructors": {
+                    "1162367": {
+                        "instructorId": "1162367",
+                        "firstName": "T",
+                        "lastName": "Smith"
+                    }
+                },
+                "meetingId": "12847",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

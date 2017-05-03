@@ -1,0 +1,116 @@
+{
+    "NFS382H1-S-20169": {
+        "courseId": "1613",
+        "org": "NUSCI",
+        "orgName": "Nutritional Sciences (NFS)",
+        "courseTitle": "Vitamin and Mineral Metabolism Throughout the Life Cycle",
+        "code": "NFS382H1",
+        "courseDescription": "<p>Micronutrients are essential for health throughout the life cycle. This course examines the role of micronutrients during development and ageing with some emphasis on disease prevention and pathogenesis. Students develop critical appraisal skills, an understanding of the principles of study design and learn to write in a scientific style.<\/p>",
+        "prerequisite": "NFS284H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-36591": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "36591",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WI 1016"
+                    },
+                    "WE-36592": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "36592",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WI 1016"
+                    }
+                },
+                "instructors": {
+                    "1161127": {
+                        "instructorId": "1161127",
+                        "firstName": "D",
+                        "lastName": "O'Connor"
+                    }
+                },
+                "meetingId": "3342",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "163",
+                "actualEnrolment": "82",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "82",
+                        "postCode": "ASMAJ1068",
+                        "postName": "MA NUTRITIONAL SCIENCES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "279",
+                        "postCode": "ASSPE1068",
+                        "postName": "SP NUTRITIONAL SCIENCES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

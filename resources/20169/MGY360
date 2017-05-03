@@ -1,0 +1,99 @@
+{
+    "MGY360H1-S-20169": {
+        "courseId": "1511",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Whole-Genome Sequencing and Analysis Laboratory",
+        "code": "MGY360H1",
+        "courseDescription": "<p>The principles and practice of whole-genome sequencing.&nbsp; Each student team will sequence an entire eukaryotic genome and analyze it.&nbsp; Topics will include: modern sequencing technology, yeast husbandry, genomic library construction and quality control, &lsquo;next-generation&rsquo; sequencing, sequence assembly using a reference genome, principles of genome organization, mutation detection and interpretation.<\/p>",
+        "prerequisite": "BIO230H1, BIO260H1\/HMB265H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cAE\u201d indicator courses: students who miss the registration deadline should contact the instructor directly.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-42861": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "42861",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3278"
+                    },
+                    "TU-42862": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42862",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3281"
+                    }
+                },
+                "instructors": {
+                    "1160986": {
+                        "instructorId": "1160986",
+                        "firstName": "A",
+                        "lastName": "Cote"
+                    },
+                    "1160987": {
+                        "instructorId": "1160987",
+                        "firstName": "A",
+                        "lastName": "Ensminger"
+                    },
+                    "1160988": {
+                        "instructorId": "1160988",
+                        "firstName": "F",
+                        "lastName": "Roth"
+                    }
+                },
+                "meetingId": "3217",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "1",
+                        "postCode": "*",
+                        "postName": "",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

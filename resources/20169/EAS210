@@ -1,0 +1,176 @@
+{
+    "EAS210Y1-Y-20169": {
+        "courseId": "498",
+        "org": "EAS",
+        "orgName": "East Asian Studies (EAS)",
+        "courseTitle": "Modern Standard Korean II",
+        "code": "EAS210Y1",
+        "courseDescription": "<p>As a continuation of EAS110Y1, this course is designed to help students improve their skills in the Korean language.&nbsp; Students in this course are expected to perform basic communicative functions, read and write paragraph-level texts, and conjugate verbs\/adjectives accurately. Interviews are required of all students who wish to enrol in the course. See www.eas.utoronto.ca\/languages\/korean for details.&nbsp;<\/p>",
+        "prerequisite": "EAS110Y1 (63% minimum)\/equivalent as determined by the Korean placement interview",
+        "corequisite": "",
+        "exclusion": "EAS211Y1,EAS212H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "In order to request enrolment in this course students without the prerequisite must attend an interview. Returning students should attend an interview in April; incoming students in September. For more information and to register: \r\nhttp:\/\/www.eas.utoronto.ca\/languages\/korean\/",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-14218": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "14218",
+                        "assignedRoom1": "SS 1085",
+                        "assignedRoom2": "SS 1085"
+                    }
+                },
+                "instructors": {
+                    "1159389": {
+                        "instructorId": "1159389",
+                        "firstName": "Y",
+                        "lastName": "Choi"
+                    }
+                },
+                "meetingId": "1109",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "56",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "81",
+                        "postCode": "ASMAJ1058",
+                        "postName": "MA EAST ASIAN STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "278",
+                        "postCode": "ASSPE1058",
+                        "postName": "SP EAST ASIAN STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-46100": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46100",
+                        "assignedRoom1": "SS 1070",
+                        "assignedRoom2": "SS 2105"
+                    },
+                    "TH-46099": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46099",
+                        "assignedRoom1": "RW 143",
+                        "assignedRoom2": "RW 143"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "1110",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-46102": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46102",
+                        "assignedRoom1": "SS 562",
+                        "assignedRoom2": "SS 562"
+                    },
+                    "TH-46101": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46101",
+                        "assignedRoom1": "SS 562",
+                        "assignedRoom2": "SS 562"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "1111",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

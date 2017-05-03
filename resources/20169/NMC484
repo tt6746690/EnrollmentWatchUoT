@@ -1,0 +1,53 @@
+{
+    "NMC484H1-S-20169": {
+        "courseId": "3841",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Gender-related Topics in Law and Religion",
+        "code": "NMC484H1",
+        "courseDescription": "<p>Abortion, rape, family violence and similar topics from the perspective of historical and legal development, scientific theory, socio-ethical attitudes and anthropological comparison in the Bible and other ancient Near Eastern sources, through Jewish legal texts to modern responses. (Offered in alternate years)<\/p>",
+        "prerequisite": "Permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47240": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47240",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF Library"
+                    }
+                },
+                "instructors": {
+                    "1161179": {
+                        "instructorId": "1161179",
+                        "firstName": "T",
+                        "lastName": "Meacham"
+                    }
+                },
+                "meetingId": "15303",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: Oct 25, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

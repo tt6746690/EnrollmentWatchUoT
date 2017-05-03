@@ -1,0 +1,53 @@
+{
+    "FAH380H1-F-20169": {
+        "courseId": "4690",
+        "org": "FAR",
+        "orgName": "Art (FAH)",
+        "courseTitle": "Special Topics in Art History (formerly FAH395H1)",
+        "code": "FAH380H1",
+        "courseDescription": "",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-44196": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44196",
+                        "assignedRoom1": "Contact Department ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159906": {
+                        "instructorId": "1159906",
+                        "firstName": "C",
+                        "lastName": "Zemel"
+                    }
+                },
+                "meetingId": "14734",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Modern Jewish Art",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "38",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

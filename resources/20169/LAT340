@@ -1,0 +1,61 @@
+{
+    "LAT340H1-F-20169": {
+        "courseId": "3673",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Latin Novelists I",
+        "code": "LAT340H1",
+        "courseDescription": "<p>Readings from one or more Latin novelists.<\/p>",
+        "prerequisite": "LAT202H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-23206": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "23206",
+                        "assignedRoom1": "LI 205",
+                        "assignedRoom2": null
+                    },
+                    "TH-23207": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "23207",
+                        "assignedRoom1": "LI 205",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160715": {
+                        "instructorId": "1160715",
+                        "firstName": "S",
+                        "lastName": "Bernard"
+                    }
+                },
+                "meetingId": "14115",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

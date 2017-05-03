@@ -1,0 +1,140 @@
+{
+    "PCJ361H1-S-20169": {
+        "courseId": "1697",
+        "org": "GLAF",
+        "orgName": "Peace, Conflict and Justice Studies (PCJ) (MUN)",
+        "courseTitle": "Special Topics in Peace and Conflict Studies (formerly PCS361H1, UNI361H1)",
+        "code": "PCJ361H1",
+        "courseDescription": "<p>An exploration of selected issues in the field of Peace, Conflict and Justice involving an overseas and\/or practicum component.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "PCS361H1, UNI361Y1",
+        "recommendedPreparation": "POL208Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Students not in the Peace, Conflict and Justice Program must have approval from the Program Administrator to take PCJ courses. Please contact the Program Administrator at pcj.programme@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-45797": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45797",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 244"
+                    }
+                },
+                "instructors": {
+                    "1161223": {
+                        "instructorId": "1161223",
+                        "firstName": "K",
+                        "lastName": "Carter"
+                    },
+                    "1161224": {
+                        "instructorId": "1161224",
+                        "firstName": "W",
+                        "lastName": "Wong"
+                    }
+                },
+                "meetingId": "3448",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "94",
+                        "postCode": "ASMAJ1228",
+                        "postName": "MA PEACE, CONFLICT & JUSTICE",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "253",
+                        "postCode": "ASSPE0575",
+                        "postName": "SP IR\/PEACE,CONFLICT & JUSTICE",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "293",
+                        "postCode": "ASSPE1228",
+                        "postName": "SP PEACE, CONFLICT & JUSTICE",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

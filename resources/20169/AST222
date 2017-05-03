@@ -1,0 +1,69 @@
+{
+    "AST222H1-S-20169": {
+        "courseId": "130",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (PLN)",
+        "courseTitle": "Galaxies and Cosmology",
+        "code": "AST222H1",
+        "courseDescription": "<p>The (astro)physics of stellar systems, galaxies, and the Universe, their structure, formation, and evolution.<\/p>",
+        "prerequisite": "AST221H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41100": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41100",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AB 107"
+                    },
+                    "WE-41101": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41101",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AB 107"
+                    },
+                    "FR-41102": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41102",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AB 107"
+                    }
+                },
+                "instructors": {
+                    "1158565": {
+                        "instructorId": "1158565",
+                        "firstName": "K",
+                        "lastName": "Vanderlinde"
+                    }
+                },
+                "meetingId": "278",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "47",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

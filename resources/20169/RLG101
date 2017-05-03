@@ -1,0 +1,104 @@
+{
+    "RLG101H1-F-20169": {
+        "courseId": "4094",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Introducing Religion",
+        "code": "RLG101H1",
+        "courseDescription": "<p>An introduction to topics in the study of Religion. Topics will vary by semester and year. Check the department website for upcoming topics.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-29214": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "29214",
+                        "assignedRoom1": "OI 2212",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161902": {
+                        "instructorId": "1161902",
+                        "firstName": "A",
+                        "lastName": "Goodman"
+                    }
+                },
+                "meetingId": "13343",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Death and Dying",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "71",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "RLG101H1-S-20169": {
+        "courseId": "4094",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Introducing Religion",
+        "code": "RLG101H1",
+        "courseDescription": "<p>An introduction to topics in the study of Religion. Topics will vary by semester and year. Check the department website for upcoming topics.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-47567": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "47567",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 161"
+                    }
+                },
+                "instructors": {
+                    "1161903": {
+                        "instructorId": "1161903",
+                        "firstName": "D",
+                        "lastName": "Novak"
+                    }
+                },
+                "meetingId": "13345",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Taking Human Life",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "81",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Jan. 5, 2017",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

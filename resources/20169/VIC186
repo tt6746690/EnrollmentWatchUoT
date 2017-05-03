@@ -1,0 +1,53 @@
+{
+    "VIC186Y1-Y-20169": {
+        "courseId": "4564",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "The Art and Literature of Leadership",
+        "code": "VIC186Y1",
+        "courseDescription": "<p>What is a leader? Are leaders born or are they made, and if they are made is there a craft to being able to lead others? Through works of art, film, and literature, this course examines the various types of men and women who become leaders from natural-born talents to statesmen and state-crafters and individual entrepreneurs with the purpose of defining those qualities that make for the leaders of tomorrow.&nbsp;&nbsp;Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Admission to Vic One",
+        "corequisite": "VIC187H1, VIC188H1, and ECO100Y1",
+        "exclusion": "Innis One, Munk One, New One, SMC One, Trinity One, UC One, Woodsworth One, 199 seminars, Vic One Hundred.",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "This course is only open to students admitted to the Vic One program.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-27617": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "27617",
+                        "assignedRoom1": "VC 304",
+                        "assignedRoom2": "VC 304"
+                    }
+                },
+                "instructors": {
+                    "1162776": {
+                        "instructorId": "1162776",
+                        "firstName": "B",
+                        "lastName": "Meyer"
+                    }
+                },
+                "meetingId": "13829",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

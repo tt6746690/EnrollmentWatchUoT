@@ -1,0 +1,113 @@
+{
+    "MGT100H1-F-20169": {
+        "courseId": "4654",
+        "org": "COMPG",
+        "orgName": "Rotman Commerce (RSM) (MGT)",
+        "courseTitle": "Fundamentals of Management (formerly RSM100Y1)",
+        "code": "MGT100H1",
+        "courseDescription": "<p>Introduction to management and its subdisciplines. Themes include business in a Canadian context, the nature of corporations, corporate governance, organizational behavior, operations, and strategy.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "RSM100H1, RSM100Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Rotman Commerce students are not allowed to enroll in this course. This course is designated for all Arts & Science students on St. George Campus.",
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-37457": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "08:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "37457",
+                        "assignedRoom1": "BT 101",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160956": {
+                        "instructorId": "1160956",
+                        "firstName": "M",
+                        "lastName": "Khan"
+                    },
+                    "1160957": {
+                        "instructorId": "1160957",
+                        "firstName": "J",
+                        "lastName": "Oesch"
+                    }
+                },
+                "meetingId": "13189",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "400",
+                "actualEnrolment": "301",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Rotman Commerce students are not allowed to enroll in this course.",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

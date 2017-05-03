@@ -1,0 +1,53 @@
+{
+    "VIC324H1-S-20169": {
+        "courseId": "2575",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Introduction to Forensic Semiotics",
+        "code": "VIC324H1",
+        "courseDescription": "<p>This course will introduce the field of forensic semiotics, which is new and in the process of being developed within the general field of semiotics. The course will look at the usage of semiotic notions, methods, and techniques in the area of forensic science. This includes the analysis of facial expression, sign-based clues left at crime scenes, body language, the symbolism of tattoos in gang behaviour, the role of ritual and slang in criminal gangs and in organized crime syndicates, and the analysis of conversations and written materials produced by criminals and their meanings. Experts in the field (from the judiciary, police, and other areas) will be invited to give guest lectures.<\/p>",
+        "prerequisite": "VIC220Y1\/VIC223Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-34700": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "34700",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 212"
+                    }
+                },
+                "instructors": {
+                    "1162808": {
+                        "instructorId": "1162808",
+                        "firstName": "M",
+                        "lastName": "Danesi"
+                    }
+                },
+                "meetingId": "5229",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

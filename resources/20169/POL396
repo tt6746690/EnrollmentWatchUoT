@@ -1,0 +1,53 @@
+{
+    "POL396H1-S-20169": {
+        "courseId": "1908",
+        "org": "POL",
+        "orgName": "Political Science (POL) (JHP) (JPA) (JPD) (JPF) (JPP) (JPR) (JPU) (JRA)",
+        "courseTitle": "Research Participation",
+        "code": "POL396H1",
+        "courseDescription": "<p>Credit course for supervised participation in a faculty research project. Offered only when a faculty member is willing and available to supervise. Interested faculty review plans with the Undergraduate Director, and then make the opportunity known to students as appropriate. Check with Undergraduate Office for more details and faculty proposal form. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Available to students in their third year of study (who have completed at least 9 full courses or their equivalent)",
+        "corequisite": "",
+        "exclusion": "POL299Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For enrolment in this course, contact the Student and Alumni\/Advancement Coordinator, Elizabeth Jagdeo at e.jagdeo@utoronto.ca for details.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161610": {
+                        "instructorId": "1161610",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "3943",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

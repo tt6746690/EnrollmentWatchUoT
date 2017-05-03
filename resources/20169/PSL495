@@ -1,0 +1,81 @@
+{
+    "PSL495H1-S-20169": {
+        "courseId": "1993",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Communicate Biomedical Science",
+        "code": "PSL495H1",
+        "courseDescription": "<p>Research, critique and write a manuscript on a topic of your choice in the scientific literature while guided by classes and assignments that develop advanced science communication skills; and by a mentor expert in your area of clinical or basic physiology.<\/p>",
+        "prerequisite": "PSL300H1; PSL301H1; PSL372H1; 13.5 additional credits; and permission of Department",
+        "corequisite": "",
+        "exclusion": "BCH479H1; HMB490H1; HMB491H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "This course may be added using ROSI\/ACORN, but will appear with an interim status until reviewed. It is the responsibility of the student to check whether their status has been approved or refused. For questions, please contact Eva Eng at eva.eng@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-42906": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42906",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3231"
+                    }
+                },
+                "instructors": {
+                    "1161766": {
+                        "instructorId": "1161766",
+                        "firstName": "V",
+                        "lastName": "Watt"
+                    }
+                },
+                "meetingId": "4055",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "1",
+                        "postCode": "*",
+                        "postName": "",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

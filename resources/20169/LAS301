@@ -1,0 +1,108 @@
+{
+    "LAS301H1-F-20169": {
+        "courseId": "1385",
+        "org": "LAS",
+        "orgName": "Latin American Studies (LAS)",
+        "courseTitle": "Topics in the Humanities",
+        "code": "LAS301H1",
+        "courseDescription": "<p>The goal of this course is to critically analyze the Latin American social imaginaries as expressed in art, literature and\/or film, based on close readings of texts. Topics of the course vary depending on the needs of the program and the interests of students.<\/p>",
+        "prerequisite": "IAS200Y1\/LAS200Y1\/LAS201H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-46496": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46496",
+                        "assignedRoom1": "OI 4418",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160699": {
+                        "instructorId": "1160699",
+                        "firstName": "V",
+                        "lastName": "Rivas"
+                    }
+                },
+                "meetingId": "2743",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "The Latin American Post-Colonial Imaginary",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "Room Changed: Sept 6, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": "61",
+                        "postCode": "ASMAJ0552",
+                        "postName": "MA LATIN AMERICAN STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "171",
+                        "postCode": "ASMIN0552",
+                        "postName": "MI LATIN AMERICAN STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

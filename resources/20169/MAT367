@@ -1,0 +1,197 @@
+{
+    "MAT367H1-S-20169": {
+        "courseId": "1482",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Differential Geometry",
+        "code": "MAT367H1",
+        "courseDescription": "<p>Manifolds, partitions of unity, submersions and immersions, vector fields, vector bundles, tangent and cotangent bundles, foliations and Frobenius&rsquo; theorem, multillinear algebra, differential forms, Stokes&rsquo; theorem, Poincare-Hopf theorem<\/p>",
+        "prerequisite": "MAT257Y1\/(MAT224H1, MAT237Y1,MAT246H1,and permission of instructor)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Multivariable calculus (MAT257Y1), Linear algebra (MAT240H1, MAT247H1)",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39359": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39359",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 137"
+                    },
+                    "WE-39360": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39360",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 137"
+                    },
+                    "FR-39358": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39358",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 137"
+                    }
+                },
+                "instructors": {
+                    "1160927": {
+                        "instructorId": "1160927",
+                        "firstName": "E",
+                        "lastName": "Meinrenken"
+                    }
+                },
+                "meetingId": "3180",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "88",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-38299": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38299",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MP 137"
+                    },
+                    "WE-38300": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38300",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MP 137"
+                    },
+                    "FR-38301": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38301",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MP 137"
+                    }
+                },
+                "instructors": {
+                    "1160928": {
+                        "instructorId": "1160928",
+                        "firstName": "E",
+                        "lastName": "Meinrenken"
+                    }
+                },
+                "meetingId": "14893",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-41825": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "41825",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "HA 410"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15001",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "47",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-41826": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41826",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "HA 410"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15002",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "46",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "CIN369H1-F-20169": {
+        "courseId": "2785",
+        "org": "CINE",
+        "orgName": "Cinema Studies (CIN)",
+        "courseTitle": "Critical Writing on Film (formerly INI384H1)",
+        "code": "CIN369H1",
+        "courseDescription": "<p>The practice of film criticism: studies of examples of journalistic and scholarly critical writing, practical sessions of process writing, and collaborative editing. Course includes regular film screenings.<\/p>",
+        "prerequisite": "CIN105Y1 and one additional Cinema Studies full-course equivalent\/ permission of the instructor",
+        "corequisite": "",
+        "exclusion": "INI384H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For \u2018E\u2019 indicator Cinema Studies Courses: Contact the Undergraduate Assistant, 416-978-8571, cinema.studies@utoronto.ca . ",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-23655": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "23655",
+                        "assignedRoom1": "IN 313",
+                        "assignedRoom2": null
+                    },
+                    "TH-23656": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "23656",
+                        "assignedRoom1": "IN 313",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158960": {
+                        "instructorId": "1158960",
+                        "firstName": "J",
+                        "lastName": "Anderson"
+                    }
+                },
+                "meetingId": "14034",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "DRM491H1-F-20169": {
+        "courseId": "479",
+        "org": "DRAMA",
+        "orgName": "Drama, Theatre and Performance Studies, Centre for (DRM) (JDC) (JIA)",
+        "courseTitle": "Independent Studies in Drama, Theatre and Performance Studies",
+        "code": "DRM491H1",
+        "courseDescription": "<p>A scholarly project at the 400 level proposed by the individual student in conversation with a member of faculty who is willing to act as supervisor. Not eligible for CR\/NCR option.&nbsp;<\/p>",
+        "prerequisite": "CGPA 2.7; DRM220Y1\/DRM230Y1; 14 FCE; Specialist or Major in Drama; A written proposal; Independent study form signed by both student and faculty instructor to be submitted for approval to the Associate Director (undergraduate) before registration: August 1st for September start date; November 1st for January start date.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "CGPA 2.7; DRM220Y1\/DRM230Y1; 14 FCE; Specialist or Major in Drama; A written proposal; Independent study form to be submitted for approval to the Associate Director (undergraduate) by August 1st for a September start date. For more information, please contact Colleen Osborn at c.osborn@utoronto.ca.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159365": {
+                        "instructorId": "1159365",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1048",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "146",
+                        "postCode": "ASMAJ2148",
+                        "postName": "MA DRAMA",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "365",
+                        "postCode": "ASSPE2148",
+                        "postName": "SP DRAMA",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    },
+    "DRM491H1-S-20169": {
+        "courseId": "479",
+        "org": "DRAMA",
+        "orgName": "Drama, Theatre and Performance Studies, Centre for (DRM) (JDC) (JIA)",
+        "courseTitle": "Independent Studies in Drama, Theatre and Performance Studies",
+        "code": "DRM491H1",
+        "courseDescription": "<p>A scholarly project at the 400 level proposed by the individual student in conversation with a member of faculty who is willing to act as supervisor. Not eligible for CR\/NCR option.&nbsp;<\/p>",
+        "prerequisite": "CGPA 2.7; DRM220Y1\/DRM230Y1; 14 FCE; Specialist or Major in Drama; A written proposal; Independent study form signed by both student and faculty instructor to be submitted for approval to the Associate Director (undergraduate) before registration: August 1st for September start date; November 1st for January start date.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "CGPA 2.7; DRM220Y1\/DRM230Y1; 14 FCE; Specialist or Major in Drama; A written proposal; Independent study form to be submitted for approval to the Associate Director (undergraduate) by November 1st for January start date. For more information, please contact Colleen Osborn at c.osborn@utoronto.ca.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "1049",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "DRM491H1-Y-20169": {
+        "courseId": "479",
+        "org": "DRAMA",
+        "orgName": "Drama, Theatre and Performance Studies, Centre for (DRM) (JDC) (JIA)",
+        "courseTitle": "Independent Studies in Drama, Theatre and Performance Studies",
+        "code": "DRM491H1",
+        "courseDescription": "<p>A scholarly project at the 400 level proposed by the individual student in conversation with a member of faculty who is willing to act as supervisor. Not eligible for CR\/NCR option.&nbsp;<\/p>",
+        "prerequisite": "CGPA 2.7; DRM220Y1\/DRM230Y1; 14 FCE; Specialist or Major in Drama; A written proposal; Independent study form signed by both student and faculty instructor to be submitted for approval to the Associate Director (undergraduate) before registration: August 1st for September start date; November 1st for January start date.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "CGPA 2.7; DRM220Y1\/DRM230Y1; 14 FCE; Specialist or Major in Drama; A written proposal; Independent study form to be submitted for approval to the Associate Director (undergraduate) by August 1st for a September start date. For more information, please contact Colleen Osborn at c.osborn@utoronto.ca.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "1050",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

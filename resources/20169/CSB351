@@ -1,0 +1,61 @@
+{
+    "CSB351Y1-Y-20169": {
+        "courseId": "364",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Introductory Virology",
+        "code": "CSB351Y1",
+        "courseDescription": "<p>An introduction to basic and medical virology. What you should know about viruses and the diseases they cause.&nbsp; Tutorials are optional.<\/p>",
+        "prerequisite": "BIO230H1\/BIO240H1\/BIO241H\/BIO255H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41568": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "41568",
+                        "assignedRoom1": "MS 2158",
+                        "assignedRoom2": "MS 2158"
+                    },
+                    "TH-41569": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "41569",
+                        "assignedRoom1": "MS 2158",
+                        "assignedRoom2": "MS 2158"
+                    }
+                },
+                "instructors": {
+                    "1159090": {
+                        "instructorId": "1159090",
+                        "firstName": "M",
+                        "lastName": "AbouHaidar"
+                    }
+                },
+                "meetingId": "798",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "240",
+                "actualEnrolment": "186",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

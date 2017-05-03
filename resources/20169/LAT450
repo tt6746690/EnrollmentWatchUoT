@@ -1,0 +1,61 @@
+{
+    "LAT450H1-F-20169": {
+        "courseId": "3679",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Latin Epic II",
+        "code": "LAT450H1",
+        "courseDescription": "<p>Advanced readings from one or more Latin epics, including Virgil.<\/p>",
+        "prerequisite": "One FCE in the LAT 300-series",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-29694": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "29694",
+                        "assignedRoom1": "NF 332",
+                        "assignedRoom2": null
+                    },
+                    "WE-29695": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "29695",
+                        "assignedRoom1": "NF 332",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160724": {
+                        "instructorId": "1160724",
+                        "firstName": "A",
+                        "lastName": "Keith"
+                    }
+                },
+                "meetingId": "14118",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

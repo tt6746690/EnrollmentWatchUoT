@@ -1,0 +1,61 @@
+{
+    "NML350H1-F-20169": {
+        "courseId": "1677",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Intermediate Biblical Hebrew I",
+        "code": "NML350H1",
+        "courseDescription": "<p>A continuation of the study of ancient Hebrew grammar and texts. Focus is given to covering a wide variety of genres, e.g., narrative, chronicle, genealogy, oracle, prayer, hymn, and proverb.<\/p>",
+        "prerequisite": "NML250Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-45786": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45786",
+                        "assignedRoom1": "BF 316",
+                        "assignedRoom2": null
+                    },
+                    "TH-45787": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45787",
+                        "assignedRoom1": "BF 316",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161206": {
+                        "instructorId": "1161206",
+                        "firstName": "M",
+                        "lastName": "Graham"
+                    }
+                },
+                "meetingId": "3428",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

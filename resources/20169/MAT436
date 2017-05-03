@@ -1,0 +1,69 @@
+{
+    "MAT436H1-F-20169": {
+        "courseId": "3703",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Introduction to Linear Operators",
+        "code": "MAT436H1",
+        "courseDescription": "<p>The course will survey the branch of mathematics developed (in its abstract form) primarily in the twentieth century and referred to variously as functional analysis, linear operators in Hilbert space, and operator algebras, among other names (for instance, more recently, to reflect the rapidly increasing scope of the subject, the phrase non-commutative geometry has been introduced).&nbsp; The intention will be to discuss a number of the topics in Pedersen's textbook Analysis Now.&nbsp; Students will be encouraged to lecture on some of the material, and also to work through some of the exercises in the textbook (or in the suggested reference books).<\/p>",
+        "prerequisite": "5.0 FCE from MAT, including MAT224H1\/MAT247H1 and MAT237Y1\/MAT257Y1.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46088": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46088",
+                        "assignedRoom1": "HU 1018",
+                        "assignedRoom2": null
+                    },
+                    "WE-46089": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46089",
+                        "assignedRoom1": "HU 1018",
+                        "assignedRoom2": null
+                    },
+                    "FR-46090": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46090",
+                        "assignedRoom1": "HU 1018",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160939": {
+                        "instructorId": "1160939",
+                        "firstName": "G",
+                        "lastName": "Elliott"
+                    }
+                },
+                "meetingId": "14628",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "17",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

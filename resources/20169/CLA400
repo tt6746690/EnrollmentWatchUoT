@@ -1,0 +1,104 @@
+{
+    "CLA400H1-F-20169": {
+        "courseId": "305",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Independent Studies (formerly CLA400Y1)",
+        "code": "CLA400H1",
+        "courseDescription": "<p>Independent Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of Department",
+        "corequisite": "",
+        "exclusion": "CLA400Y1",
+        "recommendedPreparation": "Preferably 1 FCE in the CLA 300-series",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Applicants should first contact a potential supervisor for the proposed project. Once they have the supervisor's agreement, they should bring it to the Undergraduate Coordinator, Room 110, 125 Queen's Park or email undergrad.classics@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159020": {
+                        "instructorId": "1159020",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "702",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CLA400H1-S-20169": {
+        "courseId": "305",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Independent Studies (formerly CLA400Y1)",
+        "code": "CLA400H1",
+        "courseDescription": "<p>Independent Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of Department",
+        "corequisite": "",
+        "exclusion": "CLA400Y1",
+        "recommendedPreparation": "Preferably 1 FCE in the CLA 300-series",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Applicants should first contact a potential supervisor for the proposed project. Once they have the supervisor's agreement, they should bring it to the Undergraduate Coordinator, Room 110, 125 Queen's Park or email undergrad.classics@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159021": {
+                        "instructorId": "1159021",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "703",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

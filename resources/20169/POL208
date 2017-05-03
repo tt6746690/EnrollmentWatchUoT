@@ -1,0 +1,160 @@
+{
+    "POL208Y1-Y-20169": {
+        "courseId": "1878",
+        "org": "POL",
+        "orgName": "Political Science (POL) (JHP) (JPA) (JPD) (JPF) (JPP) (JPR) (JPU) (JRA)",
+        "courseTitle": "Introduction to International Relations",
+        "code": "POL208Y1",
+        "courseDescription": "<p>The course analyzes the impact of the individual, the nation-state, and the international and transnational systems on international conflict and conflict resolution, and examines the major problems the international community confronts in a rapidly changing international environment.<\/p>",
+        "prerequisite": "1.0 POL credit \/4.0 full course equivalents",
+        "corequisite": "",
+        "exclusion": "POLB80H3\/POLB81H3",
+        "recommendedPreparation": "Prior reading or study of modern history",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-46180": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46180",
+                        "assignedRoom1": "ES 1050",
+                        "assignedRoom2": "ES 1050"
+                    }
+                },
+                "instructors": {
+                    "1161557": {
+                        "instructorId": "1161557",
+                        "firstName": "V",
+                        "lastName": "Gunitskiy"
+                    },
+                    "1161558": {
+                        "instructorId": "1161558",
+                        "firstName": "W",
+                        "lastName": "Wong"
+                    }
+                },
+                "meetingId": "3906",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "395",
+                "actualEnrolment": "300",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "WE-46181": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46181",
+                        "assignedRoom1": "ES 1050",
+                        "assignedRoom2": "ES 1050"
+                    }
+                },
+                "instructors": {
+                    "1161559": {
+                        "instructorId": "1161559",
+                        "firstName": "V",
+                        "lastName": "Gunitskiy"
+                    },
+                    "1161560": {
+                        "instructorId": "1161560",
+                        "firstName": "W",
+                        "lastName": "Wong"
+                    }
+                },
+                "meetingId": "14883",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TU-12336": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "12336",
+                        "assignedRoom1": "HS 610",
+                        "assignedRoom2": "HS 610"
+                    }
+                },
+                "instructors": {
+                    "1161561": {
+                        "instructorId": "1161561",
+                        "firstName": "A",
+                        "lastName": "Jurgensen"
+                    },
+                    "1161562": {
+                        "instructorId": "1161562",
+                        "firstName": "W",
+                        "lastName": "Wong"
+                    }
+                },
+                "meetingId": "3907",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "250",
+                "actualEnrolment": "192",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "PHL499H1-F-20169": {
+        "courseId": "1815",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "Individual Studies (formerly PHL399H1)",
+        "code": "PHL499H1",
+        "courseDescription": "<p>Individual Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: students can download Independent Study forms off the Philosophy Department website: http:\/\/undergraduate.philosophy.utoronto.ca\/courses\/individual-studies-courses\/. All forms must be received at Jackman Humanities Building, 170 St. George Street, Room 403 or by email to eric.correia@utoronto.ca, no later than 4:00pm, September 2, 2016.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161388": {
+                        "instructorId": "1161388",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "3722",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PHL499H1-S-20169": {
+        "courseId": "1815",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "Individual Studies (formerly PHL399H1)",
+        "code": "PHL499H1",
+        "courseDescription": "<p>Individual Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: students can download Independent Study forms off the Philosophy Department website: http:\/\/undergraduate.philosophy.utoronto.ca\/courses\/individual-studies-courses\/. All forms must be received at Jackman Humanities Building, 170 St. George Street, Room 403 or by email to eric.correia@utoronto.ca, no later than 4:00pm, September 2, 2016.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161389": {
+                        "instructorId": "1161389",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "3723",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PHL499H1-Y-20169": {
+        "courseId": "1815",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "Individual Studies (formerly PHL399H1)",
+        "code": "PHL499H1",
+        "courseDescription": "<p>Individual Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: students can download Independent Study forms off the Philosophy Department website: http:\/\/undergraduate.philosophy.utoronto.ca\/courses\/individual-studies-courses\/. All forms must be received at Jackman Humanities Building, 170 St. George Street, Room 403 or by email to eric.correia@utoronto.ca, no later than 4:00pm, September 2, 2016.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161390": {
+                        "instructorId": "1161390",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "3724",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

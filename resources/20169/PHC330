@@ -1,0 +1,125 @@
+{
+    "PHC330H1-F-20169": {
+        "courseId": "1729",
+        "org": "PHM",
+        "orgName": "Pharmaceutical Chemistry (PHC) (JFP)",
+        "courseTitle": "Pharmaceutics 2",
+        "code": "PHC330H1",
+        "courseDescription": "<p class=\"p1\">This course presents a detailed examination of the material properties of pharmaceuticals and the role of cellular processes in&nbsp;delivery of a drug to its site of action.<\/p>",
+        "prerequisite": "(CHM135H1, CHM136H1)\/(CHM138H1,CHM139H1)\/CHM151Y1; CHM220H1\/CHM222H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-31120": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "31120",
+                        "assignedRoom1": "PB 255",
+                        "assignedRoom2": null
+                    },
+                    "WE-31121": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "31121",
+                        "assignedRoom1": "SS 1072",
+                        "assignedRoom2": null
+                    },
+                    "WE-31122": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "31122",
+                        "assignedRoom1": "SS 1072",
+                        "assignedRoom2": null
+                    },
+                    "FR-31123": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "31123",
+                        "assignedRoom1": "PB 255",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161277": {
+                        "instructorId": "1161277",
+                        "firstName": "T",
+                        "lastName": "Chalikian"
+                    },
+                    "1161278": {
+                        "instructorId": "1161278",
+                        "firstName": "H",
+                        "lastName": "Fan"
+                    },
+                    "1161279": {
+                        "instructorId": "1161279",
+                        "firstName": "I",
+                        "lastName": "Kanfer"
+                    },
+                    "1161280": {
+                        "instructorId": "1161280",
+                        "firstName": "R",
+                        "lastName": "Macgregor"
+                    },
+                    "1161281": {
+                        "instructorId": "1161281",
+                        "firstName": "X",
+                        "lastName": "Wu"
+                    }
+                },
+                "meetingId": "3488",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "291",
+                        "postCode": "ASSPE1211",
+                        "postName": "SP PHARMACEUTICAL CHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

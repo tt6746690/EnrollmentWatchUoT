@@ -1,0 +1,61 @@
+{
+    "MAT425H1-F-20169": {
+        "courseId": "1490",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Differential Topology",
+        "code": "MAT425H1",
+        "courseDescription": "<p>Smooth manifolds, Sard's theorem and transversality. Morse theory. Immersion and embedding theorems. Intersection theory. Borsuk-Ulam theorem. Vector fields and Euler characteristic. Hopf degree theorem. Additional topics may vary.<\/p>",
+        "prerequisite": "MAT257Y1, MAT327H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47139": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47139",
+                        "assignedRoom1": "BA 6183",
+                        "assignedRoom2": null
+                    },
+                    "WE-47140": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "47140",
+                        "assignedRoom1": "BA 6183",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160938": {
+                        "instructorId": "1160938",
+                        "firstName": "Y",
+                        "lastName": "Karshon"
+                    }
+                },
+                "meetingId": "3188",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Sept 30, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "CHM441H1-F-20169": {
+        "courseId": "242",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Spectroscopic Analysis in Organic Chemistry",
+        "code": "CHM441H1",
+        "courseDescription": "<p>Structure and stereochemistry determination using modern spectroscopic techniques. Several techniques are discussed but particular emphasis is given to NMR (1H and 13C NMR) and mass spectrometry. The approach taken emphasizes applications of these spectroscopic methods to organic problems. Students are trained to run their own spectra (IR, UV, NMR, GC-MS). (Lab Materials Fee: $25).<\/p>",
+        "prerequisite": "CHM249H1, CHM343H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Students will attend five laboratory sessions W10-1 from September to November in LM121.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41262": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41262",
+                        "assignedRoom1": "LM 155",
+                        "assignedRoom2": null
+                    },
+                    "WE-41263": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41263",
+                        "assignedRoom1": "ZZ DEPT",
+                        "assignedRoom2": null
+                    },
+                    "TH-41261": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41261",
+                        "assignedRoom1": "LM 155",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158936": {
+                        "instructorId": "1158936",
+                        "firstName": "C",
+                        "lastName": "Browning"
+                    },
+                    "1158937": {
+                        "instructorId": "1158937",
+                        "firstName": "B",
+                        "lastName": "Morra"
+                    }
+                },
+                "meetingId": "576",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "ECO341H1-F-20169": {
+        "courseId": "3000",
+        "org": "ECO",
+        "orgName": "Economics (ECO)",
+        "courseTitle": "The Eonomic History of the 20th Century: Trade, Migration, Money and Finance before 1945",
+        "code": "ECO341H1",
+        "courseDescription": "<p><span class=\"s1\">Tailored to advanced students in Economics, Commerce, International Relations and History. The&nbsp;<\/span>focus is on growth and fluctuations in Europe and North America between roughly 1870 and 1939, with a particular emphasis on international trade and payments, migration, investment, and monetary arrangements.<\/p>",
+        "prerequisite": "ECO200Y1\/ECO204Y1\/ECO206Y1\/(ECO230Y1, POL208Y1)",
+        "corequisite": "",
+        "exclusion": "ECO342Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-17238": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "17238",
+                        "assignedRoom1": "UC 140",
+                        "assignedRoom2": null
+                    },
+                    "TH-17239": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "17239",
+                        "assignedRoom1": "UC 140",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159504": {
+                        "instructorId": "1159504",
+                        "firstName": "J",
+                        "lastName": "Cohen"
+                    }
+                },
+                "meetingId": "13109",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "130",
+                "actualEnrolment": "69",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

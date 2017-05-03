@@ -1,0 +1,81 @@
+{
+    "INI305H1-S-20169": {
+        "courseId": "1272",
+        "org": "INNIS",
+        "orgName": "Innis College (INI) (JGI) (JEI)",
+        "courseTitle": "Word and Image in Modern Writing",
+        "code": "INI305H1",
+        "courseDescription": "<p>The rhetorical term Ekphrasis, which refers to writing that is about visual art, is central in the examination of the persuasive power of the conversation or discourse that is produced when the written word attempts the evocation of visual images. Course readings will include ekphrastic texts drawn from several disciplines and genres: journalism, informal essays, poetry, and scholarly writing.&nbsp;<\/p>",
+        "prerequisite": "Completion of 4.0 full-course equivalents.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-36010": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "36010",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "IN 312"
+                    }
+                },
+                "instructors": {
+                    "1160563": {
+                        "instructorId": "1160563",
+                        "firstName": "K",
+                        "lastName": "Fry"
+                    }
+                },
+                "meetingId": "2589",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "36",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "219",
+                        "postCode": "ASMIN2137",
+                        "postName": "MI WRITING & RHETORIC",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

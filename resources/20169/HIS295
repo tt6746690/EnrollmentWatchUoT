@@ -1,0 +1,209 @@
+{
+    "HIS295Y1-Y-20169": {
+        "courseId": "3375",
+        "org": "HIS",
+        "orgName": "History (HIS) (JHA) (JHP) (JHN) (JSH) (JAH)",
+        "courseTitle": "African History and Historical Methodology",
+        "code": "HIS295Y1",
+        "courseDescription": "<p>An introduction to African history and the methodology of history more broadly, this course sets out to question how historians do history, examine differences in theories of knowledge, and explore the relationship between academic and cultural representations of the past.&nbsp; The course also draws on anthropology and related disciplines.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "HIS381H1, HIS382H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1), Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-23769": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "23769",
+                        "assignedRoom1": "UC 179",
+                        "assignedRoom2": "UC 179"
+                    }
+                },
+                "instructors": {
+                    "1160245": {
+                        "instructorId": "1160245",
+                        "firstName": "R",
+                        "lastName": "Callebert"
+                    }
+                },
+                "meetingId": "5419",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "90",
+                "actualEnrolment": "49",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-29902": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "29902",
+                        "assignedRoom1": "UC 255",
+                        "assignedRoom2": "UC 255"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13744",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TU-29904": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "29904",
+                        "assignedRoom1": "UC 53",
+                        "assignedRoom2": "UC 53"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13741",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "TU-29906": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "29906",
+                        "assignedRoom1": "UC 53",
+                        "assignedRoom2": "UC 53"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13742",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0401": {
+                "schedule": {
+                    "TU-29905": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "29905",
+                        "assignedRoom1": "UC 53",
+                        "assignedRoom2": "UC 53"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13743",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "MO-19977": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "19977",
+                        "assignedRoom1": "UC 53",
+                        "assignedRoom2": "UC 53"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13745",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-5201": {
+                "schedule": {
+                    "MO-19980": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "19980",
+                        "assignedRoom1": "UC 53",
+                        "assignedRoom2": "UC 53"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13746",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

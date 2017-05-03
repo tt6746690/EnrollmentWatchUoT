@@ -1,0 +1,84 @@
+{
+    "NML462H1-F-20169": {
+        "courseId": "1691",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Modern Persian Prose",
+        "code": "NML462H1",
+        "courseDescription": "<p>A survey of modern Persian prose using connected passages of Persian texts.<\/p>",
+        "prerequisite": "NML360Y1 or adequate reading knowledge",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "3442",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 15, 2016",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "NML462H1-S-20169": {
+        "courseId": "1691",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Modern Persian Prose",
+        "code": "NML462H1",
+        "courseDescription": "<p>A survey of modern Persian prose using connected passages of Persian texts.<\/p>",
+        "prerequisite": "NML360Y1 or adequate reading knowledge",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-44297": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "44297",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 323"
+                    }
+                },
+                "instructors": {
+                    "1161219": {
+                        "instructorId": "1161219",
+                        "firstName": "A",
+                        "lastName": "Hojatollah Taleghani"
+                    }
+                },
+                "meetingId": "15190",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: July 15, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

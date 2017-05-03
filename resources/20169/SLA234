@@ -1,0 +1,53 @@
+{
+    "SLA234H1-S-20169": {
+        "courseId": "4278",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Russian and Soviet Cinema",
+        "code": "SLA234H1",
+        "courseDescription": "<p>A survey of the Russian cinematic tradition from its beginnings through the first decade following the disintegration of the USSR. The course examines the avant-garde cinema and film theory of the 1920s; the totalitarian esthetics of the 1920s-1940s and the ideological uses of film art; the revolution in film theory and practice in the 1950s-1960s; cinema as medium of cultural dissent and as witness to social change. Students also acquire basic skills of film analysis. Taught in English, all films subtitled in English.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-36921": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "36921",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 107"
+                    }
+                },
+                "instructors": {
+                    "1162341": {
+                        "instructorId": "1162341",
+                        "firstName": "L",
+                        "lastName": "Pontieri"
+                    }
+                },
+                "meetingId": "13534",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

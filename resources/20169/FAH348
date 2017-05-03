@@ -1,0 +1,84 @@
+{
+    "FAH348H1-F-20169": {
+        "courseId": "833",
+        "org": "FAR",
+        "orgName": "Art (FAH)",
+        "courseTitle": "The Dada and Surrealist Tradition (formerly FAH385H1)",
+        "code": "FAH348H1",
+        "courseDescription": "<p>The origins and development of the Dada and Surrealist movements in early 20th-century Western art, and their lasting impact on art after World War II. Painting, sculpture, graphic arts, and the theoretical preoccupation which accompanied artistic production.<\/p>",
+        "prerequisite": "FAH245H1\/FAH246H1\/288H1\/289H1",
+        "corequisite": "",
+        "exclusion": "FAH385H1\/447H5",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-47292": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "47292",
+                        "assignedRoom1": "SS 1087",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159903": {
+                        "instructorId": "1159903",
+                        "firstName": "M",
+                        "lastName": "Aronowicz"
+                    }
+                },
+                "meetingId": "15174",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "65",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: September 23, 2016",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "FAH348H1-S-20169": {
+        "courseId": "833",
+        "org": "FAR",
+        "orgName": "Art (FAH)",
+        "courseTitle": "The Dada and Surrealist Tradition (formerly FAH385H1)",
+        "code": "FAH348H1",
+        "courseDescription": "<p>The origins and development of the Dada and Surrealist movements in early 20th-century Western art, and their lasting impact on art after World War II. Painting, sculpture, graphic arts, and the theoretical preoccupation which accompanied artistic production.<\/p>",
+        "prerequisite": "FAH245H1\/FAH246H1\/288H1\/289H1",
+        "corequisite": "",
+        "exclusion": "FAH385H1\/447H5",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "1757",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 11, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

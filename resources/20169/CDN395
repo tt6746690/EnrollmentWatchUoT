@@ -1,0 +1,92 @@
+{
+    "CDN395H1-F-20169": {
+        "courseId": "203",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Independent Study in Asian Canadian Studies (formerly UNI395H1)",
+        "code": "CDN395H1",
+        "courseDescription": "<p>An opportunity to write an independent research paper in Asian Canadian Studies under direction of a faculty member. Students wishing to take this course must have their essay proposal and supervisor approved by the Canadian Studies program director. The application for enrolment should be made in the term preceding study. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "CDN267H1\/CDN268H1",
+        "corequisite": "",
+        "exclusion": "UNI395H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: College approval is required. Please contact Khamla Sengthavy for further information at: UC165, Monday to Friday, 9:00am-4:30pm, 416-978-8083, or khamla.sengthavy@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "484",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CDN395H1-S-20169": {
+        "courseId": "203",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Independent Study in Asian Canadian Studies (formerly UNI395H1)",
+        "code": "CDN395H1",
+        "courseDescription": "<p>An opportunity to write an independent research paper in Asian Canadian Studies under direction of a faculty member. Students wishing to take this course must have their essay proposal and supervisor approved by the Canadian Studies program director. The application for enrolment should be made in the term preceding study. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "CDN267H1\/CDN268H1",
+        "corequisite": "",
+        "exclusion": "UNI395H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: College approval is required. Please contact Khamla Sengthavy for further information at: UC165, Monday to Friday, 9:00am-4:30pm, 416-978-8083, or khamla.sengthavy@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "485",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

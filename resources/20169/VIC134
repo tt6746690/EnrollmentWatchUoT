@@ -1,0 +1,53 @@
+{
+    "VIC134H1-S-20169": {
+        "courseId": "2529",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Globalization",
+        "code": "VIC134H1",
+        "courseDescription": "<p>This interdisciplinary course explores the contemporary character of globalization. The world is shrinking as money, goods, people, ideas, weapons, and information flow across national boundaries. Some commentators assert that a more tightly interconnected world can exacerbate financial disruptions, worsen the gap between rich and poor nations, undermine democracy, imperil national cultures, harm the environment, and give unconstrained freedom to predatory corporations. Others proclaim that globalization - understood as capitalism and free markets - fosters economic growth, encourages creative collaboration, inspires technological breakthroughs, and enhances human prospects for a better life, in rich and poor countries alike, in unprecedented ways. Our task is to evaluate the evidence and draw our own conclusions.&nbsp;Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Innis One, Munk One, New One, SMC One, Trinity One, UC One, Vic One, Woodsworth One;  No more than another 0.5 FCE from 199 seminars or Vic One Hundred.",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-34245": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "34245",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BC 20"
+                    }
+                },
+                "instructors": {
+                    "1162742": {
+                        "instructorId": "1162742",
+                        "firstName": "V",
+                        "lastName": "Falkenheim"
+                    }
+                },
+                "meetingId": "5163",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

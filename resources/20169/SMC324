@@ -1,0 +1,53 @@
+{
+    "SMC324H1-F-20169": {
+        "courseId": "2317",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "The Study of the Bible in the Middle Ages",
+        "code": "SMC324H1",
+        "courseDescription": "<p>This course explores mediaeval biblical commentary and the various approaches taken by the exegetes to uncover the secrets of the sacred page, for instance through the four senses of Scripture: history, allegory, tropology, and anagogy.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SMC210H1\/SMC212H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-38246": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "38246",
+                        "assignedRoom1": "CR 107",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162412": {
+                        "instructorId": "1162412",
+                        "firstName": "U",
+                        "lastName": "Andree"
+                    }
+                },
+                "meetingId": "14593",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Mediaeval Bible",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

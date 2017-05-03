@@ -1,0 +1,155 @@
+{
+    "TRN400H1-F-20169": {
+        "courseId": "2488",
+        "org": "TRIN",
+        "orgName": "Trinity College (TRN)",
+        "courseTitle": "Trinity Independent Studies",
+        "code": "TRN400H1",
+        "courseDescription": "<p>Trinity Independent Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: contact Kiran Sahota, Room 300, Larkin Building, Monday to Friday from 9:00am-12:00pm and 2:00-5:00pm, at 416-978-8454 or artsdean@trinity.utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162693": {
+                        "instructorId": "1162693",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "5109",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "TRN400H1-S-20169": {
+        "courseId": "2488",
+        "org": "TRIN",
+        "orgName": "Trinity College (TRN)",
+        "courseTitle": "Trinity Independent Studies",
+        "code": "TRN400H1",
+        "courseDescription": "<p>Trinity Independent Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: contact Kiran Sahota, Room 300, Larkin Building, Monday to Friday from 9:00am-12:00pm and 2:00-5:00pm, at 416-978-8454 or artsdean@trinity.utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162694": {
+                        "instructorId": "1162694",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "5110",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "TRN400H1-Y-20169": {
+        "courseId": "2488",
+        "org": "TRIN",
+        "orgName": "Trinity College (TRN)",
+        "courseTitle": "Trinity Independent Studies",
+        "code": "TRN400H1",
+        "courseDescription": "<p>Trinity Independent Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: contact Kiran Sahota, Room 300, Larkin Building, Monday to Friday from 9:00am-12:00pm and 2:00-5:00pm, at 416-978-8454 or artsdean@trinity.utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162695": {
+                        "instructorId": "1162695",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "5111",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

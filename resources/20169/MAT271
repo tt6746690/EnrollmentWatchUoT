@@ -1,0 +1,121 @@
+{
+    "MAT271H1-F-20169": {
+        "courseId": "1466",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Insights from Mathematics",
+        "code": "MAT271H1",
+        "courseDescription": "<p>This breadth course is accessible to students with limited mathematical background. Various mathematical techniques will be illustrated with examples from humanities and social science disciplines. Some of the topics will incorporate user friendly computer explorations to give participants the feel of the subject without requiring skill at calculations.<\/p>\n<p>Note: This course cannot be used to satisfy requirements of program in the math department.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39273": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39273",
+                        "assignedRoom1": "LM 162",
+                        "assignedRoom2": null
+                    },
+                    "WE-39274": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39274",
+                        "assignedRoom1": "LM 162",
+                        "assignedRoom2": null
+                    },
+                    "FR-39272": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39272",
+                        "assignedRoom1": "LM 162",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160900": {
+                        "instructorId": "1160900",
+                        "firstName": "J",
+                        "lastName": "Repka"
+                    }
+                },
+                "meetingId": "3156",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "154",
+                "actualEnrolment": "133",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-43772": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "43772",
+                        "assignedRoom1": "GB 248",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15183",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "77",
+                "actualEnrolment": "53",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-43773": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43773",
+                        "assignedRoom1": "GB 303",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15184",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "77",
+                "actualEnrolment": "66",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

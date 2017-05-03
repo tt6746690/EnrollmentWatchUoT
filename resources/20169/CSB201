@@ -1,0 +1,162 @@
+{
+    "CSB201H1-F-20169": {
+        "courseId": "350",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Molecular Biology, Biotechnology and You",
+        "code": "CSB201H1",
+        "courseDescription": "<p>An online course intended to provide non-science students with an understanding of basic concepts in molecular biology and genetics, with particular emphasis on humans. Students will work online in groups on problem sets. The course will end with an introduction to biotechnology, including an opportunity for students to use their new knowledge to explore a real, multi-dimensional problem (e.g., cancer). Lectures will be delivered via the web and mandatory tutorials will require live webinar participation.&nbsp; The final exam will require attendance on the St. George campus.&nbsp; This course does not count towards CSB programs.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "BIO130H1, BIO230H1, BIO240H1, BIO250Y1, BIO255H1, BIO255Y1, CSB200Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159065": {
+                        "instructorId": "1159065",
+                        "firstName": "M",
+                        "lastName": "Neumann"
+                    },
+                    "1159066": {
+                        "instructorId": "1159066",
+                        "firstName": "K",
+                        "lastName": "Yip"
+                    }
+                },
+                "meetingId": "765",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "83",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9901": {
+                "schedule": {
+                    "WE-41535": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41535",
+                        "assignedRoom1": "ZZ DEPT",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "768",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9902": {
+                "schedule": {
+                    "WE-41536": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41536",
+                        "assignedRoom1": "ZZ DEPT",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "769",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9902",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9903": {
+                "schedule": {
+                    "FR-41537": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41537",
+                        "assignedRoom1": "ZZ DEPT",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "766",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9903",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9904": {
+                "schedule": {
+                    "FR-41540": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41540",
+                        "assignedRoom1": "ZZ DEPT",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "767",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9904",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

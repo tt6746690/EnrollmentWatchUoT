@@ -1,0 +1,155 @@
+{
+    "NMC495Y1-F-20169": {
+        "courseId": "1661",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Independent Studies",
+        "code": "NMC495Y1",
+        "courseDescription": "<p>Open only when an NMC full-time faculty member is willing and available to supervise. Student must find an appropriate NMC supervisor for the desired topic and obtain the approval of the departmental Associate Chair\/Undergraduate Coordinator. Obtain details and a course form from the Department Undergraduate Administrator. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: see the Undergrad Administrator in Room 200, 4 Bancroft Avenue (phone: 416-978-3306) or email nmc.ug@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161181": {
+                        "instructorId": "1161181",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "3408",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "NMC495Y1-S-20169": {
+        "courseId": "1661",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Independent Studies",
+        "code": "NMC495Y1",
+        "courseDescription": "<p>Open only when an NMC full-time faculty member is willing and available to supervise. Student must find an appropriate NMC supervisor for the desired topic and obtain the approval of the departmental Associate Chair\/Undergraduate Coordinator. Obtain details and a course form from the Department Undergraduate Administrator. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: see the Undergrad Administrator in Room 200, 4 Bancroft Avenue (phone: 416-978-3306) or email nmc.ug@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161182": {
+                        "instructorId": "1161182",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "3409",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "NMC495Y1-Y-20169": {
+        "courseId": "1661",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Independent Studies",
+        "code": "NMC495Y1",
+        "courseDescription": "<p>Open only when an NMC full-time faculty member is willing and available to supervise. Student must find an appropriate NMC supervisor for the desired topic and obtain the approval of the departmental Associate Chair\/Undergraduate Coordinator. Obtain details and a course form from the Department Undergraduate Administrator. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: see the Undergrad Administrator in Room 200, 4 Bancroft Avenue (phone: 416-978-3306) or email nmc.ug@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161183": {
+                        "instructorId": "1161183",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "3410",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,488 @@
+{
+    "CSC165H1-F-20169": {
+        "courseId": "398",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Mathematical Expression and Reasoning for Computer Science",
+        "code": "CSC165H1",
+        "courseDescription": "<p>Introduction to abstraction and rigour. Informal introduction to logical notation and reasoning. Understanding, using and developing precise expressions of mathematical ideas, including definitions and theorems. Structuring proofs to improve presentation and comprehension. General problem-solving techniques. Running time analysis of iterative programs.&nbsp; Formal definition of Big-Oh.&nbsp; Diagonalization, the Halting Problem, and some reductions. Unified approaches to programming and theoretical problems.<\/p>",
+        "prerequisite": "",
+        "corequisite": "CSC148H1\/(CSC108H1\/CSC120H1, MAT137Y1\/MAT157Y1)",
+        "exclusion": "CSC236H1, CSC240H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46319": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46319",
+                        "assignedRoom1": "LM 159",
+                        "assignedRoom2": null
+                    },
+                    "TU-46320": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "46320",
+                        "assignedRoom1": "LM 159",
+                        "assignedRoom2": null
+                    },
+                    "WE-46321": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46321",
+                        "assignedRoom1": "MS 2158",
+                        "assignedRoom2": null
+                    },
+                    "FR-46322": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46322",
+                        "assignedRoom1": "LM 159",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159149": {
+                        "instructorId": "1159149",
+                        "firstName": "T",
+                        "lastName": "Fairgrieve"
+                    }
+                },
+                "meetingId": "864",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "200",
+                "actualEnrolment": "169",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TU-31220": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "31220",
+                        "assignedRoom1": "BR 200",
+                        "assignedRoom2": null
+                    },
+                    "TH-31221": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "31221",
+                        "assignedRoom1": "BR 200",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159150": {
+                        "instructorId": "1159150",
+                        "firstName": "T",
+                        "lastName": "Fairgrieve"
+                    }
+                },
+                "meetingId": "865",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "200",
+                "actualEnrolment": "173",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "CSC165H1-S-20169": {
+        "courseId": "398",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Mathematical Expression and Reasoning for Computer Science",
+        "code": "CSC165H1",
+        "courseDescription": "<p>Introduction to abstraction and rigour. Informal introduction to logical notation and reasoning. Understanding, using and developing precise expressions of mathematical ideas, including definitions and theorems. Structuring proofs to improve presentation and comprehension. General problem-solving techniques. Running time analysis of iterative programs.&nbsp; Formal definition of Big-Oh.&nbsp; Diagonalization, the Halting Problem, and some reductions. Unified approaches to programming and theoretical problems.<\/p>",
+        "prerequisite": "",
+        "corequisite": "CSC148H1\/(CSC108H1\/CSC120H1, MAT137Y1\/MAT157Y1)",
+        "exclusion": "CSC236H1, CSC240H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-31225": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "31225",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WB 116"
+                    },
+                    "WE-31226": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "31226",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WB 116"
+                    },
+                    "FR-31227": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "31227",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WB 116"
+                    }
+                },
+                "instructors": {
+                    "1159151": {
+                        "instructorId": "1159151",
+                        "firstName": "D",
+                        "lastName": "Liu"
+                    }
+                },
+                "meetingId": "866",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "220",
+                "actualEnrolment": "191",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "MO-47425": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47425",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MC 102"
+                    },
+                    "WE-47426": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47426",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MB 128"
+                    },
+                    "FR-47427": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47427",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1160"
+                    }
+                },
+                "instructors": {
+                    "1159152": {
+                        "instructorId": "1159152",
+                        "firstName": "T",
+                        "lastName": "Pitassi"
+                    }
+                },
+                "meetingId": "867",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "220",
+                "actualEnrolment": "143",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "Room changed: November 24, 2016. Please note that on January 9th, class will be held in OIG162 and on January 20th, class will be held in SS2117.",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-0301": {
+                "schedule": {
+                    "WE-41702": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "41702",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MB 128"
+                    },
+                    "TH-41704": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41704",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BR 200"
+                    },
+                    "FR-41703": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41703",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BR 200"
+                    }
+                },
+                "instructors": {
+                    "1159153": {
+                        "instructorId": "1159153",
+                        "firstName": "D",
+                        "lastName": "Liu"
+                    }
+                },
+                "meetingId": "868",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "198",
+                "actualEnrolment": "154",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-31242": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "31242",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1160"
+                    },
+                    "TH-31243": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "31243",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1160"
+                    }
+                },
+                "instructors": {
+                    "1159154": {
+                        "instructorId": "1159154",
+                        "firstName": "T",
+                        "lastName": "Pitassi"
+                    }
+                },
+                "meetingId": "869",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "200",
+                "actualEnrolment": "123",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

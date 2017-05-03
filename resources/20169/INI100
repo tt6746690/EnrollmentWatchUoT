@@ -1,0 +1,108 @@
+{
+    "INI100H1-F-20169": {
+        "courseId": "1262",
+        "org": "INNIS",
+        "orgName": "Innis College (INI) (JGI) (JEI)",
+        "courseTitle": "The City Where Movies Are Made",
+        "code": "INI100H1",
+        "courseDescription": "<p class=\"MsoNormal\">In this course, first-year students will be introduced to film culture in Toronto from a variety of angles, including: a history of the city onscreen (both as itself and as a popular shooting location for American productions); an account of major Toronto filmmaking sites and institutions; introductions to local directors and producers; and overviews of contemporary local film festival culture (TIFF and beyond) as well as the city&rsquo;s film-critical community. Through a combination of lectures, screenings, field trips and special guest speakers, the students will be moved to consider both the vitality of Toronto&rsquo;s film scene as well as its connections to other aspects of the city. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Admission to Innis One",
+        "corequisite": "",
+        "exclusion": "Munk One, New One, St. Mike's One, Trinity One, Vic One, UC One, Woodsworth One",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "This is an Innis One course administered by Office of the Registrar, Innis College, not the Cinema Studies Institute. For more information and the application form, please visit: http:\/\/innis.utoronto.ca\/academic-programs\/one\/",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-44454": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44454",
+                        "assignedRoom1": "IN 312",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160550": {
+                        "instructorId": "1160550",
+                        "firstName": "A",
+                        "lastName": "Nayman"
+                    }
+                },
+                "meetingId": "2570",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

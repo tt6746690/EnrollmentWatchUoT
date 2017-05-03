@@ -1,0 +1,104 @@
+{
+    "VIC135H1-F-20169": {
+        "courseId": "2530",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "The Death of Meaning",
+        "code": "VIC135H1",
+        "courseDescription": "<p>In <em>The Origin of Species <\/em>Darwin concluded there was no evidence to suggest that life was designed by a higher power. A corollary of this is that our lives lack any necessary purpose or meaning. Our readings will be directed to the question of what it means to lack &lsquo;Meaning&rsquo;.&nbsp;Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Innis One, Munk One, New One, SMC One, Trinity One, UC One, Vic One, Woodsworth One;  No more than another 0.5 FCE from 199 seminars or Vic One Hundred.",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-34248": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "34248",
+                        "assignedRoom1": "VC 304",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162743": {
+                        "instructorId": "1162743",
+                        "firstName": "A",
+                        "lastName": "Lawless"
+                    }
+                },
+                "meetingId": "5164",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "VIC135H1-S-20169": {
+        "courseId": "2530",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "The Death of Meaning",
+        "code": "VIC135H1",
+        "courseDescription": "<p>In <em>The Origin of Species <\/em>Darwin concluded there was no evidence to suggest that life was designed by a higher power. A corollary of this is that our lives lack any necessary purpose or meaning. Our readings will be directed to the question of what it means to lack &lsquo;Meaning&rsquo;.&nbsp;Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Innis One, Munk One, New One, SMC One, Trinity One, UC One, Vic One, Woodsworth One;  No more than another 0.5 FCE from 199 seminars or Vic One Hundred.",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-34251": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "34251",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 304"
+                    }
+                },
+                "instructors": {
+                    "1162744": {
+                        "instructorId": "1162744",
+                        "firstName": "A",
+                        "lastName": "Lawless"
+                    }
+                },
+                "meetingId": "5165",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

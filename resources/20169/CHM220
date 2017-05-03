@@ -1,0 +1,152 @@
+{
+    "CHM220H1-F-20169": {
+        "courseId": "211",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Physical Chemistry for Life Sciences",
+        "code": "CHM220H1",
+        "courseDescription": "<p>Introduction to thermodynamics; kinetics; phase equilibrium, properties of mixtures, chemical equilibrium, electrochemistry; introduction to quantum mechanics and spectroscopy. This course is recommended for students in life and health science programs that involve a small amount of chemistry. Students enrolled in any chemistry specialist program (including Biological Chemistry and Environmental Chemistry) or who will be including a substantial amount of chemistry in their degree (such as those following a chemistry major program), are strongly encouraged to take CHM222H1 and CHM223H1.<\/p>",
+        "prerequisite": "(CHM135H1\/CHM139H1, CHM136H1\/CHM138H1)\/CHM151Y1; (MAT135H1, MAT136H1)\/MAT137Y1\/MAT157Y1",
+        "corequisite": "Recommended co-requisite: MAT235Y1\/MAT237Y1",
+        "exclusion": "CHM225Y1\/CHM222H1, CHMB20H3, JCP221H5\/CHM221H5",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Tutorials begin the week of September 19.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41172": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41172",
+                        "assignedRoom1": "MS 2158",
+                        "assignedRoom2": null
+                    },
+                    "WE-41173": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41173",
+                        "assignedRoom1": "MC 102",
+                        "assignedRoom2": null
+                    },
+                    "FR-41174": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41174",
+                        "assignedRoom1": "MS 2158",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158853": {
+                        "instructorId": "1158853",
+                        "firstName": "R",
+                        "lastName": "Kapral"
+                    },
+                    "1158854": {
+                        "instructorId": "1158854",
+                        "firstName": "G",
+                        "lastName": "Walker"
+                    }
+                },
+                "meetingId": "509",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "343",
+                "actualEnrolment": "197",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-41175": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "41175",
+                        "assignedRoom1": "ZZ DEPT",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "510",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "143",
+                "actualEnrolment": "78",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-41176": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "41176",
+                        "assignedRoom1": "ZZ DEPT",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "511",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "60",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "TH-41177": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41177",
+                        "assignedRoom1": "ZZ DEPT",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "512",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "58",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

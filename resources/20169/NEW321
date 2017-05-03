@@ -1,0 +1,53 @@
+{
+    "NEW321H1-S-20169": {
+        "courseId": "1564",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Caribbean Visual Arts, Social Media and Performance",
+        "code": "NEW321H1",
+        "courseDescription": "<p>Explores themes relating to visual arts, social media and theatre in the Caribbean.&nbsp; Topics may include:&nbsp; theatre, film, mixed media arts, the role of the internet and online publishing in the arts and the relationship between artists, the state and wider society.<\/p>",
+        "prerequisite": "HIS230H1\/HIS231H1\/NEW120Y1\/NEW220H1\/NEW221H1\/NEW224Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39453": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39453",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WI 523"
+                    }
+                },
+                "instructors": {
+                    "1161068": {
+                        "instructorId": "1161068",
+                        "firstName": "L",
+                        "lastName": "L'Clerc"
+                    }
+                },
+                "meetingId": "3288",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "NFS494Y1-Y-20169": {
+        "courseId": "1623",
+        "org": "NUSCI",
+        "orgName": "Nutritional Sciences (NFS)",
+        "courseTitle": "Research Projects in Nutritional Sciences",
+        "code": "NFS494Y1",
+        "courseDescription": "<p>Research experience under the supervision of a Departmental staff member. The course entails designing and carrying out a small research project and the preparation and presentation of both a research proposal and a final report. Note that the research project NFS494Y1 requires the prior consent of a staff member who will supervise the project and departmental approval before enrolment. The student is responsible for locating a supervisor. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "NFS284, Permission of Department and Project Supervisor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For NFS494Y1: obtain applications from FG 316. Students must have located a supervisor for the project and obtained written permission of the department. Contact Dr. Ahmed El-Sohemy: a.el.sohemy@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161137": {
+                        "instructorId": "1161137",
+                        "firstName": "A",
+                        "lastName": "El-Sohemy"
+                    }
+                },
+                "meetingId": "3352",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

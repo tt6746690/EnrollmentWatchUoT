@@ -1,0 +1,53 @@
+{
+    "ITA410H1-S-20169": {
+        "courseId": "3619",
+        "org": "ITA",
+        "orgName": "Italian (ITA)",
+        "courseTitle": "Masterpieces of Modern Drama",
+        "code": "ITA410H1",
+        "courseDescription": "<p>This course will study works by the major Italian playwrights of the Twentieth Century, including two of Italy&rsquo;s Literature Nobel Prize winners, Luigi Pirandello and Dario Fo. Particular attention will be paid to the relationship between individual works and broader literary and cultural movements, as well as to issues regarding staging and production of the plays under discussion. The course includes a component designed to enhance students' research experience.<\/p>",
+        "prerequisite": "ITA250Y1\/ITA251Y1\/ITA252Y1 and at least 0.5 FCE ITA literature courses at the 300-level",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-20473": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "20473",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 304"
+                    }
+                },
+                "instructors": {
+                    "1160635": {
+                        "instructorId": "1160635",
+                        "firstName": "F",
+                        "lastName": "Facchi"
+                    }
+                },
+                "meetingId": "13823",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

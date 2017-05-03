@@ -1,0 +1,116 @@
+{
+    "PSL374H1-S-20169": {
+        "courseId": "1981",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Advanced Physiology Laboratory",
+        "code": "PSL374H1",
+        "courseDescription": "<p>A problem-based laboratory course focused on the integration and control of organ systems to understand body functions.&nbsp; Enrollment in this course is restricted to students in the Physiology Specialist and Major Programs although permission is granted to students in other programs upon approval by the Department.<\/p>",
+        "prerequisite": "BIO230H1\/(BIO240H1, BIO241H1)\/BIO255H1, PSL300H1, PSL301H1, PSL372H1",
+        "corequisite": "",
+        "exclusion": "CSB348H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-44117": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "44117",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3278"
+                    },
+                    "WE-44118": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "44118",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "1161727": {
+                        "instructorId": "1161727",
+                        "firstName": "B",
+                        "lastName": "Cox"
+                    }
+                },
+                "meetingId": "4043",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "32",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "57",
+                        "postCode": "ASMAJ0482",
+                        "postName": "MA PHYSIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "249",
+                        "postCode": "ASSPE0482",
+                        "postName": "SP PHYSIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

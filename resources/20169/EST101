@@ -1,0 +1,33 @@
+{
+    "EST101H1-S-20169": {
+        "courseId": "807",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Elementary Estonian Language and Culture II (formerly EST100Y1)",
+        "code": "EST101H1",
+        "courseDescription": "<p>This course expands the student&rsquo;s command of Estonian from the introductory level. The course will consist of themed sessions using language for travel in Estonia, savouring the language of Estonian cuisine, and the lyrics of popular, folk and classical Estonian music. These themed sessions will also enable students to better understand the proper inflections of nouns and tenses of verbs in both dialogue and written exercises. This course is open to students with minimum fluency in Estonian.<\/p>",
+        "prerequisite": "EST100H1 \/ Permission of instructor",
+        "corequisite": "",
+        "exclusion": "EST100Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "1728",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "September 13, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

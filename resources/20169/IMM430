@@ -1,0 +1,86 @@
+{
+    "IMM430H1-S-20169": {
+        "courseId": "1258",
+        "org": "IMM",
+        "orgName": "Immunology (IMM) (MIJ)",
+        "courseTitle": "Clinical Immunology",
+        "code": "IMM430H1",
+        "courseDescription": "<p>This course will address the underlying pathogenesis as well as highlight the challenges of treating immune-related conditions<br \/>such as autoimmunity, cancer, HIV, and transplantation and graft rejection. Half of the lectures will address the genetics and cellular pathogenesis of autoimmune diseases such as multiple sclerosis, type I diabetes and lupus. Other lectures will overview a number of immunological challenges faced in the clinic, such as preventing graft rejection after transplantation or boosting the immune system to fight cancer and HIV.<\/p>",
+        "prerequisite": "IMM350H1\/IMM351H1 (IMM334Y1\/IMM335Y1)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-30331": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "30331",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 2170"
+                    }
+                },
+                "instructors": {
+                    "1160545": {
+                        "instructorId": "1160545",
+                        "firstName": "S",
+                        "lastName": "Berger"
+                    },
+                    "1160546": {
+                        "instructorId": "1160546",
+                        "firstName": "S",
+                        "lastName": "Dunn"
+                    }
+                },
+                "meetingId": "2566",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "78",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "267",
+                        "postCode": "ASSPE1002",
+                        "postName": "SP IMMUNOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

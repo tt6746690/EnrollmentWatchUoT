@@ -1,0 +1,122 @@
+{
+    "SLA220Y1-Y-20169": {
+        "courseId": "2243",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Intermediate Russian",
+        "code": "SLA220Y1",
+        "courseDescription": "<p>Continuation of development of proficiency in speaking, reading, listening and writing.&nbsp; Review the basic and learning of new grammatical and syntactical structures, study of word formation and acquisition of active vocabulary. Reading of classical, contemporary, adapted, and non-adapted literary and mass-media texts. Culture and listening through animation.<\/p>",
+        "prerequisite": "SLA101H1",
+        "corequisite": "",
+        "exclusion": "native speakers of Russian, including SLA210H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46542": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "46542",
+                        "assignedRoom1": "TF 203",
+                        "assignedRoom2": "TF 203"
+                    },
+                    "WE-46543": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "46543",
+                        "assignedRoom1": "TF 203",
+                        "assignedRoom2": "TF 203"
+                    },
+                    "FR-46541": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46541",
+                        "assignedRoom1": "TF 203",
+                        "assignedRoom2": "TF 203"
+                    }
+                },
+                "instructors": {
+                    "1162336": {
+                        "instructorId": "1162336",
+                        "firstName": "T",
+                        "lastName": "Ormond"
+                    },
+                    "1162337": {
+                        "instructorId": "1162337",
+                        "firstName": "I",
+                        "lastName": "Sadovina"
+                    }
+                },
+                "meetingId": "4654",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "**Room Changed: Sept 7, 2016**",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TU-40211": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "40211",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": "CR 403"
+                    },
+                    "WE-40212": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "40212",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": "CR 403"
+                    },
+                    "TH-40210": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "40210",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": "CR 403"
+                    }
+                },
+                "instructors": {
+                    "1162338": {
+                        "instructorId": "1162338",
+                        "firstName": "A",
+                        "lastName": "Averbuch"
+                    }
+                },
+                "meetingId": "4655",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

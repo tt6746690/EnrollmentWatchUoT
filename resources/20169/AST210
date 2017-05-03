@@ -1,0 +1,61 @@
+{
+    "AST210H1-F-20169": {
+        "courseId": "128",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (PLN)",
+        "courseTitle": "Great Moments in Astronomy",
+        "code": "AST210H1",
+        "courseDescription": "<p>From the Copernican Revolution to twentieth century astrophysics. Emphasis is placed on the process of discovery which has led to major advances in knowledge about the Universe. The course includes an outline of some of the most significant puzzles of our day and an examination of the potential for new revolutions in our knowledge. This course is best suited to science students.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "AST101H1, AST121H1, AST201H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41088": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "41088",
+                        "assignedRoom1": "WB 116",
+                        "assignedRoom2": null
+                    },
+                    "WE-41089": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "41089",
+                        "assignedRoom1": "WB 116",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158563": {
+                        "instructorId": "1158563",
+                        "firstName": "H",
+                        "lastName": "Neilson"
+                    }
+                },
+                "meetingId": "276",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "240",
+                "actualEnrolment": "127",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

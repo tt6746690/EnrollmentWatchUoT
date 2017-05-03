@@ -1,0 +1,155 @@
+{
+    "ANT499H1-F-20169": {
+        "courseId": "105",
+        "org": "ANT",
+        "orgName": "Anthropology (ANT) (ARH) (JAH) (JAL) (HAJ)",
+        "courseTitle": "Independent Research",
+        "code": "ANT499H1",
+        "courseDescription": "<p>Supervised independent research on a topic agreed on by the student and supervisor before enrolment in the course. Open in exceptional circumstances to advanced students with a strong background in Anthropology. Course Supervisor must be a member of the Anthropology faculty. Application for enrolment should be made to the Department in the preceding term. A maximum of one year of Independent Research courses is allowed per program. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "A minimum of 10 credits, permission of Supervisor and Undergraduate Coordinator.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Josie Alaimo, the Undergraduate Administrator, at josie.alaimo@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158527": {
+                        "instructorId": "1158527",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "184",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ANT499H1-S-20169": {
+        "courseId": "105",
+        "org": "ANT",
+        "orgName": "Anthropology (ANT) (ARH) (JAH) (JAL) (HAJ)",
+        "courseTitle": "Independent Research",
+        "code": "ANT499H1",
+        "courseDescription": "<p>Supervised independent research on a topic agreed on by the student and supervisor before enrolment in the course. Open in exceptional circumstances to advanced students with a strong background in Anthropology. Course Supervisor must be a member of the Anthropology faculty. Application for enrolment should be made to the Department in the preceding term. A maximum of one year of Independent Research courses is allowed per program. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "A minimum of 10 credits, permission of Supervisor and Undergraduate Coordinator.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Josie Alaimo, the Undergraduate Administrator, at josie.alaimo@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158528": {
+                        "instructorId": "1158528",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "185",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ANT499H1-Y-20169": {
+        "courseId": "105",
+        "org": "ANT",
+        "orgName": "Anthropology (ANT) (ARH) (JAH) (JAL) (HAJ)",
+        "courseTitle": "Independent Research",
+        "code": "ANT499H1",
+        "courseDescription": "<p>Supervised independent research on a topic agreed on by the student and supervisor before enrolment in the course. Open in exceptional circumstances to advanced students with a strong background in Anthropology. Course Supervisor must be a member of the Anthropology faculty. Application for enrolment should be made to the Department in the preceding term. A maximum of one year of Independent Research courses is allowed per program. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "A minimum of 10 credits, permission of Supervisor and Undergraduate Coordinator.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Josie Alaimo, the Undergraduate Administrator, at josie.alaimo@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158529": {
+                        "instructorId": "1158529",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "186",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "PSL300H1-F-20169": {
+        "courseId": "1975",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Human Physiology I",
+        "code": "PSL300H1",
+        "courseDescription": "<p>Principles of neurophysiology, endocrinology and reproductive physiology for students enroled in Life Science programs.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "PSL201Y1, PSL302Y1",
+        "recommendedPreparation": "BIO130H1\/BIO150Y1; CHM138H1\/CHM151Y1; and 1 FCE from any of the following: MAT135H1, MAT136H1, MAT135Y1, MAT137Y1, MAT157Y1, PHY131H1, PHY132H, PHY151H1, PHY152H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46207": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46207",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    },
+                    "WE-46208": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46208",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    },
+                    "FR-46209": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46209",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161705": {
+                        "instructorId": "1161705",
+                        "firstName": "A",
+                        "lastName": "Buchan"
+                    },
+                    "1161706": {
+                        "instructorId": "1161706",
+                        "firstName": "N",
+                        "lastName": "Kee"
+                    },
+                    "1161707": {
+                        "instructorId": "1161707",
+                        "firstName": "D",
+                        "lastName": "Tweed"
+                    }
+                },
+                "meetingId": "4037",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "1153",
+                "actualEnrolment": "1038",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-46182": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46182",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    },
+                    "WE-46183": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46183",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    },
+                    "FR-46184": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46184",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161708": {
+                        "instructorId": "1161708",
+                        "firstName": "A",
+                        "lastName": "Buchan"
+                    },
+                    "1161709": {
+                        "instructorId": "1161709",
+                        "firstName": "N",
+                        "lastName": "Kee"
+                    },
+                    "1161710": {
+                        "instructorId": "1161710",
+                        "firstName": "D",
+                        "lastName": "Tweed"
+                    }
+                },
+                "meetingId": "14881",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "2",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

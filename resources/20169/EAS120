@@ -1,0 +1,510 @@
+{
+    "EAS120Y1-Y-20169": {
+        "courseId": "493",
+        "org": "EAS",
+        "orgName": "East Asian Studies (EAS)",
+        "courseTitle": "Modern Standard Japanese I",
+        "code": "EAS120Y1",
+        "courseDescription": "<p>This course is for students with no or a very limited background in Japanese. Students must complete the EAS120Y Screening Form at the time of enrollment in the course. See http:\/\/www.eas.utoronto.ca\/languages\/japanese\/ for details.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "EAS121H1,EAS122Y0",
+        "recommendedPreparation": "Learning the Japanese alphabets (hiragana & katakana)",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Students must register on ACORN and submit the EAS120Y Screening Form online: http:\/\/www.eas.utoronto.ca\/languages\/japanese\/\r\nFailure to submit the form by August 31, 2016 will result in removal from the course. ",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-45476": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45476",
+                        "assignedRoom1": "SS 2135",
+                        "assignedRoom2": "SS 2135"
+                    }
+                },
+                "instructors": {
+                    "1159385": {
+                        "instructorId": "1159385",
+                        "firstName": "J",
+                        "lastName": "Arimori"
+                    }
+                },
+                "meetingId": "1090",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "160",
+                "actualEnrolment": "139",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P*",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "28",
+                        "adminOrgCode": "EAS",
+                        "adminOrgName": "Department of East Asian Studies"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "28",
+                        "adminOrgCode": "EAS",
+                        "adminOrgName": "Department of East Asian Studies"
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "TUT-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "1091",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TU-45659": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "45659",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": "SS 2111"
+                    },
+                    "WE-45660": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "45660",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": "SS 2111"
+                    },
+                    "TH-45658": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "45658",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": "SS 2111"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "1092",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0202": {
+                "schedule": {
+                    "TU-45661": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "45661",
+                        "assignedRoom1": "RW 143",
+                        "assignedRoom2": "PB 255"
+                    },
+                    "WE-45662": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "45662",
+                        "assignedRoom1": "AB 114",
+                        "assignedRoom2": "UC 87"
+                    },
+                    "TH-45663": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "45663",
+                        "assignedRoom1": "AB 114",
+                        "assignedRoom2": "AB 114"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15170",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "TU-45665": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45665",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": "SS 2111"
+                    },
+                    "WE-45666": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45666",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": "SS 2111"
+                    },
+                    "TH-45664": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45664",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": "SS 2111"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "1093",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0302": {
+                "schedule": {
+                    "TU-46765": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "46765",
+                        "assignedRoom1": "UC 144",
+                        "assignedRoom2": "SK 720"
+                    },
+                    "WE-46766": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "46766",
+                        "assignedRoom1": "BF 215",
+                        "assignedRoom2": "SK 720"
+                    },
+                    "TH-46767": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "46767",
+                        "assignedRoom1": "BL 114",
+                        "assignedRoom2": "BF 215"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15171",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0302",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0401": {
+                "schedule": {
+                    "TU-45671": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45671",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": "SS 2111"
+                    },
+                    "WE-45672": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45672",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": "SS 2111"
+                    },
+                    "TH-45670": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45670",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": "SS 2111"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "1094",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0402": {
+                "schedule": {
+                    "TU-45673": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45673",
+                        "assignedRoom1": "UC 330",
+                        "assignedRoom2": "UC 144"
+                    },
+                    "WE-45674": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45674",
+                        "assignedRoom1": "AB 114",
+                        "assignedRoom2": "SK 720"
+                    },
+                    "TH-45675": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45675",
+                        "assignedRoom1": "UC 330",
+                        "assignedRoom2": "UC 330"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15172",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0402",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0501": {
+                "schedule": {
+                    "TU-45677": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45677",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": "SS 2111"
+                    },
+                    "WE-45678": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45678",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": "SS 2111"
+                    },
+                    "TH-45676": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45676",
+                        "assignedRoom1": "SS 2111",
+                        "assignedRoom2": "SS 2111"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "1095",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0502": {
+                "schedule": {
+                    "TU-46021": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46021",
+                        "assignedRoom1": "VC 206",
+                        "assignedRoom2": "SF 2202"
+                    },
+                    "WE-46022": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46022",
+                        "assignedRoom1": "BL 112",
+                        "assignedRoom2": "SK 720"
+                    },
+                    "TH-46023": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46023",
+                        "assignedRoom1": "UC 85",
+                        "assignedRoom2": "BA B024"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15173",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0502",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

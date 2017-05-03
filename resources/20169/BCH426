@@ -1,0 +1,151 @@
+{
+    "BCH426H1-S-20169": {
+        "courseId": "156",
+        "org": "BCH",
+        "orgName": "Biochemistry (BCH) (BCB)",
+        "courseTitle": "Regulation of Signalling Pathways",
+        "code": "BCH426H1",
+        "courseDescription": "<p>A variety of questions relating to signal transduction are investigated. How is calcium regulated in the cell and how does calcium regulate cell function? How are extracellular signals such as morphogens, growth factors or insulin, received and transmitted by intracellular proteins including kinases and phosphatases to control cellular proliferation and differentiation? &nbsp;<\/p>",
+        "prerequisite": "BCH210H1\/BCH242Y1; BCH311H1\/MGY311Y1\/PSL350H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-15730": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "15730",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4171"
+                    },
+                    "TH-15729": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "15729",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4171"
+                    }
+                },
+                "instructors": {
+                    "1158624": {
+                        "instructorId": "1158624",
+                        "firstName": "K",
+                        "lastName": "Adeli"
+                    },
+                    "1158625": {
+                        "instructorId": "1158625",
+                        "firstName": "S",
+                        "lastName": "Angers"
+                    },
+                    "1158626": {
+                        "instructorId": "1158626",
+                        "firstName": "L",
+                        "lastName": "Attisano"
+                    },
+                    "1158627": {
+                        "instructorId": "1158627",
+                        "firstName": "O",
+                        "lastName": "Ernst"
+                    },
+                    "1158628": {
+                        "instructorId": "1158628",
+                        "firstName": "S",
+                        "lastName": "Grinstein"
+                    },
+                    "1158629": {
+                        "instructorId": "1158629",
+                        "firstName": "A",
+                        "lastName": "Klip"
+                    },
+                    "1158630": {
+                        "instructorId": "1158630",
+                        "firstName": "D",
+                        "lastName": "Rotin"
+                    },
+                    "1158631": {
+                        "instructorId": "1158631",
+                        "firstName": "F",
+                        "lastName": "Sicheri"
+                    }
+                },
+                "meetingId": "314",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "54",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "66",
+                        "subjectCode": "SCN",
+                        "subjectName": "SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "66",
+                        "subjectCode": "SCN",
+                        "subjectName": "SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "33",
+                        "primaryOrgCode": "ERIN",
+                        "primaryOrgName": "University of Toronto Mississauga",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

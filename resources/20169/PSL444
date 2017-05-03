@@ -1,0 +1,96 @@
+{
+    "PSL444Y1-Y-20169": {
+        "courseId": "1986",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Neuroscience II: Cellular and Molecular",
+        "code": "PSL444Y1",
+        "courseDescription": "<p>Overview of the fundamentals of cellular and molecular aspects of brain function. Course material is updated yearly to reflect the rapid evolution of ideas in Neuroscience.<\/p>",
+        "prerequisite": "PSL300H1, PSL301H1, CSB332H1 or permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "This course may be added using ROSI\/ACORN, but will appear with an interim status until reviewed. It is the responsibility of the student to check whether their status has been approved or refused. For questions, please contact Eva Eng at eva.eng@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-42902": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:30",
+                        "meetingEndTime": "19:30",
+                        "meetingScheduleId": "42902",
+                        "assignedRoom1": "MS 3278",
+                        "assignedRoom2": "MS 3278"
+                    }
+                },
+                "instructors": {
+                    "1161744": {
+                        "instructorId": "1161744",
+                        "firstName": "J",
+                        "lastName": "Eubanks"
+                    },
+                    "1161745": {
+                        "instructorId": "1161745",
+                        "firstName": "L",
+                        "lastName": "Mills"
+                    },
+                    "1161746": {
+                        "instructorId": "1161746",
+                        "firstName": "P",
+                        "lastName": "Monnier"
+                    },
+                    "1161747": {
+                        "instructorId": "1161747",
+                        "firstName": "A",
+                        "lastName": "Velumian"
+                    }
+                },
+                "meetingId": "4048",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "1",
+                        "postCode": "*",
+                        "postName": "",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

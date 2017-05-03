@@ -1,0 +1,136 @@
+{
+    "PSL280H1-F-20169": {
+        "courseId": "1973",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Introduction to Physiologic Adaptations of Marine Mammals",
+        "code": "PSL280H1",
+        "courseDescription": "<p>Systems approach to physiology of marine mammals in their aquatic environment. Highlights unique features of cardiovascular, respiratory, renal, urinary, and reproductive systems. Introduces relevant physiology, and makes comparisons to human condition and disease.<\/p>",
+        "prerequisite": "(BIO120H1, BIO130H1)\/BIO150Y1, CHM138H1\/CHM151Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-29534": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "29534",
+                        "assignedRoom1": "MS 2170",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161697": {
+                        "instructorId": "1161697",
+                        "firstName": "M",
+                        "lastName": "Belanger"
+                    },
+                    "1161698": {
+                        "instructorId": "1161698",
+                        "firstName": "C",
+                        "lastName": "Wittnich"
+                    }
+                },
+                "meetingId": "4025",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "140",
+                "actualEnrolment": "65",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "TU-44831": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "44831",
+                        "assignedRoom1": "Contact Department",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "4026",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "TU-44832": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44832",
+                        "assignedRoom1": "Contact Department",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "4027",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0301": {
+                "schedule": {
+                    "TU-44833": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "44833",
+                        "assignedRoom1": "Contact Department",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "4028",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "36",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

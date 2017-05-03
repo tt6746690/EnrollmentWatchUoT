@@ -1,0 +1,53 @@
+{
+    "NMC350H1-F-20169": {
+        "courseId": "3801",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Christian Literature from the Middle East in Translation",
+        "code": "NMC350H1",
+        "courseDescription": "<p>Survey of various literary genres from works produced by Armenian, Coptic, Maronite, Melkite, and Syriac authors between the 3rd and the 19th centuries CE. Genres include theology in poetry, biblical commentaries, historiography and chronicles, hagiography, songs and epics, apologetics, and travel accounts.<\/p>",
+        "prerequisite": "NMC270H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NMC102H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46305": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "46305",
+                        "assignedRoom1": "BF 315",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161160": {
+                        "instructorId": "1161160",
+                        "firstName": "A",
+                        "lastName": "Harrak"
+                    }
+                },
+                "meetingId": "14372",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: August 29, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

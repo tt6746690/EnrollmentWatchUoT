@@ -1,0 +1,33 @@
+{
+    "VIC141Y1-Y-20169": {
+        "courseId": "2532",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Discovery and Revolution",
+        "code": "VIC141Y1",
+        "courseDescription": "<p>This course examines the emergence of a global modern world in relation to the upheavals of the Renaissance (1350-1700) and its discoveries and innovations in social organization, politics, science, travel, art and architecture, literature and philosophy, religion and music.&nbsp;Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Innis One, Munk One, New One, SMC One, Trinity One, UC One, Vic One, Woodsworth One; 199 seminars or other Vic One Hundred seminar.",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "5168",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "September 7, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

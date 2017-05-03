@@ -1,0 +1,61 @@
+{
+    "STA422H1-F-20169": {
+        "courseId": "2444",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Theory of Statistical Inference",
+        "code": "STA422H1",
+        "courseDescription": "<p>This course examines current theory of statistical inference, particularly likehood-based methods and Bayesian methods with an emphasis on resolving present conflicts; log-model expansion and asymptotics are primary tools.<\/p>",
+        "prerequisite": "STA355H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-40525": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "40525",
+                        "assignedRoom1": "SS 1072",
+                        "assignedRoom2": null
+                    },
+                    "WE-40526": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "40526",
+                        "assignedRoom1": "SS 1072",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162619": {
+                        "instructorId": "1162619",
+                        "firstName": "W",
+                        "lastName": "Lin"
+                    }
+                },
+                "meetingId": "5027",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

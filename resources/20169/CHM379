@@ -1,0 +1,148 @@
+{
+    "CHM379H1-S-20169": {
+        "courseId": "229",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Biomolecular Chemistry",
+        "code": "CHM379H1",
+        "courseDescription": "<p>This course provides an opportunity to learn core techniques in biological chemistry in a small group laboratory setting. It provides excellent preparation for a CHM499Y1 project in biological chemistry or related areas. Lectures will discuss the theory behind the techniques and highlight how they are used in modern biological chemistry research and practice. Note: CHM379H1 can be used as the biochemistry lab requirement for students completing double majors in chemistry and biochemistry. (Lab Materials Fee: $25).<\/p>",
+        "prerequisite": "(CHM247H1\/CHM249H1 with a minimum grade of 63%), CHM347H1, BCH210H1",
+        "corequisite": "",
+        "exclusion": "BCH370H1, CHM371H5",
+        "recommendedPreparation": "CHM217H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "The lab practical section, PRA0101, begins the week of January 6. Starting August 10, to enrol into this course, please submit a request at: http:\/\/www.chem.utoronto.ca\/undergrad\/holdinglist_intro.php. Starting August 15, course enrolment changes must be made through the instructor. For more information please contact Prof. Drew Woolley at awoolley@chem.utoronto.ca.\r\n\r\n",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-8959": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "8959",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 123"
+                    },
+                    "TH-8960": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "8960",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 123"
+                    }
+                },
+                "instructors": {
+                    "1158916": {
+                        "instructorId": "1158916",
+                        "firstName": "G",
+                        "lastName": "Woolley"
+                    }
+                },
+                "meetingId": "561",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "306",
+                        "postCode": "ASSPE1376",
+                        "postName": "SP CHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "354",
+                        "postCode": "ASSPE1995",
+                        "postName": "SP BIOLOGICAL CHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "FR-43390": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43390",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 6"
+                    }
+                },
+                "instructors": {
+                    "1158917": {
+                        "instructorId": "1158917",
+                        "firstName": "G",
+                        "lastName": "Woolley"
+                    }
+                },
+                "meetingId": "5760",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

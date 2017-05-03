@@ -1,0 +1,53 @@
+{
+    "PHL201H1-F-20169": {
+        "courseId": "1742",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "Introductory Philosophy",
+        "code": "PHL201H1",
+        "courseDescription": "<p>An introduction to philosophy focusing on the connections among its main branches: logic, theory of knowledge, metaphysics, and ethics. This course is intended for those with little or no philosophy background but who have completed four FCEs in any subject.<\/p>",
+        "prerequisite": "Four FCEs in any subject",
+        "corequisite": "",
+        "exclusion": "PHL100Y1, PHL102Y1, or more than 1.0 PHL course",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-37162": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "37162",
+                        "assignedRoom1": "NF 003",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161298": {
+                        "instructorId": "1161298",
+                        "firstName": "J",
+                        "lastName": "Davies"
+                    }
+                },
+                "meetingId": "5410",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "180",
+                "actualEnrolment": "134",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

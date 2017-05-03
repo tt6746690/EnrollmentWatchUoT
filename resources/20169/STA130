@@ -1,0 +1,209 @@
+{
+    "STA130H1-S-20169": {
+        "courseId": "2427",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "An Introduction to Statistical Reasoning and Data Science",
+        "code": "STA130H1",
+        "courseDescription": "<p>This course, intended for students considering a program in Statistical Sciences, discusses the crucial role played by statistical reasoning in solving challenging problems from natural science, social science, technology, health care, and public policy, using a combination of logical thinking, mathematics, computer simulation, and oral and written discussion and analysis.<\/p>",
+        "prerequisite": "",
+        "corequisite": "MAT136H1\/MAT137Y1\/MAT157Y1",
+        "exclusion": "Any of STA220H1\/STA255H1\/STA248H1\/STA261H1\/ECO220Y1\/ECO227Y1 taken previously or concurrently",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47286": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47286",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MC 252"
+                    }
+                },
+                "instructors": {
+                    "1162584": {
+                        "instructorId": "1162584",
+                        "firstName": "J",
+                        "lastName": "Rosenthal"
+                    }
+                },
+                "meetingId": "4997",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "64",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Nov. 11, 2017",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-36667": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "36667",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BL 113"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14672",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "WE-36668": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "36668",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BL 114"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14673",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0103": {
+                "schedule": {
+                    "WE-44171": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "44171",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RW 141"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14674",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0104": {
+                "schedule": {
+                    "WE-36670": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "36670",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 248"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14675",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0104",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0105": {
+                "schedule": {
+                    "WE-36671": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "36671",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 257"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14676",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0105",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0106": {
+                "schedule": {
+                    "WE-47287": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47287",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2114"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15315",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0106",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: Nov. 11, 2017",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

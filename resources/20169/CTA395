@@ -1,0 +1,53 @@
+{
+    "CTA395Y0-Y-20169": {
+        "courseId": "447",
+        "org": "CITA",
+        "orgName": "Canadian Institute for Theoretical Astrophysics (CTA)",
+        "courseTitle": "Research Topic",
+        "code": "CTA395Y0",
+        "courseDescription": "<p>Course credit for research under the supervision of a faculty member. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Completed at least 8.5 FCEs and no more\nthan 14.0 FCEs including courses in AST, CTA200H1, or permission",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159322": {
+                        "instructorId": "1159322",
+                        "firstName": "U",
+                        "lastName": "Pen"
+                    }
+                },
+                "meetingId": "1010",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

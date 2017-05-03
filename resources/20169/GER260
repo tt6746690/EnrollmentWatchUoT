@@ -1,0 +1,66 @@
+{
+    "GER260Y1-Y-20169": {
+        "courseId": "950",
+        "org": "GER",
+        "orgName": "German (GER) (JGJ)",
+        "courseTitle": "Elementary Yiddish",
+        "code": "GER260Y1",
+        "courseDescription": "<p>This course introduces Yiddish language, literature, music, theater, and cinema through interactive multi-media seminars, designed to build proficiency in reading, writing and comprehending. No prior knowledge of Yiddish is required.<p>",
+        "prerequisite": "<null>",
+        "corequisite": "<null>",
+        "exclusion": "<null>",
+        "recommendedPreparation": "<null>",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-44837": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44837",
+                        "assignedRoom1": "OH 323",
+                        "assignedRoom2": "OH 323"
+                    },
+                    "FR-44838": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "44838",
+                        "assignedRoom1": "OH 323",
+                        "assignedRoom2": "OH 323"
+                    }
+                },
+                "instructors": {
+                    "1160091": {
+                        "instructorId": "1160091",
+                        "firstName": "A",
+                        "lastName": "Hoffman"
+                    },
+                    "1160092": {
+                        "instructorId": "1160092",
+                        "firstName": "V",
+                        "lastName": "Lightstone"
+                    }
+                },
+                "meetingId": "1963",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "V. Lightstone will be teaching in the Fall and A. Hoffman will be teaching in the Winter.",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

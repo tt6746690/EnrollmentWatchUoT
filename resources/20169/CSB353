@@ -1,0 +1,53 @@
+{
+    "CSB353H1-S-20169": {
+        "courseId": "366",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Introduction to Plant-Microbe Interactions",
+        "code": "CSB353H1",
+        "courseDescription": "<p>Plants have co-evolved with microbes ever since their first appearance on land, resulting in sophisticated strategies of pathogenicity, symbiosis, commensalisms and mutualism. This course presents an overview of these strategies with examples of bacteria, fungi, oomycetes and viruses that have evolved intimate associations with plants, and discusses plant immune systems.<\/p>",
+        "prerequisite": "BIO230H1\/(BIO240H1, BIO241H1)\/BIO255H1",
+        "corequisite": "",
+        "exclusion": "CSB452H1",
+        "recommendedPreparation": "BIO251H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-41572": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41572",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2102"
+                    }
+                },
+                "instructors": {
+                    "1159092": {
+                        "instructorId": "1159092",
+                        "firstName": "K",
+                        "lastName": "Yoshioka"
+                    }
+                },
+                "meetingId": "802",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "114",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

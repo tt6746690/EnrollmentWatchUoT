@@ -1,0 +1,53 @@
+{
+    "USA312H1-S-20169": {
+        "courseId": "4545",
+        "org": "CSUS",
+        "orgName": "American Studies (USA)",
+        "courseTitle": "Approaches to American Studies",
+        "code": "USA312H1",
+        "courseDescription": "<p>An in-depth, interdisciplinary examination of a specific question concerning U.S. history, politics, and\/or culture. Focus varies depending on instructor. Major emphases include reading critically and the initial steps of conducting original research. For more information on the specific topic, see \r\n<a href=\"http:\/\/munkschool.utoronto.ca\/csus\/undergraduate-program\">http:\/\/munkschool.utoronto.ca\/csus\/undergraduate-program<\/a><\/p>",
+        "prerequisite": "At least two courses from the American Studies list or USA300H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42528": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42528",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": {
+                    "1162728": {
+                        "instructorId": "1162728",
+                        "firstName": "A",
+                        "lastName": "Rahr"
+                    }
+                },
+                "meetingId": "14736",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "American Protest",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

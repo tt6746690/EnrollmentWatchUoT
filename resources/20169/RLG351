@@ -1,0 +1,53 @@
+{
+    "RLG351H1-F-20169": {
+        "courseId": "4150",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "The Quran: An Introduction",
+        "code": "RLG351H1",
+        "courseDescription": "<p>The revelatory process and the textual formation of the Quran, its pre-eminent orality and its principal themes and linguistic forms; the classical exegetical tradition and some contemporary approaches to its interpretation.<\/p>",
+        "prerequisite": "RLG100Y1\/RLG204Y1\/RLG224H1\/RLG280Y1\/NMC185Y1\/NMC185H1; see note above for general Prerequisites",
+        "corequisite": "",
+        "exclusion": "NMC285H1, NMC285Y1,NMC286H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-29230": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "29230",
+                        "assignedRoom1": "SS 2106",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161946": {
+                        "instructorId": "1161946",
+                        "firstName": "W",
+                        "lastName": "Saleh"
+                    }
+                },
+                "meetingId": "6997",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "90",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

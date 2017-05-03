@@ -1,0 +1,61 @@
+{
+    "CLA232H1-F-20169": {
+        "courseId": "288",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Introduction to Greek Society and Culture",
+        "code": "CLA232H1",
+        "courseDescription": "<p>A general introduction to the society and culture of Ancient Greece. Topics may include literature, art, social customs, gender and sexuality, daily life, and religious festivals (the theatre, the Olympic Games etc.).<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41328": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41328",
+                        "assignedRoom1": "BR 200",
+                        "assignedRoom2": null
+                    },
+                    "TH-41329": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41329",
+                        "assignedRoom1": "BR 200",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159002": {
+                        "instructorId": "1159002",
+                        "firstName": "C",
+                        "lastName": "Dawson"
+                    }
+                },
+                "meetingId": "685",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "250",
+                "actualEnrolment": "50",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

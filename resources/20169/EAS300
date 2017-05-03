@@ -1,0 +1,116 @@
+{
+    "EAS300Y1-Y-20169": {
+        "courseId": "508",
+        "org": "EAS",
+        "orgName": "East Asian Studies (EAS)",
+        "courseTitle": "Modern Standard Chinese III",
+        "code": "EAS300Y1",
+        "courseDescription": "<p>This high intermediate-level course is a continuation of EAS200Y. Students learn to read short texts which deal with personal or social topics, compose paragraph-length essays, and converse in social situations which require exchanges of basic information. Interviews are required of students who wish to enrol in the course, except for students who have the minimum grade in the prerequisite. See www.eas.utoronto.ca\/languages\/chinese for details.<\/p>",
+        "prerequisite": "EAS200Y1 (minimum 70%)\/EAS201Y1 or EAS201H1 (minimum 70%)\/equivalent as determined by the Chinese placement interview",
+        "corequisite": "",
+        "exclusion": "EAS290Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "In order to request enrolment in this course students without the prerequisite must attend an interview. Returning students should attend an interview in April; incoming students in September. For more information and to register: \r\nhttp:\/\/www.eas.utoronto.ca\/languages\/chinese\/",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-21555": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "21555",
+                        "assignedRoom1": "MP 118",
+                        "assignedRoom2": "TF 201"
+                    },
+                    "WE-21556": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "21556",
+                        "assignedRoom1": "MP 118",
+                        "assignedRoom2": "TF 201"
+                    }
+                },
+                "instructors": {
+                    "1159403": {
+                        "instructorId": "1159403",
+                        "firstName": "Y",
+                        "lastName": "Li"
+                    }
+                },
+                "meetingId": "1124",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "81",
+                        "postCode": "ASMAJ1058",
+                        "postName": "MA EAST ASIAN STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "278",
+                        "postCode": "ASSPE1058",
+                        "postName": "SP EAST ASIAN STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

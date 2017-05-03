@@ -1,0 +1,104 @@
+{
+    "FOR403H1-F-20169": {
+        "courseId": "889",
+        "org": "FOR",
+        "orgName": "Forestry (FOR) (JFG)",
+        "courseTitle": "Directed Readings",
+        "code": "FOR403H1",
+        "courseDescription": "<p>Provides opportunities for students to carry out individual in-depth study of current forest conservation and forest biomaterials issues, under the direction of a faculty member. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "At least 2 of FOR300H1, FOR301H1, FOR302H1, FOR303H1, FOR305H1, FOR306H1 FOR307H1, FOR310H1 + Completion of at least 15 FCEs",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "A Course Outline form must be jointly completed by the student and the responsible Forestry supervisor, and submitted to the Undergraduate Administrator. Forms can be found on the Faculty of Forestry website at http:\/\/www.forestry.utoronto.ca\/ ",
+        "breadthCategories": "",
+        "distributionCategories": "Science, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159946": {
+                        "instructorId": "1159946",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1827",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "FOR403H1-S-20169": {
+        "courseId": "889",
+        "org": "FOR",
+        "orgName": "Forestry (FOR) (JFG)",
+        "courseTitle": "Directed Readings",
+        "code": "FOR403H1",
+        "courseDescription": "<p>Provides opportunities for students to carry out individual in-depth study of current forest conservation and forest biomaterials issues, under the direction of a faculty member. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "At least 2 of FOR300H1, FOR301H1, FOR302H1, FOR303H1, FOR305H1, FOR306H1 FOR307H1, FOR310H1 + Completion of at least 15 FCEs",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "A Course Outline form must be jointly completed by the student and the responsible Forestry supervisor, and submitted to the Undergraduate Administrator. Forms can be found on the Faculty of Forestry website at http:\/\/www.forestry.utoronto.ca\/. For more information, please contact susanwy.lee@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Science, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159947": {
+                        "instructorId": "1159947",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1828",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

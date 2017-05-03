@@ -1,0 +1,53 @@
+{
+    "INI400Y1-Y-20169": {
+        "courseId": "1279",
+        "org": "INNIS",
+        "orgName": "Innis College (INI) (JGI) (JEI)",
+        "courseTitle": "Independent Research",
+        "code": "INI400Y1",
+        "courseDescription": "<p>Under the supervision of a faculty member, students explore topics of their own choice and design their own research projects for a course not otherwise available within the Faculty. The student should submit a detailed proposal and a letter of support from the supervisor by June 1 for Y and F courses and by September 1 for S courses. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Normally requires completion of 15.0 full-course equivalents with 3.3 CGPA and permission of the Innis College Vice-Principal.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For \"E\" enrolment control courses that pertain to INI400Y1, INI401H1, INI402H1: contact the Innis Registrar\u2019s Office at registrar.innis@utoronto.ca | 978-2513 | 2 Sussex Avenue, Toronto, ON | http:\/\/innis.utoronto.ca\/current-students\/academic\/innis\/registrar\/",
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160570": {
+                        "instructorId": "1160570",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "2596",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

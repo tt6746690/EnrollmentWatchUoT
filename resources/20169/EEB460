@@ -1,0 +1,66 @@
+{
+    "EEB460H1-F-20169": {
+        "courseId": "647",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Molecular Evolution and Genomics",
+        "code": "EEB460H1",
+        "courseDescription": "<p>Processes of evolution at the molecular level, and the analysis of molecular data. Gene structure, neutrality, nucleotide sequence evolution, sequence evolution, sequence alignment, phylogeny construction, gene families, transposition.<\/p>",
+        "prerequisite": "BIO220H1, BIO230H1\/BIO255H1, BIO260H1\/HMB265H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-46611": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "46611",
+                        "assignedRoom1": "LA 248",
+                        "assignedRoom2": null
+                    },
+                    "FR-46610": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46610",
+                        "assignedRoom1": "LA 248",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159634": {
+                        "instructorId": "1159634",
+                        "firstName": "B",
+                        "lastName": "Chang"
+                    },
+                    "1159635": {
+                        "instructorId": "1159635",
+                        "firstName": "D",
+                        "lastName": "Irwin"
+                    }
+                },
+                "meetingId": "1367",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: September 8, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

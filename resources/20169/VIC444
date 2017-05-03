@@ -1,0 +1,53 @@
+{
+    "VIC444H1-S-20169": {
+        "courseId": "2599",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Themes in Material Culture",
+        "code": "VIC444H1",
+        "courseDescription": "<p>This fourth year seminar, required for students pursuing a minor in material culture, will have opportunities to explore themes in material culture studies, museum exhibitions and collections as well as processes of object analysis in greater depth and at an advanced level.&nbsp; Specific topics and research projects will vary according to the interests and specialties of course instructors and students.<\/p>",
+        "prerequisite": "VIC224Y1\/VIC225Y1 and completion of 9 FCE; or permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47779": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47779",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 007"
+                    }
+                },
+                "instructors": {
+                    "1162857": {
+                        "instructorId": "1162857",
+                        "firstName": "J",
+                        "lastName": "Papayiannis"
+                    }
+                },
+                "meetingId": "5277",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "**Room Changed: Jan 20, 2017**",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

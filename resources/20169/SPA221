@@ -1,0 +1,53 @@
+{
+    "SPA221H1-S-20169": {
+        "courseId": "2411",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "Spanish Pronunciation",
+        "code": "SPA221H1",
+        "courseDescription": "<p>A practical introduction to articulatory phonetics, Spanish sound patterns, phonetics, phonology; the basic concepts of phonetic description and transcription; the study of Spanish vowel and consonant systems, stress and intonation.<\/p>",
+        "prerequisite": "SPA100Y1",
+        "corequisite": "SPA220Y1",
+        "exclusion": "SPA219Y1; native speakers of Spanish; SPA321H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-40434": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "40434",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 211"
+                    }
+                },
+                "instructors": {
+                    "1162560": {
+                        "instructorId": "1162560",
+                        "firstName": "M",
+                        "lastName": "Radu"
+                    }
+                },
+                "meetingId": "4968",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

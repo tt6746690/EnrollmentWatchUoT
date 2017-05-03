@@ -1,0 +1,113 @@
+{
+    "PHY254H1-F-20169": {
+        "courseId": "1830",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Mechanics: From Oscillations to Chaos",
+        "code": "PHY254H1",
+        "courseDescription": "<p>The course analyzes the linear, nonlinear and chaotic behaviour of classical mechanical systems such as harmonic oscillators, rotating bodies, and central field systems. The course will develop the analytical and numerical tools to solve such systems and determine their basic properties. The course will include mathematical analysis, numerical exercises using Python, and participatory demonstrations of mechanical systems.<\/p>",
+        "prerequisite": "PHY132H1\/PHY152H1 (PHY152H1 recommended)",
+        "corequisite": "MAT235Y1\/MAT237Y1\/MAT257Y1",
+        "exclusion": "PHY255H1",
+        "recommendedPreparation": "MAT244H1,PHY224H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39840": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39840",
+                        "assignedRoom1": "MP 103",
+                        "assignedRoom2": null
+                    },
+                    "WE-39841": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39841",
+                        "assignedRoom1": "MP 103",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161420": {
+                        "instructorId": "1161420",
+                        "firstName": "R",
+                        "lastName": "Serbanescu"
+                    }
+                },
+                "meetingId": "3820",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "196",
+                "actualEnrolment": "136",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-46036": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "46036",
+                        "assignedRoom1": "Contact Department",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3821",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "95",
+                "actualEnrolment": "73",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TU-46037": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46037",
+                        "assignedRoom1": "Contact Department",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3822",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "95",
+                "actualEnrolment": "62",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

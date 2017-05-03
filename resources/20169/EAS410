@@ -1,0 +1,108 @@
+{
+    "EAS410Y1-Y-20169": {
+        "courseId": "2957",
+        "org": "EAS",
+        "orgName": "East Asian Studies (EAS)",
+        "courseTitle": "Modern Standard Korean IV",
+        "code": "EAS410Y1",
+        "courseDescription": "<p>As a continuation of EAS310Y1, this course is designed for advanced-level learners of Korean. Through reading short essays\/articles and watching films, this course aims to improve students&rsquo; proficiency in speaking, writing, listening, and reading. Classroom and online discussions are conducted entirely in Korean. Interviews are required of all students who wish to enrol in the course. See www.eas.utoronto.ca\/languages\/korean for details.&nbsp;<\/p>",
+        "prerequisite": "EAS310Y1 (70% minimum)\/equivalent as determined by the Korean placement interview",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "In order to request enrolment in this course students without the prerequisite must attend an interview. Returning students should attend an interview in April; incoming students in September. For more information and to register: \r\nhttp:\/\/www.eas.utoronto.ca\/languages\/korean\/ ",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-14236": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "14236",
+                        "assignedRoom1": "BA 2139",
+                        "assignedRoom2": "LM 123"
+                    }
+                },
+                "instructors": {
+                    "1159420": {
+                        "instructorId": "1159420",
+                        "firstName": "Y",
+                        "lastName": "Choi"
+                    }
+                },
+                "meetingId": "6116",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "81",
+                        "postCode": "ASMAJ1058",
+                        "postName": "MA EAST ASIAN STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "278",
+                        "postCode": "ASSPE1058",
+                        "postName": "SP EAST ASIAN STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

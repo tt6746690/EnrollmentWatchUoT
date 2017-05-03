@@ -1,0 +1,101 @@
+{
+    "STA457H1-S-20169": {
+        "courseId": "2450",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Time Series Analysis",
+        "code": "STA457H1",
+        "courseDescription": "<p>An overview of methods and problems in the analysis of time series data. Topics include: descriptive methods, filtering and smoothing time series, theory of stationary processes, identification and estimation of time series models, forecasting, seasonal adjustment, spectral estimation, bivariate time series models.<\/p>",
+        "prerequisite": "STA302H1; MAT235Y1\/MAT237Y1\/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-40544": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "40544",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 100"
+                    },
+                    "WE-40545": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "40545",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 100"
+                    },
+                    "FR-40543": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "40543",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 100"
+                    }
+                },
+                "instructors": {
+                    "1162627": {
+                        "instructorId": "1162627",
+                        "firstName": "K",
+                        "lastName": "Knight"
+                    }
+                },
+                "meetingId": "5033",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "250",
+                "actualEnrolment": "215",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "WE-40547": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "40547",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2118"
+                    }
+                },
+                "instructors": {
+                    "1162628": {
+                        "instructorId": "1162628",
+                        "firstName": "Z",
+                        "lastName": "Zhou"
+                    }
+                },
+                "meetingId": "5034",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "170",
+                "actualEnrolment": "92",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

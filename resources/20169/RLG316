@@ -1,0 +1,53 @@
+{
+    "RLG316H1-S-20169": {
+        "courseId": "4131",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Martyrs, Mystics, and Saints",
+        "code": "RLG316H1",
+        "courseDescription": "<p>An examination of the variety of ways in which religious traditions construct sanctity, articulate categories of exceptionalism, and how exceptional persons function within social systems. Consideration of gender and social status in definitions of sanctity. Focus varies from year to year, and may focus either on constructions of sanctity in one religious tradition, or comparatively, comparing and contrasting ideas of sainthood and martyrdom in Christianity, Judaism, Islam, Hinduism and\/or Buddhism.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "RLG100Y1\/RLG100H5\/RLG280Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-31887": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "31887",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 179"
+                    }
+                },
+                "instructors": {
+                    "1161938": {
+                        "instructorId": "1161938",
+                        "firstName": "L",
+                        "lastName": "Hayes"
+                    }
+                },
+                "meetingId": "6776",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

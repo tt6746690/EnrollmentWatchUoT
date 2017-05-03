@@ -1,0 +1,53 @@
+{
+    "RLG231H1-S-20169": {
+        "courseId": "4112",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Religion and Science (formerly RLG231Y1)",
+        "code": "RLG231H1",
+        "courseDescription": "<p>Course explores issues at the intersection of religion and science which may include such topics as evolution and the assessment of its religious significance by different traditions, conceptions of God held by scientists (theism, pantheism, panentheism), ethical issues raised by scientific or technological developments ( cloning or embryonic stem cell research), philosophical analysis of religious and scientific discourses.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "RLG231Y1, SMC230Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-31876": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "31876",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1074"
+                    }
+                },
+                "instructors": {
+                    "1161914": {
+                        "instructorId": "1161914",
+                        "firstName": "M",
+                        "lastName": "Price"
+                    }
+                },
+                "meetingId": "5692",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "51",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

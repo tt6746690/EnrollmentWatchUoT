@@ -1,0 +1,53 @@
+{
+    "SMC210H1-F-20169": {
+        "courseId": "2287",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "The Early Mediaeval Tradition (Formerly SMC210Y1)",
+        "code": "SMC210H1",
+        "courseDescription": "<p>An introduction to the thought and culture of early mediaeval Europe. &nbsp;Students are introduced to important monuments of early mediaeval History, Thought, Literature, and Art. &nbsp;They follow some of the common threads that run through these disciplines and explore chief expressions of early mediaeval life and thought.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "SMC210Y1",
+        "recommendedPreparation": "SMC175H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-36450": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "36450",
+                        "assignedRoom1": "TF 201",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162389": {
+                        "instructorId": "1162389",
+                        "firstName": "G",
+                        "lastName": "Sheldon"
+                    }
+                },
+                "meetingId": "14649",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "41",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

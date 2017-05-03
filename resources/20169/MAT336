@@ -1,0 +1,181 @@
+{
+    "MAT336H1-S-20169": {
+        "courseId": "1475",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Elements of Analysis",
+        "code": "MAT336H1",
+        "courseDescription": "<p>This course provides the foundations of analysis and rigorous calculus for students who will take subsequent courses where these mathematical concepts are central of applications, but who have only taken courses with limited proofs. Topics include topology of R<sup>n<\/sup>, implicit and inverse function theorems and rigorous integration theory.<\/p>",
+        "prerequisite": "MAT223H1\/MAT240H1, MAT235Y1\/MAT237Y1",
+        "corequisite": "",
+        "exclusion": "MAT257Y1, MAT337H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39327": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "39327",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1170"
+                    },
+                    "WE-39328": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "39328",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MC 252"
+                    }
+                },
+                "instructors": {
+                    "1160915": {
+                        "instructorId": "1160915",
+                        "firstName": "S",
+                        "lastName": "Homayouni-Boroojeni"
+                    }
+                },
+                "meetingId": "3171",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-38288": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "38288",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "BA 1170"
+                    },
+                    "WE-38289": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "38289",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MC 252"
+                    }
+                },
+                "instructors": {
+                    "1160916": {
+                        "instructorId": "1160916",
+                        "firstName": "S",
+                        "lastName": "Homayouni-Boroojeni"
+                    }
+                },
+                "meetingId": "14887",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-42110": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "42110",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1200"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14617",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "58",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-42111": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "42111",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1200"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14618",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "57",
+                "actualEnrolment": "41",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

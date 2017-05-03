@@ -1,0 +1,61 @@
+{
+    "CHM326H1-F-20169": {
+        "courseId": "221",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Introductory Quantum Mechanics and Spectroscopy",
+        "code": "CHM326H1",
+        "courseDescription": "<p>This course introduces the postulates of quantum mechanics to develop the fundamental framework of quantum theory. A number of exactly soluble problems are treated in detail as examples. Perturbation theory is introduced in the context of understanding many body problems. Various applications to chemical bonding and molecular spectroscopy are covered in detail.<\/p>",
+        "prerequisite": "(CHM220H1\/CHM222H1,CHM221H1\/CHM223H1)\/CHM225Y1, MAT235Y1\/MAT237Y1",
+        "corequisite": "",
+        "exclusion": "JCP321H5",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41216": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "41216",
+                        "assignedRoom1": "LM 123",
+                        "assignedRoom2": null
+                    },
+                    "FR-41215": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "41215",
+                        "assignedRoom1": "LM 123",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158899": {
+                        "instructorId": "1158899",
+                        "firstName": "M",
+                        "lastName": "Wilson"
+                    }
+                },
+                "meetingId": "545",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "28",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

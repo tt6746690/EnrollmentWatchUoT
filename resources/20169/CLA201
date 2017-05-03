@@ -1,0 +1,69 @@
+{
+    "CLA201H1-S-20169": {
+        "courseId": "283",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Latin & Greek in Scientific Terminology",
+        "code": "CLA201H1",
+        "courseDescription": "<p>The study of technical and scientific terms derived from Latin and Greek: word elements, formation, analysis. The course is designed to give students in any field of specialization a better grasp of the derivation and basic meaning of English words derived from Latin and Greek elements.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41308": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "41308",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 100"
+                    },
+                    "WE-41309": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "41309",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 100"
+                    },
+                    "FR-41307": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "41307",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 100"
+                    }
+                },
+                "instructors": {
+                    "1158992": {
+                        "instructorId": "1158992",
+                        "firstName": "J",
+                        "lastName": "Traill"
+                    }
+                },
+                "meetingId": "677",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "200",
+                "actualEnrolment": "136",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "TRN190Y1-Y-20169": {
+        "courseId": "2473",
+        "org": "TRIN",
+        "orgName": "Trinity College (TRN)",
+        "courseTitle": "Critical Reading and Critical Writing",
+        "code": "TRN190Y1",
+        "courseDescription": "<p>This course introduces students to a number of critical approaches and develops the students own responses to texts through an understanding of critical vocabulary and the art of close analytical reading. Students also learn how to make their own critical analysis more effective through oral presentations and written work.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-34211": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "34211",
+                        "assignedRoom1": "LA 340",
+                        "assignedRoom2": "LA 340"
+                    }
+                },
+                "instructors": {
+                    "1162669": {
+                        "instructorId": "1162669",
+                        "firstName": "S",
+                        "lastName": "Stevenson"
+                    }
+                },
+                "meetingId": "5086",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

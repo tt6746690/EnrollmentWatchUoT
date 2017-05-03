@@ -1,0 +1,33 @@
+{
+    "SLA305Y1-Y-20169": {
+        "courseId": "4293",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Adv Czech",
+        "code": "SLA305Y1",
+        "courseDescription": "",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "13540",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "August 31, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

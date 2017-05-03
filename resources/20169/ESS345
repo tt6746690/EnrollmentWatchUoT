@@ -1,0 +1,61 @@
+{
+    "ESS345H1-S-20169": {
+        "courseId": "786",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Computational Geology",
+        "code": "ESS345H1",
+        "courseDescription": "<p>High-level computer programming to manipulate, analyse, and visualise geologic datasets, and to solve geologic problems that require mathematical and physical concepts. Students work in Matlab, write reports, give oral presentations, and work in teams.<\/p>",
+        "prerequisite": "ESS241H1\/ESS261H1\/ESS262H1",
+        "corequisite": "",
+        "exclusion": "GLG204H1, CSC108H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-34536": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "34536",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1062"
+                    },
+                    "TH-34537": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "34537",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1062"
+                    }
+                },
+                "instructors": {
+                    "1159858": {
+                        "instructorId": "1159858",
+                        "firstName": "C",
+                        "lastName": "Bank"
+                    }
+                },
+                "meetingId": "14321",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

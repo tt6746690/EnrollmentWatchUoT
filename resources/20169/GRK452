@@ -1,0 +1,61 @@
+{
+    "GRK452H1-F-20169": {
+        "courseId": "3358",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Greek Tragedy II",
+        "code": "GRK452H1",
+        "courseDescription": "<p>Advanced readings from Aeschylus, Sophocles and Euripides.<\/p>",
+        "prerequisite": "One FCE in the GRK 300-series",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-45857": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45857",
+                        "assignedRoom1": "LI 205",
+                        "assignedRoom2": null
+                    },
+                    "WE-45858": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45858",
+                        "assignedRoom1": "LI 205",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160215": {
+                        "instructorId": "1160215",
+                        "firstName": "P",
+                        "lastName": "Bing"
+                    }
+                },
+                "meetingId": "14096",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

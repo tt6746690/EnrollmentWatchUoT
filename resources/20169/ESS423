@@ -1,0 +1,165 @@
+{
+    "ESS423H1-S-20169": {
+        "courseId": "793",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Mineral Deposits",
+        "code": "ESS423H1",
+        "courseDescription": "<p>Geology and geochemistry of ore deposits. Origin and interpretation; systematic ore mineralogy, in hand specimen and reflected light microscopy.<\/p>",
+        "prerequisite": "ESS322H1",
+        "corequisite": "",
+        "exclusion": "GLG442H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-37534": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "37534",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1067"
+                    }
+                },
+                "instructors": {
+                    "1159864": {
+                        "instructorId": "1159864",
+                        "firstName": "J",
+                        "lastName": "Mungall"
+                    }
+                },
+                "meetingId": "14328",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "32",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-38808": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38808",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1067"
+                    }
+                },
+                "instructors": {
+                    "1159865": {
+                        "instructorId": "1159865",
+                        "firstName": "J",
+                        "lastName": "Mungall"
+                    }
+                },
+                "meetingId": "14802",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "TU-33734": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "33734",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 2101"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14329",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "16",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "FR-33735": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "33735",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 2101"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14330",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "16",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

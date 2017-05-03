@@ -1,0 +1,104 @@
+{
+    "PHL496H1-F-20169": {
+        "courseId": "1812",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "Individual Studies (formerly PHL396H1)",
+        "code": "PHL496H1",
+        "courseDescription": "<p>Individual Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For PHL495H1, 496H1, 497H1 Individual Studies: students should discuss the research project with a faculty member well in advance of the term in which the project is to take place. Students must then submit an Independent Study form, located on the Philosophy Department website: http:\/\/undergraduate.philosophy.utoronto.ca\/courses\/individual-studies-courses\/. All forms must be received at Jackman Humanities Building, 170 St. George Street, Room 403 or by email to eric.correia@utoronto.ca, no later than 4:00pm, September 2, 2016.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161382": {
+                        "instructorId": "1161382",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "3716",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PHL496H1-S-20169": {
+        "courseId": "1812",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "Individual Studies (formerly PHL396H1)",
+        "code": "PHL496H1",
+        "courseDescription": "<p>Individual Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For PHL495H1, 496H1, 497H1 Individual Studies: students should discuss the research project with a faculty member well in advance of the term in which the project is to take place. Students must then submit an Independent Study form, located on the Philosophy Department website: http:\/\/undergraduate.philosophy.utoronto.ca\/courses\/individual-studies-courses\/. All forms must be received at Jackman Humanities Building, 170 St. George Street, Room 403 or by email to eric.correia@utoronto.ca, no later than 4:00pm, September 2, 2016.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161383": {
+                        "instructorId": "1161383",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "3717",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

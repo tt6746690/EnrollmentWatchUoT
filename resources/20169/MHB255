@@ -1,0 +1,61 @@
+{
+    "MHB255H1-F-20169": {
+        "courseId": "1526",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Intermediate Modern Hebrew",
+        "code": "MHB255H1",
+        "courseDescription": "<p>&nbsp;Intensive study of written and spoken Hebrew.<\/p>",
+        "prerequisite": "MHB156H1\/ NML156H1 or permission of instructor",
+        "corequisite": "",
+        "exclusion": "Grade 8 Hebrew (or Ulpan level 2 in Israel)\/NML255Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-44120": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44120",
+                        "assignedRoom1": "JH 214",
+                        "assignedRoom2": null
+                    },
+                    "TH-44121": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44121",
+                        "assignedRoom1": "JH 214",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161021": {
+                        "instructorId": "1161021",
+                        "firstName": "Y",
+                        "lastName": "Nizri"
+                    }
+                },
+                "meetingId": "3234",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

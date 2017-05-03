@@ -1,0 +1,112 @@
+{
+    "PHC300H1-F-20169": {
+        "courseId": "1726",
+        "org": "PHM",
+        "orgName": "Pharmaceutical Chemistry (PHC) (JFP)",
+        "courseTitle": "Molecular Pharmacology 1",
+        "code": "PHC300H1",
+        "courseDescription": "<p>Structural and mechanistic determinants of drug action at the molecular level. Topics include the physicalchemical&nbsp;properties of drugs per se&nbsp; as they relate to therapeutic intervention and the biophysical and biochemical&nbsp;properties of enzymes and nucleic acids that underlie and are affected by their interactions with drugs.<\/p>",
+        "prerequisite": "(CHM135H1, CHM136H1)\/(CHM138H1,CHM139H1)\/CHM151Y1; CHM220H1\/CHM222H1",
+        "corequisite": "",
+        "exclusion": "PCL302H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-31080": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "31080",
+                        "assignedRoom1": "PB 255",
+                        "assignedRoom2": null
+                    },
+                    "MO-31081": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "31081",
+                        "assignedRoom1": "PB 255",
+                        "assignedRoom2": null
+                    },
+                    "FR-31082": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "31082",
+                        "assignedRoom1": "PB 255",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161268": {
+                        "instructorId": "1161268",
+                        "firstName": "S",
+                        "lastName": "Angers"
+                    },
+                    "1161269": {
+                        "instructorId": "1161269",
+                        "firstName": "I",
+                        "lastName": "Crandall"
+                    },
+                    "1161270": {
+                        "instructorId": "1161270",
+                        "firstName": "R",
+                        "lastName": "Macgregor"
+                    },
+                    "1161271": {
+                        "instructorId": "1161271",
+                        "firstName": "J",
+                        "lastName": "Wells"
+                    }
+                },
+                "meetingId": "3485",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "291",
+                        "postCode": "ASSPE1211",
+                        "postName": "SP PHARMACEUTICAL CHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

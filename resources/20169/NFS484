@@ -1,0 +1,81 @@
+{
+    "NFS484H1-F-20169": {
+        "courseId": "3777",
+        "org": "NUSCI",
+        "orgName": "Nutritional Sciences (NFS)",
+        "courseTitle": "Advanced Nutrition",
+        "code": "NFS484H1",
+        "courseDescription": "<p>Physiological and biochemical features of nutrient needs. The roles of nutrients in the development and adaptability of the whole body, organs and cells. Interpretation of current research data.<\/p>",
+        "prerequisite": "BCH210H1, CSB349H1\/PSL350H1\/BCH311H1, NFS284H1, (PSL300H1, PSL301H1)\/PSL302Y1, (STA220H1, STA221H1\/JBS229H1) or permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-42683": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42683",
+                        "assignedRoom1": "MS 2172",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161131": {
+                        "instructorId": "1161131",
+                        "firstName": "C",
+                        "lastName": "Greenwood"
+                    }
+                },
+                "meetingId": "6978",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "82",
+                        "postCode": "ASMAJ1068",
+                        "postName": "MA NUTRITIONAL SCIENCES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

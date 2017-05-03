@@ -1,0 +1,53 @@
+{
+    "GER491Y1-Y-20169": {
+        "courseId": "968",
+        "org": "GER",
+        "orgName": "German (GER) (JGJ)",
+        "courseTitle": "Individual Studies",
+        "code": "GER491Y1",
+        "courseDescription": "<p>A scholarly project chosen by the student and supervised by a member of the staff. The form of the project and the manner of its execution are determined in consultation with the supervisor. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Prerequisite: Advanced status and permission of department. Note: project proposals need to be submitted by June 1st",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course,  please contact gayle.grisdale@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160116": {
+                        "instructorId": "1160116",
+                        "firstName": "S",
+                        "lastName": "Soldovieri"
+                    }
+                },
+                "meetingId": "1988",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "MAT138H1-F-20169": {
+        "courseId": "1453",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Introduction to Proofs",
+        "code": "MAT138H1",
+        "courseDescription": "<p>The reading and understanding mathematical statements, analyzing definitions and properties, formulating&nbsp;conjectures and generalizations, providing and writing reasonable and precise arguments, modelling and&nbsp;solving proofs. This course is an excellent preparation for MAT157Y1, MAT237Y1, MAT240H1, and other proof-oriented courses.<\/p>",
+        "prerequisite": "High school level calculus",
+        "corequisite": "",
+        "exclusion": "MAT157Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-43122": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "43122",
+                        "assignedRoom1": "GB 120",
+                        "assignedRoom2": null
+                    },
+                    "FR-43123": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "43123",
+                        "assignedRoom1": "GB 120",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160848": {
+                        "instructorId": "1160848",
+                        "firstName": "F",
+                        "lastName": "Recio"
+                    }
+                },
+                "meetingId": "14151",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "61",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-43124": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "43124",
+                        "assignedRoom1": "BA 1210",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14398",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "FR-43125": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "43125",
+                        "assignedRoom1": "BA 1230",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14399",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "MAT138H1-S-20169": {
+        "courseId": "1453",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Introduction to Proofs",
+        "code": "MAT138H1",
+        "courseDescription": "<p>The reading and understanding mathematical statements, analyzing definitions and properties, formulating&nbsp;conjectures and generalizations, providing and writing reasonable and precise arguments, modelling and&nbsp;solving proofs. This course is an excellent preparation for MAT157Y1, MAT237Y1, MAT240H1, and other proof-oriented courses.<\/p>",
+        "prerequisite": "High school level calculus",
+        "corequisite": "",
+        "exclusion": "MAT157Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-37982": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "37982",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MP 203"
+                    },
+                    "WE-37983": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "37983",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MP 203"
+                    },
+                    "FR-37984": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "37984",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MP 203"
+                    }
+                },
+                "instructors": {
+                    "1160849": {
+                        "instructorId": "1160849",
+                        "firstName": "A",
+                        "lastName": "Gracia-Saz"
+                    }
+                },
+                "meetingId": "14393",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "75",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-41742": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41742",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 118"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14394",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-41743": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41743",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2185"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14395",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "MO-41747": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "41747",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2195"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14396",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5201": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "14397",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "December 16, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

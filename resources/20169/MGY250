@@ -1,0 +1,53 @@
+{
+    "MGY250H1-F-20169": {
+        "courseId": "4665",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Introduction to Medical Genetics",
+        "code": "MGY250H1",
+        "courseDescription": "<p>An introduction to medical genetics including the &ldquo;omics&rdquo; revolution, stem cells, cancer genetics, finding disease-causing mutations, genetic counselling and gene therapy. &nbsp;The course material is delivered online and is approximately equivalent to 36 lecture hours. &nbsp;Midterm and final exam are taken on campus or at a pre-approved site off-campus.&nbsp;<\/p>",
+        "prerequisite": "BIO120H1, BIO130H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160961": {
+                        "instructorId": "1160961",
+                        "firstName": "J",
+                        "lastName": "Hill"
+                    }
+                },
+                "meetingId": "14154",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "382",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

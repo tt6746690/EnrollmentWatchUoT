@@ -1,0 +1,58 @@
+{
+    "GGR493Y1-Y-20169": {
+        "courseId": "1029",
+        "org": "GGR",
+        "orgName": "Geography (GGR) (JFG) (JFE) (JGE) (JGI) (JUG) (JEG)",
+        "courseTitle": "Geography ProfessionalExper",
+        "code": "GGR493Y1",
+        "courseDescription": "<p>Undertake professional placement matching academic interests and career goals. &nbsp;Students meet regularly during the year in class to cover topics such as: reflective writing, project management, career planning, and the application of academic skills in professional contexts. Research project required that connects a topic related to placement with academic literatures. &nbsp;Normally, one day per week spent at placement site. For students in their final year of a Geography major or specialist program of study, or the GIS Minor. Space limited. Applications are reviewed in early spring. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "14.5 FCEs; must be enrolled in a GGR Major or Specialist, or GIS Minor; permission of instructor.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Ben Pottruff, the Geography Undergraduate Student Advisor, at pottruff@geog.utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-28352": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "28352",
+                        "assignedRoom1": "UC 67",
+                        "assignedRoom2": "UC 67"
+                    }
+                },
+                "instructors": {
+                    "1160191": {
+                        "instructorId": "1160191",
+                        "firstName": "S",
+                        "lastName": "Black"
+                    },
+                    "1160192": {
+                        "instructorId": "1160192",
+                        "firstName": "R",
+                        "lastName": "DiFrancesco"
+                    }
+                },
+                "meetingId": "14381",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "INI204Y1-Y-20169": {
+        "courseId": "1267",
+        "org": "INNIS",
+        "orgName": "Innis College (INI) (JGI) (JEI)",
+        "courseTitle": "The Academic Writing Process",
+        "code": "INI204Y1",
+        "courseDescription": "<p>The strategy necessary to write complete pieces of non-fiction prose, especially exposition and argument. Concepts of planning and organization include: focusing, research, outlining, patterns of logical development, introduction, paragraph development, conclusion, argumentation and persuasion, documentation, and revision. Students for whom English is a second language should have an advanced level of fluency in English before enrolling.<\/p>",
+        "prerequisite": "Completion of 4.0 full-course equivalents.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-30337": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "30337",
+                        "assignedRoom1": "IN 312",
+                        "assignedRoom2": "IN 312"
+                    }
+                },
+                "instructors": {
+                    "1160556": {
+                        "instructorId": "1160556",
+                        "firstName": "R",
+                        "lastName": "McKeown"
+                    }
+                },
+                "meetingId": "2579",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "219",
+                        "postCode": "ASMIN2137",
+                        "postName": "MI WRITING & RHETORIC",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

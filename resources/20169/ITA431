@@ -1,0 +1,53 @@
+{
+    "ITA431H1-F-20169": {
+        "courseId": "1329",
+        "org": "ITA",
+        "orgName": "Italian (ITA)",
+        "courseTitle": "History of Italian Language I-from Middle ages to Cinquecento",
+        "code": "ITA431H1",
+        "courseDescription": "<p>An historical overview of the Italian language from the first Medieval documents to the texts of the <em><span style=\"text-decoration: underline;\">Questione della Lingua.<\/span><\/em> It deals with historical grammar and the analyses of early Italian texts. An introduction to notions of linguistic statistics.Empirical quantitative methods are based on the three most important databases of old Italian:TLIO,OVI,BIZ. This course includes a component designed to enhance students' research experience.<\/p>",
+        "prerequisite": "ITA250Y1\/ITA251Y1\/ITA252Y1",
+        "corequisite": "",
+        "exclusion": "ITA430H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-20478": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "20478",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160636": {
+                        "instructorId": "1160636",
+                        "firstName": "F",
+                        "lastName": "Pierno"
+                    }
+                },
+                "meetingId": "13825",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

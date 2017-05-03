@@ -1,0 +1,121 @@
+{
+    "BCH378H1-S-20169": {
+        "courseId": "153",
+        "org": "BCH",
+        "orgName": "Biochemistry (BCH) (BCB)",
+        "courseTitle": "Biochemistry Laboratory II",
+        "code": "BCH378H1",
+        "courseDescription": "<p>This course builds upon the fundamental laboratory techniques acquired in<a target=_blank\" href=\"http:\/\/www.artsandscience.utoronto.ca\/ofr\/calendar\/crs_bch.htm#BCH377H1\"> BCH377H1<\/a>.\u00a0 Students gain hands-on experience in experimental design and data analysis",
+        "prerequisite": "BCH377H1. Exploring numerous modern and classic biochemistry and molecular biology experimental techniques used in research laboratories.\u00a0 Enrollment in this course is generally restricted to students enrolled in the Biochemistry Specialist program.<\/p>\"",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-43318": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "43318",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "TU-43319": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43319",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "1158611": {
+                        "instructorId": "1158611",
+                        "firstName": "C",
+                        "lastName": "Enenkel"
+                    },
+                    "1158612": {
+                        "instructorId": "1158612",
+                        "firstName": "A",
+                        "lastName": "Khan-Trottier"
+                    }
+                },
+                "meetingId": "311",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Contact Department for room locations",
+                "enrollmentControls": [
+                    {
+                        "postId": "343",
+                        "postCode": "ASSPE1762",
+                        "postName": "SP BIOCHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "343",
+                        "postCode": "ASSPE1762",
+                        "postName": "SP BIOCHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

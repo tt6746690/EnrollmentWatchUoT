@@ -1,0 +1,81 @@
+{
+    "NEW337H1-F-20169": {
+        "courseId": "3752",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Special Topics in Buddhism, Psychology and Mental Health",
+        "code": "NEW337H1",
+        "courseDescription": "<p>Topics vary from year to year.<\/p>",
+        "prerequisite": "0.5 FCE from the Buddhism, Psychology and Mental Health Core Course Group.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NEW232Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-36030": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "36030",
+                        "assignedRoom1": "BL 112",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161077": {
+                        "instructorId": "1161077",
+                        "firstName": "J",
+                        "lastName": "Motha"
+                    }
+                },
+                "meetingId": "14333",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Mindfulness Meditation, Education and Mental Health: Theory, Praxis and Research",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "183",
+                        "postCode": "ASMIN1017",
+                        "postName": "MI BUDDHISM, PSY & MENTAL HLTH",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

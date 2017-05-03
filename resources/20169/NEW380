@@ -1,0 +1,61 @@
+{
+    "NEW380Y1-Y-20169": {
+        "courseId": "1587",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Intermediate Swahili",
+        "code": "NEW380Y1",
+        "courseDescription": "<p>Grammar and syntax. Conversation and written composition. Reading of texts: literary, journalistic. Relation of the language to its East African context. <\/p>",
+        "prerequisite": "NEW280Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39467": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39467",
+                        "assignedRoom1": "WE 54F",
+                        "assignedRoom2": "WE 54F"
+                    },
+                    "TH-39466": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39466",
+                        "assignedRoom1": "WE 54F",
+                        "assignedRoom2": "WE 54F"
+                    }
+                },
+                "instructors": {
+                    "1161092": {
+                        "instructorId": "1161092",
+                        "firstName": "O",
+                        "lastName": "Almasi"
+                    }
+                },
+                "meetingId": "3311",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "28",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

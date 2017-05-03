@@ -1,0 +1,116 @@
+{
+    "ENV452H1-S-20169": {
+        "courseId": "3078",
+        "org": "ENVMT",
+        "orgName": "Environment, School of (ENV) (JEE) (JEH) (JGE)",
+        "courseTitle": "Environmental Science Seminar",
+        "code": "ENV452H1",
+        "courseDescription": "<p>Scientists from within and external to the university share and discuss challenges, findings and opportunities. Specific topics (and speakers) vary from year to year but may draw from rehabilitation techniques, contaminants in our environment, environmental health, impacts on landscapes and communities, biodiversity, water, and modelling of environmental processes.<\/p>",
+        "prerequisite": "ENV316H1\/ENV334H1\/JEE337H1, completion of 10 FCEs, and enrolment in the Environmental Science Major; or permission of the Academic Associate Director",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "To request enrolment in E courses, as well as in PE courses in the second round of course enrolments, contact D.Powell at 416-946-8100 or by david.powell@utoronto.ca ",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-23491": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "23491",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1042"
+                    },
+                    "WE-23492": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "23492",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1042"
+                    }
+                },
+                "instructors": {
+                    "1159827": {
+                        "instructorId": "1159827",
+                        "firstName": "D",
+                        "lastName": "Wunch"
+                    }
+                },
+                "meetingId": "14126",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "83",
+                        "postCode": "ASMAJ1076",
+                        "postName": "MA ENVIRONMENTAL SCIENCE",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "83",
+                        "postCode": "ASMAJ1076",
+                        "postName": "MA ENVIRONMENTAL SCIENCE",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

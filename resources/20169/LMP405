@@ -1,0 +1,47 @@
+{
+    "LMP405Y1-Y-20169": {
+        "courseId": "1439",
+        "org": "LMP",
+        "orgName": "Laboratory Medicine and Pathobiology (LMP)",
+        "courseTitle": "Project in Pathobiology",
+        "code": "LMP405Y1",
+        "courseDescription": "<p>A self-contained research project to be completed under the supervision of a faculty member. The main areas of research are as listed in the description of the Department (above). The student will normally have completed three full years of study, and is expected to devote at least one full day per week to the project. Admission is by arrangement with the Department and with a particular supervisor. A list of potential supervisors is available from the Departmental Office and on our web site. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "BCH210H1\/BCH242Y1, LMP300Y1\/LMP363H1\/LMP365H1 and permission of department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For LMP405Y1 (Project in Laboratory Medicine & Pathobiology): visit the departmental website: http:\/\/www.lmp.utoronto.ca\/course\/lmp405y1 or contact the LMP Undergraduate Office, Medical Science Bldg, room 6209, Phone: 416-946-7459, Email: teresa.trimboli@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2871",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

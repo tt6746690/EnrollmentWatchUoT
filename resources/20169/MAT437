@@ -1,0 +1,69 @@
+{
+    "MAT437H1-S-20169": {
+        "courseId": "1491",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "K-Theory and C* Algebras",
+        "code": "MAT437H1",
+        "courseDescription": "<p>The course will begin with a description of the method (K-theoretical in spirit) used by Murray and von Neumann to give a rough initial classification of von Neumann algebras (into types I, II, and III). It will centre around the relatively recent use of K-theory to study Bratteli's approximately finite-dimensional C*-algebras---both to classify them (a result that can be formulated and proved purely algebraically), and to prove that the class of these C*-algebras---what Bratteli called AF algebras---is closed under passing to extensions (a result that uses the Bott periodicity feature of K-theory). Students will be encouraged to prepare oral or written reports on various subjects related to the course, including basic theory and applications.<\/p>",
+        "prerequisite": "MAT436H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46091": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46091",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "HU 1018"
+                    },
+                    "WE-46092": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46092",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "HU 1018"
+                    },
+                    "FR-46093": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46093",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "HU 1018"
+                    }
+                },
+                "instructors": {
+                    "1160940": {
+                        "instructorId": "1160940",
+                        "firstName": "G",
+                        "lastName": "Elliott"
+                    }
+                },
+                "meetingId": "14464",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

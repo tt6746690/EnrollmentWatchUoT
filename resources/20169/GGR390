@@ -1,0 +1,58 @@
+{
+    "GGR390H1-F-20169": {
+        "courseId": "1013",
+        "org": "GGR",
+        "orgName": "Geography (GGR) (JFG) (JFE) (JGE) (JGI) (JUG) (JEG)",
+        "courseTitle": "Field Methods",
+        "code": "GGR390H1",
+        "courseDescription": "<p>Introduction to field methods in geomorphology, vegetation mapping\/analysis, soils, hydrology, and climatology. &nbsp;The course includes exercises and a project during a one-week field camp, a little preparation during the preceding summer, and complementary practical work and\/or seminars during the Fall Term. Each student is required to pay the costs of their transportation and accommodation. This course meets the field requirement for Physical &amp; Environmental Geography programs. The field camp normally runs for one week at the end of August\/early September. Students must register with the Department by April. Consult with the department in case of conflict or concerns. Course may be limited by size. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "1.0 from JEG100H1\/GGR100H1, GGR201H1, GGR203H1, GGR205H1, GGR206H1, GGR305H1, ESS102H1, ENV234H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "8.0 FCE's including GGR270H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Ben Pottruff, the Geography Undergraduate Student Advisor, at pottruff@geog.utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160170": {
+                        "instructorId": "1160170",
+                        "firstName": "J",
+                        "lastName": "Chen"
+                    },
+                    "1160171": {
+                        "instructorId": "1160171",
+                        "firstName": "J",
+                        "lastName": "Desloges"
+                    }
+                },
+                "meetingId": "2139",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "SLA245H1-F-20169": {
+        "courseId": "4280",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "The Golden Age of Russian Literature",
+        "code": "SLA245H1",
+        "courseDescription": "<p><span lang=\"EN-US\">A survey of Russian literature from1820-1900.&nbsp; Topics include: Romanticism and Realism; the myth of St. Petersburg; the Russian Empire and its borders; the individual and society; man and nature; the &ldquo;woman question&rdquo;; freedom and rationality. Readings may include: Pushkin, Lermontov, Gogol, Goncharov, Tolstoi, Turgenev, Dostoevskii, Saltykov-Shchedrin, Chekhov.&nbsp; Taught and read in English.<\/span><\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-21320": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "21320",
+                        "assignedRoom1": "CR 103",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162342": {
+                        "instructorId": "1162342",
+                        "firstName": "K",
+                        "lastName": "Holland"
+                    }
+                },
+                "meetingId": "13535",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

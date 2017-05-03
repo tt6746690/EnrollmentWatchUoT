@@ -1,0 +1,108 @@
+{
+    "HIS495Y1-Y-20169": {
+        "courseId": "1132",
+        "org": "HIS",
+        "orgName": "History (HIS) (JHA) (JHP) (JHN) (JSH) (JAH)",
+        "courseTitle": "Topics in History",
+        "code": "HIS495Y1",
+        "courseDescription": "<p>An in-depth examination of historical issues. Content in any given year depends on instructor. See History website for more details.<\/p>",
+        "prerequisite": "14.0 FCEs including 2.0 FCE HIS course.  Further pre-requisites vary from year to year, consult the department.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Varies from year to year",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-26308": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "26308",
+                        "assignedRoom1": "UC 53",
+                        "assignedRoom2": "UC 53"
+                    }
+                },
+                "instructors": {
+                    "1160333": {
+                        "instructorId": "1160333",
+                        "firstName": "M",
+                        "lastName": "Price"
+                    }
+                },
+                "meetingId": "2284",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Hacking History",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "16",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "64",
+                        "postCode": "ASMAJ0652",
+                        "postName": "MA HISTORY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "257",
+                        "postCode": "ASSPE0652",
+                        "postName": "SP HISTORY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

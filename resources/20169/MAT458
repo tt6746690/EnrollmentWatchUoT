@@ -1,0 +1,69 @@
+{
+    "MAT458H1-S-20169": {
+        "courseId": "1495",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Advanced Real Analysis II",
+        "code": "MAT458H1",
+        "courseDescription": "<p>Fourier series and transform, convergence results, Fourier inversion theorem, L^2 theory, estimates, convolutions. Banach spaces, duals, weak topology, weak compactness, Hahn-Banach theorem, open mapping theorem, uniform boundedness theorem.<\/p>",
+        "prerequisite": "MAT457H1",
+        "corequisite": "",
+        "exclusion": "MAT457Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-29748": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "29748",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 6183"
+                    },
+                    "WE-29749": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "29749",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 6183"
+                    },
+                    "FR-29747": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "29747",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 6183"
+                    }
+                },
+                "instructors": {
+                    "1160944": {
+                        "instructorId": "1160944",
+                        "firstName": "J",
+                        "lastName": "Arthur"
+                    }
+                },
+                "meetingId": "3193",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "CSC454H1-F-20169": {
+        "courseId": "432",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "The Business of Software",
+        "code": "CSC454H1",
+        "courseDescription": "<p>The software and internet industries; principles of operation for successful software enterprises; innovation and entrepreneurship; software business definition and planning; business models, market and product planning; product development, marketing, sales, and support; financial management and financing of high-technology ventures; management, leadership, and partnerships. Students will all write business plans in teams.<\/p>",
+        "prerequisite": "Five CSC half-courses at the 200-level or higher",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact the Computer Science Undergraduate Office at ug@cs.toronto.edu.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-31741": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "31741",
+                        "assignedRoom1": "GB 120",
+                        "assignedRoom2": null
+                    },
+                    "WE-31742": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "20:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "31742",
+                        "assignedRoom1": "GB 120",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159301": {
+                        "instructorId": "1159301",
+                        "firstName": "M",
+                        "lastName": "Grech"
+                    }
+                },
+                "meetingId": "987",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSC454H1-S-20169": {
+        "courseId": "432",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "The Business of Software",
+        "code": "CSC454H1",
+        "courseDescription": "<p>The software and internet industries; principles of operation for successful software enterprises; innovation and entrepreneurship; software business definition and planning; business models, market and product planning; product development, marketing, sales, and support; financial management and financing of high-technology ventures; management, leadership, and partnerships. Students will all write business plans in teams.<\/p>",
+        "prerequisite": "Five CSC half-courses at the 200-level or higher",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact the Computer Science Undergraduate Office at ug@cs.toronto.edu.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-31743": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "31743",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "GB 120"
+                    },
+                    "WE-31744": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "20:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "31744",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "GB 120"
+                    }
+                },
+                "instructors": {
+                    "1159302": {
+                        "instructorId": "1159302",
+                        "firstName": "M",
+                        "lastName": "Grech"
+                    }
+                },
+                "meetingId": "988",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "PHY231H1-F-20169": {
+        "courseId": "1827",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Physics of Living Systems",
+        "code": "PHY231H1",
+        "courseDescription": "<p>An introductory course for students interested in understanding the physical phenomena occurring in biological systems and the applications of physics in life sciences. Topics may include physical processes inside living cells and systems, medical physics and imaging.<\/p>",
+        "prerequisite": "PHY132H1\/PHY152H1,(MAT135H1,MAT136H1)\/MAT137Y1\/MAT157Y1",
+        "corequisite": "",
+        "exclusion": "PHY238YH1",
+        "recommendedPreparation": "BIO130H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46583": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "46583",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    },
+                    "WE-46584": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "46584",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    },
+                    "FR-46582": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46582",
+                        "assignedRoom1": "MP 238",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161417": {
+                        "instructorId": "1161417",
+                        "firstName": "W",
+                        "lastName": "Ryu"
+                    }
+                },
+                "meetingId": "3811",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "93",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

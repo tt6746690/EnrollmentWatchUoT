@@ -1,0 +1,53 @@
+{
+    "AST251H1-S-20169": {
+        "courseId": "131",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (PLN)",
+        "courseTitle": "Life on Other Worlds",
+        "code": "AST251H1",
+        "courseDescription": "<p>Scholarly discussion of the probability that there are planets with life elsewhere in the universe, from the perspective of current ideas concerning the origin and evolution of the universe, the solar system and life. Search techniques and possibilities for interstellar travel and space colonies are discussed. Intended for life sciences students.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "AST221H1\/AST222H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41452": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "41452",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MC 102"
+                    }
+                },
+                "instructors": {
+                    "1158566": {
+                        "instructorId": "1158566",
+                        "firstName": "H",
+                        "lastName": "Neilson"
+                    }
+                },
+                "meetingId": "279",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "343",
+                "actualEnrolment": "291",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "SLA325H1-F-20169": {
+        "courseId": "4299",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Magic Prague (formerly SLA445H1)",
+        "code": "SLA325H1",
+        "courseDescription": "<p>Inspired by Angelo Ripellino&rsquo;s &ldquo;Magic Prague,&rdquo; this class explores Prague as a palimpsest of different genres in works by Jan Neruda, Franz Kafka, R.M. Rilke, G. Meyrink, G. Apollinaire, B. Hrabal and others.&nbsp; Selected secondary texts illuminate questions of literary cityscapes, center and margins, multiculturalism and nationalism and magic. Readings in English and for the specialists in the original.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "SLA445H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-46365": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46365",
+                        "assignedRoom1": "BT 319",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162362": {
+                        "instructorId": "1162362",
+                        "firstName": "V",
+                        "lastName": "Ambros"
+                    }
+                },
+                "meetingId": "13382",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

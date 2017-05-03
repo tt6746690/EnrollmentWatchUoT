@@ -1,0 +1,61 @@
+{
+    "GRK352H1-F-20169": {
+        "courseId": "3354",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Greek Tragedy I",
+        "code": "GRK352H1",
+        "courseDescription": "<p>Readings from Aeschylus, Sophocles and Euripides.<\/p>",
+        "prerequisite": "GRK202H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-23073": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "23073",
+                        "assignedRoom1": "LI 205",
+                        "assignedRoom2": null
+                    },
+                    "WE-23074": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "23074",
+                        "assignedRoom1": "LI 205",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160208": {
+                        "instructorId": "1160208",
+                        "firstName": "P",
+                        "lastName": "Bing"
+                    }
+                },
+                "meetingId": "14095",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

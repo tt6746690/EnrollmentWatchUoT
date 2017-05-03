@@ -1,0 +1,53 @@
+{
+    "SOC365H1-S-20169": {
+        "courseId": "2385",
+        "org": "SOC",
+        "orgName": "Sociology (SOC)",
+        "courseTitle": "Gender Relations (formerly SOC365Y1)",
+        "code": "SOC365H1",
+        "courseDescription": "<p>This course examines the dynamics of gender in daily life &ndash; in sexuality and intimate relations, in parenting and families, and in paid work and workplace organizations, as well as in popular culture. It examines the social construction of gender in individuals and in social organizations, in order to understand gender inequality.<\/p>",
+        "prerequisite": "SOC265H1",
+        "corequisite": "",
+        "exclusion": "SOC365Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40339": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "40339",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 161"
+                    }
+                },
+                "instructors": {
+                    "1162504": {
+                        "instructorId": "1162504",
+                        "firstName": "A",
+                        "lastName": "Green"
+                    }
+                },
+                "meetingId": "4888",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "130",
+                "actualEnrolment": "69",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

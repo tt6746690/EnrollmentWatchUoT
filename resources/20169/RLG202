@@ -1,0 +1,53 @@
+{
+    "RLG202H1-F-20169": {
+        "courseId": "4095",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Judaism",
+        "code": "RLG202H1",
+        "courseDescription": "<p>An introduction to the religious tradition of the Jews, from its ancient roots to its modern crises. Focus on great ideas, thinkers, books, movements, sects, and events in the historical development of Judaism through its four main periods - biblical, rabbinic, medieval, and modern.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "RLG202H5, RLG202Y1",
+        "recommendedPreparation": "RLG100Y1\/RLG200H1\/RLG280Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-29215": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "29215",
+                        "assignedRoom1": "UC 177",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161905": {
+                        "instructorId": "1161905",
+                        "firstName": "K",
+                        "lastName": "Green"
+                    }
+                },
+                "meetingId": "5443",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

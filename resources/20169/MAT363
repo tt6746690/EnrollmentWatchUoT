@@ -1,0 +1,171 @@
+{
+    "MAT363H1-S-20169": {
+        "courseId": "1481",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Geometry of Curves and Surfaces",
+        "code": "MAT363H1",
+        "courseDescription": "<p>Curves and surfaces in 3-spaces. Frenet formulas. Curvature and geodesics. Gauss map. Minimal surfaces. Gauss-Bonnet theorem for surfaces. Surfaces of constant curvature. <\/p>",
+        "prerequisite": "MAT224H1\/MAT247H1, MAT237Y1\/MAT257Y1 (MAT257Y1 can be taken concurrently)",
+        "corequisite": "",
+        "exclusion": "MAT367H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39353": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39353",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2106"
+                    },
+                    "WE-39354": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39354",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2106"
+                    },
+                    "FR-39352": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39352",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2106"
+                    }
+                },
+                "instructors": {
+                    "1160925": {
+                        "instructorId": "1160925",
+                        "firstName": "A",
+                        "lastName": "Nabutovsky"
+                    }
+                },
+                "meetingId": "3179",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "90",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-38296": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "38296",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "SS 2106"
+                    },
+                    "WE-38297": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "38297",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "SS 2106"
+                    },
+                    "FR-38298": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "38298",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "SS 2106"
+                    }
+                },
+                "instructors": {
+                    "1160926": {
+                        "instructorId": "1160926",
+                        "firstName": "A",
+                        "lastName": "Nabutovsky"
+                    }
+                },
+                "meetingId": "14892",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-43760": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "43760",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "GB 248"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15179",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "95",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

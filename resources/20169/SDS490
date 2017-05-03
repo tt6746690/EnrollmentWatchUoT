@@ -1,0 +1,108 @@
+{
+    "SDS490Y1-Y-20169": {
+        "courseId": "4251",
+        "org": "SDST",
+        "orgName": "Sexual Diversity Studies, Mark S. Bonham Centre (SDS) (JNS) (JPU) (JSU)",
+        "courseTitle": "Engaging Our Communities",
+        "code": "SDS490Y1",
+        "courseDescription": "<p>A service learning course with student placements in various LGBT community organizations alongside regular classroom seminars to look at the politics of engagement, active citizenship, mobilization, archiving community histories, accessibility, belonging, activism, and philanthropy.<\/p>",
+        "prerequisite": "SDS255H1\/SDS256H1 (UNI255H1\/UNI256H1) and at least 1 FCE in SDS at the third-year level or permission of the instructor. For Majors and Specialists.",
+        "corequisite": "",
+        "exclusion": "SDS456Y1: Special Topics: Engaging our Communities (2015-16)",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-34471": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "34471",
+                        "assignedRoom1": "UC 256",
+                        "assignedRoom2": "UC 256"
+                    }
+                },
+                "instructors": {
+                    "1162293": {
+                        "instructorId": "1162293",
+                        "firstName": "D",
+                        "lastName": "Seitz"
+                    }
+                },
+                "meetingId": "13984",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "96",
+                        "postCode": "ASMAJ1240",
+                        "postName": "MA SEXUAL DIVERSITY STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "295",
+                        "postCode": "ASSPE1240",
+                        "postName": "SP SEXUAL DIVERSITY STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "JGA305H1-F-20169": {
+        "courseId": "1347",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Environmental and Archaeological Geophysics",
+        "code": "JGA305H1",
+        "courseDescription": "<p>Application of near-surface geophysical methods to investigate environmental and archaeological sites; in particular magnetometry, resistivity, ground-probing radar, and seismic surveys. Course will cover background on the various methods, and allow students to run field surveys and present on case studies.<\/p>",
+        "prerequisite": "ESS241H1 or ANT200Y1 or GGR201H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-2501": {
+                "schedule": {
+                    "MO-46029": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "46029",
+                        "assignedRoom1": "ES 1067",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160653": {
+                        "instructorId": "1160653",
+                        "firstName": "C",
+                        "lastName": "Bank"
+                    }
+                },
+                "meetingId": "14803",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "6",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-46028": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "46028",
+                        "assignedRoom1": "ES 1067",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160654": {
+                        "instructorId": "1160654",
+                        "firstName": "C",
+                        "lastName": "Bank"
+                    }
+                },
+                "meetingId": "2692",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "59",
+                "actualEnrolment": "39",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

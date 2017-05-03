@@ -1,0 +1,118 @@
+{
+    "VIC191Y1-Y-20169": {
+        "courseId": "2553",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Artistic Creation and Public Issues",
+        "code": "VIC191Y1",
+        "courseDescription": "<p>This course addresses social issues through the exploration of creative activity and the imaginative arts.&nbsp; Topics will be discussed from historical, ethical and philosophical perspectives, and might be considered either in a group or individually.&nbsp;<span style=\"color: #222222; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 11.818181991577148px; line-height: 16.363636016845703px;\">Not eligible for CR\/NCR option.<\/span><\/p>",
+        "prerequisite": "Admission to Vic One",
+        "corequisite": "VIC190Y1 and 1.0 FCE in any 100-level course in ARC or CIN or DRM or ENG or MUS or VIS",
+        "exclusion": "Innis One, Munk One, New One, SMC One, Trinity One, UC One, Woodsworth One, 199 seminars, Vic One Hundred courses.",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "This course is only open to students admitted to the Vic One program.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-20588": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "20588",
+                        "assignedRoom1": "VC 206",
+                        "assignedRoom2": "VC 206"
+                    }
+                },
+                "instructors": {
+                    "1162780": {
+                        "instructorId": "1162780",
+                        "firstName": "E",
+                        "lastName": "Friesen"
+                    },
+                    "1162781": {
+                        "instructorId": "1162781",
+                        "firstName": "E",
+                        "lastName": "Jagoe"
+                    },
+                    "1162782": {
+                        "instructorId": "1162782",
+                        "firstName": "R",
+                        "lastName": "Leistner"
+                    }
+                },
+                "meetingId": "5198",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "HST330H1-F-20169": {
+        "courseId": "1219",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Population Health (formerly UNI330H1)",
+        "code": "HST330H1",
+        "courseDescription": "<p>Extends students&acute; understanding of population-based strategies of health promotion in Canada. Topics include: variations in health status as affected by population patterns, class, gender, ethnicity, employment, and family composition; major causes of morbidity and mortality; the concept of \"community health\", opportunities and constraints facing public policy.<\/p>",
+        "prerequisite": "HST250H1, STA220H1",
+        "corequisite": "",
+        "exclusion": "UNI330H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-44466": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "44466",
+                        "assignedRoom1": "UC 261",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160449": {
+                        "instructorId": "1160449",
+                        "firstName": "K",
+                        "lastName": "Rice"
+                    },
+                    "1160450": {
+                        "instructorId": "1160450",
+                        "firstName": "F",
+                        "lastName": "Webster"
+                    }
+                },
+                "meetingId": "2461",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "48",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "**Priority Controls Added: July 14, 2016**",
+                "enrollmentControls": [
+                    {
+                        "postId": "144",
+                        "postCode": "ASMAJ2085",
+                        "postName": "MA HEALTH STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "363",
+                        "postCode": "ASSPE2085",
+                        "postName": "SP HEALTH STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

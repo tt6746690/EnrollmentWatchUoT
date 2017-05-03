@@ -1,0 +1,81 @@
+{
+    "NFS302H1-S-20169": {
+        "courseId": "1612",
+        "org": "NUSCI",
+        "orgName": "Nutritional Sciences (NFS)",
+        "courseTitle": "Nutrition, Athletics, Performance and Behaviour",
+        "code": "NFS302H1",
+        "courseDescription": "<p>This course will give an overview of the emerging and advancing role of chronic diet and supplements in athletics, performance and behavior.<\/p>",
+        "prerequisite": "NFS284H1",
+        "corequisite": "",
+        "exclusion": "KPE328H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-30949": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "30949",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "PB B250"
+                    }
+                },
+                "instructors": {
+                    "1161126": {
+                        "instructorId": "1161126",
+                        "firstName": "D",
+                        "lastName": "Collier"
+                    }
+                },
+                "meetingId": "3341",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "240",
+                "actualEnrolment": "222",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "82",
+                        "postCode": "ASMAJ1068",
+                        "postName": "MA NUTRITIONAL SCIENCES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

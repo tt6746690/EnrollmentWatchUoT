@@ -1,0 +1,114 @@
+{
+    "BIO255H1-F-20169": {
+        "courseId": "171",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Cell and Molecular Biology with Advanced Laboratory",
+        "code": "BIO255H1",
+        "courseDescription": "<p>The genome is the \"book of life,\" providing instructions to construct an organism. This course introduces genome biology and explores how the building blocks of life are networked into functioning organisms. We will investigate how cells perceive internal and external cues, how gene expression is shaped by this perception, and how these events give rise to tissues, organs, and whole organisms.&nbsp; The Enhanced Laboratory provides the opportunity for greater laboratory skill development in modern investigative techniques and is intended for students interested in conducting their own laboratory research. (Lab Materials Fee: $50).<\/p>",
+        "prerequisite": "BIO130H1, (CHM135H1, CHM136H1)\/(CHM138H1, CHM139H1)\/CHM151Y1, cGPA 3.0",
+        "corequisite": "",
+        "exclusion": "BIO230H1, BIO240H1, BIO241H1, BIO250Y1, BIO255Y1",
+        "recommendedPreparation": "BCH210H1 (taken concurrently or previously)",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Practicals (laboratories) meet every week and start Friday, September 16.  Check portal for more information.  Check portal and http:\/\/www.csb.utoronto.ca\/undergraduate-studies\/undergraduate-courses\/undergraduate-course-level-200\/ for more information.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41505": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41505",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    },
+                    "TH-41506": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41506",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    },
+                    "FR-41507": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41507",
+                        "assignedRoom1": "ZZ DEPT",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158677": {
+                        "instructorId": "1158677",
+                        "firstName": "D",
+                        "lastName": "Desveaux"
+                    },
+                    "1158678": {
+                        "instructorId": "1158678",
+                        "firstName": "T",
+                        "lastName": "Harris"
+                    }
+                },
+                "meetingId": "396",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "14",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TU-45103": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "45103",
+                        "assignedRoom1": "ES 1050",
+                        "assignedRoom2": null
+                    },
+                    "FR-45104": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45104",
+                        "assignedRoom1": "ZZ DEPT",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158679": {
+                        "instructorId": "1158679",
+                        "firstName": "K",
+                        "lastName": "Yip"
+                    }
+                },
+                "meetingId": "397",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

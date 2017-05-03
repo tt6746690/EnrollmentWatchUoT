@@ -1,0 +1,89 @@
+{
+    "CSB426H1-F-20169": {
+        "courseId": "368",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Physiology of Stress and Reproduction",
+        "code": "CSB426H1",
+        "courseDescription": "<p>Students will gain an integrated understanding of how organismal and cellular stress affects the process of reproduction. The focus will be primarily on chordates and will examine genetic, cellular, organismal, behavioural, and social levels of interaction.<\/p>",
+        "prerequisite": "Minimum grade of 73% in CSB325H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-33440": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "33440",
+                        "assignedRoom1": "RW 142",
+                        "assignedRoom2": null
+                    },
+                    "WE-33441": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "33441",
+                        "assignedRoom1": "RW 142",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159094": {
+                        "instructorId": "1159094",
+                        "firstName": "D",
+                        "lastName": "Lovejoy"
+                    }
+                },
+                "meetingId": "804",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "117",
+                        "postCode": "ASMAJ1538",
+                        "postName": "MA ANIMAL PHYSIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

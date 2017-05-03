@@ -1,0 +1,113 @@
+{
+    "PHY492H1-F-20169": {
+        "courseId": "1867",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Advanced Atmospheric Physics",
+        "code": "PHY492H1",
+        "courseDescription": "<p>A preparatory course for research in experimental and theoretical atmospheric physics. Content will vary from year to year. Themes may include techniques for remote sensing of the Earth's atmosphere and surface; theoretical atmosphere-ocean dynamics; the physics of clouds, precipitation, and convection in the Earth's atmosphere.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "PHY498H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46127": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46127",
+                        "assignedRoom1": "MP 606",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161521": {
+                        "instructorId": "1161521",
+                        "firstName": "D",
+                        "lastName": "Jones"
+                    }
+                },
+                "meetingId": "3877",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "86",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "TU-46128": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46128",
+                        "assignedRoom1": "MP 606",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161522": {
+                        "instructorId": "1161522",
+                        "firstName": "D",
+                        "lastName": "Jones"
+                    }
+                },
+                "meetingId": "14874",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

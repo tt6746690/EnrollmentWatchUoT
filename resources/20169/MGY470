@@ -1,0 +1,81 @@
+{
+    "MGY470H1-S-20169": {
+        "courseId": "1522",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Human and Molecular Genetics",
+        "code": "MGY470H1",
+        "courseDescription": "<p>Current aspects of human and molecular genetics including: chromosome structure and function, inheritance of mutations and disease, the human genome and disease gene mapping, cancer genetics, mouse disease models and gene based diagnostics and therapies.<\/p>",
+        "prerequisite": "BCH311H1\/MGY311Y1  (Note: CSB349H1 is acceptable with permission of the instructor)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39412": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "39412",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4279"
+                    },
+                    "TH-39411": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "39411",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4279"
+                    }
+                },
+                "instructors": {
+                    "1161013": {
+                        "instructorId": "1161013",
+                        "firstName": "P",
+                        "lastName": "Awadalla"
+                    },
+                    "1161014": {
+                        "instructorId": "1161014",
+                        "firstName": "R",
+                        "lastName": "Cohn"
+                    },
+                    "1161015": {
+                        "instructorId": "1161015",
+                        "firstName": "J",
+                        "lastName": "Dowling"
+                    },
+                    "1161016": {
+                        "instructorId": "1161016",
+                        "firstName": "C",
+                        "lastName": "Pearson"
+                    },
+                    "1161017": {
+                        "instructorId": "1161017",
+                        "firstName": "M",
+                        "lastName": "Wilson"
+                    }
+                },
+                "meetingId": "3230",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "59",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

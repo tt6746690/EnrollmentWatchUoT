@@ -1,0 +1,53 @@
+{
+    "SLA226H1-F-20169": {
+        "courseId": "4272",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Film and Ethics: Polish Cinema",
+        "code": "SLA226H1",
+        "courseDescription": "<p>The Polish School in cinema, its predecessors and successors, their artistic accomplishments, major theoretical and thematic concerns, and their place on the map of European cinema. Films of Ford, Wajda, Polanski, Konwicki, Borowczyk, Has, Kawalerowicz, Zanussi, Kieslowski, and of the new generation of Polish film makers. Films and discussions in English. (Offered every three years)<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-19399": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "19399",
+                        "assignedRoom1": "TF 201",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162339": {
+                        "instructorId": "1162339",
+                        "firstName": "L",
+                        "lastName": "Wodzynski"
+                    }
+                },
+                "meetingId": "13531",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

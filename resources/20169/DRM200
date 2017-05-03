@@ -1,0 +1,127 @@
+{
+    "DRM200Y1-Y-20169": {
+        "courseId": "449",
+        "org": "DRAMA",
+        "orgName": "Drama, Theatre and Performance Studies, Centre for (DRM) (JDC) (JIA)",
+        "courseTitle": "Performance I",
+        "code": "DRM200Y1",
+        "courseDescription": "<p>Emphasis is initially placed on ensemble, non-verbal, and improvisational work. Students proceed to the application of their acquired skills to scripted material. Students may apply in their first or second year of University. The&nbsp;<a title=\"Registration to apply to the Drama Centre\" href=\"https:\/\/drama-apply.chass.utoronto.ca\/login\" target=\"_blank\">Application Deadline<\/a> is March 10th for the first round of auditions; August 3rd for the second round.<span style=\"color: #222222; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px;\">&nbsp;See <a title=\"DRM200Y Guidelines\" href=\"http:\/\/dramacentre.utoronto.ca\/?page_id=511\">Audition&nbsp;<\/a><\/span><span style=\"color: #4d75a8; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\"><span style=\"font-size: 12px; line-height: 18px;\"><a title=\"DRM200Y Guidelines\" href=\"http:\/\/dramacentre.utoronto.ca\/?page_id=511\">Guidelines<\/a><\/span><\/span><span style=\"color: #222222; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px;\">&nbsp;for information on how to apply.<\/span><\/p>",
+        "prerequisite": "An audition in April or in August. Students can apply directly out of high school.",
+        "corequisite": "DRM101Y1\/UNI102Y1 or DRM220Y1\/DRM230Y1",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Selection is based on an audition. Priority is reserved for Drama Majors and Specialists.\r\nApply online by March 10th for a first round April audition or by August 3rd for the second round audition held in late August. Student can apply straight out of high school: https:\/\/drama-apply.chass.utoronto.ca\/login. For more information, please contact Colleen Osborn at c.osborn@utoronto.ca.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-43449": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "43449",
+                        "assignedRoom1": "MO 100B",
+                        "assignedRoom2": "MO 100B"
+                    },
+                    "WE-43450": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "43450",
+                        "assignedRoom1": "MO 100B",
+                        "assignedRoom2": "MO 100B"
+                    },
+                    "FR-43451": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "43451",
+                        "assignedRoom1": "MO 100B",
+                        "assignedRoom2": "MO 100B"
+                    }
+                },
+                "instructors": {
+                    "1159326": {
+                        "instructorId": "1159326",
+                        "firstName": "C",
+                        "lastName": "Block"
+                    },
+                    "1159327": {
+                        "instructorId": "1159327",
+                        "firstName": "K",
+                        "lastName": "Gass"
+                    }
+                },
+                "meetingId": "1013",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "16",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "MO-43452": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43452",
+                        "assignedRoom1": "MO 100B",
+                        "assignedRoom2": "MO 100B"
+                    },
+                    "WE-43453": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43453",
+                        "assignedRoom1": "MO 100B",
+                        "assignedRoom2": "MO 100B"
+                    },
+                    "FR-43454": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43454",
+                        "assignedRoom1": "MO 100B",
+                        "assignedRoom2": "MO 100B"
+                    }
+                },
+                "instructors": {
+                    "1159328": {
+                        "instructorId": "1159328",
+                        "firstName": "C",
+                        "lastName": "Block"
+                    },
+                    "1159329": {
+                        "instructorId": "1159329",
+                        "firstName": "K",
+                        "lastName": "Gass"
+                    }
+                },
+                "meetingId": "1014",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "16",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

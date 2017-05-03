@@ -1,0 +1,53 @@
+{
+    "HPS499Y1-Y-20169": {
+        "courseId": "4646",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "Individual Studies",
+        "code": "HPS499Y1",
+        "courseDescription": "<p>A reading and research project in some aspect of the development of scientific theory or practice, supervised by a faculty member.<\/p>",
+        "prerequisite": "Two HPS courses",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: contact Denise Horsley at denise.horsley@utoronto.ca, (416) 978\u20135397, Victoria College, 91 Charles Street West, room 316.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160439": {
+                        "instructorId": "1160439",
+                        "firstName": "H",
+                        "lastName": "Barseghyan"
+                    }
+                },
+                "meetingId": "12945",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "DRM403Y1-Y-20169": {
+        "courseId": "473",
+        "org": "DRAMA",
+        "orgName": "Drama, Theatre and Performance Studies, Centre for (DRM) (JDC) (JIA)",
+        "courseTitle": "Advanced Performance:Mainstage",
+        "code": "DRM403Y1",
+        "courseDescription": "<p class=\"MsoNormal\"><span style=\"font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-theme-font: major-latin; mso-ansi-language: EN-US;\">This course, taught each year by a different visiting professional theatre director, offers upper-level theatre and performance studies students the opportunity to explore acting in a full-length production. Plays are selected to challenge students in a variety of diverse ways, exposing them to a full spectrum of theatre and performance genres and possibilities. The&nbsp;<\/span><span style=\"font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-theme-font: major-latin;\" lang=\"EN-CA\"><a target=_blank\" href=\"https:\/\/drama-apply.chass.utoronto.ca\/login\"><span style=\"color: windowtext; mso-ansi-language: EN-US; text-decoration: none; text-underline: none;\" lang=\"EN-US\">Application Deadline<\/span><\/a><\/span><span style=\"font-size: 10.0pt; font-family: 'Calibri'",
+        "prerequisite": "'sans-serif'; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-theme-font: major-latin; mso-ansi-language: EN-US;\">&nbsp;is March 10th.<\/span><\/p>\"",
+        "corequisite": "Minimum CGPA of 2.7; DRM220Y1\/DRM230Y1; DRM300Y1,1 FCE from DRM301H1\/DRM311H1\/DRM375H1\/DRM376H1\/ DRM377H1\/DRM378H1; An audition in April.",
+        "exclusion": "DRM401H1, DRM411H1 (or permission of the Centre).",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "There will be additional tutorial times which will be held regularly. Dates and times to be determined based on student availability. For more information, please contact Colleen Osborn at c.osborn@utoronto.ca.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-43463": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43463",
+                        "assignedRoom1": "UP 200",
+                        "assignedRoom2": "UP 200"
+                    },
+                    "WE-43464": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43464",
+                        "assignedRoom1": "UP 200",
+                        "assignedRoom2": "UP 200"
+                    }
+                },
+                "instructors": {
+                    "1159357": {
+                        "instructorId": "1159357",
+                        "firstName": "A",
+                        "lastName": "Paolozza"
+                    }
+                },
+                "meetingId": "1042",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "12",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

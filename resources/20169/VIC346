@@ -1,0 +1,84 @@
+{
+    "VIC346H1-F-20169": {
+        "courseId": "2581",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "The Idea of the Renaissance",
+        "code": "VIC346H1",
+        "courseDescription": "<p>This course examines the changing views of the Renaissance, from the earliest definitions by poets and painters to the different understandings of contemporary historians. We will pay attention to the interests and biases that have informed the idea of the Renaissance as an aesthetic, social, political, gendered, and eurocentric phenomenon.<\/p>",
+        "prerequisite": "Completion of 6.0 FCE",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "At least one half course in the art, literature, history, or philosophy of fifteenth or sixteenth century Europe",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-44421": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44421",
+                        "assignedRoom1": "NF 006",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162815": {
+                        "instructorId": "1162815",
+                        "firstName": "D",
+                        "lastName": "Galbraith"
+                    }
+                },
+                "meetingId": "15193",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: July 19, 2016",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "VIC346H1-S-20169": {
+        "courseId": "2581",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "The Idea of the Renaissance",
+        "code": "VIC346H1",
+        "courseDescription": "<p>This course examines the changing views of the Renaissance, from the earliest definitions by poets and painters to the different understandings of contemporary historians. We will pay attention to the interests and biases that have informed the idea of the Renaissance as an aesthetic, social, political, gendered, and eurocentric phenomenon.<\/p>",
+        "prerequisite": "Completion of 6.0 FCE",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "At least one half course in the art, literature, history, or philosophy of fifteenth or sixteenth century Europe",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "5236",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 19, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "SMC322H1-S-20169": {
+        "courseId": "2315",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Christianity and Feminism",
+        "code": "SMC322H1",
+        "courseDescription": "<p>A study of the impact of modern and contemporary feminist movements in Christian theology and practice. &nbsp;Feminist critiques of Christianity; Christian critiques of feminism; significant Christian feminist thinkers; and womanist, <em>mujerista<\/em>&nbsp;and \/or Christian feminisms from the global South.&nbsp;<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SMC103Y1\/SMC203Y1; WGS160Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-40269": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "40269",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 403"
+                    }
+                },
+                "instructors": {
+                    "1162411": {
+                        "instructorId": "1162411",
+                        "firstName": "S",
+                        "lastName": "Hopkirk"
+                    }
+                },
+                "meetingId": "4744",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

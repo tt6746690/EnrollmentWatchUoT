@@ -1,0 +1,116 @@
+{
+    "EAS320Y1-Y-20169": {
+        "courseId": "512",
+        "org": "EAS",
+        "orgName": "East Asian Studies (EAS)",
+        "courseTitle": "Modern Standard Japanese III",
+        "code": "EAS320Y1",
+        "courseDescription": "<p>This is a lower intermediate level course for those who have completed EAS220Y1 with a minimum grade of 70%. Those who have not taken EAS220Y1 or did not achieve the required grade must pass the placement test to enroll in the course. See http:\/\/www.eas.utoronto.ca\/languages\/japanese\/ for details.<\/p>",
+        "prerequisite": "EAS220Y1 (70% minimum)",
+        "corequisite": "",
+        "exclusion": "EAS348H1,EAS349H1,EAS322Y0",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "In order to request enrolment in this course students without the prerequisite must write the Japanese Placement Test. Returning students should write the test in April; incoming students in September. For more information and to register: \r\nhttp:\/\/www.eas.utoronto.ca\/languages\/japanese\/",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-22327": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:30",
+                        "meetingScheduleId": "22327",
+                        "assignedRoom1": "UC 244",
+                        "assignedRoom2": "UC 244"
+                    },
+                    "WE-22328": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:30",
+                        "meetingScheduleId": "22328",
+                        "assignedRoom1": "UC 244",
+                        "assignedRoom2": "UC 244"
+                    }
+                },
+                "instructors": {
+                    "1159406": {
+                        "instructorId": "1159406",
+                        "firstName": "I",
+                        "lastName": "Komuro-Lee"
+                    }
+                },
+                "meetingId": "1128",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "81",
+                        "postCode": "ASMAJ1058",
+                        "postName": "MA EAST ASIAN STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "278",
+                        "postCode": "ASSPE1058",
+                        "postName": "SP EAST ASIAN STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

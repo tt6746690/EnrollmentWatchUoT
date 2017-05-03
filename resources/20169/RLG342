@@ -1,0 +1,53 @@
+{
+    "RLG342H1-S-20169": {
+        "courseId": "4145",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Judaism in the Modern Age (formerly RLG342Y1)",
+        "code": "RLG342H1",
+        "courseDescription": "<p>The development and range of modern Jewish religious thought from Spinoza, Mendelssohn and Krochmal, to Cohen, Rosenzweig and Buber. Responses to the challenges of modernity and fundamental alternatives in modern Judaism.<\/p>",
+        "prerequisite": "RLG100Y1\/RLG202Y1\/RLG221H1\/RLG280Y1; see note above for general Prerequisites",
+        "corequisite": "",
+        "exclusion": "RLG342Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-29228": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "29228",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 148"
+                    }
+                },
+                "instructors": {
+                    "1161944": {
+                        "instructorId": "1161944",
+                        "firstName": "K",
+                        "lastName": "Green"
+                    }
+                },
+                "meetingId": "6796",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

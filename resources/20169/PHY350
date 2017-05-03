@@ -1,0 +1,113 @@
+{
+    "PHY350H1-F-20169": {
+        "courseId": "1835",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Electromagnetic Theory",
+        "code": "PHY350H1",
+        "courseDescription": "<p>This course builds upon the knowledge and tools developed in PHY250H1. Topics include: solving Poisson and Laplace equations via method of images and separation of variables, multipole expansion for electrostatics, atomic dipoles and polarizability, polarization in dielectrics, multipole expansion in magnetostatics, magnetic dipoles, magnetization in matter, Maxwell&rsquo;s equations in matter, conservation laws in electrodynamics, and electromagnetic waves.<\/p>",
+        "prerequisite": "MAT223H1\/MAT240H1, MAT244H1\/MAT267H1, MAT235Y1\/MAT237Y1\/MAT257Y1, PHY250H1, PHY254H1",
+        "corequisite": "",
+        "exclusion": "PHY352H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39864": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "39864",
+                        "assignedRoom1": "MP 103",
+                        "assignedRoom2": null
+                    },
+                    "WE-39865": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "39865",
+                        "assignedRoom1": "MP 103",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161428": {
+                        "instructorId": "1161428",
+                        "firstName": "E",
+                        "lastName": "Poppitz"
+                    }
+                },
+                "meetingId": "3830",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "196",
+                "actualEnrolment": "70",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-44827": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "44827",
+                        "assignedRoom1": "Contact Department",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3832",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "37",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-44828": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "44828",
+                        "assignedRoom1": "Contact Department",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3831",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

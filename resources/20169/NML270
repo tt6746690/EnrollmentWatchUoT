@@ -1,0 +1,61 @@
+{
+    "NML270Y1-Y-20169": {
+        "courseId": "1674",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Introductory Turkish",
+        "code": "NML270Y1",
+        "courseDescription": "<p>This course covers the essentials of Turkish grammar, and introduces students to reading and translation of passages of elementary difficulty. Designed for students with no previous knowledge of Turkish. This course also serves as a basis for the study of Ottoman Turkish and other Turkic languages.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Native speakers",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39551": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "39551",
+                        "assignedRoom1": "BF 215",
+                        "assignedRoom2": "BF 215"
+                    },
+                    "WE-39552": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "39552",
+                        "assignedRoom1": "BF 215",
+                        "assignedRoom2": "BF 215"
+                    }
+                },
+                "instructors": {
+                    "1161202": {
+                        "instructorId": "1161202",
+                        "firstName": "H",
+                        "lastName": "Simsek"
+                    }
+                },
+                "meetingId": "3425",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

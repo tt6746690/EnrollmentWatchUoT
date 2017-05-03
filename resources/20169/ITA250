@@ -1,0 +1,198 @@
+{
+    "ITA250Y1-Y-20169": {
+        "courseId": "1314",
+        "org": "ITA",
+        "orgName": "Italian (ITA)",
+        "courseTitle": "Intermediate Italian",
+        "code": "ITA250Y1",
+        "courseDescription": "<p>Grammar review, readings of Italian authors and oral practice to enhance comprehension and expressive skills.<\/p>",
+        "prerequisite": "ITA100Y1\/151Y1;  Grade 11 and\/or 12 Italian (U or M level), or previous experience or instruction in Italian, or permission of the Department.",
+        "corequisite": "",
+        "exclusion": "ITA251Y1\/ITA252Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-29317": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "29317",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "CR 406"
+                    },
+                    "WE-29318": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "29318",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "CR 406"
+                    },
+                    "FR-29319": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "29319",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "CR 406"
+                    }
+                },
+                "instructors": {
+                    "1160621": {
+                        "instructorId": "1160621",
+                        "firstName": "J",
+                        "lastName": "Bertolio"
+                    }
+                },
+                "meetingId": "13810",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "2648",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "August 22, 2016",
+                "enrollmentControls": []
+            },
+            "LEC-0301": {
+                "schedule": {
+                    "MO-20380": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "20380",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "CR 406"
+                    },
+                    "WE-20381": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "20381",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "CR 406"
+                    },
+                    "FR-20382": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "20382",
+                        "assignedRoom1": "CR 406",
+                        "assignedRoom2": "CR 406"
+                    }
+                },
+                "instructors": {
+                    "1160622": {
+                        "instructorId": "1160622",
+                        "firstName": "M",
+                        "lastName": "Scarci"
+                    }
+                },
+                "meetingId": "13811",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-35280": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "35280",
+                        "assignedRoom1": "CR 405",
+                        "assignedRoom2": "CR 405"
+                    }
+                },
+                "instructors": {
+                    "1160623": {
+                        "instructorId": "1160623",
+                        "firstName": "P",
+                        "lastName": "Bernardini"
+                    },
+                    "1160624": {
+                        "instructorId": "1160624",
+                        "firstName": "F",
+                        "lastName": "Pierno"
+                    }
+                },
+                "meetingId": "2649",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "34",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-5201": {
+                "schedule": {
+                    "WE-46640": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "46640",
+                        "assignedRoom1": "TF 201",
+                        "assignedRoom2": "TF 201"
+                    }
+                },
+                "instructors": {
+                    "1160625": {
+                        "instructorId": "1160625",
+                        "firstName": "L",
+                        "lastName": "Tesi"
+                    }
+                },
+                "meetingId": "2650",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "34",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "**Room Changed: September 9, 2016**",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

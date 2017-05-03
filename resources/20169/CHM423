@@ -1,0 +1,53 @@
+{
+    "CHM423H1-F-20169": {
+        "courseId": "235",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Applications of Quantum Mechanics",
+        "code": "CHM423H1",
+        "courseDescription": "<p>Applications of time independent and time dependent perturbation theory to atomic and molecular problems, selection of topics from WKB approximation and the classical limit; the interaction of light with matter; elementary atomic scattering theory; molecular bonding.<\/p>",
+        "prerequisite": "CHM326H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "MAT223H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41240": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "41240",
+                        "assignedRoom1": "LM 157",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158925": {
+                        "instructorId": "1158925",
+                        "firstName": "P",
+                        "lastName": "Brumer"
+                    }
+                },
+                "meetingId": "569",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

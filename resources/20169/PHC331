@@ -1,0 +1,116 @@
+{
+    "PHC331H1-S-20169": {
+        "courseId": "1730",
+        "org": "PHM",
+        "orgName": "Pharmaceutical Chemistry (PHC) (JFP)",
+        "courseTitle": "Establishing the Bioequivalence of Pharmaceutical Products",
+        "code": "PHC331H1",
+        "courseDescription": "<p>Introduction to human clinical trial design for the demonstration of pharmaceutical bioequivalence of drug products. Students will learn the principles underlying the regulations and methods employed in bioequivalence studies.<\/p>",
+        "prerequisite": "BCH210H1, CHM247H1\/CHM249H1, (MAT135H1, MAT136H1)\/MAT137Y1, PHC230H1, PHC330H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-44183": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "44183",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "PB 255"
+                    },
+                    "TH-44184": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44184",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "PB 255"
+                    }
+                },
+                "instructors": {
+                    "1161282": {
+                        "instructorId": "1161282",
+                        "firstName": "D",
+                        "lastName": "Dubins"
+                    }
+                },
+                "meetingId": "3489",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "66",
+                        "subjectCode": "SCN",
+                        "subjectName": "SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "3",
+                        "typeOfProgramCode": "BACS",
+                        "typeOfProgramName": "Direct Entry, Four-Year Bachelor's",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "291",
+                        "postCode": "ASSPE1211",
+                        "postName": "SP PHARMACEUTICAL CHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

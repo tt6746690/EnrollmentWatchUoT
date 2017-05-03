@@ -1,0 +1,53 @@
+{
+    "CIN492H1-S-20169": {
+        "courseId": "272",
+        "org": "CINE",
+        "orgName": "Cinema Studies (CIN)",
+        "courseTitle": "Independent Studies in Cinema (formerly INI478H1)",
+        "code": "CIN492H1",
+        "courseDescription": "<p>Independent research projects devised by students and supervised by Cinema Studies faculty. Open to advanced Specialist and Major students in the Program.&nbsp;Submit applications to the Undergraduate Program Office: Fall 2016 courses, June 1\/ Winter 2017 courses, November 1\/ Summer 2017 courses, April 1. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "At least ten full-course equivalents, including CIN105Y1, CIN201Y1, CIN301Y1\/ permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Please note: Students must complete CIN105Y1, CIN201Y1, and CIN301Y1 before taking any fourth year Cinema Studies courses. For \u2018E\u2019 indicator Cinema Studies Courses: Contact the Undergraduate Assistant, 416-978-8571, cinema.studies@utoronto.ca . ",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158972": {
+                        "instructorId": "1158972",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "649",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

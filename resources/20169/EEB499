@@ -1,0 +1,53 @@
+{
+    "EEB499Y1-Y-20169": {
+        "courseId": "655",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Advanced Research Project in Ecology and Evolutionary Biology II",
+        "code": "EEB499Y1",
+        "courseDescription": "<p>Allows students to do another independent project, supervision of which must be different from EEB497H1\/EEB498Y1. Operates in the same manner as EEB498Y1. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "EEB497H1\/EEB498Y1 and permission of department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Application instructions for registration are found at <a href=\"http:\/\/www.eeb.utoronto.ca\/Learning\/u-courses\/up-courses.htm\">http:\/\/www.eeb.utoronto.ca\/Learning\/u-courses\/up-courses.htm<\/a>. For more information, please contact the Undergraduate Assistant, at undergrad.eeb@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159652": {
+                        "instructorId": "1159652",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1377",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "NEW338H1-S-20169": {
+        "courseId": "3753",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Cultivating Consciousness",
+        "code": "NEW338H1",
+        "courseDescription": "<p>Mindfulness meditation is a systematic investigation of subjective experience.&nbsp; Classic and modern descriptions of mindfulness and the recent scientific literature are surveyed.&nbsp; Students explore a number of meditative techniques such as concentration and insight meditation and are required to maintain an ongoing meditation practice during the course.<\/p>",
+        "prerequisite": "NEW232Y1\/NEW332H1\/NEW333H1\/NEW334H1\/NEW335H1\/NEW339H1",
+        "corequisite": "",
+        "exclusion": "NEW432H1:  Advanced Special Topics:  Cultivating Consciousness",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-44109": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "44109",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Main Activity Hall, Multi-Faith Centre"
+                    }
+                },
+                "instructors": {
+                    "1161078": {
+                        "instructorId": "1161078",
+                        "firstName": "M",
+                        "lastName": "Viglas"
+                    }
+                },
+                "meetingId": "5998",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "183",
+                        "postCode": "ASMIN1017",
+                        "postName": "MI BUDDHISM, PSY & MENTAL HLTH",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

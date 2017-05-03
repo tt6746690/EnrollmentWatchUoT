@@ -1,0 +1,139 @@
+{
+    "PHY252H1-S-20169": {
+        "courseId": "1829",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Thermal Physics",
+        "code": "PHY252H1",
+        "courseDescription": "<p>The quantum statistical basis of macroscopic systems; definition of entropy in terms of the number of accessible states of a many particle system leading to simple expressions for absolute temperature, the canonical distribution, and the laws of thermodynamics. Specific effects of quantum statistics at high densities and low temperatures.<\/p>",
+        "prerequisite": "PHY132H1\/PHY152H1",
+        "corequisite": "MAT235Y1\/MAT237Y1\/MAT257Y1",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39833": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "39833",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 103"
+                    },
+                    "TH-39834": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "39834",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 103"
+                    }
+                },
+                "instructors": {
+                    "1161419": {
+                        "instructorId": "1161419",
+                        "firstName": "E",
+                        "lastName": "Poppitz"
+                    }
+                },
+                "meetingId": "3816",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "196",
+                "actualEnrolment": "134",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-44820": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "44820",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Department"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3817",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "55",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "MO-44821": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "44821",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Department"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3818",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "TH-44822": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "44822",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Department"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3819",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "44",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

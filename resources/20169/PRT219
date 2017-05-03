@@ -1,0 +1,84 @@
+{
+    "PRT219Y1-Y-20169": {
+        "courseId": "1961",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "Academic Portuguese",
+        "code": "PRT219Y1",
+        "courseDescription": "<p><span style=\"text-indent: 0cm; font-size: 10px;\">Meets the needs of students who have had exposure to spoken Portuguese in an informal context (living in a Portuguese speaking country, or in a Portuguese speaking family) but little to no exposure to written Portuguese. The course reviews English\/ Portuguese spelling differences; written and spoken registers of Portuguese, and basic aspects of the grammatical system. The course &nbsp;(1) provides students with the essential understanding of Portuguese grammatical system; (2) builds their vocabulary; and (3) trains them to express themselves formally in both spoken and written Portuguese.<\/span><\/p>",
+        "prerequisite": "Basic to relatively high ability to speak and understand Portuguese; limited or no formal education in Portuguese.",
+        "corequisite": "",
+        "exclusion": "PRT100Y1, PRT110Y1, PRT120Y1, PRT220Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Students must enroll in the mandatory tutorial section on ACORN.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40348": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "40348",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": "NF 004"
+                    }
+                },
+                "instructors": {
+                    "1161676": {
+                        "instructorId": "1161676",
+                        "firstName": "L",
+                        "lastName": "de Almeida Graca"
+                    },
+                    "1161677": {
+                        "instructorId": "1161677",
+                        "firstName": "P",
+                        "lastName": "Vieira"
+                    }
+                },
+                "meetingId": "4010",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-46216": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "46216",
+                        "assignedRoom1": "VC 304",
+                        "assignedRoom2": "NF 007"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "4011",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

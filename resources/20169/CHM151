@@ -1,0 +1,328 @@
+{
+    "CHM151Y1-Y-20169": {
+        "courseId": "208",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Chemistry: The Molecular Science",
+        "code": "CHM151Y1",
+        "courseDescription": "<p>An introduction to the major areas of modern chemistry, including organic and biological chemistry; physical chemistry and chemical physics; and inorganic\/materials chemistry. The course is intended for students who will be following one of the chemistry specialist programs (including Biological Chemistry and Environmental Chemistry) or who will be including a substantial amount of chemistry in their degree (such as those following a chemistry major program). The combination of CHM151Y1 and CHM249H1 serves as a full year introductory course in organic chemistry with laboratory. (Lab Materials Fee: $50).<\/p>\n<p>Note: CHM151Y1 has a unique Course Community where the undergraduate experience in chemistry is greatly enhanced through a series of workshops, research seminars, tours, outreach opportunities and social activities. Two hour biweekly Course Community meetings, during laboratory class hours will alternate weeks with the CHM151Y1 lab classes. The lab time is reserved for CHM151Y1 activities every week of each semester.<\/p>",
+        "prerequisite": "Chemistry SCH4U, Mathematics MHF4U + MCV4U; Physics SPH4U recommended",
+        "corequisite": "PHY131H1, PHY132H1)\/(PHY151H1, PHY152H1) recommended, but may be required prerequisites in 2nd year chemistry courses; (MAT135H1, MAT136H1)\/MAT137Y1\/MAT157Y1",
+        "exclusion": "CHM135H1, CHM136H1, CHM138H1, CHM139H1, CHMA10H3, CHMA11H3, CHMB41H3, CHM110H5, CHM120H5",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Beginning September 12, Practical (PRA) and Tutorial (TUT) enrolment changes can only be made at the Department of Chemistry. Please visit the Portal Website or view course contact information posted outside of LM117. The 1:00 to 5:30 p.m. time slot is reserved for CHM151Y1 activities every week of each semester to accommodate the two-hour biweekly Course Community meetings which will alternate weeks with lab classes. CHM151Y1 lab class time will be 2:00 to 5:30 p.m. You cannot alternate a 100-level BIO lab or PHY lab with the CHM151Y1 lab classes. For more information, please contact Dr.  Barb Morra at bmorra@chem.utoronto.ca.\r\n\r\n",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-43794": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43794",
+                        "assignedRoom1": "LM 161",
+                        "assignedRoom2": "LM 161"
+                    },
+                    "WE-43795": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43795",
+                        "assignedRoom1": "LM 161",
+                        "assignedRoom2": "LM 161"
+                    },
+                    "FR-43793": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43793",
+                        "assignedRoom1": "LM 161",
+                        "assignedRoom2": "LM 161"
+                    }
+                },
+                "instructors": {
+                    "1158837": {
+                        "instructorId": "1158837",
+                        "firstName": "C",
+                        "lastName": "Browning"
+                    },
+                    "1158838": {
+                        "instructorId": "1158838",
+                        "firstName": "A",
+                        "lastName": "Dhirani"
+                    },
+                    "1158839": {
+                        "instructorId": "1158839",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    },
+                    "1158840": {
+                        "instructorId": "1158840",
+                        "firstName": "M",
+                        "lastName": "Lautens"
+                    },
+                    "1158841": {
+                        "instructorId": "1158841",
+                        "firstName": "B",
+                        "lastName": "Morra"
+                    },
+                    "1158842": {
+                        "instructorId": "1158842",
+                        "firstName": "D",
+                        "lastName": "Stephan"
+                    }
+                },
+                "meetingId": "491",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "141",
+                "actualEnrolment": "97",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "27",
+                        "postCode": "AS   MPS1",
+                        "postName": "A&S Yr 1 Math & Phys Sciences",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "32",
+                        "postCode": "ASCRSMPS1",
+                        "postName": "A&S Yr 1 Math & Phys Sciences",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "233",
+                        "postCode": "ASPRGMPS1",
+                        "postName": "A&S Yr 1 Math & Phys Sciences",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "MO-46721": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "17:30",
+                        "meetingScheduleId": "46721",
+                        "assignedRoom1": " LM 113",
+                        "assignedRoom2": "LM 113"
+                    }
+                },
+                "instructors": {
+                    "1158843": {
+                        "instructorId": "1158843",
+                        "firstName": "C",
+                        "lastName": "Browning"
+                    },
+                    "1158844": {
+                        "instructorId": "1158844",
+                        "firstName": "B",
+                        "lastName": "Morra"
+                    }
+                },
+                "meetingId": "492",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "64",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "TU-46722": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "17:30",
+                        "meetingScheduleId": "46722",
+                        "assignedRoom1": "LM 113",
+                        "assignedRoom2": "LM 113"
+                    }
+                },
+                "instructors": {
+                    "1158845": {
+                        "instructorId": "1158845",
+                        "firstName": "C",
+                        "lastName": "Browning"
+                    },
+                    "1158846": {
+                        "instructorId": "1158846",
+                        "firstName": "B",
+                        "lastName": "Morra"
+                    }
+                },
+                "meetingId": "493",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "58",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-46718": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "46718",
+                        "assignedRoom1": "HA 410",
+                        "assignedRoom2": "HA 410"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "495",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-46719": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46719",
+                        "assignedRoom1": "SS 1083",
+                        "assignedRoom2": "SS 1083"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "494",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "FR-46720": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46720",
+                        "assignedRoom1": "LM 158",
+                        "assignedRoom2": "LM 158"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "496",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "37",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

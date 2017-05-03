@@ -1,0 +1,53 @@
+{
+    "SLA312H1-S-20169": {
+        "courseId": "4296",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Nabokov",
+        "code": "SLA312H1",
+        "courseDescription": "<p>A study of Vladimir Nabokov's novels written in Europe and the United States. Special attention is paid to the nature and evolution of Nabokov's aesthetics; the place of his novels in European and American literary traditions; Nabokov's creative uses of exile to artistic, philosophical and ideological ends; the aesthetic and cultural implications of the writers' switch from Russian to English. Novels studied: Defense, Despair, The Gift, The Real Life of Sebastian Knight, Lolita, Pnin, Pale Fire. Taught in English, all readings in English.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-36925": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "36925",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 405"
+                    }
+                },
+                "instructors": {
+                    "1162357": {
+                        "instructorId": "1162357",
+                        "firstName": "L",
+                        "lastName": "Livak"
+                    }
+                },
+                "meetingId": "12763",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "44",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

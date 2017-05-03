@@ -1,0 +1,69 @@
+{
+    "AST121H1-S-20169": {
+        "courseId": "126",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (PLN)",
+        "courseTitle": "Origin and Evolution of the Universe",
+        "code": "AST121H1",
+        "courseDescription": "<p>The origin of the Universe and all that it contains, from the chemical elements, stars and galaxies, and life. The course is intended for students who are enrolling in science and engineering courses.<\/p>",
+        "prerequisite": "SPH4U Physics; MCB4U Calculus",
+        "corequisite": "",
+        "exclusion": "AST101H1, AST201H1, AST210H1. Also excluded are AST221H1, AST222H1 if taken previously or concurrently",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-34719": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "34719",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RW 110"
+                    },
+                    "FR-34717": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "34717",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RW 110"
+                    },
+                    "FR-34718": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "34718",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RW 110"
+                    }
+                },
+                "instructors": {
+                    "1158559": {
+                        "instructorId": "1158559",
+                        "firstName": "R",
+                        "lastName": "Abraham"
+                    }
+                },
+                "meetingId": "244",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "91",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

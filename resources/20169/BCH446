@@ -1,0 +1,63 @@
+{
+    "BCH446H1-F-20169": {
+        "courseId": "2746",
+        "org": "BCH",
+        "orgName": "Biochemistry (BCH) (BCB)",
+        "courseTitle": "Membrane Dynamics of the Cell Surface",
+        "code": "BCH446H1",
+        "courseDescription": "<p>This course covers the principles and concepts related to molecular cell biology of the cell surface in multicellular organisms. Topics include: cytoskeleton and organization of membrane dynamics; cell-cell and cell-matrix interactions and signaling; cell migration and adhesion; maintenance of cell polarity; turnover and renewal of membrane by vesicular trafficking; structure and function of primary cilia, cytonemes and tunneling nanotubes; ectosomes and non-canonical secretion pathways; viral uptake by macropinocytosis and engulfment by phagocytosis. Note: cGPA of 2.5 is required for non-Biochemistry Majors and Specialists. (Enrolment limited.)<\/p>",
+        "prerequisite": "BCH210H1\/BCH242Y1; BCH311H1\/MGY311Y1\/PSL350H1, and permission of department.",
+        "corequisite": "",
+        "exclusion": "CSB331H1, CSB428H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For more information, please contact jennifer.haughton@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-42739": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42739",
+                        "assignedRoom1": "MS 4171",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158641": {
+                        "instructorId": "1158641",
+                        "firstName": "G",
+                        "lastName": "Fairn"
+                    },
+                    "1158642": {
+                        "instructorId": "1158642",
+                        "firstName": "J",
+                        "lastName": "Glover"
+                    },
+                    "1158643": {
+                        "instructorId": "1158643",
+                        "firstName": "V",
+                        "lastName": "Mennella"
+                    }
+                },
+                "meetingId": "5483",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

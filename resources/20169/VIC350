@@ -1,0 +1,53 @@
+{
+    "VIC350Y1-Y-20169": {
+        "courseId": "4598",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Creative Writing",
+        "code": "VIC350Y1",
+        "courseDescription": "<p>A workshop course (with a literature component) in writing fiction and poetry. Designed for those with a serious ambition to be writers as evinced in work they are already doing. Does not offer instruction for beginning writers. Presupposes perfect and sophisticated written language skills. The Literature component emphasizes multicultural dimensions of contemporary writing in English.&nbsp;<\/p>",
+        "prerequisite": "Application Required. Preference given to fourth and third-year students.",
+        "corequisite": "",
+        "exclusion": "VIC280H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enroll in this course, students must submit an application by June 1st. For more information, visit www.vic.utoronto.ca\/students\/academics\/creative\/courses.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-20967": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "20967",
+                        "assignedRoom1": "NF 332",
+                        "assignedRoom2": "NF 332"
+                    }
+                },
+                "instructors": {
+                    "1162818": {
+                        "instructorId": "1162818",
+                        "firstName": "D",
+                        "lastName": "Gilmour"
+                    }
+                },
+                "meetingId": "13861",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

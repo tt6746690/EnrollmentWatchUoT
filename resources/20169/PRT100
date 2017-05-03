@@ -1,0 +1,147 @@
+{
+    "PRT100Y1-Y-20169": {
+        "courseId": "1959",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "Beginners Portuguese",
+        "code": "PRT100Y1",
+        "courseDescription": "<p>An introduction to the main elements of the language with emphasis on oral and written practice. The course is designed for students with no previous knowledge in Portuguese.<\/p>",
+        "prerequisite": "No previous knowledge of Portuguese.",
+        "corequisite": "",
+        "exclusion": "PRT110Y1, PRT120Y1, PRT219Y1, PRT220Y1, PRT320Y1, PRT420H1, PRT420Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Students must enroll in the tutorial section that matches their lecture section. Please refer to the \"Status\/Notes\" column for the corresponding tutorials.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47566": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47566",
+                        "assignedRoom1": "TF 102",
+                        "assignedRoom2": "NF 231"
+                    }
+                },
+                "instructors": {
+                    "1161670": {
+                        "instructorId": "1161670",
+                        "firstName": "L",
+                        "lastName": "de Almeida Graca"
+                    },
+                    "1161671": {
+                        "instructorId": "1161671",
+                        "firstName": "A",
+                        "lastName": "Jordao"
+                    }
+                },
+                "meetingId": "4006",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Jan 5, 2017. Students in this section must enrol in TUT0101 only",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-47525": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "47525",
+                        "assignedRoom1": "TF 102",
+                        "assignedRoom2": "NF 231"
+                    }
+                },
+                "instructors": {
+                    "1161672": {
+                        "instructorId": "1161672",
+                        "firstName": "L",
+                        "lastName": "de Almeida Graca"
+                    },
+                    "1161673": {
+                        "instructorId": "1161673",
+                        "firstName": "A",
+                        "lastName": "Jordao"
+                    }
+                },
+                "meetingId": "13869",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Jan 4, 2017. Students in this section must enrol in TUT5101 only",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-47526": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47526",
+                        "assignedRoom1": "TF 101",
+                        "assignedRoom2": "NF 006"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "4007",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Jan 4, 2017. For students in LEC0101 only",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "WE-47527": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "47527",
+                        "assignedRoom1": "TF 101",
+                        "assignedRoom2": "NF 009"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13870",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Jan 4, 2017. For students in LEC5101 only",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

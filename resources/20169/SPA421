@@ -1,0 +1,53 @@
+{
+    "SPA421H1-F-20169": {
+        "courseId": "4493",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "The Structure of Spanish",
+        "code": "SPA421H1",
+        "courseDescription": "<p>Study of Spanish morphology and syntax: syntactic categories in Spanish, the structure and interpretation of simple and complex sentences. (Offered in alternate years)<\/p>",
+        "prerequisite": "SPA420H1,  or permission of department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SPA322H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-27010": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "27010",
+                        "assignedRoom1": "NF 332",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162579": {
+                        "instructorId": "1162579",
+                        "firstName": "M",
+                        "lastName": "Cuervo"
+                    }
+                },
+                "meetingId": "14109",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

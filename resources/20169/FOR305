@@ -1,0 +1,79 @@
+{
+    "FOR305H1-F-20169": {
+        "courseId": "3231",
+        "org": "FOR",
+        "orgName": "Forestry (FOR) (JFG)",
+        "courseTitle": "Biology of Trees and Forests",
+        "code": "FOR305H1",
+        "courseDescription": "<p>An overview of the biology of trees and the ecological principles that govern the structure and function of forests. Topics in tree biology will include tree identification, wood anatomy, tree architecture, resource acquisition and allocation, tree growth and mortality. Topics in forest ecology will include resource competition, stand development, species succession, and the cycling of nutrients and energy. This course will include a substantial field and lab component.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "FOR200H1, FOR201H1, BIO120H1, BIO220H1, ENV234H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-21025": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "21025",
+                        "assignedRoom1": "ES 4001",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159940": {
+                        "instructorId": "1159940",
+                        "firstName": "J",
+                        "lastName": "Caspersen"
+                    }
+                },
+                "meetingId": "13225",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "TH-26252": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "26252",
+                        "assignedRoom1": "ES 4001",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13226",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

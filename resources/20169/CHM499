@@ -1,0 +1,58 @@
+{
+    "CHM499Y1-Y-20169": {
+        "courseId": "247",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Introduction to Chemistry Research",
+        "code": "CHM499Y1",
+        "courseDescription": "<p>An experimental or theoretical research problem under the supervision of a faculty member in the Department of Chemistry. Applications for enrolment should be made to the Department in the preceding Winter Session with the deadline being the Friday before Reading Week. Application form is available at <a target=_blank\" href=\"http:\/\/www.chem.utoronto.ca\/~undergrd\/Application_Form.pdf\">http:\/\/www.chem.utoronto.ca\/~undergrd\/Application_Form.pdf<\/a>.&nbsp; Students are notified with the results of their application by the last week of March. Only students being offered admission are required to contact chemistry faculty for available research projects and supervision. Projects are in the areas of environmental",
+        "prerequisite": "analytical",
+        "corequisite": "physical",
+        "exclusion": "inorganic",
+        "recommendedPreparation": "materials",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Applications for enrolment should be made to the Department in the preceding Winter Session with the deadline being the Friday before Reading Week.  Application form is available at http:\/\/www.chem.utoronto.ca\/~undergrd\/Application_Form.pdf.  For more information, please contact Armando Marquez, the Undergraduate Counsellor, at undergrd@chem.utoronto.ca.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-42742": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42742",
+                        "assignedRoom1": "LM 158",
+                        "assignedRoom2": "LM 158"
+                    }
+                },
+                "instructors": {
+                    "1158943": {
+                        "instructorId": "1158943",
+                        "firstName": "R",
+                        "lastName": "Jockusch"
+                    },
+                    "1158944": {
+                        "instructorId": "1158944",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "581",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

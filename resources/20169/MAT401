@@ -1,0 +1,129 @@
+{
+    "MAT401H1-F-20169": {
+        "courseId": "1486",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Polynomial Equations and Fields",
+        "code": "MAT401H1",
+        "courseDescription": "<p>Commutative rings; quotient rings. Construction of the rationals. Polynomial algebra. Fields and Galois theory: Field extensions, adjunction of roots of a polynomial. Constructibility, trisection of angles, construction of regular polygons. Galois groups of polynomials, in particular cubics, quartics. Insolvability of quintics by radicals.<\/p>",
+        "prerequisite": "MAT301H1",
+        "corequisite": "",
+        "exclusion": "MAT347Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39365": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39365",
+                        "assignedRoom1": "ES B149",
+                        "assignedRoom2": null
+                    },
+                    "TH-39366": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "39366",
+                        "assignedRoom1": "ES B149",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160932": {
+                        "instructorId": "1160932",
+                        "firstName": "H",
+                        "lastName": "Kim"
+                    }
+                },
+                "meetingId": "3184",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "85",
+                "actualEnrolment": "51",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "TU-38348": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "38348",
+                        "assignedRoom1": "ES B149",
+                        "assignedRoom2": null
+                    },
+                    "TH-38349": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "38349",
+                        "assignedRoom1": "ES B149",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160933": {
+                        "instructorId": "1160933",
+                        "firstName": "H",
+                        "lastName": "Kim"
+                    }
+                },
+                "meetingId": "14894",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

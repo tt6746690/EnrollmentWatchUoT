@@ -1,0 +1,113 @@
+{
+    "MAT267H1-S-20169": {
+        "courseId": "1465",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Advanced Ordinary Differential Equations",
+        "code": "MAT267H1",
+        "courseDescription": "<p>A theoretical course on Ordinary Differential Equations. First-order equations: separable equations, exact equations, integrating factors. Variational problems, Euler-Lagrange equations. Linear equations and first-order systems. Fundamental matrices, Wronskians. Non-linear equations. Existence and uniqueness theorems. Method of power series. Elementary qualitative theory; stability, phase plane, stationary points. Oscillation theorem, Sturm comparison. Applications in mechanics, physics, chemistry, biology and economics.<\/p>",
+        "prerequisite": "MAT157Y1, MAT247H1",
+        "corequisite": "MAT257Y1",
+        "exclusion": "MAT244H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-45372": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45372",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 161"
+                    },
+                    "TH-45373": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45373",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 2170"
+                    }
+                },
+                "instructors": {
+                    "1160899": {
+                        "instructorId": "1160899",
+                        "firstName": "D",
+                        "lastName": "Panchenko"
+                    }
+                },
+                "meetingId": "3153",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "130",
+                "actualEnrolment": "64",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "FR-45374": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45374",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2127"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3154",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Changed: July 15, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "FR-45375": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45375",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1070"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3155",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "36",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

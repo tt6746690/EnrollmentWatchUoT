@@ -1,0 +1,53 @@
+{
+    "POL203Y1-Y-20169": {
+        "courseId": "1876",
+        "org": "POL",
+        "orgName": "Political Science (POL) (JHP) (JPA) (JPD) (JPF) (JPP) (JPR) (JPU) (JRA)",
+        "courseTitle": "U.S. Government and Politics",
+        "code": "POL203Y1",
+        "courseDescription": "<p>An introduction to U.S. government and politics within an analytical framework that helps us understand how institutions structure incentives and decisions in the U.S. system. This class examines the political forces that forged contemporary American institutions to understand how these political institutions continue to provide stability while allowing opportunities for political change. We investigate whether these forces make American institutions different and why. Special attention is paid to current events and contemporary policy dilemmas.<\/p>",
+        "prerequisite": "1.0 POL credit\/4.0 full course equivalents",
+        "corequisite": "",
+        "exclusion": "POLC92H3\/POLC93H3",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-31572": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "31572",
+                        "assignedRoom1": "LM 159",
+                        "assignedRoom2": "LM 159"
+                    }
+                },
+                "instructors": {
+                    "1161554": {
+                        "instructorId": "1161554",
+                        "firstName": "R",
+                        "lastName": "Hurl"
+                    }
+                },
+                "meetingId": "3904",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "190",
+                "actualEnrolment": "149",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

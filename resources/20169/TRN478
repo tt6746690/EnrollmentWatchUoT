@@ -1,0 +1,33 @@
+{
+    "TRN478H1-F-20169": {
+        "courseId": "2501",
+        "org": "TRIN",
+        "orgName": "Trinity College (TRN)",
+        "courseTitle": "Science Writing for Non-Scientific Audiences",
+        "code": "TRN478H1",
+        "courseDescription": "<p>The course aims to train senior-level science students in a wide range of writing genres, focusing on a diversity of non-scientific audiences and writing styles. In addition, students learn to read and analyze texts in order to understand rhetorical strategies and devices.<\/p>",
+        "prerequisite": "Students in science specialist or major programs. Permission by instructor.",
+        "corequisite": "",
+        "exclusion": "Non-science students, first or second year students.",
+        "recommendedPreparation": "TRN377 (the comprehensive paper will serve as writing sample).",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: contact Kiran Sahota, Room 300, Larkin Building, Monday to Friday from 9:00am-12:00pm and 2:00-5:00pm, at 416-978-8454 or artsdean@trinity.utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "15233",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Science Writing",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "September 14, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

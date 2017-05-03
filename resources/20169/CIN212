@@ -1,0 +1,235 @@
+{
+    "CIN212H1-F-20169": {
+        "courseId": "2769",
+        "org": "CINE",
+        "orgName": "Cinema Studies (CIN)",
+        "courseTitle": "Cinema and Sensation I: Action\/Spectacle (formerly INI222H1)",
+        "code": "CIN212H1",
+        "courseDescription": "<p>Action movies cement the dominance of commercial cinema, and they largely define the&nbsp;contemporary era of the blockbuster and CGI effects. This course examines the narrative modes and the extremes that action scenes reach, and it&nbsp;explores the&nbsp;commercial and social function of the genre. The course also traces Action's historic reach and global diversity to include its significant precursors and transnational forms that Action cinema takes on.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "INI222H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-23613": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "23613",
+                        "assignedRoom1": "IN 112",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158948": {
+                        "instructorId": "1158948",
+                        "firstName": "B",
+                        "lastName": "Testa"
+                    }
+                },
+                "meetingId": "13966",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Action",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "200",
+                "actualEnrolment": "153",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-22250": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "22250",
+                        "assignedRoom1": "IN 222",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13967",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "29",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-22251": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "22251",
+                        "assignedRoom1": "IN 312",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13968",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "28",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "WE-22252": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "22252",
+                        "assignedRoom1": "IN 312",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13969",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "29",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0401": {
+                "schedule": {
+                    "TH-22253": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "22253",
+                        "assignedRoom1": "IN 312",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13970",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "28",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0501": {
+                "schedule": {
+                    "TH-22256": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "22256",
+                        "assignedRoom1": "IN 312",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13971",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "29",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0502": {
+                "schedule": {
+                    "TH-43400": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "43400",
+                        "assignedRoom1": "RL Media Commons Room 1",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13972",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0502",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "28",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "WE-22258": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "22258",
+                        "assignedRoom1": "IN 222",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13973",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "29",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

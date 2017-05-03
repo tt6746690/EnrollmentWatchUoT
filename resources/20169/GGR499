@@ -1,0 +1,104 @@
+{
+    "GGR499H1-F-20169": {
+        "courseId": "1033",
+        "org": "GGR",
+        "orgName": "Geography (GGR) (JFG) (JFE) (JGE) (JGI) (JUG) (JEG)",
+        "courseTitle": "Independent Research",
+        "code": "GGR499H1",
+        "courseDescription": "<p>Independent research extension to one of the courses already completed in a social science or humanities branch of Geography. Enrolment requires written permission from a faculty supervisor and Associate Chair, Undergraduate. Only open to students who have completed 10 FCEs and who are enrolled in a Specialist or Major program sponsored by the Department of Geography. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "10.0 FCE's",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Ben Pottruff, the Geography Undergraduate Student Advisor, at pottruff@geog.utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160197": {
+                        "instructorId": "1160197",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "2164",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "GGR499H1-S-20169": {
+        "courseId": "1033",
+        "org": "GGR",
+        "orgName": "Geography (GGR) (JFG) (JFE) (JGE) (JGI) (JUG) (JEG)",
+        "courseTitle": "Independent Research",
+        "code": "GGR499H1",
+        "courseDescription": "<p>Independent research extension to one of the courses already completed in a social science or humanities branch of Geography. Enrolment requires written permission from a faculty supervisor and Associate Chair, Undergraduate. Only open to students who have completed 10 FCEs and who are enrolled in a Specialist or Major program sponsored by the Department of Geography. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "10.0 FCE's",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Ben Pottruff, the Geography Undergraduate Student Advisor, at pottruff@geog.utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160198": {
+                        "instructorId": "1160198",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "2165",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "PHC421H1-S-20169": {
+        "courseId": "1733",
+        "org": "PHM",
+        "orgName": "Pharmaceutical Chemistry (PHC) (JFP)",
+        "courseTitle": "Biomoleuclar Interactions and Thermodynamics I",
+        "code": "PHC421H1",
+        "courseDescription": "<p>This course will consider many of the topics presented in the first half in much greater detail including a rigorous examination of the interpretation of experimental data.&nbsp;This course is intended for students whose research or interest is in the thermodynamics of biological molecules. This course is restricted to Pharmaceutical Chemistry specialist program students.<\/p>",
+        "prerequisite": "Enrolled as a Year 4 student in the Pharmaceutical Chemistry specialist program.",
+        "corequisite": "",
+        "exclusion": "PHM1130H",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-29451": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "29451",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "PB 450"
+                    },
+                    "TH-29452": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "29452",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "PB 255"
+                    },
+                    "FR-29453": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "29453",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "PB 255"
+                    }
+                },
+                "instructors": {
+                    "1161287": {
+                        "instructorId": "1161287",
+                        "firstName": "T",
+                        "lastName": "Chalikian"
+                    },
+                    "1161288": {
+                        "instructorId": "1161288",
+                        "firstName": "R",
+                        "lastName": "Macgregor"
+                    }
+                },
+                "meetingId": "3492",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "291",
+                        "postCode": "ASSPE1211",
+                        "postName": "SP PHARMACEUTICAL CHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "AST425Y1-Y-20169": {
+        "courseId": "137",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (PLN)",
+        "courseTitle": "Research Topic in Astronomy",
+        "code": "AST425Y1",
+        "courseDescription": "<p>A research project done in consultation with an individual staff member in the Department leading to a detailed written report and oral presentation. This course is intended for students in the final year of the Astronomy and Physics specialist program. Students must enrol with the Undergraduate Secretary of the Department. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "AST320H1 and two of AST325H1\/AST326Y1, PHY324H1, PHY350H1, PHY354H1, PHY356H1, PHY357H1, PHY358H1,  PHY407H1\/PHY408H1, PHY450H1, JPE395H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Lillian Lanca at lanca@astro.utoronto.ca.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-42737": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "42737",
+                        "assignedRoom1": "AB 114",
+                        "assignedRoom2": "AB 114"
+                    }
+                },
+                "instructors": {
+                    "1158573": {
+                        "instructorId": "1158573",
+                        "firstName": "R",
+                        "lastName": "Abraham"
+                    }
+                },
+                "meetingId": "285",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

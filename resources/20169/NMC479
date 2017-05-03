@@ -1,0 +1,53 @@
+{
+    "NMC479H1-F-20169": {
+        "courseId": "3839",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Nationalism in the Arab World",
+        "code": "NMC479H1",
+        "courseDescription": "<p>A seminar that critically examines the types and varieties of national expression in Arab societies of the Middle East and North Africa, through a reading of common texts and students' individual research projects. (Offered in alternate years)<\/p>",
+        "prerequisite": "NMC378H1 and permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-42671": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42671",
+                        "assignedRoom1": "BF 315",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161178": {
+                        "instructorId": "1161178",
+                        "firstName": "J",
+                        "lastName": "Reilly"
+                    }
+                },
+                "meetingId": "14380",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

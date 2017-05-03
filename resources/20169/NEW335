@@ -1,0 +1,81 @@
+{
+    "NEW335H1-F-20169": {
+        "courseId": "1573",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Meditation and the Body",
+        "code": "NEW335H1",
+        "courseDescription": "<p>In recent years, the effects of meditation on the body have been widely researched.&nbsp; There is an increasing body of evidence that mindfulness meditation can affect brain activity, brain structure, neurochemistry and other psychobiological processes (e.g. blood pressure, cardiac function).&nbsp; This course will examine the research in this emerging field.<\/p>",
+        "prerequisite": "Completion of 9.0 FCEs",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NEW232Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-30884": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "30884",
+                        "assignedRoom1": "SS 2110",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161076": {
+                        "instructorId": "1161076",
+                        "firstName": "P",
+                        "lastName": "Whissell"
+                    }
+                },
+                "meetingId": "3297",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "69",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "183",
+                        "postCode": "ASMIN1017",
+                        "postName": "MI BUDDHISM, PSY & MENTAL HLTH",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

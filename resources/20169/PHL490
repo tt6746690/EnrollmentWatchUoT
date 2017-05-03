@@ -1,0 +1,53 @@
+{
+    "PHL490Y1-Y-20169": {
+        "courseId": "1810",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "Individual Studies (formerly PHL390Y1)",
+        "code": "PHL490Y1",
+        "courseDescription": "<p>Individual Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: students can download Independent Study forms off the Philosophy Department website: http:\/\/undergraduate.philosophy.utoronto.ca\/courses\/individual-studies-courses\/. All forms must be received at Jackman Humanities Building, 170 St. George Street, Room 403 or by email to eric.correia@utoronto.ca, no later than 4:00pm, September 2, 2016.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161379": {
+                        "instructorId": "1161379",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "3713",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

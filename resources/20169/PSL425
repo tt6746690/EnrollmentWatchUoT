@@ -1,0 +1,113 @@
+{
+    "PSL425H1-F-20169": {
+        "courseId": "4073",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Integrative Metabolism and its Endocrine Regulation",
+        "code": "PSL425H1",
+        "courseDescription": "<p>This course integrates the newest findings and experimental approaches from cellular and molecular biology into metabolic function at the tissue, organ and whole body level.<\/p>",
+        "prerequisite": "BCH210H1, PSL300H1, PSL301H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "PSL305H1\/PSL303Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-39168": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39168",
+                        "assignedRoom1": "MS 2173",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161738": {
+                        "instructorId": "1161738",
+                        "firstName": "I",
+                        "lastName": "Fantus"
+                    },
+                    "1161739": {
+                        "instructorId": "1161739",
+                        "firstName": "A",
+                        "lastName": "Giacca"
+                    }
+                },
+                "meetingId": "14943",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "249",
+                        "postCode": "ASSPE0482",
+                        "postName": "SP PHYSIOLOGY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "57",
+                        "postCode": "ASMAJ0482",
+                        "postName": "MA PHYSIOLOGY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

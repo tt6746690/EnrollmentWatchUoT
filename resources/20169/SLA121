@@ -1,0 +1,33 @@
+{
+    "SLA121H1-S-20169": {
+        "courseId": "4256",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Russian Cultural History in Twelve Images",
+        "code": "SLA121H1",
+        "courseDescription": "<p>Russian Cultural History in Twelve Images An introductory survey of Russian cultural history through key images, exploring the historical, intellectual, artistic, and mythical significance of these images in Russian cultural identity and in foreign perceptions. Among the images are: Rublev&rsquo;s &ldquo;Trinity,&rdquo; The Bronze Horseman, the Cathedral of Christ the Savior, and Tatlin&rsquo;s Tower. Taught in English, readings in English. No prior familiarity with Russian language or culture is expected.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "13527",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "May 3, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

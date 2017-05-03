@@ -1,0 +1,170 @@
+{
+    "VIC202Y1-Y-20169": {
+        "courseId": "2554",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Forms of Representation",
+        "code": "VIC202Y1",
+        "courseDescription": "<p>This course explores representation as a cultural and political problem.&nbsp; Representation is both a means of depicting or constructing reality and a means of constituting individual and collective subjectivities.&nbsp; We will consider literary and other modes of representation in their historical contexts.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "VIC201Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40575": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "40575",
+                        "assignedRoom1": "VC 115",
+                        "assignedRoom2": "VC 115"
+                    },
+                    "TH-40576": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "40576",
+                        "assignedRoom1": "VC 115",
+                        "assignedRoom2": "VC 115"
+                    }
+                },
+                "instructors": {
+                    "1162783": {
+                        "instructorId": "1162783",
+                        "firstName": "M",
+                        "lastName": "Burks"
+                    },
+                    "1162784": {
+                        "instructorId": "1162784",
+                        "firstName": "J",
+                        "lastName": "Patrick"
+                    }
+                },
+                "meetingId": "5199",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-40577": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "40577",
+                        "assignedRoom1": "NF 009",
+                        "assignedRoom2": "NF 009"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "5200",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-40578": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40578",
+                        "assignedRoom1": "NF 009",
+                        "assignedRoom2": "NF 009"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "5201",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "TH-22779": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "22779",
+                        "assignedRoom1": "NF 009",
+                        "assignedRoom2": "NF 009"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13833",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0401": {
+                "schedule": {
+                    "TH-22781": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "22781",
+                        "assignedRoom1": "NF 009",
+                        "assignedRoom2": "NF 009"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13834",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

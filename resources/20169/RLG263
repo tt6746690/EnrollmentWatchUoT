@@ -1,0 +1,137 @@
+{
+    "RLG263H1-S-20169": {
+        "courseId": "4651",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Introduction to Sanskrit II (formerly RLG260Y1)",
+        "code": "RLG263H1",
+        "courseDescription": "<p>The second semester of an introduction to Classical Sanskrit for beginners. Students continue to build grammar and vocabulary, and use that knowledge to read texts in Sanskrit. Two sections of the course will be offered: an on-campus class meeting and an online section via live webinar participation. The final exam will require attendance on the St. George campus, or in another authorized exam centre.<\/p>",
+        "prerequisite": "RLG260H1",
+        "corequisite": "",
+        "exclusion": "RLG260Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "LEC0101 (in-class) students must sign up for TUT0101 (in-class). LEC9901 (online) students must sign up for TUT9901 (online tutorial).",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-35458": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "35458",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2101"
+                    }
+                },
+                "instructors": {
+                    "1161925": {
+                        "instructorId": "1161925",
+                        "firstName": "E",
+                        "lastName": "Mills"
+                    }
+                },
+                "meetingId": "14220",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": " \tStudents in LEC0101 must select TUT0101",
+                "enrollmentControls": []
+            },
+            "LEC-9901": {
+                "schedule": {
+                    "TU-46459": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "46459",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Online"
+                    }
+                },
+                "instructors": {
+                    "1161926": {
+                        "instructorId": "1161926",
+                        "firstName": "E",
+                        "lastName": "Mills"
+                    }
+                },
+                "meetingId": "14212",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-46991": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "46991",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2123"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14221",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Students in LEC0101 must select TUT0101",
+                "enrollmentControls": []
+            },
+            "TUT-9901": {
+                "schedule": {
+                    "TH-46460": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "46460",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Online"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14213",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

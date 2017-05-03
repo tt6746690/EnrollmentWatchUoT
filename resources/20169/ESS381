@@ -1,0 +1,53 @@
+{
+    "ESS381H1-S-20169": {
+        "courseId": "789",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Special Topics in Earth Science",
+        "code": "ESS381H1",
+        "courseDescription": "<p>A survey of current thinking in Earth science. Topics may include isotope geochemistry, ore genesis, or planetary remote sensing.<\/p>",
+        "prerequisite": "minimum of 1.0 credits in ESS at the 200+level",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46291": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46291",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ROM 3B13"
+                    }
+                },
+                "instructors": {
+                    "1159860": {
+                        "instructorId": "1159860",
+                        "firstName": "K",
+                        "lastName": "Tait"
+                    }
+                },
+                "meetingId": "14954",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time changed: August 26, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

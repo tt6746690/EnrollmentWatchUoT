@@ -1,0 +1,53 @@
+{
+    "CDN390H1-F-20169": {
+        "courseId": "202",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Chinese Canadian Studies (formerly UNI390H1)",
+        "code": "CDN390H1",
+        "courseDescription": "<p>This course will examine socio-cultural, political and economic aspects of Chinese communities in Canada. It explores how the study of Chinese Canadians challenges and augments our understanding of issues such as immigration and diaspora, multiculturalism, and race and ethnicity.<\/p>",
+        "prerequisite": "CDN230H1\/CDN267H1\/CDN268H1\/CDN307H1 or by permission of instructor",
+        "corequisite": "",
+        "exclusion": "UNI390H1",
+        "recommendedPreparation": "CDN230H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-40555": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "40555",
+                        "assignedRoom1": "UC 314",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158745": {
+                        "instructorId": "1158745",
+                        "firstName": "L",
+                        "lastName": "Mar"
+                    }
+                },
+                "meetingId": "483",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

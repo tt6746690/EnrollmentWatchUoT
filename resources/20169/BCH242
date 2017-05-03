@@ -1,0 +1,256 @@
+{
+    "BCH242Y1-Y-20169": {
+        "courseId": "144",
+        "org": "BCH",
+        "orgName": "Biochemistry (BCH) (BCB)",
+        "courseTitle": "Introduction to Biochemistry",
+        "code": "BCH242Y1",
+        "courseDescription": "<p>An introductory course that will serve as the foundation for BCH courses taken in Third and Fourth years by students specializing in biochemistry and related specialist programs. The major topics include protein structure, enzyme mechanisms, cellular and molecular biology, lipid and membrane structure and function, and&nbsp; carbohydrate, lipid, and amino acid metabolism and bioenenergetics. Please note that there are five laboratories accompanying this course.&nbsp;<\/p>",
+        "prerequisite": "(CHM135H1, CHM136H1)\/(CHM138H1,CHM139H1)\/CHM151Y1",
+        "corequisite": "",
+        "exclusion": "BCH210H1, CHM261H5 (UTM)\/CHM361H5 (UTM)\/CHM362H5 (UTM)\/ BGYC12H3 (UTSC) and BGYC13H3 (UTSC)",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4), The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-17398": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "17398",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": "MS 4279"
+                    },
+                    "WE-17399": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "17399",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": "MS 4279"
+                    },
+                    "WE-17400": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "17400",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": "MS 4279"
+                    },
+                    "WE-17401": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "17401",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": "MS 4279"
+                    },
+                    "FR-17397": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "17397",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": "MS 4279"
+                    }
+                },
+                "instructors": {
+                    "1158582": {
+                        "instructorId": "1158582",
+                        "firstName": "C",
+                        "lastName": "Bear"
+                    },
+                    "1158583": {
+                        "instructorId": "1158583",
+                        "firstName": "S",
+                        "lastName": "Kelley"
+                    },
+                    "1158584": {
+                        "instructorId": "1158584",
+                        "firstName": "P",
+                        "lastName": "Lewis"
+                    },
+                    "1158585": {
+                        "instructorId": "1158585",
+                        "firstName": "J",
+                        "lastName": "Nodwell"
+                    },
+                    "1158586": {
+                        "instructorId": "1158586",
+                        "firstName": "S",
+                        "lastName": "Patterson"
+                    },
+                    "1158587": {
+                        "instructorId": "1158587",
+                        "firstName": "J",
+                        "lastName": "Rini"
+                    },
+                    "1158588": {
+                        "instructorId": "1158588",
+                        "firstName": "C",
+                        "lastName": "Smibert"
+                    },
+                    "1158589": {
+                        "instructorId": "1158589",
+                        "firstName": "I",
+                        "lastName": "Stagljar"
+                    }
+                },
+                "meetingId": "294",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "62",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "267",
+                        "postCode": "ASSPE1002",
+                        "postName": "SP IMMUNOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "309",
+                        "postCode": "ASSPE1387",
+                        "postName": "SP MOLEC GENETICS & MICROBIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "343",
+                        "postCode": "ASSPE1762",
+                        "postName": "SP BIOCHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "348",
+                        "postCode": "ASSPE1865",
+                        "postName": "SP MOLEC GENET & MOLEC BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "349",
+                        "postCode": "ASSPE1868",
+                        "postName": "SP BIOINFO & COMPUT BIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

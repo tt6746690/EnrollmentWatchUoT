@@ -1,0 +1,53 @@
+{
+    "RLG246H1-S-20169": {
+        "courseId": "4116",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Karma and Dharma in Indic Tradition",
+        "code": "RLG246H1",
+        "courseDescription": "<p>A comparative study of the development of ethical perspectives in Hinduism, Buddhism, and Jainism, concluding with a discussion of contemporary moral issues.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46833": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46833",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 323"
+                    }
+                },
+                "instructors": {
+                    "1161920": {
+                        "instructorId": "1161920",
+                        "firstName": "N",
+                        "lastName": "Kuchuk"
+                    }
+                },
+                "meetingId": "6530",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: September 15, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

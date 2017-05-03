@@ -1,0 +1,53 @@
+{
+    "FAH360H1-S-20169": {
+        "courseId": "3155",
+        "org": "FAR",
+        "orgName": "Art (FAH)",
+        "courseTitle": "World of the Senses: Chinese Decorative Arts",
+        "code": "FAH360H1",
+        "courseDescription": "<p>This course surveys late imperial Chinese decorative arts from the Song (960-1127) through Qing (1644-1911) dynasties. It focuses on ceramics\/porcelain, textiles, and furniture, attending especially to works in Toronto collections. Students will read primary and secondary sources to learn how decorative arts shaped daily life in imperial China.<\/p>",
+        "prerequisite": "Any 200-level FAH half course\/any 100- or 200-level EAS Society-Culture course.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "FAH260H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-14922": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "14922",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1069"
+                    }
+                },
+                "instructors": {
+                    "1159905": {
+                        "instructorId": "1159905",
+                        "firstName": "J",
+                        "lastName": "Purtle"
+                    }
+                },
+                "meetingId": "12190",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "88",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

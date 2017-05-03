@@ -1,0 +1,61 @@
+{
+    "FRE314H1-F-20169": {
+        "courseId": "904",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Quebec and French-Canadian Literature",
+        "code": "FRE314H1",
+        "courseDescription": "<p>Literature of the 20th and 21st centuries speaks of contesting social and literary figures of authority, of challenging traditional literary structures and of accentuating creativity and subjectivity. An exploration of the thematic and formal structures that challenge traditional forms of thinking and writing in contemporary literature from Qu&eacute;bec and other French-speaking parts of Canada.<\/p>",
+        "prerequisite": "FRE240H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "FRE241H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "14518",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "September 1st, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "6",
+                        "secondaryOrgCode": "ARTSC",
+                        "secondaryOrgName": "Faculty of Arts and Science",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

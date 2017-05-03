@@ -1,0 +1,86 @@
+{
+    "NEW232Y1-Y-20169": {
+        "courseId": "1556",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Buddhist Psychology",
+        "code": "NEW232Y1",
+        "courseDescription": "<p>Explores the contributions of Buddhism to the study of human consciousness and behaviour. Focus is on the expanding academic discourse on the intersection of Buddhist and Western theories of psychology, phenomenology and psychotherapy. Includes analyses of the application of Buddhist mindfulness meditation in clinical interventions for mental and physical disorders.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "NEW402Y1, NEW432Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-36931": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "36931",
+                        "assignedRoom1": "BR 200",
+                        "assignedRoom2": "BR 200"
+                    }
+                },
+                "instructors": {
+                    "1161053": {
+                        "instructorId": "1161053",
+                        "firstName": "H",
+                        "lastName": "Shiu"
+                    },
+                    "1161054": {
+                        "instructorId": "1161054",
+                        "firstName": "A",
+                        "lastName": "Toneatto"
+                    }
+                },
+                "meetingId": "3272",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "210",
+                "actualEnrolment": "169",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "183",
+                        "postCode": "ASMIN1017",
+                        "postName": "MI BUDDHISM, PSY & MENTAL HLTH",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

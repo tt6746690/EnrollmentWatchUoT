@@ -1,0 +1,81 @@
+{
+    "PHC489Y1-Y-20169": {
+        "courseId": "1738",
+        "org": "PHM",
+        "orgName": "Pharmaceutical Chemistry (PHC) (JFP)",
+        "courseTitle": "Pharmaceutical Chemistry Research",
+        "code": "PHC489Y1",
+        "courseDescription": "<p>This course will provide research experience under the supervision of a Departmental staff member. The goal is to deepen the student&rsquo;s understanding of the scientific basis and practical techniques relevant to modern pharmaceutical development. This course is restricted to Pharmaceutical Chemistry specialist program students. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission from the Course Coordinator and enrolled as a Year 4 student in the Pharmaceutical Chemistry specialist program.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161294": {
+                        "instructorId": "1161294",
+                        "firstName": "K",
+                        "lastName": "Pang"
+                    }
+                },
+                "meetingId": "3497",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "291",
+                        "postCode": "ASSPE1211",
+                        "postName": "SP PHARMACEUTICAL CHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

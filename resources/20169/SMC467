@@ -1,0 +1,81 @@
+{
+    "SMC467H1-S-20169": {
+        "courseId": "4404",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "What is Information?",
+        "code": "SMC467H1",
+        "courseDescription": "<p>What is information? &ndash; The relativistic nature of information. Information as a process, a verb and not a noun. Role of information in the digital age. Information overload and how to deal with it. Shannon information and the relationship of information to meaning.<\/p>",
+        "prerequisite": "Two years of university completed",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41784": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "41784",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "TF 102"
+                    }
+                },
+                "instructors": {
+                    "1162453": {
+                        "instructorId": "1162453",
+                        "firstName": "R",
+                        "lastName": "Logan"
+                    }
+                },
+                "meetingId": "13489",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "101",
+                        "postCode": "ASMAJ1300",
+                        "postName": "MA BOOK & MEDIA STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

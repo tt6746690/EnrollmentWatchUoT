@@ -1,0 +1,108 @@
+{
+    "PSY440H1-F-20169": {
+        "courseId": "2056",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Abnormal Psychology Seminar",
+        "code": "PSY440H1",
+        "courseDescription": "<p>Examination in depth of a limited topic within abnormal psychology. Content in any given year depends on instructor.&nbsp; Course capacity is limited to&nbsp;20 students&nbsp;and enrolment priority is given to PSY Specialists and Research Specialists.<\/p>",
+        "prerequisite": "PSY202H1 (or exclusion), PSY230H1\/PSY240H1",
+        "corequisite": "",
+        "exclusion": "PSY440H5\/PSYD33H3",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'PE' indicator courses: Enroll via ACORN during the dates stated in the Enrolment Controls. Starting August 12, course enrolment and cancellations are processed by the Undergraduate Administrator (undergrad@psych.utoronto.ca) in Sid Smith, Room 4014, during regular academic advising office hours: Tuesday to Friday, 10:00 a.m. to 4:00 p.m.",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-47071": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "47071",
+                        "assignedRoom1": "SS 2123",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161886": {
+                        "instructorId": "1161886",
+                        "firstName": "C",
+                        "lastName": "Hetherington"
+                    }
+                },
+                "meetingId": "4197",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "Current Trends in Pediatric Neuropsychology",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": "Room Changed: September 19, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": "287",
+                        "postCode": "ASSPE1160",
+                        "postName": "SP PSYCHOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "353",
+                        "postCode": "ASSPE1958",
+                        "postName": "SP PSYCHOLOGY RESEARCH(THESIS)",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

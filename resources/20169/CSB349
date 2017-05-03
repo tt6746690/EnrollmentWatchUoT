@@ -1,0 +1,240 @@
+{
+    "CSB349H1-S-20169": {
+        "courseId": "362",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Eukaryotic Gene Expression",
+        "code": "CSB349H1",
+        "courseDescription": "<p>Genome structure and the regulation of gene expression in eukaryotic cells. Topics include gene duplication, repetitive DNA, transcription, gene silencing and regulation, expression profiling, and nuclear reprogramming. Tutorials emphasize problem based learning exercises that relate to recent advances in the broad field of eukaryotic gene expression.<\/p>",
+        "prerequisite": "BIO230H1\/(BIO240H1, BIO241H1)\/BIO255H1, BIO260H1\/HMB265H1",
+        "corequisite": "",
+        "exclusion": "MGY311Y1, MGY420H1",
+        "recommendedPreparation": "BCH210H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Enrolment in a tutorial section is done on the SWS until Monday, January 2.  Late tutorial enrolment or changes must be done in the CSB349H1 Office (ES3053) from January 5 to January 9.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-41558": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "41558",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    }
+                },
+                "instructors": {
+                    "1159086": {
+                        "instructorId": "1159086",
+                        "firstName": "W",
+                        "lastName": "Moeder"
+                    },
+                    "1159087": {
+                        "instructorId": "1159087",
+                        "firstName": "A",
+                        "lastName": "Moses"
+                    }
+                },
+                "meetingId": "789",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "400",
+                "actualEnrolment": "188",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-47502": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47502",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ZZ DEPT"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "790",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "41",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TU-47503": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47503",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ZZ DEPT"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "791",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "WE-47504": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47504",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ZZ DEPT"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "792",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "TUT-0401": {
+                "schedule": {
+                    "WE-47507": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47507",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ZZ DEPT"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "793",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "TUT-0501": {
+                "schedule": {
+                    "TH-47508": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47508",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ZZ DEPT"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "794",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "TUT-0601": {
+                "schedule": {
+                    "TH-47509": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47509",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ZZ DEPT"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "795",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0601",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "TUT-0701": {
+                "schedule": {
+                    "TH-47506": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "47506",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ZZ DEPT"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "796",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0701",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

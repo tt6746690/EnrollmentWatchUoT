@@ -1,0 +1,53 @@
+{
+    "TRN477H1-Y-20169": {
+        "courseId": "2500",
+        "org": "TRIN",
+        "orgName": "Trinity College (TRN)",
+        "courseTitle": "Trinity Comprehensive Paper II",
+        "code": "TRN477H1",
+        "courseDescription": "<p>The preparation of a publication quality review article typically involves extensive editing. Students are individually mentored by faculty experts to take the review paper generated in TRN377Y1 and edit the structure, content and style to produce a publication quality review article. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "TRN377Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: contact Kiran Sahota, Room 300, Larkin Building, Monday to Friday from 9:00am-12:00pm and 2:00-5:00pm, at 416-978-8454 or artsdean@trinity.utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Science, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162713": {
+                        "instructorId": "1162713",
+                        "firstName": "L",
+                        "lastName": "Boehm"
+                    }
+                },
+                "meetingId": "5127",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

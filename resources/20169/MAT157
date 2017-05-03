@@ -1,0 +1,228 @@
+{
+    "MAT157Y1-Y-20169": {
+        "courseId": "1454",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Analysis I",
+        "code": "MAT157Y1",
+        "courseDescription": "<p>A theoretical course in calculus; emphasizing proofs and techniques, as well as geometric and physical understanding. Trigonometric identities. Limits and continuity; least upper bounds, intermediate and extreme value theorems. Derivatives, mean value and inverse function theorems. Integrals; fundamental theorem; elementary transcendental functions. Techniques of integration. Taylor's theorem; sequences and series; uniform convergence and power series.<\/p>",
+        "prerequisite": "High school level calculus",
+        "corequisite": "",
+        "exclusion": "MAT137Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-36462": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "36462",
+                        "assignedRoom1": "MC 102",
+                        "assignedRoom2": "MC 102"
+                    },
+                    "WE-36463": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "36463",
+                        "assignedRoom1": "MC 102",
+                        "assignedRoom2": "MC 102"
+                    },
+                    "FR-36464": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "36464",
+                        "assignedRoom1": "MC 102",
+                        "assignedRoom2": "BA 1160"
+                    }
+                },
+                "instructors": {
+                    "1160850": {
+                        "instructorId": "1160850",
+                        "firstName": "J",
+                        "lastName": "Repka"
+                    }
+                },
+                "meetingId": "3032",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "250",
+                "actualEnrolment": "105",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "32",
+                        "postCode": "ASCRSMPS1",
+                        "postName": "A&S Yr 1 Math & Phys Sciences",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "233",
+                        "postCode": "ASPRGMPS1",
+                        "postName": "A&S Yr 1 Math & Phys Sciences",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-39126": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "39126",
+                        "assignedRoom1": "GB 221",
+                        "assignedRoom2": "GB 120"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3033",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "62",
+                "actualEnrolment": "36",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "MO-32826": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "32826",
+                        "assignedRoom1": "GB 303",
+                        "assignedRoom2": "GB 119"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3034",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "62",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0103": {
+                "schedule": {
+                    "MO-32828": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "32828",
+                        "assignedRoom1": "RS 211",
+                        "assignedRoom2": "RS 211"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3035",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "62",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0104": {
+                "schedule": {
+                    "WE-47244": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47244",
+                        "assignedRoom1": "BL 313",
+                        "assignedRoom2": "BF 323"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3036",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0104",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Oct 28, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

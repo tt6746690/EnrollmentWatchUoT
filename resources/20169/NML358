@@ -1,0 +1,53 @@
+{
+    "NML358H1-S-20169": {
+        "courseId": "3852",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Mishnah and Tosefta",
+        "code": "NML358H1",
+        "courseDescription": "<p>Introduction to Mishnah and Tosefta, two of the three foundational documents of Middle Hebrew. In addition to studying specific features of this level of Hebrew, examining these compositions independently, and analyzing their interaction, students will examine current scholarly literature on these documents and their relationship to each other. (Offered in alternate years)<\/p>",
+        "prerequisite": "Intermediate Hebrew (Modern or Biblical)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47239": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "47239",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF Library"
+                    }
+                },
+                "instructors": {
+                    "1161210": {
+                        "instructorId": "1161210",
+                        "firstName": "T",
+                        "lastName": "Meacham"
+                    }
+                },
+                "meetingId": "14902",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Day & Time Changed: Oct 25, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

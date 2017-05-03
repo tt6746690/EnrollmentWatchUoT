@@ -1,0 +1,53 @@
+{
+    "SPA341H1-S-20169": {
+        "courseId": "4477",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "Modernist Movements in Spain",
+        "code": "SPA341H1",
+        "courseDescription": "<p>Literary and artistic movements in Spain from 1890 to 1940, with special attention to the convergence and mutual mediation of politics and art. Materials to be studied include novels, poetry, the urban environment, graphic art, literary journals and manifestos, and some early Hispanic film. (Offered every three years)<\/p>",
+        "prerequisite": "SPA220Y1\/SPA219Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SPA258H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47725": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47725",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 211"
+                    }
+                },
+                "instructors": {
+                    "1162571": {
+                        "instructorId": "1162571",
+                        "firstName": "O",
+                        "lastName": "Babych"
+                    }
+                },
+                "meetingId": "14083",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "22",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "**Room Changed: Jan 16, 2017**",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

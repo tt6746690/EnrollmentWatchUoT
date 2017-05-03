@@ -1,0 +1,53 @@
+{
+    "PHL489Y1-Y-20169": {
+        "courseId": "1809",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "Advanced Topics in Philosophy",
+        "code": "PHL489Y1",
+        "courseDescription": "<p>Advanced Topics in Philosophy<\/p>",
+        "prerequisite": "Permission of the instructor and Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: students can download Independent Study forms off the Philosophy Department website: http:\/\/undergraduate.philosophy.utoronto.ca\/courses\/individual-studies-courses\/. All forms must be received at Jackman Humanities Building, 170 St. George Street, Room 403 or by email to eric.correia@utoronto.ca, no later than 4:00pm, September 2, 2016.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-43585": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "43585",
+                        "assignedRoom1": "JH 401",
+                        "assignedRoom2": "JH 401"
+                    }
+                },
+                "instructors": {
+                    "1161378": {
+                        "instructorId": "1161378",
+                        "firstName": "A",
+                        "lastName": "Murray"
+                    }
+                },
+                "meetingId": "3712",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

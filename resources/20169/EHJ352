@@ -1,0 +1,66 @@
+{
+    "EHJ352H1-F-20169": {
+        "courseId": "656",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Evolution of the Human Genome",
+        "code": "EHJ352H1",
+        "courseDescription": "<p>Human genome diversity and evolution with a focus on current research. The course integrates applications of human evolutionary genomics to the understanding of human history and adaptation, the causes of disease, and genome structure and function. Topics include: comparative genomics, population genomics of adaptation, association mapping, repetitive\/selfish DNA, and gene duplication.<\/p>",
+        "prerequisite": "BIO220H1, BIO260H1\/HMB265H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-33287": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "33287",
+                        "assignedRoom1": "RW 110",
+                        "assignedRoom2": null
+                    },
+                    "TH-33286": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "33286",
+                        "assignedRoom1": "RW 110",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159653": {
+                        "instructorId": "1159653",
+                        "firstName": "A",
+                        "lastName": "Agrawal"
+                    },
+                    "1159654": {
+                        "instructorId": "1159654",
+                        "firstName": "R",
+                        "lastName": "Williamson"
+                    }
+                },
+                "meetingId": "1378",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "68",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

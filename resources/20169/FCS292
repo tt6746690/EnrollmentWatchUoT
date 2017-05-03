@@ -1,0 +1,53 @@
+{
+    "FCS292H1-S-20169": {
+        "courseId": "868",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Special Topics in French Cultural Studies I",
+        "code": "FCS292H1",
+        "courseDescription": "<p>This course explores the themes of love, sex and desire in French literature through close reading and interpretative analysis of novels from the eighteenth to the twentieth centuries.&nbsp; A comparative approach using various examples taken from literary texts and film adaptations explores the concept of love and its many definitions.<\/p>",
+        "prerequisite": "None",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159926": {
+                        "instructorId": "1159926",
+                        "firstName": "M",
+                        "lastName": "Visoi"
+                    }
+                },
+                "meetingId": "1803",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "Love, Sex and Desire in French Literature and Cinema",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "110",
+                "actualEnrolment": "89",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

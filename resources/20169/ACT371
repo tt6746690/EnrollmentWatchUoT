@@ -1,0 +1,53 @@
+{
+    "ACT371H1-F-20169": {
+        "courseId": "34",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Basic Reserving Methods For P&C Insurance",
+        "code": "ACT371H1",
+        "courseDescription": "<p>Topics covered include resrving data and triangles, diagnoses methods that range from triangle of ratios of paid claims to reported claims to triangel of reported claim ratios.&nbsp; The sylloabus also includes projection techniques.<\/p>",
+        "prerequisite": "ACT240H1, STA257H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "None",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47099": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "47099",
+                        "assignedRoom1": "SS 1086",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158433": {
+                        "instructorId": "1158433",
+                        "firstName": "H",
+                        "lastName": "Cheng"
+                    }
+                },
+                "meetingId": "46",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "55",
+                "actualEnrolment": "37",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

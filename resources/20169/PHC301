@@ -1,0 +1,120 @@
+{
+    "PHC301H1-S-20169": {
+        "courseId": "1727",
+        "org": "PHM",
+        "orgName": "Pharmaceutical Chemistry (PHC) (JFP)",
+        "courseTitle": "Molecular Pharmacology 2",
+        "code": "PHC301H1",
+        "courseDescription": "<p>Structural and mechanistic determinants of drug action via macromolecules that effect cellular signalling.&nbsp;Neurohumoral receptors and other signalling proteins are grouped according to their structure and mechanism of&nbsp;action. Native properties and their modulation by drugs are discussed in the context of basic principles of&nbsp;molecular pharmacology.<\/p>",
+        "prerequisite": "(CHM135H1, CHM136H1)\/(CHM138H1, CHM139H1)\/CHM151Y1; CHM220H1\/CHM222H1; BCH210H1",
+        "corequisite": "",
+        "exclusion": "PCL302H1, PHM140H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-37952": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "37952",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "PB B150"
+                    },
+                    "TU-37953": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "37953",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "PB B150"
+                    },
+                    "TU-37954": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "37954",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "PB B150"
+                    },
+                    "WE-37955": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "37955",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "PB B150"
+                    }
+                },
+                "instructors": {
+                    "1161272": {
+                        "instructorId": "1161272",
+                        "firstName": "S",
+                        "lastName": "Angers"
+                    },
+                    "1161273": {
+                        "instructorId": "1161273",
+                        "firstName": "R",
+                        "lastName": "Bonin"
+                    },
+                    "1161274": {
+                        "instructorId": "1161274",
+                        "firstName": "C",
+                        "lastName": "Cummins"
+                    },
+                    "1161275": {
+                        "instructorId": "1161275",
+                        "firstName": "J",
+                        "lastName": "Wells"
+                    }
+                },
+                "meetingId": "3486",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "291",
+                        "postCode": "ASSPE1211",
+                        "postName": "SP PHARMACEUTICAL CHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

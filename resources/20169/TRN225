@@ -1,0 +1,53 @@
+{
+    "TRN225Y1-Y-20169": {
+        "courseId": "2475",
+        "org": "TRIN",
+        "orgName": "Trinity College (TRN)",
+        "courseTitle": "The Art of Health Science Discovery",
+        "code": "TRN225Y1",
+        "courseDescription": "<p>Illustrated by contemporary examples, students go through the stages of the scientific discovery process. From initial idea, through literature review, funding (grant writing and assessment), experimental design and critical analysis of data through to the public dissemination of results by publication, the patent process and development of intellectual property.<\/p>",
+        "prerequisite": "TRN125Y1 (Course prerequisites can be waived by the program director only. To do so, please email Prof. Michael Kessler with your transcript at mkessler@trinity.utoronto.ca)",
+        "corequisite": "",
+        "exclusion": "PSL190H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Living Things and Their Environment (4), Society and its Institutions (3)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-46461": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46461",
+                        "assignedRoom1": "LA 213",
+                        "assignedRoom2": "LA 213"
+                    }
+                },
+                "instructors": {
+                    "1162676": {
+                        "instructorId": "1162676",
+                        "firstName": "M",
+                        "lastName": "Ratcliffe"
+                    }
+                },
+                "meetingId": "5090",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Enrolment now open to all U of T students: Sept 2, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

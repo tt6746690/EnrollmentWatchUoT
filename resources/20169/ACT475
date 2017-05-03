@@ -1,0 +1,61 @@
+{
+    "ACT475H1-S-20169": {
+        "courseId": "2673",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Insurance Products and Regulation with AXIS",
+        "code": "ACT475H1",
+        "courseDescription": "<p>Examine key types of insurance products and their pricing and valuation. Review representative developments in insurance regulations in US, Europe and Canada. Demonstrate case studies using leading actuarial application AXIS.<\/p>",
+        "prerequisite": "ACT240H1, ACT245H1, ACT247H1, ACT348H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47693": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:30",
+                        "meetingScheduleId": "47693",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2127"
+                    },
+                    "TU-47694": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:30",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "47694",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 561"
+                    }
+                },
+                "instructors": {
+                    "1158446": {
+                        "instructorId": "1158446",
+                        "firstName": "J",
+                        "lastName": "Zhang"
+                    }
+                },
+                "meetingId": "13949",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Jan 11, 2017",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "ACT247H1-S-20169": {
+        "courseId": "30",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Introductory Life Contingencies",
+        "code": "ACT247H1",
+        "courseDescription": "<p>Probability theory applied to survival and to costs and risks of life assurances, life annuities, and pensions; analysis of survival distributions; international actuarial notation.<\/p>",
+        "prerequisite": "ACT240H1; MAT137Y1 (minimum grade 65%)\/MAT157Y1; STA257H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40466": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "40466",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2118"
+                    },
+                    "TH-40465": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "40465",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2118"
+                    }
+                },
+                "instructors": {
+                    "1158428": {
+                        "instructorId": "1158428",
+                        "firstName": "J",
+                        "lastName": "Zhang"
+                    }
+                },
+                "meetingId": "42",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "150",
+                "actualEnrolment": "104",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

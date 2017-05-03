@@ -1,0 +1,81 @@
+{
+    "PSY309H1-S-20169": {
+        "courseId": "2010",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Research Specialization: Practicum",
+        "code": "PSY309H1",
+        "courseDescription": "<p>Research Specialists learn about the research opportunities within our department, and develop their skills in the areas of critical thinking, writing, and oral presentation.&nbsp; Students also conduct a pre-thesis research project under the supervision of a faculty member.&nbsp; Ideally, students should complete a PSY lab course (PSY3*9H1) prior to taking this course, however, taking it concurrently is acceptable as well.&nbsp; Enrolment is restricted to PSY Research Specialists. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "PSY202H1 (or exclusion)",
+        "corequisite": "PSY3*9H1 (PSY lab course)",
+        "exclusion": "PSY309H5",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42980": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42980",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 581"
+                    }
+                },
+                "instructors": {
+                    "1161810": {
+                        "instructorId": "1161810",
+                        "firstName": "N",
+                        "lastName": "Rule"
+                    }
+                },
+                "meetingId": "4106",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "353",
+                        "postCode": "ASSPE1958",
+                        "postName": "SP PSYCHOLOGY RESEARCH(THESIS)",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

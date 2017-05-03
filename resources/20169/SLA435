@@ -1,0 +1,33 @@
+{
+    "SLA435H1-F-20169": {
+        "courseId": "2275",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Readings in Czech and Slovak",
+        "code": "SLA435H1",
+        "courseDescription": "<p>Texts of various genres representing several cultural epochs.&nbsp; Advanced students improve their reading skills.<\/p>\n<p>For 2016 Winter: V&aacute;clav Havel - a thinker, politician, and writer. Havel is one of the most complex European characters on political and theatrical stage. His multifaceted oeuvre includes essays, plays and speeches. This class will approach the complexity of his oeuvre and explore his development as a writer, public figure and a politician in the context of the recent political, literary and cultural history.&nbsp;<\/p>\n<p>Readings in English (Czech for majors).<\/p>",
+        "prerequisite": "Permission of instructor",
+        "corequisite": "",
+        "exclusion": "SLA435Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "6822",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Vaclav Havel",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "August 31, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

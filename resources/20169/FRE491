@@ -1,0 +1,155 @@
+{
+    "FRE491H1-F-20169": {
+        "courseId": "927",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Independent Study",
+        "code": "FRE491H1",
+        "courseDescription": "<p>A research project on a literary, linguistic, or second language learning topic to be proposed by the student and&nbsp;supervised by a&nbsp;Faculty member&nbsp;on a&nbsp;topic of common interest, including readings, discussions, papers. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Any 300+ FRE Linguistics\/Literature\/Second Language Learning course. Permission of Department.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Applicants must complete the Ballot for Admission and the Description of Project Form, available at http:\/\/www.french.utoronto.ca\/courses\/145 and return them, duly signed by their supervisor, to Linda Lamisong, room 226, Odette Hall. An electronic version of the application must be forwarded to french.undergraduate@utoronto.ca. The deadlines are as follows: August 29, 2016 for F and Y courses; December 2, 2016 for S courses; April 3, 2017 for the 2017 summer session.\r\n",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159987": {
+                        "instructorId": "1159987",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1874",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "FRE491H1-S-20169": {
+        "courseId": "927",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Independent Study",
+        "code": "FRE491H1",
+        "courseDescription": "<p>A research project on a literary, linguistic, or second language learning topic to be proposed by the student and&nbsp;supervised by a&nbsp;Faculty member&nbsp;on a&nbsp;topic of common interest, including readings, discussions, papers. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Any 300+ FRE Linguistics\/Literature\/Second Language Learning course. Permission of Department.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Applicants must complete the Ballot for Admission and the Description of Project Form, available at http:\/\/www.french.utoronto.ca\/courses\/145 and return them, duly signed by their supervisor, to Linda Lamisong, room 226, Odette Hall. An electronic version of the application must be forwarded to french.undergraduate@utoronto.ca. The deadlines are as follows: August 29, 2016 for F and Y courses; December 2, 2016 for S courses; April 3, 2017 for the 2017 summer session.\r\n",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159988": {
+                        "instructorId": "1159988",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1875",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "FRE491H1-Y-20169": {
+        "courseId": "927",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Independent Study",
+        "code": "FRE491H1",
+        "courseDescription": "<p>A research project on a literary, linguistic, or second language learning topic to be proposed by the student and&nbsp;supervised by a&nbsp;Faculty member&nbsp;on a&nbsp;topic of common interest, including readings, discussions, papers. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Any 300+ FRE Linguistics\/Literature\/Second Language Learning course. Permission of Department.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Applicants must complete the Ballot for Admission and the Description of Project Form, available at http:\/\/www.french.utoronto.ca\/courses\/145 and return them, duly signed by their supervisor, to Linda Lamisong, room 226, Odette Hall. An electronic version of the application must be forwarded to french.undergraduate@utoronto.ca. The deadlines are as follows: August 29, 2016 for F and Y courses; December 2, 2016 for S courses; April 3, 2017 for the 2017 summer session.\r\n",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159989": {
+                        "instructorId": "1159989",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1876",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

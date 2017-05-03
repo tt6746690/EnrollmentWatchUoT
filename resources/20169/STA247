@@ -1,0 +1,230 @@
+{
+    "STA247H1-F-20169": {
+        "courseId": "2431",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Probability with Computer Applications",
+        "code": "STA247H1",
+        "courseDescription": "<p>Introduction to the theory of probability, with emphasis on applications in computer science. The topics covered include random variables, discrete and continuous probability distributions, expectation and variance, independence, conditional probability, normal, exponential, binomial, and Poisson distributions, the central limit theorem, sampling distributions, estimation and testing, applications to the analysis of algorithms, and simulating systems such as queues (Note: STA247H1&nbsp;does not count as a distribution requirement course).<\/p>",
+        "prerequisite": "(MAT135H1,MAT136H1)\/MAT137Y1\/MAT157Y1; CSC108H1\/CSC148H1",
+        "corequisite": "",
+        "exclusion": "ECO227Y1\/STA255H1\/STA257H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-32050": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "32050",
+                        "assignedRoom1": "ES 1050",
+                        "assignedRoom2": null
+                    },
+                    "FR-32049": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "32049",
+                        "assignedRoom1": "ES 1050",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162594": {
+                        "instructorId": "1162594",
+                        "firstName": "K",
+                        "lastName": "Huynh Wong"
+                    }
+                },
+                "meetingId": "5007",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "400",
+                "actualEnrolment": "352",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "349",
+                        "postCode": "ASSPE1868",
+                        "postName": "SP BIOINFO & COMPUT BIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "STA247H1-S-20169": {
+        "courseId": "2431",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Probability with Computer Applications",
+        "code": "STA247H1",
+        "courseDescription": "<p>Introduction to the theory of probability, with emphasis on applications in computer science. The topics covered include random variables, discrete and continuous probability distributions, expectation and variance, independence, conditional probability, normal, exponential, binomial, and Poisson distributions, the central limit theorem, sampling distributions, estimation and testing, applications to the analysis of algorithms, and simulating systems such as queues (Note: STA247H1&nbsp;does not count as a distribution requirement course).<\/p>",
+        "prerequisite": "(MAT135H1,MAT136H1)\/MAT137Y1\/MAT157Y1; CSC108H1\/CSC148H1",
+        "corequisite": "",
+        "exclusion": "ECO227Y1\/STA255H1\/STA257H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-32055": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "32055",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 202"
+                    },
+                    "FR-32054": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "32054",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 202"
+                    }
+                },
+                "instructors": {
+                    "1162595": {
+                        "instructorId": "1162595",
+                        "firstName": "K",
+                        "lastName": "Huynh Wong"
+                    }
+                },
+                "meetingId": "5008",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "188",
+                "actualEnrolment": "139",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "18",
+                        "subjectCode": "CSC",
+                        "subjectName": "COMPUTER SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "349",
+                        "postCode": "ASSPE1868",
+                        "postName": "SP BIOINFO & COMPUT BIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

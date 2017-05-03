@@ -1,0 +1,61 @@
+{
+    "APM421H1-F-20169": {
+        "courseId": "110",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Mathematical Foundations of Quantum Mechanics",
+        "code": "APM421H1",
+        "courseDescription": "<p>Key concepts and mathematical structure of Quantum Mechanics, with applications to topics of current interest such as quantum information theory. The core part of the course covers the following topics: Schroedinger equation, quantum observables, spectrum and evolution, motion in electro-magnetic field, angular momentum and O(3) and SU(2) groups, spin and statistics, semi-classical asymptotics, perturbation theory. More advanced topics may include: adiabatic theory and geometrical phases, Hartree-Fock theory, Bose-Einstein condensation, the second quantization, density matrix and quantum statistics, open systems and Lindblad evolution, quantum entropy, quantum channels, quantum Shannon theorems.<\/p>",
+        "prerequisite": "(MAT224H1, MAT337H1)\/MAT357H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-45028": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "45028",
+                        "assignedRoom1": "BA 2135",
+                        "assignedRoom2": null
+                    },
+                    "TH-45029": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "45029",
+                        "assignedRoom1": "BA 6183",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158536": {
+                        "instructorId": "1158536",
+                        "firstName": "I",
+                        "lastName": "Sigal"
+                    }
+                },
+                "meetingId": "194",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Changed: July 22, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

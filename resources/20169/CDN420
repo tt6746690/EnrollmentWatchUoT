@@ -1,0 +1,53 @@
+{
+    "CDN420Y1-Y-20169": {
+        "courseId": "205",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Senior Essay (formerly UNI420Y1)",
+        "code": "CDN420Y1",
+        "courseDescription": "<p>Students select an appropriate research topic and, in consultation with the Program Director, make arrangements with a suitable supervisor. Preferably, research projects must be approved by the supervisor and by the Director of the Canadian Studies Program by April of the preceding academic year. Students meet periodically during the year in seminar to participate in peer evaluations of: statement of research, literature review, methods of analysis, and to share reports of progress in research. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Normally open only to Majors and Specialists in the Canadian Studies program or permission of Director.",
+        "corequisite": "",
+        "exclusion": "UNI420Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: College approval is required. Please contact Khamla Sengthavy for further information at: UC165, Monday to Friday, 9:00am-4:30pm, 416-978-8083, or khamla.sengthavy@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42926": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42926",
+                        "assignedRoom1": "UC B203",
+                        "assignedRoom2": "UC B203"
+                    }
+                },
+                "instructors": {
+                    "1158748": {
+                        "instructorId": "1158748",
+                        "firstName": "R",
+                        "lastName": "Salutin"
+                    }
+                },
+                "meetingId": "487",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

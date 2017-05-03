@@ -1,0 +1,61 @@
+{
+    "ESS262H1-F-20169": {
+        "courseId": "781",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Earth System Processes",
+        "code": "ESS262H1",
+        "courseDescription": "<p>Processes acting within the Earth system, with particular emphasis on interactions between its components (hydrosphere, atmosphere, biosphere and solid Earth) at long and short timescales. Lecture topics include pre-biotic and post-biotic atmosphere, thermohaline circulation of the oceans, plate tectonics, the rock cycle, regulation of paleoclimates, the global carbon cycle and the terrestrial and marine biosphere.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "PHY131H1\/CHM138H1\/BIO120H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-45701": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45701",
+                        "assignedRoom1": "ES 1067",
+                        "assignedRoom2": null
+                    },
+                    "TH-45702": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "45702",
+                        "assignedRoom1": "ES 2100",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159850": {
+                        "instructorId": "1159850",
+                        "firstName": "R",
+                        "lastName": "Ghent"
+                    }
+                },
+                "meetingId": "1698",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "35",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

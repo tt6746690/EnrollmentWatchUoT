@@ -1,0 +1,53 @@
+{
+    "HIS346H1-F-20169": {
+        "courseId": "3402",
+        "org": "HIS",
+        "orgName": "History (HIS) (JHA) (JHP) (JHN) (JSH) (JAH)",
+        "courseTitle": "Rice and Spice in Southeast Asia: a Regional Food History",
+        "code": "HIS346H1",
+        "courseDescription": "<p>This course examines the importance of food products in the livelihoods of the inhabitants of Southeast and in the world economy.&nbsp; It traces the circulation of these products within the Southeast Asian region in the pre-modern period, into the spice trade of the early modern era, and the establishment of coffee and sugar plantations in the late colonial period, and the role of these exports in the contemporary global economy.&nbsp;<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "HIS283Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-8778": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "8778",
+                        "assignedRoom1": "SS 1088",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160264": {
+                        "instructorId": "1160264",
+                        "firstName": "N",
+                        "lastName": "Tran"
+                    }
+                },
+                "meetingId": "5468",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "38",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

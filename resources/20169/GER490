@@ -1,0 +1,104 @@
+{
+    "GER490H1-F-20169": {
+        "courseId": "967",
+        "org": "GER",
+        "orgName": "German (GER) (JGJ)",
+        "courseTitle": "Independent Study",
+        "code": "GER490H1",
+        "courseDescription": "<p>A reading &amp; research project in Germanic literature and\/or culture involving a substantive research component. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Advanced status and permission of department. Note: permission needs to be obtained by May 1st for the Fall Term and by Nov. 1st for the Spring Term",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course,  please contact gayle.grisdale@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160114": {
+                        "instructorId": "1160114",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1986",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "GER490H1-S-20169": {
+        "courseId": "967",
+        "org": "GER",
+        "orgName": "German (GER) (JGJ)",
+        "courseTitle": "Independent Study",
+        "code": "GER490H1",
+        "courseDescription": "<p>A reading &amp; research project in Germanic literature and\/or culture involving a substantive research component. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Advanced status and permission of department. Note: permission needs to be obtained by May 1st for the Fall Term and by Nov. 1st for the Spring Term",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course,  please contact gayle.grisdale@utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160115": {
+                        "instructorId": "1160115",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1987",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

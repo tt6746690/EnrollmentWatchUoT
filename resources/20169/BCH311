@@ -1,0 +1,115 @@
+{
+    "BCH311H1-S-20169": {
+        "courseId": "146",
+        "org": "BCH",
+        "orgName": "Biochemistry (BCH) (BCB)",
+        "courseTitle": "Biochemistry II: Nucleic Acids and Biological Information Flow",
+        "code": "BCH311H1",
+        "courseDescription": "<p>Nucleic acids and flow of information in biological systems. Information storage and transmission by nucleic acids, as well as new molecular technologies will be discussed. Registration in one of the tutorial sessions is mandatory. Note: Students that have a SDF in BCH210H1 are not permitted to enrol in BCH311H1 until a final passing grade (50%) appears on the transcript. BCH2** WITH COURSE EXCLUSION TO BCH210H1 meets the prerequisite requirement for BCH311H1.<\/p>",
+        "prerequisite": "BCH210H1\/(BGYC12H3 and BGYC13H3 [UTSC])",
+        "corequisite": "",
+        "exclusion": "MGY311Y1, PSL350H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-41138": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "41138",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CH ---"
+                    }
+                },
+                "instructors": {
+                    "1158597": {
+                        "instructorId": "1158597",
+                        "firstName": "S",
+                        "lastName": "Andreopoulos"
+                    },
+                    "1158598": {
+                        "instructorId": "1158598",
+                        "firstName": "G",
+                        "lastName": "Brown"
+                    },
+                    "1158599": {
+                        "instructorId": "1158599",
+                        "firstName": "S",
+                        "lastName": "Kelley"
+                    }
+                },
+                "meetingId": "301",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "1550",
+                "actualEnrolment": "504",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-41139": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41139",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 2158"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "302",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "350",
+                "actualEnrolment": "187",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "FR-41140": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41140",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CH ---"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "303",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "1200",
+                "actualEnrolment": "309",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

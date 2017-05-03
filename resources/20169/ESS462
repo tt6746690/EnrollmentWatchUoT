@@ -1,0 +1,53 @@
+{
+    "ESS462H1-F-20169": {
+        "courseId": "3091",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Global Biogeochemical Cycles",
+        "code": "ESS462H1",
+        "courseDescription": "<p>A seminar course focusing on the exchange of matter (i.e. elements, minerals) between the Earth&rsquo;s atmosphere, ocean, and biosphere. Course-related topics include global biogeochemical cycling of carbon, nitrogen, phosphorous, silicon, iron, and zinc (amongst other elements) and will include both terrestrial and marine ecosystems. Examples and case studies will be viewed from the paleo-, contemporary and potential future global change perspectives. The overall content of course readings will be determined by student interest, as students have the freedom to choose topics (readings) of personal interest. Offered in alternate years.<\/p>",
+        "prerequisite": "10 FCEs from any of ESS\/MAT\/PHY\/CHM\/EEB\/GGR, including ESS361H1\/ESS362H1\/GGR305H1",
+        "corequisite": "",
+        "exclusion": "GGR403H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-45715": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45715",
+                        "assignedRoom1": "ES 2119",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159872": {
+                        "instructorId": "1159872",
+                        "firstName": "U",
+                        "lastName": "Wortmann"
+                    }
+                },
+                "meetingId": "14340",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

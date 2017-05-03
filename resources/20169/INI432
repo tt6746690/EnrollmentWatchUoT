@@ -1,0 +1,108 @@
+{
+    "INI432H1-F-20169": {
+        "courseId": "1287",
+        "org": "INNIS",
+        "orgName": "Innis College (INI) (JGI) (JEI)",
+        "courseTitle": "Special Topics in Urban Studies",
+        "code": "INI432H1",
+        "courseDescription": "<p class=\"Body\"><span lang=\"EN-US\">Special topics courses are offered periodically for senior students in the Urban Studies Program. Offerings in any given year will depend on program priorities, availability of specialized expertise and funding. <\/span><br \/>Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Enrolment in a major or specialist program in Urban Studies.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "INI235Y1, completion of research design and research methods courses, and suitable 4th-year standing (in terms of credits completed) in an aligned social science discipline.",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-21338": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "21338",
+                        "assignedRoom1": "BL 114",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160574": {
+                        "instructorId": "1160574",
+                        "firstName": "D",
+                        "lastName": "Roberts"
+                    }
+                },
+                "meetingId": "13958",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Cities & Mega-Events",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "147",
+                        "postCode": "ASMAJ2207",
+                        "postName": "MA URBAN STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "366",
+                        "postCode": "ASSPE2207",
+                        "postName": "SP URBAN STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "CSB445H1-F-20169": {
+        "courseId": "376",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Topics in Sleep Research",
+        "code": "CSB445H1",
+        "courseDescription": "<p>Covers theories on the biological function of sleep-wake states.&nbsp; By means of in-depth study of primary research papers, the course focuses on sleep-related function at all levels of biological organization - from molecular biology through systems physiology to behaviour and evolutionary ecology.&nbsp; This course emphasizes student participation in seminar discussion and debates.<\/p>",
+        "prerequisite": "(BIO270H1, BIO271H1)\/(PSL300H1, PSL301H1)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "CJH332H1\/CSB332H1\/CSB345H1\/PSY397H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Students must submit an application form to the CSB Undergraduate Office (RW424) by Monday, 20 June, to be considered with the first round of applicants.  Forms are available at www.csb.utoronto.ca\/undergraduate-studies\/forms. For more information, please contact the Undergraduate Coordinator, Janet Mannone, at janet.mannone@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-42750": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42750",
+                        "assignedRoom1": "RW 15A",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159106": {
+                        "instructorId": "1159106",
+                        "firstName": "R",
+                        "lastName": "Stephenson"
+                    }
+                },
+                "meetingId": "812",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

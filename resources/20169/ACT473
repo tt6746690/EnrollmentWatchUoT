@@ -1,0 +1,110 @@
+{
+    "ACT473H1-S-20169": {
+        "courseId": "42",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Issues In Actuarial Practice",
+        "code": "ACT473H1",
+        "courseDescription": "<p>Case study approach to current issues in life insurance, pension consulting and casualty actuarial practice. The focus of the course will be on communication and presentation. This course is Pass\/Fail. Not eligibile for Credit\/No Credit.&nbsp; The course is open to students in the specialist program in actuarial science. Students in the major program in actuarial science can enrol into the course with permission of the department.<\/p>",
+        "prerequisite": "ACT348H1, ACT349H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-40499": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "40499",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1086"
+                    }
+                },
+                "instructors": {
+                    "1158444": {
+                        "instructorId": "1158444",
+                        "firstName": "C",
+                        "lastName": "Genno"
+                    },
+                    "1158445": {
+                        "instructorId": "1158445",
+                        "firstName": "H",
+                        "lastName": "Lyons"
+                    }
+                },
+                "meetingId": "54",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "WE-46606": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "46606",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1080"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14685",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Day Changed: Sept 8, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-5201": {
+                "schedule": {
+                    "WE-46607": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "46607",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1080"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14686",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Day Changed: Sept 8, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

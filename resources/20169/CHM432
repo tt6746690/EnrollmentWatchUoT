@@ -1,0 +1,61 @@
+{
+    "CHM432H1-F-20169": {
+        "courseId": "238",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Organometallic Chemistry and Catalysis",
+        "code": "CHM432H1",
+        "courseDescription": "<p>Structure, bonding, and reactions of organometallic compounds, with emphasis on basic mechanisms, and industrial processes. Addition, metalation, elimination, important catalytic cycles, electrophilic, and nucleophilic reactions are considered on a mechanistic basis. Topics on modern organometallic chemistry and catalysis are covered.<\/p>",
+        "prerequisite": "CHM338H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "CHM348H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41248": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "41248",
+                        "assignedRoom1": "LM 157",
+                        "assignedRoom2": null
+                    },
+                    "TH-41247": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "41247",
+                        "assignedRoom1": "LM 157",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158931": {
+                        "instructorId": "1158931",
+                        "firstName": "D",
+                        "lastName": "Song"
+                    }
+                },
+                "meetingId": "572",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

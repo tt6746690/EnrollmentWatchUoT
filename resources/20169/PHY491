@@ -1,0 +1,61 @@
+{
+    "PHY491H1-S-20169": {
+        "courseId": "1866",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Current Interpretations of Quantum Mechanics",
+        "code": "PHY491H1",
+        "courseDescription": "<p>Review of conventional, textbook quantum mechanics. Formal measurement theory and wave function collapse; quantum states and nonseparability, violation of local causality; Bell theorems; quantum tricks; decoherence and the emergence of classical behaviour. Hidden variables; deBroglie-Bohm theory and generalizations; many-worlds interpretation and other theories of beables. Consistent histories approach of Omnes and Gell-Mann and Hartle; nature of True and Reliable statements.<\/p>",
+        "prerequisite": "PHY456H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-40014": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "40014",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 1115"
+                    },
+                    "WE-40015": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "40015",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 1115"
+                    }
+                },
+                "instructors": {
+                    "1161520": {
+                        "instructorId": "1161520",
+                        "firstName": "J",
+                        "lastName": "Sipe"
+                    }
+                },
+                "meetingId": "3876",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "46",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

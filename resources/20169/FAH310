@@ -1,0 +1,53 @@
+{
+    "FAH310H1-F-20169": {
+        "courseId": "3136",
+        "org": "FAR",
+        "orgName": "Art (FAH)",
+        "courseTitle": "Greek Vase Painting",
+        "code": "FAH310H1",
+        "courseDescription": "<p>This course is a comprehensive exploration of the art of Greek vase painting, covering material from the late Geometric period (8th C. BCE) to the late Classical Period (4th C. BCE). While iconography and narrative will form a major portion of the ceontent, the class will also explore issues surrounding material and technique, the prevalent sympotic (drinking) culture and Greek rituals that provides the cultural framework, dynamics of trade, theories of viewership and semiotics, status of the artist, and other historiographical concerns, including problematic issues surrounding the modern practice of collecting.<\/p>",
+        "prerequisite": "FAH207H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-20130": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "20130",
+                        "assignedRoom1": "SS 1073",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159899": {
+                        "instructorId": "1159899",
+                        "firstName": "S",
+                        "lastName": "Kim"
+                    }
+                },
+                "meetingId": "7082",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "61",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

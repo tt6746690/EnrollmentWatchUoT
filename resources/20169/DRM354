@@ -1,0 +1,121 @@
+{
+    "DRM354Y1-Y-20169": {
+        "courseId": "463",
+        "org": "DRAMA",
+        "orgName": "Drama, Theatre and Performance Studies, Centre for (DRM) (JDC) (JIA)",
+        "courseTitle": "Production and Design II",
+        "code": "DRM354Y1",
+        "courseDescription": "<p class=\"MsoNormal\"><span style=\"font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-theme-font: major-latin; mso-ansi-language: EN-US;\">Building on the work of DRM254Y1, students will continue their study of technical skills including lighting, sound, projections, stage management, and set construction, while also engaged in a detailed exploration of historical and contemporary theatrical stage and costume design. Working extensively in the Helen Gardiner Phelan Playhouse, the students form the core of the production team for Drama productions. The&nbsp;<\/span><span style=\"font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-theme-font: major-latin;\" lang=\"EN-CA\"><a target=_blank\" href=\"https:\/\/drama-apply.chass.utoronto.ca\/login\"><span style=\"color: windowtext; mso-ansi-language: EN-US; text-decoration: none; text-underline: none;\" lang=\"EN-US\">Application Deadline<\/span><\/a><\/span><span style=\"font-size: 10.0pt; font-family: 'Calibri'",
+        "prerequisite": "'sans-serif'; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-theme-font: major-latin; mso-ansi-language: EN-US;\">&nbsp;is March 10th.&nbsp;<\/span><\/p>\"",
+        "corequisite": "DRM100Y1\/DRM101Y1\/UNI102Y1, DRM254Y1, and permission of the Centre. See online application for details.",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "There will be additional tutorial times which will be held regularly. Dates and times to be determined based on student availability.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-43458": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "43458",
+                        "assignedRoom1": "UP 200",
+                        "assignedRoom2": "UP 200"
+                    },
+                    "WE-43459": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "43459",
+                        "assignedRoom1": "UP 200",
+                        "assignedRoom2": "UP 200"
+                    }
+                },
+                "instructors": {
+                    "1159344": {
+                        "instructorId": "1159344",
+                        "firstName": "P",
+                        "lastName": "Freund"
+                    },
+                    "1159345": {
+                        "instructorId": "1159345",
+                        "firstName": "J",
+                        "lastName": "Thompson"
+                    }
+                },
+                "meetingId": "1030",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "16",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "146",
+                        "postCode": "ASMAJ2148",
+                        "postName": "MA DRAMA",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "365",
+                        "postCode": "ASSPE2148",
+                        "postName": "SP DRAMA",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

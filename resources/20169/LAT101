@@ -1,0 +1,285 @@
+{
+    "LAT101H1-F-20169": {
+        "courseId": "1387",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Introductory Latin I (formerly LAT 100Y1)",
+        "code": "LAT101H1",
+        "courseDescription": "<p>An intensive introduction to Latin for students who have no knowledge of the language; preparation for the reading of Latin literature.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "LAT100Y1. Students who have studied Latin previously must obtain permission from the Undergraduate Coordinator before enrolling.",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41376": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "08:30",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "41376",
+                        "assignedRoom1": "TF 200",
+                        "assignedRoom2": null
+                    },
+                    "WE-41377": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "08:30",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "41377",
+                        "assignedRoom1": "TF 200",
+                        "assignedRoom2": null
+                    },
+                    "FR-41375": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "08:30",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "41375",
+                        "assignedRoom1": "TF 200",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160703": {
+                        "instructorId": "1160703",
+                        "firstName": "P",
+                        "lastName": "O'Hagan"
+                    }
+                },
+                "meetingId": "2747",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "MO-41382": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "41382",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": null
+                    },
+                    "TU-41384": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "41384",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": null
+                    },
+                    "WE-41385": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "41385",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": null
+                    },
+                    "TH-41383": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "41383",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160704": {
+                        "instructorId": "1160704",
+                        "firstName": "A",
+                        "lastName": "Cushing"
+                    }
+                },
+                "meetingId": "2746",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0301": {
+                "schedule": {
+                    "MO-41388": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41388",
+                        "assignedRoom1": "EM 108",
+                        "assignedRoom2": null
+                    },
+                    "WE-41389": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41389",
+                        "assignedRoom1": "EM 108",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160705": {
+                        "instructorId": "1160705",
+                        "firstName": "A",
+                        "lastName": "Barker"
+                    }
+                },
+                "meetingId": "2748",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0401": {
+                "schedule": {
+                    "TU-41393": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41393",
+                        "assignedRoom1": "NF 113",
+                        "assignedRoom2": null
+                    },
+                    "TH-41392": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41392",
+                        "assignedRoom1": "NF 113",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160706": {
+                        "instructorId": "1160706",
+                        "firstName": "C",
+                        "lastName": "Dawson"
+                    }
+                },
+                "meetingId": "2749",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0501": {
+                "schedule": {
+                    "TU-41397": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41397",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": null
+                    },
+                    "TH-41396": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41396",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160707": {
+                        "instructorId": "1160707",
+                        "firstName": "S",
+                        "lastName": "Bilynskyj Dunning"
+                    }
+                },
+                "meetingId": "2750",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-41400": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "41400",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": null
+                    },
+                    "WE-41401": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "41401",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160708": {
+                        "instructorId": "1160708",
+                        "firstName": "E",
+                        "lastName": "Ekman"
+                    }
+                },
+                "meetingId": "2751",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

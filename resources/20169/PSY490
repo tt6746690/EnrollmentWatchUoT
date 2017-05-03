@@ -1,0 +1,108 @@
+{
+    "PSY490H1-S-20169": {
+        "courseId": "2063",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Brain Activity & Behaviour Seminar",
+        "code": "PSY490H1",
+        "courseDescription": "<p>An in-depth examination of current issues in brain and behaviour science (e.g. activity of neurons,&nbsp;sensory, motor, motivational, and higher cortical systems.). Content in any given year depends on instructor.&nbsp; <span style=\"font-size: 7.5pt; font-family: 'Verdana',sans-serif; color: black;\">Course capacity is limited to&nbsp;20 students&nbsp;and enrolment priority is given to PSY Specialists and Research Specialists.<\/span><\/p>",
+        "prerequisite": "PSY202H1 (or exclusion), PSY290H1\/HMB200H1",
+        "corequisite": "",
+        "exclusion": "PSY490H5\/PSYD66H3",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For 'PE' indicator courses: Enroll via ACORN during the dates stated in the Enrolment Controls. Starting August 12, course enrolment and cancellations are processed by the Undergraduate Administrator (undergrad@psych.utoronto.ca) in Sid Smith, Room 4014, during regular academic advising office hours: Tuesday to Friday, 10:00 a.m. to 4:00 p.m.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-46994": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46994",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2123"
+                    }
+                },
+                "instructors": {
+                    "1161893": {
+                        "instructorId": "1161893",
+                        "firstName": "J",
+                        "lastName": "Kim"
+                    }
+                },
+                "meetingId": "4209",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Optogenetic Probing of Animal Behaviours",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": "Room Changed: September 19, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": "287",
+                        "postCode": "ASSPE1160",
+                        "postName": "SP PSYCHOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "353",
+                        "postCode": "ASSPE1958",
+                        "postName": "SP PSYCHOLOGY RESEARCH(THESIS)",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

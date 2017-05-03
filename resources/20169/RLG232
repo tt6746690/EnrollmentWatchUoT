@@ -1,0 +1,53 @@
+{
+    "RLG232H1-S-20169": {
+        "courseId": "2076",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Religion and Film",
+        "code": "RLG232H1",
+        "courseDescription": "<p>The role of film as a mediator of thought and experience concerning religious worldviews. The ways in which movies relate to humanitys quest to understand itself and its place in the universe are considered in this regard, along with the challenge which modernity presents to this task. Of central concern is the capacity of film to address religious issues through visual symbolic forms.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "RLG232H5",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-40056": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "40056",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WI 1016"
+                    }
+                },
+                "instructors": {
+                    "1161915": {
+                        "instructorId": "1161915",
+                        "firstName": "M",
+                        "lastName": "Dasios"
+                    }
+                },
+                "meetingId": "4227",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "140",
+                "actualEnrolment": "98",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

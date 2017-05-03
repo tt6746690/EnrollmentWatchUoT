@@ -1,0 +1,104 @@
+{
+    "SPA258H1-F-20169": {
+        "courseId": "2413",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "Introduction to Hispanic Literary Studies",
+        "code": "SPA258H1",
+        "courseDescription": "<p>Introduction to university literary studies in Spanish and information literacy. Representative selection of Spanish and Spanish American prose, poetry, and drama, with focus on critical terminology and methods of literary analysis. Required for a program degree.<\/p>",
+        "prerequisite": "First semester SPA220Y1",
+        "corequisite": "SPA220Y1\/SPA219Y1",
+        "exclusion": "",
+        "recommendedPreparation": "SPA220Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-45052": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "45052",
+                        "assignedRoom1": "NF 113",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162561": {
+                        "instructorId": "1162561",
+                        "firstName": "T",
+                        "lastName": "Downs"
+                    }
+                },
+                "meetingId": "14061",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SPA258H1-S-20169": {
+        "courseId": "2413",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "Introduction to Hispanic Literary Studies",
+        "code": "SPA258H1",
+        "courseDescription": "<p>Introduction to university literary studies in Spanish and information literacy. Representative selection of Spanish and Spanish American prose, poetry, and drama, with focus on critical terminology and methods of literary analysis. Required for a program degree.<\/p>",
+        "prerequisite": "First semester SPA220Y1",
+        "corequisite": "SPA220Y1\/SPA219Y1",
+        "exclusion": "",
+        "recommendedPreparation": "SPA220Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-45053": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45053",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 119"
+                    }
+                },
+                "instructors": {
+                    "1162562": {
+                        "instructorId": "1162562",
+                        "firstName": "I",
+                        "lastName": "Fernandez Pelaez"
+                    }
+                },
+                "meetingId": "14068",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

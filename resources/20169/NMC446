@@ -1,0 +1,53 @@
+{
+    "NMC446H1-F-20169": {
+        "courseId": "3827",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "The Babylonian City",
+        "code": "NMC446H1",
+        "courseDescription": "<p>The course uses written and archaeological evidence to examine the physical form of the Babylonian city in the first millennium BC as the setting for the daily activities of its inhabitants.<\/p>",
+        "prerequisite": "NMC102H1, NMC346H1\/NMC347H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-42666": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "42666",
+                        "assignedRoom1": "BF 214",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161168": {
+                        "instructorId": "1161168",
+                        "firstName": "H",
+                        "lastName": "Baker"
+                    }
+                },
+                "meetingId": "14377",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

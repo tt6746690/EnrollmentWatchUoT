@@ -1,0 +1,53 @@
+{
+    "VIC371H1-F-20169": {
+        "courseId": "2589",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Photojournalism",
+        "code": "VIC371H1",
+        "courseDescription": "<p>This seminar course looks at the history and evolution of photojournalism and documentary photography, their changing contexts and challenges in the digital era. We investigate photographs old and new. Students discuss major visual stories in the news. They also read writings about photography and photojournalism from some of its most important practitioners. No camera required. Students from all disciplines and areas of interest welcome.<\/p>",
+        "prerequisite": "Completion of 6.0 FCE",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-34299": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "34299",
+                        "assignedRoom1": "VC 304",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162829": {
+                        "instructorId": "1162829",
+                        "firstName": "R",
+                        "lastName": "Leistner"
+                    }
+                },
+                "meetingId": "5247",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

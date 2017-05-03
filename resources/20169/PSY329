@@ -1,0 +1,214 @@
+{
+    "PSY329H1-F-20169": {
+        "courseId": "2019",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Social Psychology Laboratory",
+        "code": "PSY329H1",
+        "courseDescription": "<p>Illustrates major methodologies within social psychology, such as attitude measurement, observation of small groups, and experiments.&nbsp;&nbsp;Course capacity is limited to 15 students&nbsp;and priority is given to PSY Specialists and Research Specialists during the first enrolment period. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "PSY202H1 (or exclusion), PSY220H1",
+        "corequisite": "",
+        "exclusion": "PSY329H5",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'PE' indicator courses: Enroll via ACORN during the dates stated in the Enrolment Controls. Starting August 12, course enrolment and cancellations are processed by the Undergraduate Administrator (undergrad@psych.utoronto.ca) in Sid Smith, Room 4014, during regular academic advising office hours: Tuesday to Friday, 10:00 a.m. to 4:00 p.m.\r\n",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-13869": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "13869",
+                        "assignedRoom1": "SS 581",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161833": {
+                        "instructorId": "1161833",
+                        "firstName": "A",
+                        "lastName": "Waggoner Denton"
+                    }
+                },
+                "meetingId": "4127",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "287",
+                        "postCode": "ASSPE1160",
+                        "postName": "SP PSYCHOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "353",
+                        "postCode": "ASSPE1958",
+                        "postName": "SP PSYCHOLOGY RESEARCH(THESIS)",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "PSY329H1-S-20169": {
+        "courseId": "2019",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Social Psychology Laboratory",
+        "code": "PSY329H1",
+        "courseDescription": "<p>Illustrates major methodologies within social psychology, such as attitude measurement, observation of small groups, and experiments.&nbsp;&nbsp;Course capacity is limited to 15 students&nbsp;and priority is given to PSY Specialists and Research Specialists during the first enrolment period. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "PSY202H1 (or exclusion), PSY220H1",
+        "corequisite": "",
+        "exclusion": "PSY329H5",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For 'PE' indicator courses: Enroll via ACORN during the dates stated in the Enrolment Controls. Starting August 12, course enrolment and cancellations are processed by the Undergraduate Administrator (undergrad@psych.utoronto.ca) in Sid Smith, Room 4014, during regular academic advising office hours: Tuesday to Friday, 10:00 a.m. to 4:00 p.m.",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-13871": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "13871",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 581"
+                    }
+                },
+                "instructors": {
+                    "1161834": {
+                        "instructorId": "1161834",
+                        "firstName": "A",
+                        "lastName": "Waggoner Denton"
+                    }
+                },
+                "meetingId": "4128",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "287",
+                        "postCode": "ASSPE1160",
+                        "postName": "SP PSYCHOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "353",
+                        "postCode": "ASSPE1958",
+                        "postName": "SP PSYCHOLOGY RESEARCH(THESIS)",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

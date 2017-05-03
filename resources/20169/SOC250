@@ -1,0 +1,53 @@
+{
+    "SOC250Y1-Y-20169": {
+        "courseId": "2371",
+        "org": "SOC",
+        "orgName": "Sociology (SOC)",
+        "courseTitle": "Sociology of Religion",
+        "code": "SOC250Y1",
+        "courseDescription": "<p>This course will examine religious beliefs, practices, and experiences from a historical-sociological and comparative perspective. Classical and contemporary theories will be reviewed and applied to investigate such topics as: the social origins of religions; the formation of religious communities; heresies, schisms and the making of orthodoxies; secularization and fundamentalism; cults and new religious movements; religious regulation of the body and person; and the variable linkages of religion to politics, war, art and science.<\/p>",
+        "prerequisite": "SOC101Y1 or SOC102H1 or SOC103H1",
+        "corequisite": "",
+        "exclusion": "RLG210Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-46646": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "46646",
+                        "assignedRoom1": "KP 108",
+                        "assignedRoom2": "ES B149"
+                    }
+                },
+                "instructors": {
+                    "1162485": {
+                        "instructorId": "1162485",
+                        "firstName": "J",
+                        "lastName": "Bryant"
+                    }
+                },
+                "meetingId": "4863",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "90",
+                "actualEnrolment": "70",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "**Time and Room Changed: Sept 9, 2016**",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

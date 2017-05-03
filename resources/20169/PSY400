@@ -1,0 +1,81 @@
+{
+    "PSY400Y1-Y-20169": {
+        "courseId": "2036",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Research Specialization: Thesis",
+        "code": "PSY400Y1",
+        "courseDescription": "<p>An individual&nbsp;thesis&nbsp;done under the direction of a&nbsp;faculty member. Lecture and seminar presentations of proposals in the Fall session.&nbsp; Enrolment is restricted to PSY Research Specialists.&nbsp; Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Enrolment in the PSY Research Specialist program, PSY309H1, and PSY3*9H1 (PSY lab course)",
+        "corequisite": "",
+        "exclusion": "PSY400Y5\/PSYC98Y3",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-46993": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46993",
+                        "assignedRoom1": "SS 581",
+                        "assignedRoom2": "SS 2123"
+                    }
+                },
+                "instructors": {
+                    "1161860": {
+                        "instructorId": "1161860",
+                        "firstName": "A",
+                        "lastName": "Chasteen"
+                    }
+                },
+                "meetingId": "4161",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Room Changed: Sept 8, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": "353",
+                        "postCode": "ASSPE1958",
+                        "postName": "SP PSYCHOLOGY RESEARCH(THESIS)",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

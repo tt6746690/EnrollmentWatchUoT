@@ -1,0 +1,255 @@
+{
+    "FSL102H1-F-20169": {
+        "courseId": "930",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Introductory French",
+        "code": "FSL102H1",
+        "courseDescription": "<p>An intensive basic course in spoken and written French for students who have studied some French, but who have not yet attained the entry level for FSL121Y1.<\/p>",
+        "prerequisite": "FSL100H1 or, upon first FRE\/FSL enrolment, equivalent as determined by the French Placement Test.",
+        "corequisite": "",
+        "exclusion": "FSL121Y1 and higher.",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "The Department reserves the right to place students in the language course appropriate to their level of linguistic competence, based on the results of a placement test. For more information on taking the placement test and guidelines on how to enroll into our courses, please visit: <a href=\"http:\/\/www.french.utoronto.ca\/undergraduate\/enrolment_guidelines \">www.french.utoronto.ca\/undergraduate\/enrolment_guidelines <\/a><u>",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-45813": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "45813",
+                        "assignedRoom1": "VC 323",
+                        "assignedRoom2": null
+                    },
+                    "WE-45814": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "45814",
+                        "assignedRoom1": "VC 323",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160000": {
+                        "instructorId": "1160000",
+                        "firstName": "N",
+                        "lastName": "Hauck"
+                    }
+                },
+                "meetingId": "1886",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "FSL102H1-S-20169": {
+        "courseId": "930",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Introductory French",
+        "code": "FSL102H1",
+        "courseDescription": "<p>An intensive basic course in spoken and written French for students who have studied some French, but who have not yet attained the entry level for FSL121Y1.<\/p>",
+        "prerequisite": "FSL100H1 or, upon first FRE\/FSL enrolment, equivalent as determined by the French Placement Test.",
+        "corequisite": "",
+        "exclusion": "FSL121Y1 and higher.",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "The Department reserves the right to place students in the language course appropriate to their level of linguistic competence, based on the results of a placement test. For more information on taking the placement test and guidelines on how to enroll into our courses, please visit: <a href=\"http:\/\/www.french.utoronto.ca\/undergraduate\/enrolment_guidelines \">www.french.utoronto.ca\/undergraduate\/enrolment_guidelines <\/a><u>",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-42355": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42355",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 212"
+                    },
+                    "TH-42356": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42356",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 212"
+                    }
+                },
+                "instructors": {
+                    "1160001": {
+                        "instructorId": "1160001",
+                        "firstName": "C",
+                        "lastName": "Gaffney"
+                    }
+                },
+                "meetingId": "1887",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "52",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-33904": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "33904",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 107"
+                    },
+                    "WE-33905": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "33905",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 107"
+                    }
+                },
+                "instructors": {
+                    "1160002": {
+                        "instructorId": "1160002",
+                        "firstName": "M",
+                        "lastName": "Dvirnik"
+                    }
+                },
+                "meetingId": "1888",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "39",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5201": {
+                "schedule": {
+                    "TU-47224": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "47224",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 101"
+                    },
+                    "TH-47225": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "47225",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 101"
+                    }
+                },
+                "instructors": {
+                    "1160003": {
+                        "instructorId": "1160003",
+                        "firstName": "J",
+                        "lastName": "Copley"
+                    }
+                },
+                "meetingId": "1889",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "53",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Oct 21, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

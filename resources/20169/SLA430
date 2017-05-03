@@ -1,0 +1,53 @@
+{
+    "SLA430H1-S-20169": {
+        "courseId": "2273",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Advanced Russian Writing Skills",
+        "code": "SLA430H1",
+        "courseDescription": "<p>The course will support students in gaining proficiency in presentational mode and in improvement of language competence for communication in academic contexts. Students will elevate their skills to the advanced level. Emphasis is on grammatical structures, syntax, lexicon, content organization, construction of complex presentation and expression of scholarly ideas and critical thought with accuracy and consistency in use of the Russian language. Offered online only.<\/p>",
+        "prerequisite": "SLA320Y1 or SLA210H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Advanced reading, writing, listening ability in Russian.",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-42748": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "42748",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 103"
+                    }
+                },
+                "instructors": {
+                    "1162370": {
+                        "instructorId": "1162370",
+                        "firstName": "J",
+                        "lastName": "Mikhailova"
+                    }
+                },
+                "meetingId": "4683",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

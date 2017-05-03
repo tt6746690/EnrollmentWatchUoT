@@ -1,0 +1,53 @@
+{
+    "ANT299Y1-Y-20169": {
+        "courseId": "2674",
+        "org": "ANT",
+        "orgName": "Anthropology (ANT) (ARH) (JAH) (JAL) (HAJ)",
+        "courseTitle": "Research Opportunity Program",
+        "code": "ANT299Y1",
+        "courseDescription": "<p>Credit course for supervised participation in faculty research project. Details at <a target=\"_blank\" href=\"http:\/\/www.artsci.utoronto.ca\/current\/course\/rop\">http:\/\/www.artsci.utoronto.ca\/current\/course\/rop<\/a>. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For more information on how to enrol, please visit: http:\/\/www.artsci.utoronto.ca\/current\/focus\/research#ROP\r\n",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158470": {
+                        "instructorId": "1158470",
+                        "firstName": "B",
+                        "lastName": "McElhinny"
+                    }
+                },
+                "meetingId": "14414",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

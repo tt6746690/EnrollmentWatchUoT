@@ -1,0 +1,53 @@
+{
+    "LAT429H1-S-20169": {
+        "courseId": "1396",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Independent Studies",
+        "code": "LAT429H1",
+        "courseDescription": "<p>Independent Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Usually 1 FCE from LAT 300-series",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Applicants should first contact a potential supervisor for the proposed project. Once they have the supervisor's agreement, they should bring it to the Undergraduate Coordinator, Room 110, 125 Queen's Park or email undergrad.classics@utoronto.ca",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160720": {
+                        "instructorId": "1160720",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "2763",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

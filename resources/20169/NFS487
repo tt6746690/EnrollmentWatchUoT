@@ -1,0 +1,108 @@
+{
+    "NFS487H1-F-20169": {
+        "courseId": "1619",
+        "org": "NUSCI",
+        "orgName": "Nutritional Sciences (NFS)",
+        "courseTitle": "Nutrigenomics and Personalized Nutrition",
+        "code": "NFS487H1",
+        "courseDescription": "<p>The impact of the human genome on nutrition research. Experimental approaches to investigating gene-diet interactions. Understanding how genetic variability affects nutrient response, and how dietary factors regulate gene expression. Application of the various &lsquo;omics&rsquo; technologies to nutrition research as well as exploring the social, legal and ethical issues associated with direct-to-consumer marketing of genetic tests for personalized nutrition.<\/p>",
+        "prerequisite": "NFS284H1, CSB349H1\/PSL350H1\/BCH311H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-42685": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42685",
+                        "assignedRoom1": "MS 2172",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161134": {
+                        "instructorId": "1161134",
+                        "firstName": "A",
+                        "lastName": "El-Sohemy"
+                    }
+                },
+                "meetingId": "3348",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "75",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "82",
+                        "postCode": "ASMAJ1068",
+                        "postName": "MA NUTRITIONAL SCIENCES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "279",
+                        "postCode": "ASSPE1068",
+                        "postName": "SP NUTRITIONAL SCIENCES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

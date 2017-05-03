@@ -1,0 +1,61 @@
+{
+    "CHM415H1-S-20169": {
+        "courseId": "232",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Topics in Atmospheric Chemistry",
+        "code": "CHM415H1",
+        "courseDescription": "<p>This course builds upon the introductory understanding of atmospheric chemistry provided in CHM210H. In particular, modern research topics in the field are discussed, such as aerosol chemistry and formation mechanisms, tropospheric organic chemistry, the chemistry of climate including cloud formation and geoengineering, biosphere-atmosphere interactions, the chemistry of remote environments. Reading is from the scientific literature; class discussion is emphasized.<\/p>",
+        "prerequisite": "(CHM220H1\/CHM222H1\/CHM225Y1),CHM210H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "(PHY131H1, PHY132H1)\/(PHY151H1, PHY152H1)",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47575": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "47575",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    },
+                    "TH-47574": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "47574",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": {
+                    "1158922": {
+                        "instructorId": "1158922",
+                        "firstName": "J",
+                        "lastName": "Murphy"
+                    }
+                },
+                "meetingId": "566",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: January 5, 2017",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

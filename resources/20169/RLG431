@@ -1,0 +1,53 @@
+{
+    "RLG431H1-F-20169": {
+        "courseId": "4183",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Advanced Topics in Judaism",
+        "code": "RLG431H1",
+        "courseDescription": "<p>Advanced Topics in Judaism<\/p>",
+        "prerequisite": "Permission of the instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-47138": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47138",
+                        "assignedRoom1": "JH 317",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161964": {
+                        "instructorId": "1161964",
+                        "firstName": "D",
+                        "lastName": "Novak"
+                    }
+                },
+                "meetingId": "7034",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Natural Law in Judaism and Christianity",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Sept 30, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

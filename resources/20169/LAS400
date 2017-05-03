@@ -1,0 +1,53 @@
+{
+    "LAS400H1-S-20169": {
+        "courseId": "3671",
+        "org": "LAS",
+        "orgName": "Latin American Studies (LAS)",
+        "courseTitle": "Topics in Latin American Studies",
+        "code": "LAS400H1",
+        "courseDescription": "<p>An upper level seminar. Topics of the course vary from year to year, depending on the needs of the program and the interests of students. Offered in alternate years.<\/p>",
+        "prerequisite": "LAS200Y1\/(LAS200H1, 201H1) & LAS300H1\/301H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-46495": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46495",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "OI 4420"
+                    }
+                },
+                "instructors": {
+                    "1160700": {
+                        "instructorId": "1160700",
+                        "firstName": "D",
+                        "lastName": "Kingsbury"
+                    }
+                },
+                "meetingId": "6188",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Sept 6, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

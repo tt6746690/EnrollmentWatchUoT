@@ -1,0 +1,61 @@
+{
+    "GRK342H1-S-20169": {
+        "courseId": "3352",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Greek Orators I",
+        "code": "GRK342H1",
+        "courseDescription": "<p>Readings from from one or more oratorical texts.<\/p>",
+        "prerequisite": "GRK202H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-23081": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "23081",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LI 205"
+                    },
+                    "TH-23082": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "23082",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LI 205"
+                    }
+                },
+                "instructors": {
+                    "1160206": {
+                        "instructorId": "1160206",
+                        "firstName": "T",
+                        "lastName": "Lytle"
+                    }
+                },
+                "meetingId": "14097",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

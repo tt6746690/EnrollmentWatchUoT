@@ -1,0 +1,53 @@
+{
+    "RLG233H1-F-20169": {
+        "courseId": "2077",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Religion and Popular Culture",
+        "code": "RLG233H1",
+        "courseDescription": "<p>A course on the interactions, both positive and negative, between religion and popular culture. We look at different media (television, advertising, print) as they represent and engage with different religious traditions, identities, and controversies.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "WE-46458": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46458",
+                        "assignedRoom1": "Online",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161916": {
+                        "instructorId": "1161916",
+                        "firstName": "J",
+                        "lastName": "Harris"
+                    }
+                },
+                "meetingId": "4228",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "140",
+                "actualEnrolment": "83",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

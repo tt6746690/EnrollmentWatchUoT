@@ -1,0 +1,58 @@
+{
+    "MGY277H1-S-20169": {
+        "courseId": "1505",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Introduction to Medical Microbiology",
+        "code": "MGY277H1",
+        "courseDescription": "<p>An online introductory survey course that explores the agents of infectious disease including bacteria, viruses, and parasites as well as the host immune response. Other topics include the fundamentals of disease diagnosis and epidemiology.&nbsp; This course will use web-based delivery of lectures and tutorials and utilize a range of communication tools equivalent to approximately three lectures per week. The final exam will require student attendance on the St. George campus.<\/p>",
+        "prerequisite": "BIO120H1, BIO130H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160962": {
+                        "instructorId": "1160962",
+                        "firstName": "J",
+                        "lastName": "Hill"
+                    },
+                    "1160963": {
+                        "instructorId": "1160963",
+                        "firstName": "W",
+                        "lastName": "Navarre"
+                    }
+                },
+                "meetingId": "3205",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "813",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

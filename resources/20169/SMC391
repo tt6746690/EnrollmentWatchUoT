@@ -1,0 +1,104 @@
+{
+    "SMC391H1-F-20169": {
+        "courseId": "2332",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Independent Studies in Christianity and Culture",
+        "code": "SMC391H1",
+        "courseDescription": "<p>Independent Studies in Christianity and Culture. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Written approval of Program Director",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For \"E\" indicator courses, please contact Monica Phonsavatdy at m.phonsavatdy@utoronto.ca or 416-926-7256 (50 St. Joseph Street, Odette Hall, Room 125, St. Michael's College).",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162430": {
+                        "instructorId": "1162430",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "4765",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "SMC391H1-S-20169": {
+        "courseId": "2332",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Independent Studies in Christianity and Culture",
+        "code": "SMC391H1",
+        "courseDescription": "<p>Independent Studies in Christianity and Culture. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Written approval of Program Director",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For \"E\" indicator courses, please contact Monica Phonsavatdy at m.phonsavatdy@utoronto.ca or 416-926-7256 (50 St. Joseph Street, Odette Hall, Room 125, St. Michael's College).",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162431": {
+                        "instructorId": "1162431",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "4766",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

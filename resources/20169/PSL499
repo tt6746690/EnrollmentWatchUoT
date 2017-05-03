@@ -1,0 +1,104 @@
+{
+    "PSL499H1-F-20169": {
+        "courseId": "1995",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Project in Physiology",
+        "code": "PSL499H1",
+        "courseDescription": "<p>Laboratory research project with reading assignments leading to a final report. By special arrangement with a Physiology staff member after admission to course. PSL499H1 is recommended for students applying to the Physiology graduate program.&nbsp; Enrollment in this course is restricted to students in the Physiology Specialist and Major Programs, although permission is granted to students in other programs upon approval by the Department. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "(PSL304H1, PSL305H1)\/PSL303Y1, PSL372H1, PSL374H1, permission of Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Enrolment is done at the Department (not on ROSI\/ACORN). Please contact the course director, Dr. Anthony Gramolini, at anthony.gramolini@utoronto.ca for more information and visit the course website: http:\/\/www.physiology.utoronto.ca\/psl498y-project-physiology",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161767": {
+                        "instructorId": "1161767",
+                        "firstName": "A",
+                        "lastName": "Gramolini"
+                    }
+                },
+                "meetingId": "4057",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PSL499H1-S-20169": {
+        "courseId": "1995",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Project in Physiology",
+        "code": "PSL499H1",
+        "courseDescription": "<p>Laboratory research project with reading assignments leading to a final report. By special arrangement with a Physiology staff member after admission to course. PSL499H1 is recommended for students applying to the Physiology graduate program.&nbsp; Enrollment in this course is restricted to students in the Physiology Specialist and Major Programs, although permission is granted to students in other programs upon approval by the Department. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "(PSL304H1, PSL305H1)\/PSL303Y1, PSL372H1, PSL374H1, permission of Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Enrolment is done at the Department (not on ROSI\/ACORN). Please contact the course director, Dr. Anthony Gramolini, at anthony.gramolini@utoronto.ca for more information and visit the course website: http:\/\/www.physiology.utoronto.ca\/psl498y-project-physiology",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161768": {
+                        "instructorId": "1161768",
+                        "firstName": "A",
+                        "lastName": "Gramolini"
+                    }
+                },
+                "meetingId": "4058",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

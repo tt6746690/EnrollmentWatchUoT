@@ -1,0 +1,53 @@
+{
+    "SMC451Y1-Y-20169": {
+        "courseId": "2346",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Senior Essay in Celtic Studies",
+        "code": "SMC451Y1",
+        "courseDescription": "<p>A scholarly project chosen by the student in consultation with an instructor and approved by the Program Co-ordinator. Arrangements for the choice of topic must be completed by the student before registration.<\/p>",
+        "prerequisite": "Permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For \"E\" indicator courses, please contact Monica Phonsavatdy at m.phonsavatdy@utoronto.ca or 416-926-7256 (50 St. Joseph Street, Odette Hall, Room 125, St. Michael's College).",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162446": {
+                        "instructorId": "1162446",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "4784",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

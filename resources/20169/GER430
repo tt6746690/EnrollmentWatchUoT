@@ -1,0 +1,53 @@
+{
+    "GER430H1-S-20169": {
+        "courseId": "3309",
+        "org": "GER",
+        "orgName": "German (GER) (JGJ)",
+        "courseTitle": "Topics in German Literature and Culture",
+        "code": "GER430H1",
+        "courseDescription": "<p>An open course which explores specific aspects of German literature and culture.<\/p>",
+        "prerequisite": "GER305H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For more information, please contact gayle.grisdale@utoronto.ca.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-45976": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "45976",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 105"
+                    }
+                },
+                "instructors": {
+                    "1160112": {
+                        "instructorId": "1160112",
+                        "firstName": "W",
+                        "lastName": "Goetschel"
+                    }
+                },
+                "meetingId": "6537",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Critical Theory in Context: The French-German Connection",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "CHM446H1-S-20169": {
+        "courseId": "244",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Organic Materials Chemistry",
+        "code": "CHM446H1",
+        "courseDescription": "<p>This course covers design, synthesis, characterization and application of organic materials. Emphasis is placed on classic examples of organic materials including semiconducting polymers, molecular devices, self-assembled systems, and bioconjugates, as well as recent advances from the literature.<\/p>",
+        "prerequisite": "CHM247H1\/CHM249H1, CHM220H1\/CHM222H1\/CHM225Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "CHM325H1, CHM342H1\/CHM343H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-41271": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "41271",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 158"
+                    }
+                },
+                "instructors": {
+                    "1158939": {
+                        "instructorId": "1158939",
+                        "firstName": "A",
+                        "lastName": "Tilley"
+                    }
+                },
+                "meetingId": "578",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "TH-27411": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "27411",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 158"
+                    }
+                },
+                "instructors": {
+                    "1158940": {
+                        "instructorId": "1158940",
+                        "firstName": "A",
+                        "lastName": "Tilley"
+                    }
+                },
+                "meetingId": "6069",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "8",
+                        "postCode": "AEESCBASCO",
+                        "postName": "BASc-Engineering Sci(Nano Eng)",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

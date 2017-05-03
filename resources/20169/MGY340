@@ -1,0 +1,79 @@
+{
+    "MGY340H1-F-20169": {
+        "courseId": "4667",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Molecular Genetics",
+        "code": "MGY340H1",
+        "courseDescription": "<p>This course gives students an in-depth understanding of how genetics, the study of mutations and their resulting phenotypes, are used to probe and understand a variety of biological phenomena ranging from metabolism, to development, to cancer.<\/p>",
+        "prerequisite": "BIO120H1, BIO130H1, BIO220H1, BIO230H1, BIO260H1\/HMB265H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46862": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46862",
+                        "assignedRoom1": "MS 2170",
+                        "assignedRoom2": null
+                    },
+                    "WE-46863": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46863",
+                        "assignedRoom1": "MS 2173",
+                        "assignedRoom2": null
+                    },
+                    "FR-46864": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46864",
+                        "assignedRoom1": "MS 2170",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160980": {
+                        "instructorId": "1160980",
+                        "firstName": "B",
+                        "lastName": "Lavoie"
+                    },
+                    "1160981": {
+                        "instructorId": "1160981",
+                        "firstName": "H",
+                        "lastName": "McNeill"
+                    },
+                    "1160982": {
+                        "instructorId": "1160982",
+                        "firstName": "A",
+                        "lastName": "Spence"
+                    }
+                },
+                "meetingId": "14148",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "84",
+                "actualEnrolment": "49",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "NML356H1-S-20169": {
+        "courseId": "1679",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Advanced Modern Hebrew II",
+        "code": "NML356H1",
+        "courseDescription": "<p>See MHB356H1 in <a target=_blank\" href=\"http:\/\/www.artsandscience.utoronto.ca\/ofr\/calendar\/crs_rlg.htm#MHB356H1\">Religion<\/a>.<\/p>\"",
+        "prerequisite": "NMLNML355H1\/MHB355H1",
+        "corequisite": "",
+        "exclusion": "OAC Hebrew, MHB356H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39576": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "39576",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "JH 214"
+                    },
+                    "TH-39577": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "39577",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "JH 214"
+                    }
+                },
+                "instructors": {
+                    "1161208": {
+                        "instructorId": "1161208",
+                        "firstName": "Y",
+                        "lastName": "Nizri"
+                    }
+                },
+                "meetingId": "3430",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "6",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

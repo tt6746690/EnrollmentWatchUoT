@@ -1,0 +1,53 @@
+{
+    "FOR200H1-F-20169": {
+        "courseId": "881",
+        "org": "FOR",
+        "orgName": "Forestry (FOR) (JFG)",
+        "courseTitle": "Conservation of Canada's Forests",
+        "code": "FOR200H1",
+        "courseDescription": "<p>Forest conservation issues in Canada; development of forest management philosophy in Canadian and temperate forest regions; and concepts of sustainability. Techniques for more sustainable forest management: structural retention; forest certification; old growth; value-added and non-traditional forest products.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "BIO120H1, GGR100H1, GGR101H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-47119": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "47119",
+                        "assignedRoom1": "HS 610",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159934": {
+                        "instructorId": "1159934",
+                        "firstName": "F",
+                        "lastName": "Moola"
+                    }
+                },
+                "meetingId": "1818",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "250",
+                "actualEnrolment": "168",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

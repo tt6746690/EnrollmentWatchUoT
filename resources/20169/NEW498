@@ -1,0 +1,53 @@
+{
+    "NEW498H1-F-20169": {
+        "courseId": "3776",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Independent Community Engaged Research",
+        "code": "NEW498H1",
+        "courseDescription": "<p>An integrative-learning opportunity for students to develop research skills in relation to their area of study in collaboration with, and addressing needs of, community partners in the social mission sector.&nbsp; Along with individual placements, students review interdisciplinary research methodology and engage in peer- and reflective-learning in a seminar.&nbsp; Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Completion of a minimum of 9.0 FCE and successful completion of the application process.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NEW120Y1\/NEW150Y1\/NEW220H1\/NEW221H1\/NEW224Y1\/NEW232Y1\/NEW240Y1\/NEW241Y1\/NEW270H1\/HIS230H1\/HIS231H1\/other NEW courses",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Enrolment is via application. Please see the Community Engaged Learning website for more information:  http:\/\/www.newcollege.utoronto.ca\/academics\/new-college-academic-programs\/community-engaged-learning\/",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-31792": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "31792",
+                        "assignedRoom1": "WI 2006",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161120": {
+                        "instructorId": "1161120",
+                        "firstName": "S",
+                        "lastName": "Hermant"
+                    }
+                },
+                "meetingId": "7054",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

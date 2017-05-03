@@ -1,0 +1,53 @@
+{
+    "ESS492Y1-Y-20169": {
+        "courseId": "805",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Undergraduate Thesis Project",
+        "code": "ESS492Y1",
+        "courseDescription": "<p>Research emphasising methods&nbsp;used in field and&nbsp;experimental work. Students must obtain the consent of an instructor and register with the undergraduate coordinator and are urged to do so toward the end of their third year. In addition to submitting a thesis, students are required to give an oral presentation of their research results to an open meeting of the department. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Completion of the required 300-level courses in an appropriate program and permission of the department.",
+        "corequisite": "",
+        "exclusion": "GLG470Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Scott Moore, the Undergraduate Administrator, at s.moore@utoronto.ca.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-42793": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "42793",
+                        "assignedRoom1": "ZZ DEPT",
+                        "assignedRoom2": "ZZ DEPT"
+                    }
+                },
+                "instructors": {
+                    "1159876": {
+                        "instructorId": "1159876",
+                        "firstName": "G",
+                        "lastName": "Henderson"
+                    }
+                },
+                "meetingId": "1726",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

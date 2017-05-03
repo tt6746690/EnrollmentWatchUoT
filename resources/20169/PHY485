@@ -1,0 +1,129 @@
+{
+    "PHY485H1-F-20169": {
+        "courseId": "1863",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Laser Physics",
+        "code": "PHY485H1",
+        "courseDescription": "<p>This course, which is intended to be an introduction to research in optical sciences, covers the statistics of optical fields and the physics of lasers. Topics include the principles of laser action, laser cavities, properties of laser radiation and its propagation, the diffraction of light, and spatial and temporal coherence.<\/p>",
+        "prerequisite": "PHY350H1, PHY356H1, PHY385H1\/ECE318",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46124": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "46124",
+                        "assignedRoom1": "MP 1115",
+                        "assignedRoom2": null
+                    },
+                    "TH-46123": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "46123",
+                        "assignedRoom1": "MP 1115",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161514": {
+                        "instructorId": "1161514",
+                        "firstName": "D",
+                        "lastName": "James"
+                    }
+                },
+                "meetingId": "3873",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "79",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-46125": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "46125",
+                        "assignedRoom1": "MP 1115",
+                        "assignedRoom2": null
+                    },
+                    "TH-46126": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "46126",
+                        "assignedRoom1": "MP 1115",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161515": {
+                        "instructorId": "1161515",
+                        "firstName": "D",
+                        "lastName": "James"
+                    }
+                },
+                "meetingId": "14871",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

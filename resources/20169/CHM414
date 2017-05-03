@@ -1,0 +1,61 @@
+{
+    "CHM414H1-F-20169": {
+        "courseId": "231",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Biosensors and Chemical Sensors",
+        "code": "CHM414H1",
+        "courseDescription": "<p>The development, design, and operation of biosensors and chemical sensors, including: biosensor technology, transducer theory and operation, device design and fabrication, surface modification and methods of surface analysis, flow injection analysis and chemometrics.<\/p>",
+        "prerequisite": "CHM217H1\/CHM220H1\/CHM222H1\/CHM225Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "CHM317H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41229": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41229",
+                        "assignedRoom1": "LM 155",
+                        "assignedRoom2": null
+                    },
+                    "WE-41230": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41230",
+                        "assignedRoom1": "LM 155",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158921": {
+                        "instructorId": "1158921",
+                        "firstName": "M",
+                        "lastName": "Thompson"
+                    }
+                },
+                "meetingId": "565",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

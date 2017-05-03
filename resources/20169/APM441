@@ -1,0 +1,61 @@
+{
+    "APM441H1-F-20169": {
+        "courseId": "111",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Asymptotic and Perturbation Methods",
+        "code": "APM441H1",
+        "courseDescription": "<p>Asymptotic series. Asymptotic methods for integrals: stationary phase and steepest descent. Regular perturbations for algebraic and differential equations. Singular perturbation methods for ordinary differential equations: W.K.B., strained co-ordinates, matched asymptotics, multiple scales. (Emphasizes techniques; problems drawn from physics and engineering)<\/p>",
+        "prerequisite": "APM346H1\/MAT351Y1, MAT334H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46086": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46086",
+                        "assignedRoom1": "HU 1018",
+                        "assignedRoom2": null
+                    },
+                    "TH-46087": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46087",
+                        "assignedRoom1": "HU 1018",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158538": {
+                        "instructorId": "1158538",
+                        "firstName": "C",
+                        "lastName": "Sulem"
+                    }
+                },
+                "meetingId": "14449",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

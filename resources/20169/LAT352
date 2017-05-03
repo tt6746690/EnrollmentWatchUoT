@@ -1,0 +1,61 @@
+{
+    "LAT352H1-S-20169": {
+        "courseId": "3676",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Latin Satire I",
+        "code": "LAT352H1",
+        "courseDescription": "<p>Readings from one or more Latin satirists.<\/p>",
+        "prerequisite": "LAT202H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-23274": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "23274",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LI 205"
+                    },
+                    "WE-23275": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "23275",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LI 205"
+                    }
+                },
+                "instructors": {
+                    "1160718": {
+                        "instructorId": "1160718",
+                        "firstName": "J",
+                        "lastName": "Welsh"
+                    }
+                },
+                "meetingId": "14122",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

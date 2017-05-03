@@ -1,0 +1,33 @@
+{
+    "FAH350H1-F-20169": {
+        "courseId": "3152",
+        "org": "FAR",
+        "orgName": "Art (FAH)",
+        "courseTitle": "Minimalism (formerly FAH389H1)",
+        "code": "FAH350H1",
+        "courseDescription": "<p>An investigation of the different definitions and issues of minimal art including seriality, materials, process, objecthood, chance, installation, reception, relations to music and film, and the influence of structuralism.<\/p>",
+        "prerequisite": "FAH102H1\/FAH245H1\/FAH246H1\/288H1\/289H1",
+        "corequisite": "",
+        "exclusion": "FAH389H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "12210",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 11, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

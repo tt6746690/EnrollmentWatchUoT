@@ -1,0 +1,58 @@
+{
+    "NEW495Y1-Y-20169": {
+        "courseId": "1608",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Independent Community Engaged Learning",
+        "code": "NEW495Y1",
+        "courseDescription": "<p>Students apply in the late summer for available placements with New College partner organizations.&nbsp; Students' learning is facilitated by academic and placement supervision, regular reflective writing, and collective reflection in a seminar that meets about 10 times over the year.&nbsp; A symposium in early April showcases students' learning. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NEW120Y1\/NEW150Y1\/NEW220H1\/NEW221H1\/NEW224Y1\/NEW232Y1\/NEW240Y1\/NEW241Y1\/NEW270H1\/HIS230H1\/HIS231H1\/other NEW courses",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Enrolment is via application. Please see the Community Engaged Learning website for more information:  http:\/\/www.newcollege.utoronto.ca\/academics\/new-college-academic-programs\/community-engaged-learning\/",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-42868": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "42868",
+                        "assignedRoom1": "WI 2008",
+                        "assignedRoom2": "WI 2008"
+                    }
+                },
+                "instructors": {
+                    "1161118": {
+                        "instructorId": "1161118",
+                        "firstName": "L",
+                        "lastName": "Manicom"
+                    },
+                    "1161119": {
+                        "instructorId": "1161119",
+                        "firstName": "S",
+                        "lastName": "Stewart"
+                    }
+                },
+                "meetingId": "3335",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "EEB433H1-S-20169": {
+        "courseId": "3042",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Global Issues in Aquatic Ecosystems",
+        "code": "EEB433H1",
+        "courseDescription": "<p>Advanced study of ecological principles and applied issues in freshwater and marine systems. Lectures and student-led discussions will cover physical, chemical, and biological interactions, from microbes to marine mammals. Topics may include carbon and nutrient cycling, food webs & trophic downgrading, ocean acidification, hydrothermal vents & connectivity in the oceans, lake management.<\/p>",
+        "prerequisite": "BIO220H1, ENV234H1 and one of EEB319H1\/EEB321H1\/EEB328H1\/ENV334H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-14821": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "14821",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2120"
+                    },
+                    "TH-14822": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "14822",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2120"
+                    }
+                },
+                "instructors": {
+                    "1159631": {
+                        "instructorId": "1159631",
+                        "firstName": "H",
+                        "lastName": "Cyr"
+                    }
+                },
+                "meetingId": "6770",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

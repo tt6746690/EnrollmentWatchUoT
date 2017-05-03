@@ -1,0 +1,108 @@
+{
+    "EEB455H1-S-20169": {
+        "courseId": "645",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Genes, Environment and Behaviour",
+        "code": "EEB455H1",
+        "courseDescription": "<p>An examination of the Gene-Environment Interplay perspective as sources of individual differences in behaviour, from both mechanistic and evolutionary viewpoints. Both historical and recent studies are used to illustrate important concepts in the field. Student-led discussions address the evidence base for these concepts.<\/p>",
+        "prerequisite": "BIO220H1, HMB265H1\/BIO260H1, and at least 12.0 FCEs (including 1.0 FCE 300+ level series EEB course)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "EEB322H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-43542": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "43542",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 3087"
+                    }
+                },
+                "instructors": {
+                    "1159633": {
+                        "instructorId": "1159633",
+                        "firstName": "M",
+                        "lastName": "Sokolowski"
+                    }
+                },
+                "meetingId": "1364",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "75",
+                        "postCode": "ASMAJ1006",
+                        "postName": "MA ECOLOGY & EVOLUTIONARY BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "270",
+                        "postCode": "ASSPE1006",
+                        "postName": "SP ECOLOGY & EVOLUTIONARY BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "CSB490H1-F-20169": {
+        "courseId": "388",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Team-Based Learning: Current Topics in Cell and Molecular Biology",
+        "code": "CSB490H1",
+        "courseDescription": "<p>A team-based learning course with emphasis on questions in the fields of protein biochemistry, synthetic biology, and the evolution of proteins and networks of protein-protein interactions.&nbsp; Lectures and seminars will focus on current research topics within these fields and will provide the background knowledge for students to work in teams to explore the primary research literature, and for each team to develop a formal research proposal.&nbsp; For details on this year's content, please go to <a target=_blank\" href=\"http:\/\/www.csb.utoronto\/undergraduate\/courses\/400\">www.csb.utoronto.ca\/undergraduate\/courses\/400<\/a>.<\/p>\"",
+        "prerequisite": "BIO260H1\/HMB265H1, CSB330H1\/CSB349H1\/CSB352H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41588": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41588",
+                        "assignedRoom1": "ES 3087",
+                        "assignedRoom2": null
+                    },
+                    "TH-41589": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41589",
+                        "assignedRoom1": "ES 3087",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159121": {
+                        "instructorId": "1159121",
+                        "firstName": "D",
+                        "lastName": "Christendat"
+                    },
+                    "1159122": {
+                        "instructorId": "1159122",
+                        "firstName": "M",
+                        "lastName": "Neumann"
+                    }
+                },
+                "meetingId": "824",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

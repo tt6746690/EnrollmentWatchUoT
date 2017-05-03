@@ -1,0 +1,53 @@
+{
+    "SLA434H1-S-20169": {
+        "courseId": "4329",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Dostoevsky in Literary Theory and Criticism",
+        "code": "SLA434H1",
+        "courseDescription": "<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt; text-align: justify;\"><span style=\"font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman';\" lang=\"EN-US\">Explores Dostoevsky&rsquo;s works through the lens of Russian and Western novel theory. Theorists include: Viacheslav Ivanov, Georg Lukacs and Mikhail Bakhtin. Topics include: genre, history and modernity; the novelistic narrator; novelistic plot; novelistic narrative; time and space; the generic history and prehistory of the novel; the novel and the self; the novel&rsquo;s relation to the present; novelistic subgenres including the <em>Bildungsroman<\/em>; the novel&rsquo;s simultaneous status as fragment and totality; and the particular and the universal in novelistic representation.&nbsp; Taught in English, readings in either Russian or English.&nbsp;<\/span><\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SLA314H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46801": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46801",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 402"
+                    }
+                },
+                "instructors": {
+                    "1162371": {
+                        "instructorId": "1162371",
+                        "firstName": "K",
+                        "lastName": "Holland"
+                    }
+                },
+                "meetingId": "6906",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Changed: Sept 14, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

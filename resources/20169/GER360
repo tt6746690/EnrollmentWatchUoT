@@ -1,0 +1,61 @@
+{
+    "GER360H1-F-20169": {
+        "courseId": "961",
+        "org": "GER",
+        "orgName": "German (GER) (JGJ)",
+        "courseTitle": "Intermediate Yiddish",
+        "code": "GER360H1",
+        "courseDescription": "<p>The course conducted in Yiddish offers a review of basic grammar, stylistics, study of short literary texts.<\/p>",
+        "prerequisite": "GER260Y1",
+        "corequisite": "",
+        "exclusion": "GER360Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-42418": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42418",
+                        "assignedRoom1": "NF 205",
+                        "assignedRoom2": null
+                    },
+                    "FR-42419": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "42419",
+                        "assignedRoom1": "NF 205",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160105": {
+                        "instructorId": "1160105",
+                        "firstName": "A",
+                        "lastName": "Hoffman"
+                    }
+                },
+                "meetingId": "1980",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

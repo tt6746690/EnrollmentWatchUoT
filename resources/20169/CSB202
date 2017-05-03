@@ -1,0 +1,69 @@
+{
+    "CSB202H1-S-20169": {
+        "courseId": "351",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Further Exploration in Biotechnology",
+        "code": "CSB202H1",
+        "courseDescription": "<p>Provides non-science students with an additional opportunity to explore biotechnology and its applications in agriculture, the environment, and human health including: drug discovery, aging, and vaccines. Most lectures are viewed online before class and students work in groups during class on problem sets and case studies designed to stimulate further learning, enhance evidence-based reasoning, and promote reflection on the role of biotechnology in society.&nbsp; This course does not count towards CSB programs. CSB201H1 is not a prerequisite for this course.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "BIO230H1, BIO240H1, BIO241H1, BIO250Y1, BIO255H1, BIO255Y1, CSB200Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47192": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "47192",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 101"
+                    },
+                    "TH-47193": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "47193",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 101"
+                    },
+                    "TH-47194": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "47194",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 101"
+                    }
+                },
+                "instructors": {
+                    "1159067": {
+                        "instructorId": "1159067",
+                        "firstName": "K",
+                        "lastName": "Yip"
+                    }
+                },
+                "meetingId": "770",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "35",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: October 11, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

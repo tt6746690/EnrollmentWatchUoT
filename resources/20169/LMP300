@@ -1,0 +1,116 @@
+{
+    "LMP300Y1-Y-20169": {
+        "courseId": "1433",
+        "org": "LMP",
+        "orgName": "Laboratory Medicine and Pathobiology (LMP)",
+        "courseTitle": "Introduction to Pathobiology",
+        "code": "LMP300Y1",
+        "courseDescription": "<p>Concepts in pathogenesis; cell injury and death; tissue structure, wound healing; repair and fibrosis. Molecular basis of major organ system pathology. The laboratory examines gross anatomical specimens and introduces histopathology. Enrolment is limited to students specializing in pathobiology who have completed the first and second year requirements of the program.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "LMP301H1, LMP363H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-20217": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "20217",
+                        "assignedRoom1": "MS 3278",
+                        "assignedRoom2": "MS 3278"
+                    },
+                    "WE-20218": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "20218",
+                        "assignedRoom1": "MS 3278",
+                        "assignedRoom2": "MS 3278"
+                    }
+                },
+                "instructors": {
+                    "1160767": {
+                        "instructorId": "1160767",
+                        "firstName": "D",
+                        "lastName": "Templeton"
+                    }
+                },
+                "meetingId": "2865",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "357",
+                        "postCode": "ASSPE2025",
+                        "postName": "SP PATHOBIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "357",
+                        "postCode": "ASSPE2025",
+                        "postName": "SP PATHOBIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

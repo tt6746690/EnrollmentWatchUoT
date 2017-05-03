@@ -1,0 +1,53 @@
+{
+    "ESS445H1-S-20169": {
+        "courseId": "3088",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Global Tectonics",
+        "code": "ESS445H1",
+        "courseDescription": "<p>Exploration of physical Earth processes and their relationship to large-scale geological phenomena. Mantle convection as plate tectonic engine; intraplate\/plate boundary lithospheric deformation including orogenesis and crustal subsidence. Focus on reconciling geodynamic theory\/modelling with geological\/geophysical observations.<\/p>",
+        "prerequisite": "ESS441H1",
+        "corequisite": "",
+        "exclusion": "GLG465H1",
+        "recommendedPreparation": "ESS322H1 & ESS332H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-34546": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "34546",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1062"
+                    }
+                },
+                "instructors": {
+                    "1159869": {
+                        "instructorId": "1159869",
+                        "firstName": "R",
+                        "lastName": "Pysklywec"
+                    }
+                },
+                "meetingId": "14345",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

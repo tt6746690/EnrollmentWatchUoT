@@ -1,0 +1,79 @@
+{
+    "SOC383H1-F-20169": {
+        "courseId": "4438",
+        "org": "SOC",
+        "orgName": "Sociology (SOC)",
+        "courseTitle": "The Sociology of Women and International Migration",
+        "code": "SOC383H1",
+        "courseDescription": "<p>Examines the international migration of women in postindustrial economies with emphasis on Canada. Topics include: theories of female migration; the impacts of immigration policies; migration trends and entry status; integration issues pertaining to family, language knowledge, citizenship and economic status; labour market barriers and public policy considerations.<\/p>",
+        "prerequisite": "A 200+ level SOC course",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-16974": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "16974",
+                        "assignedRoom1": "FG 103",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162508": {
+                        "instructorId": "1162508",
+                        "firstName": "M",
+                        "lastName": "Boyd"
+                    }
+                },
+                "meetingId": "13112",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "130",
+                "actualEnrolment": "69",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-36578": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "36578",
+                        "assignedRoom1": "FG 103",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13113",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "130",
+                "actualEnrolment": "66",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

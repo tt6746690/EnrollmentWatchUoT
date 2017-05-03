@@ -1,0 +1,121 @@
+{
+    "LMP402H1-F-20169": {
+        "courseId": "1437",
+        "org": "LMP",
+        "orgName": "Laboratory Medicine and Pathobiology (LMP)",
+        "courseTitle": "Inflammation and Infection",
+        "code": "LMP402H1",
+        "courseDescription": "<p>Mechanisms that allow microbial pathogens to cause disease and the host to detect infection, mount an inflammatory response and resolve the infection. &nbsp;Primary research articles are discussed. &nbsp;Topics include commensal bacteria, bacterial toxins, pattern recognition receptors, leukocyte emigration, chemotaxis, and the role of non-coding RNAs in immunity.<\/p>",
+        "prerequisite": "(IMM340H1, IMM350H1)\/(IMM341H1, IMM351H1)\/(MGY377H1, MGY378H1)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-30471": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:30",
+                        "meetingScheduleId": "30471",
+                        "assignedRoom1": "MS 3278",
+                        "assignedRoom2": null
+                    },
+                    "TH-30470": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:30",
+                        "meetingScheduleId": "30470",
+                        "assignedRoom1": "MS 3278",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160774": {
+                        "instructorId": "1160774",
+                        "firstName": "M",
+                        "lastName": "Cybulsky"
+                    },
+                    "1160775": {
+                        "instructorId": "1160775",
+                        "firstName": "J",
+                        "lastName": "Mogridge"
+                    }
+                },
+                "meetingId": "2869",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "357",
+                        "postCode": "ASSPE2025",
+                        "postName": "SP PATHOBIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "357",
+                        "postCode": "ASSPE2025",
+                        "postName": "SP PATHOBIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

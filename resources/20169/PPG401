@@ -1,0 +1,86 @@
+{
+    "PPG401H1-S-20169": {
+        "courseId": "1958",
+        "org": "SPP",
+        "orgName": "Public Policy, School of (PPG)",
+        "courseTitle": "The Role of Government",
+        "code": "PPG401H1",
+        "courseDescription": "<p>This course explores the government&rsquo;s role in promoting efficiency and equity in both the financing and delivery of public policy goals. It explores the conditions when government involvement is important, the policy levers available to government in promoting social policy, market failures, and conditions for efficiency. It examines the role of government in many of the major areas of social policy such as health care, education, redistribution, the environment, financial regulations and other important issues.<\/p>",
+        "prerequisite": "",
+        "corequisite": "PPG301H1",
+        "exclusion": "",
+        "recommendedPreparation": "ECO200Y1\/ECO204Y1\/ECO206Y1\/PPG200H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-36944": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "36944",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CG 361"
+                    }
+                },
+                "instructors": {
+                    "1161668": {
+                        "instructorId": "1161668",
+                        "firstName": "M",
+                        "lastName": "Cappe"
+                    },
+                    "1161669": {
+                        "instructorId": "1161669",
+                        "firstName": "B",
+                        "lastName": "Rae"
+                    }
+                },
+                "meetingId": "4005",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "158",
+                        "postCode": "ASMAJ2660",
+                        "postName": "MA PUBLIC POLICY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

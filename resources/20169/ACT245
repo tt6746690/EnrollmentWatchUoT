@@ -1,0 +1,61 @@
+{
+    "ACT245H1-S-20169": {
+        "courseId": "29",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Financial Principles for Actuarial Science I",
+        "code": "ACT245H1",
+        "courseDescription": "<p>Term structure of interest rates, cashflow duration, convexity and immunization, forward and futures contracts, interest rate swaps, introduction to investment derivatives and hedging strategies.<\/p>",
+        "prerequisite": "ACT240H1, MAT137Y1 (minimum grade 65%)\/MAT157Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40462": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40462",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2118"
+                    },
+                    "TH-40461": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40461",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2118"
+                    }
+                },
+                "instructors": {
+                    "1158427": {
+                        "instructorId": "1158427",
+                        "firstName": "Y",
+                        "lastName": "Wang"
+                    }
+                },
+                "meetingId": "41",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "188",
+                "actualEnrolment": "98",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

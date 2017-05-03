@@ -1,0 +1,61 @@
+{
+    "MAT409H1-S-20169": {
+        "courseId": "1488",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Set Theory",
+        "code": "MAT409H1",
+        "courseDescription": "<p>Set theory and its relations with other branches of mathematics. ZFC axioms. Ordinal and cardinal numbers. Reflection principle. Constructible sets and the continuum hypothesis. Introduction to independence proofs. Topics from large cardinals, infinitary combinatorics and descriptive set theory.<\/p>",
+        "prerequisite": "MAT357H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-29724": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "29724",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 6183"
+                    },
+                    "TH-29725": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "29725",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 6183"
+                    }
+                },
+                "instructors": {
+                    "1160936": {
+                        "instructorId": "1160936",
+                        "firstName": "W",
+                        "lastName": "Weiss"
+                    }
+                },
+                "meetingId": "3186",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

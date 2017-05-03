@@ -1,0 +1,53 @@
+{
+    "SLA259H1-S-20169": {
+        "courseId": "2251",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Special Topics in Croatian Literature",
+        "code": "SLA259H1",
+        "courseDescription": "<p>An overview of Croatian literature from the middle ages to the present day, including drama, poetry and prose. Course follows a chronological order and focuses on the central currents in the literary history of Croatian literature. All classes and readings in English.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-21361": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "21361",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 206"
+                    }
+                },
+                "instructors": {
+                    "1162349": {
+                        "instructorId": "1162349",
+                        "firstName": "D",
+                        "lastName": "Piskac"
+                    }
+                },
+                "meetingId": "13963",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

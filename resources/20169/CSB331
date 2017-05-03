@@ -1,0 +1,148 @@
+{
+    "CSB331H1-S-20169": {
+        "courseId": "357",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Advanced Cell Biology I: Cellular Dynamics During Development",
+        "code": "CSB331H1",
+        "courseDescription": "<p>The development of multicellular organisms is dependent on complex cell-cell and cell-matrix dynamics. The course examines the molecules and mechanisms involved and how they act in concert to regulate distinct developmental and physiological events. Emphasis is placed on the experimental approaches and technology used to study the molecular interactions and dynamics that alter structure-function relationships in cells and organisms.<\/p>",
+        "prerequisite": "BIO230H1\/(BIO240H1, BIO241H1)\/BIO255H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47334": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "47334",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2102"
+                    },
+                    "WE-47335": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47335",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2102"
+                    }
+                },
+                "instructors": {
+                    "1159079": {
+                        "instructorId": "1159079",
+                        "firstName": "S",
+                        "lastName": "Plotnikov"
+                    },
+                    "1159080": {
+                        "instructorId": "1159080",
+                        "firstName": "M",
+                        "lastName": "Ringuette"
+                    }
+                },
+                "meetingId": "784",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "188",
+                "actualEnrolment": "119",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "Room Changed: Nov. 24, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": "74",
+                        "postCode": "ASMAJ1003",
+                        "postName": "MA CELL & MOLECULAR BIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "268",
+                        "postCode": "ASSPE1003",
+                        "postName": "SP CELL & MOLECULAR BIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "301",
+                        "postCode": "ASSPE1305",
+                        "postName": "SP DEVELOPMENTAL BIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "HMB394Y0-Y-20169": {
+        "courseId": "3495",
+        "org": "HMB",
+        "orgName": "Human Biology (HMB) (CJH) (HAJ) (JEH) (EHJ)",
+        "courseTitle": "International Research Project in Human Biology",
+        "code": "HMB394Y0",
+        "courseDescription": "<p>Your individual, independent research project is supervised by a faculty member in an approved university. This unique opportunity to conduct a lab-based research project is open to students in any Human Biology program. Coordinated by Centre for International Experience. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "At least 8.5 FCEs including relevant courses in human biology.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Students wishing to enrol in HMB394Y0 should contact the Centre for International Exchange for details https:\/\/www.studentlife.utoronto.ca\/cie\/contact-us",
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160369": {
+                        "instructorId": "1160369",
+                        "firstName": "F",
+                        "lastName": "Taverna"
+                    }
+                },
+                "meetingId": "14160",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

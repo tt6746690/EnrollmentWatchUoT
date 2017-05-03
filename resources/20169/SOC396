@@ -1,0 +1,85 @@
+{
+    "SOC396H1-S-20169": {
+        "courseId": "4442",
+        "org": "SOC",
+        "orgName": "Sociology (SOC)",
+        "courseTitle": "Selected Topics in Sociological Research",
+        "code": "SOC396H1",
+        "courseDescription": "<p>An opportunity to explore a sociological topic in depth. Courses relate to instructor\u2019s area of research, so topics vary from year to year. Consult the Departmental website (http:\/\/www.sociology.utoronto.ca\/home_4.htm) for current course offerings.<\/p>",
+        "prerequisite": "A SOC course at the 200+ level SOC course",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47783": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "47783",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 119"
+                    }
+                },
+                "instructors": {
+                    "1162518": {
+                        "instructorId": "1162518",
+                        "firstName": "M",
+                        "lastName": "Aybek"
+                    }
+                },
+                "meetingId": "14239",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Sociological Life Course Research",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: January 20, 2017",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TH-44771": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "44771",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 161"
+                    }
+                },
+                "instructors": {
+                    "1162519": {
+                        "instructorId": "1162519",
+                        "firstName": "J",
+                        "lastName": "Bryant"
+                    }
+                },
+                "meetingId": "13169",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "The Sociological Imagination and Micro-Macro Link",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "130",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

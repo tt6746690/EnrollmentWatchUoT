@@ -1,0 +1,53 @@
+{
+    "GGR491Y1-Y-20169": {
+        "courseId": "1026",
+        "org": "GGR",
+        "orgName": "Geography (GGR) (JFG) (JFE) (JGE) (JGI) (JUG) (JEG)",
+        "courseTitle": "Research Project",
+        "code": "GGR491Y1",
+        "courseDescription": "<p>Specially designed for students wishing to gain experience in conducting research in their area of specialization. Of particular value for geographers interested in graduate study, or positions in government, planning and consulting firms where research skills may be an asset. Students select a research problem and complete a project under the supervision of a faculty member. Enrolment requires written permission from a faculty supervisor and Associate Chair, Undergraduate; early discussion with a likely supervisor is encouraged. Enrolment may be completed at any time up to September; open to students in a Specialist or Major Program sponsored by the Department of Geography. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "10 FCEs",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Ben Pottruff, the Geography Undergraduate Student Advisor, at pottruff@geog.utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160186": {
+                        "instructorId": "1160186",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "2152",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

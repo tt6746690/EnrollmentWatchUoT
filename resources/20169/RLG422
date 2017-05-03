@@ -1,0 +1,53 @@
+{
+    "RLG422H1-S-20169": {
+        "courseId": "4178",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Kant's Theory of Religion",
+        "code": "RLG422H1",
+        "courseDescription": "<p>An advanced study of Immanuel Kant&rsquo;s theory of religion, as developed in major writings such as Critique of Practical Reason and Religion within the Boundaries of Mere Reason. Emphasizes rational ethical criteria as the basis for analyzing the doctrines, symbols, and institutions of historical religions.<\/p>",
+        "prerequisite": "Permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "RLG310Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: please visit http:\/\/www.religion.utoronto.ca\/programs\/undergraduate\/ for enrolment instructions. For further questions, please contact Marilyn Colaco at religion.undergrad@utoronto.ca",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-29235": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "29235",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "JH 317"
+                    }
+                },
+                "instructors": {
+                    "1161962": {
+                        "instructorId": "1161962",
+                        "firstName": "J",
+                        "lastName": "DiCenso"
+                    }
+                },
+                "meetingId": "7031",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

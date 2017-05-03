@@ -1,0 +1,129 @@
+{
+    "MAT402H1-S-20169": {
+        "courseId": "1487",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Classical Geometries",
+        "code": "MAT402H1",
+        "courseDescription": "<p>Euclidean and non-euclidean plane and space geometries. Real and complex projective space. Models of the hyperbolic plane. Connections with the geometry of surfaces.<\/p>",
+        "prerequisite": "MAT301H1\/MAT347Y1, MAT235Y1\/MAT237Y1\/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-2001": {
+                "schedule": {
+                    "MO-38350": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "38350",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "SS 1069"
+                    },
+                    "WE-38351": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "38351",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "SS 1069"
+                    }
+                },
+                "instructors": {
+                    "1160934": {
+                        "instructorId": "1160934",
+                        "firstName": "A",
+                        "lastName": "Khovanskii"
+                    }
+                },
+                "meetingId": "14895",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "6",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-39371": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "39371",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1069"
+                    },
+                    "WE-39372": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "39372",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1069"
+                    }
+                },
+                "instructors": {
+                    "1160935": {
+                        "instructorId": "1160935",
+                        "firstName": "A",
+                        "lastName": "Khovanskii"
+                    }
+                },
+                "meetingId": "3185",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

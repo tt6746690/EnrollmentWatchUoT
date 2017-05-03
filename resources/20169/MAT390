@@ -1,0 +1,69 @@
+{
+    "MAT390H1-S-20169": {
+        "courseId": "3698",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "History of Mathematics up to 1700",
+        "code": "MAT390H1",
+        "courseDescription": "<p>A survey of ancient, medieval, and early modern mathematics with emphasis on historical issues. (Offered in alternate years)<\/p>",
+        "prerequisite": "At least 1.0 FCE in APM\/MAT at the 200 \nlevel.",
+        "corequisite": "",
+        "exclusion": "HPS309H1, HPS310Y1, HPS390H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46235": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "46235",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "EM 001"
+                    },
+                    "WE-46236": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "46236",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "EM 001"
+                    },
+                    "FR-46237": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "46237",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "EM 001"
+                    }
+                },
+                "instructors": {
+                    "1160929": {
+                        "instructorId": "1160929",
+                        "firstName": "C",
+                        "lastName": "Fraser"
+                    }
+                },
+                "meetingId": "14250",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "82",
+                "actualEnrolment": "68",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

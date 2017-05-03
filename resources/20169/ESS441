@@ -1,0 +1,61 @@
+{
+    "ESS441H1-F-20169": {
+        "courseId": "796",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Advanced Structural Geology",
+        "code": "ESS441H1",
+        "courseDescription": "<p>Principles of geological mechanics: stress, strain, rheology. Faulting, folding and development of tectonic foliations and lineations. Structural analysis of fractures, folds and tectonites.<\/p>",
+        "prerequisite": "ESS241H1 and 1.0 FCE of 300-level ESS\/PHY courses, including JGA205H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "ESS345H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-42257": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42257",
+                        "assignedRoom1": "ES 2119",
+                        "assignedRoom2": null
+                    },
+                    "TH-42258": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42258",
+                        "assignedRoom1": "ES 2119",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159868": {
+                        "instructorId": "1159868",
+                        "firstName": "R",
+                        "lastName": "Ghent"
+                    }
+                },
+                "meetingId": "1716",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

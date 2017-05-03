@@ -1,0 +1,53 @@
+{
+    "FRE344H1-S-20169": {
+        "courseId": "910",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Literary Theory",
+        "code": "FRE344H1",
+        "courseDescription": "<p>An introduction to literary theory through the study of particular theories underlying specific approaches to the literary text. Concepts and problems central to literary theory, and the writings of major critics and theoreticians.<\/p>",
+        "prerequisite": "FRE240H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "FRE241H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-7680": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "7680",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 103"
+                    }
+                },
+                "instructors": {
+                    "1159967": {
+                        "instructorId": "1159967",
+                        "firstName": "P",
+                        "lastName": "Theriault"
+                    }
+                },
+                "meetingId": "5423",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

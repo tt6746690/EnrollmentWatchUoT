@@ -1,0 +1,53 @@
+{
+    "EEB397Y1-Y-20169": {
+        "courseId": "642",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Research Project in Ecology and Evolutionary Biology",
+        "code": "EEB397Y1",
+        "courseDescription": "<p>An intermediate research project requiring the prior consent of a member of the Department to supervise the project. The topic is to be one mutually agreed on by the student and supervisor. They must arrange the time, place, and provision of any materials and submit to the Undergraduate Office a signed form of agreement outlining details prior to being enrolled. This course is open to highly self-motivated students who are in their Third Year and have a strong interest in ecology and\/or evolutionary biology. Students are required to write up the results of their research in a formal paper, often in the format of a research article, and may be required to present the results at a poster session and\/or participate in an oral presentation. Students should contact their potential supervisors over the summer before classes begin in September. Information regarding how to register for the course is available on the EEB website. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Application instructions for registration are found at <a href=\"http:\/\/www.eeb.utoronto.ca\/Learning\/u-courses\/up-courses.htm\">http:\/\/www.eeb.utoronto.ca\/Learning\/u-courses\/up-courses.htm<\/a>. For more information, please contact the Undergraduate Assistant, at undergrad.eeb@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159628": {
+                        "instructorId": "1159628",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1361",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "NMC262H1-S-20169": {
+        "courseId": "3786",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "The Archaeology of the Civilizations of the Historic Periods of the Near East",
+        "code": "NMC262H1",
+        "courseDescription": "<p><span style=\"font-size: 8pt; font-family: Arial, sans-serif;\">A general introduction of the archaeology of the historic periods of the Ancient Near East from the Middle Bronze Age (ca. 2000 BC) to the Persian Period, covering the regions of Anatolia, Syria-Palestine, Iran, and the high civilizations of Mesopotamia and Egypt. Emphasis will be placed on culture history, while exploring the complex processes of social organization and change.<\/span><\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NMC260H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46912": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46912",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 415"
+                    },
+                    "TH-46913": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46913",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 415"
+                    }
+                },
+                "instructors": {
+                    "1161148": {
+                        "instructorId": "1161148",
+                        "firstName": "A",
+                        "lastName": "Porter"
+                    }
+                },
+                "meetingId": "15141",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: September 15, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

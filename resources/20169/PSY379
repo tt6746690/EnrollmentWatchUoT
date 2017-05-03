@@ -1,0 +1,113 @@
+{
+    "PSY379H1-S-20169": {
+        "courseId": "2031",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Human Memory and Learning Laboratory",
+        "code": "PSY379H1",
+        "courseDescription": "<p>Examination of issues and methods in human memory research. Students conduct supervised research projects, and read, critique, and write research articles.&nbsp;Course capacity is limited to 15 students&nbsp;and priority is given to PSY Specialists and Research Specialists during the first enrolment period. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "PSY202H1 (or exclusion), PSY260H1\/PSY270H1\/COG250Y1",
+        "corequisite": "",
+        "exclusion": "PSY379H5\/PSYC58H3",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For 'PE' indicator courses: Enroll via ACORN during the dates stated in the Enrolment Controls. Starting August 12, course enrolment and cancellations are processed by the Undergraduate Administrator (undergrad@psych.utoronto.ca) in Sid Smith, Room 4014, during regular academic advising office hours: Tuesday to Friday, 10:00 a.m. to 4:00 p.m.",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-14167": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "14167",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 581"
+                    }
+                },
+                "instructors": {
+                    "1161848": {
+                        "instructorId": "1161848",
+                        "firstName": "T",
+                        "lastName": "Amer"
+                    },
+                    "1161849": {
+                        "instructorId": "1161849",
+                        "firstName": "L",
+                        "lastName": "Hasher"
+                    }
+                },
+                "meetingId": "4154",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "287",
+                        "postCode": "ASSPE1160",
+                        "postName": "SP PSYCHOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "353",
+                        "postCode": "ASSPE1958",
+                        "postName": "SP PSYCHOLOGY RESEARCH(THESIS)",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

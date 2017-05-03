@@ -1,0 +1,61 @@
+{
+    "ACT451H1-F-20169": {
+        "courseId": "36",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Loss Models",
+        "code": "ACT451H1",
+        "courseDescription": "<p>Loss models policy adjustments, frequency and severity models, compound distributions.<\/p>",
+        "prerequisite": "STA261H1, ACT348H1, STA347H1 (ACT348H1, STA347H1 can be corequisite with permission of instructor)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-37224": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "37224",
+                        "assignedRoom1": "SS 1085",
+                        "assignedRoom2": null
+                    },
+                    "TH-37223": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "37223",
+                        "assignedRoom1": "SS 1085",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158436": {
+                        "instructorId": "1158436",
+                        "firstName": "X",
+                        "lastName": "Lin"
+                    }
+                },
+                "meetingId": "48",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

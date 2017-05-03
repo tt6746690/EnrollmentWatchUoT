@@ -1,0 +1,53 @@
+{
+    "FIN300H1-F-20169": {
+        "courseId": "3220",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Advanced Finnish I",
+        "code": "FIN300H1",
+        "courseDescription": "<p>Advanced Finnish provides a continuation of FIN210H1 Intermediate Finnish.<\/p>",
+        "prerequisite": "FIN210H1 or permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47216": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47216",
+                        "assignedRoom1": "AH 306",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159930": {
+                        "instructorId": "1159930",
+                        "firstName": "A",
+                        "lastName": "Muhonen"
+                    }
+                },
+                "meetingId": "13547",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Oct 18, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

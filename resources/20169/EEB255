@@ -1,0 +1,81 @@
+{
+    "EEB255H1-S-20169": {
+        "courseId": "617",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Esentials of Biodiversity Science and Conservation Biology",
+        "code": "EEB255H1",
+        "courseDescription": "<p>&ldquo;Classical&rdquo; and &ldquo;new&rdquo; concepts in biodiversity and conservation. Topics may include: evolution and ecology in the past (Holocene) and future (Anthropocene); levels and kinds of biodiversity; valuing biodiversity through ecological economics; causes of endangerment; predicting extinction; genetic and demographic theory; habitat protection and captive breeding; conservation policies and endangered species acts; designing future biodiversity.<\/p>",
+        "prerequisite": "BIO120H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-33134": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "33134",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 161"
+                    }
+                },
+                "instructors": {
+                    "1159574": {
+                        "instructorId": "1159574",
+                        "firstName": "M",
+                        "lastName": "Gross"
+                    }
+                },
+                "meetingId": "1300",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "65",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "42",
+                        "postCode": "ASMAJ0110",
+                        "postName": "MA BIODIV & CONSERVATION BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

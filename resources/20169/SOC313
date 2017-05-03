@@ -1,0 +1,85 @@
+{
+    "SOC313H1-S-20169": {
+        "courseId": "2380",
+        "org": "SOC",
+        "orgName": "Sociology (SOC)",
+        "courseTitle": "Social Control (formerly SOC212Y1)",
+        "code": "SOC313H1",
+        "courseDescription": "<p>This course examines how society has gone about controlling specific types of deviants (e.g., gang members, sex and drug offenders) and acts of deviance (e.g., organized crime, the deviance of social control agents). In examining these individuals and acts, attention is also directed to why they are defined as deviant and sanctioned, and why some types of deviance are less likely to be detected and sanctioned than others. Finally, consideration is also given to a range of sanctions that have been used to control deviance and the empirical evidence on their effectiveness.<\/p>",
+        "prerequisite": "SOC212H1",
+        "corequisite": "",
+        "exclusion": "SOC212Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47271": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "47271",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RW 117"
+                    }
+                },
+                "instructors": {
+                    "1162497": {
+                        "instructorId": "1162497",
+                        "firstName": "L",
+                        "lastName": "Tepperman"
+                    }
+                },
+                "meetingId": "4882",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "130",
+                "actualEnrolment": "89",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Nov. 10, 2016",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TH-36407": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "36407",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2118"
+                    }
+                },
+                "instructors": {
+                    "1162498": {
+                        "instructorId": "1162498",
+                        "firstName": "S",
+                        "lastName": "Hayle"
+                    }
+                },
+                "meetingId": "14234",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "130",
+                "actualEnrolment": "89",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

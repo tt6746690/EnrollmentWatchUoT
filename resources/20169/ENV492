@@ -1,0 +1,155 @@
+{
+    "ENV492H1-F-20169": {
+        "courseId": "772",
+        "org": "ENVMT",
+        "orgName": "Environment, School of (ENV) (JEE) (JEH) (JGE)",
+        "courseTitle": "Independent Studies Project (formerly INI492H1)",
+        "code": "ENV492H1",
+        "courseDescription": "<p>A research project or selected topic in an area of environment not otherwise available in the Faculty, meant to develop skills in independent study of interdisciplinary topics. A written proposal co-signed by the student and supervisor must be submitted for approval by the Academic Associate Director of the&nbsp;School normally&nbsp;one month prior to commencing the course. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "(ENV221H1, ENV222H1) and completion of at least 14 FCE, and enrolment in a School of the Environment program",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Students can download the application form and course outline by going to http:\/\/www.environment.utoronto.ca\/Undergraduate\/Courses\/CourseList.aspx  and clicking on the \"Syllabus\" link for ENV492H or ENV493H. For more information, please contact David Powell at 416-946-8100 or by david.powell@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159834": {
+                        "instructorId": "1159834",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1677",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ENV492H1-S-20169": {
+        "courseId": "772",
+        "org": "ENVMT",
+        "orgName": "Environment, School of (ENV) (JEE) (JEH) (JGE)",
+        "courseTitle": "Independent Studies Project (formerly INI492H1)",
+        "code": "ENV492H1",
+        "courseDescription": "<p>A research project or selected topic in an area of environment not otherwise available in the Faculty, meant to develop skills in independent study of interdisciplinary topics. A written proposal co-signed by the student and supervisor must be submitted for approval by the Academic Associate Director of the&nbsp;School normally&nbsp;one month prior to commencing the course. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "(ENV221H1, ENV222H1) and completion of at least 14 FCE, and enrolment in a School of the Environment program",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Students can download the application form and course outline by going to http:\/\/www.environment.utoronto.ca\/Undergraduate\/Courses\/CourseList.aspx  and clicking on the \"Syllabus\" link for ENV492H or ENV493H. For more information, please contact David Powell at 416-946-8100 or by david.powell@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159835": {
+                        "instructorId": "1159835",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1678",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ENV492H1-Y-20169": {
+        "courseId": "772",
+        "org": "ENVMT",
+        "orgName": "Environment, School of (ENV) (JEE) (JEH) (JGE)",
+        "courseTitle": "Independent Studies Project (formerly INI492H1)",
+        "code": "ENV492H1",
+        "courseDescription": "<p>A research project or selected topic in an area of environment not otherwise available in the Faculty, meant to develop skills in independent study of interdisciplinary topics. A written proposal co-signed by the student and supervisor must be submitted for approval by the Academic Associate Director of the&nbsp;School normally&nbsp;one month prior to commencing the course. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "(ENV221H1, ENV222H1) and completion of at least 14 FCE, and enrolment in a School of the Environment program",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Students can download the application form and course outline by going to http:\/\/www.environment.utoronto.ca\/Undergraduate\/Courses\/CourseList.aspx  and clicking on the \"Syllabus\" link for ENV492H or ENV493H. For more information, please contact David Powell at 416-946-8100 or by david.powell@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159836": {
+                        "instructorId": "1159836",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1679",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

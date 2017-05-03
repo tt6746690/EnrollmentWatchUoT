@@ -1,0 +1,81 @@
+{
+    "PHC435H1-S-20169": {
+        "courseId": "1735",
+        "org": "PHM",
+        "orgName": "Pharmaceutical Chemistry (PHC) (JFP)",
+        "courseTitle": "Pharmaceutical Data Acquisition and Analysis",
+        "code": "PHC435H1",
+        "courseDescription": "<p>Application and development of devices for the purpose of collecting and analyzing experimental data in pharmaceutical development and manufacture.<\/p>",
+        "prerequisite": "BCH210H1, CHM247H1\/CHM249H1, (MAT135H1, MAT136H1)\/MAT137Y1, PHC340Y1 and enrolled as a Year 4 student in the Pharmaceutical Chemistry specialist program.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-43254": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:30",
+                        "meetingScheduleId": "43254",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "PB 860"
+                    }
+                },
+                "instructors": {
+                    "1161291": {
+                        "instructorId": "1161291",
+                        "firstName": "D",
+                        "lastName": "Dubins"
+                    }
+                },
+                "meetingId": "3494",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "291",
+                        "postCode": "ASSPE1211",
+                        "postName": "SP PHARMACEUTICAL CHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

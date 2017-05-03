@@ -1,0 +1,53 @@
+{
+    "MAT395H1-F-20169": {
+        "courseId": "1484",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Independent Reading in Mathematics",
+        "code": "MAT395H1",
+        "courseDescription": "<p>Independent reading under the direction of a faculty member.&nbsp; Topic must be outside current undergraduate offerings.&nbsp; Similar workload to a 36L course. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Minimum GPA of 3.5 in APM and MAT courses. Permission of the Associate Chair for Undergraduate Studies and of the prospective supervisor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: Contact Donna Birch, Rm 6290 at the Bahen Centre, 40 St. George Street | Phone: 416-978-5082 | Email: dbirch@math.utoronto.ca",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160930": {
+                        "instructorId": "1160930",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "3182",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

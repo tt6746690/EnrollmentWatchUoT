@@ -1,0 +1,126 @@
+{
+    "MGY350H1-S-20169": {
+        "courseId": "1510",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Model Organisms to Disease",
+        "code": "MGY350H1",
+        "courseDescription": "<p>The concepts of genetics in the context of human development, disease and evolution. Topics include genetic interactions and complex traits, variation in disease phenotype, signalling and development, stem cells and epigenetic regulation.<\/p>",
+        "prerequisite": "BIO120H1, BIO230H1, BIO260H1\/HMB265H1",
+        "corequisite": "BCH311H1\/CSB349H1\/MGY311Y1",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-30503": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:30",
+                        "meetingScheduleId": "30503",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4279"
+                    },
+                    "WE-30504": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:30",
+                        "meetingScheduleId": "30504",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4279"
+                    }
+                },
+                "instructors": {
+                    "1160983": {
+                        "instructorId": "1160983",
+                        "firstName": "W",
+                        "lastName": "Derry"
+                    },
+                    "1160984": {
+                        "instructorId": "1160984",
+                        "firstName": "J",
+                        "lastName": "Moffat"
+                    },
+                    "1160985": {
+                        "instructorId": "1160985",
+                        "firstName": "I",
+                        "lastName": "Scott"
+                    }
+                },
+                "meetingId": "3216",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "47",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

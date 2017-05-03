@@ -1,0 +1,53 @@
+{
+    "TRN377Y1-Y-20169": {
+        "courseId": "2487",
+        "org": "TRIN",
+        "orgName": "Trinity College (TRN)",
+        "courseTitle": "Trinity Comprehensive Paper I",
+        "code": "TRN377Y1",
+        "courseDescription": "<p>Students are individually mentored by faculty experts through readings from primary literature towards preparation of a quality review article. For students in third year, students identify their faculty mentor during second year and agree to become familiar with the available textbook level material during that year in their chosen topic. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "minimum of 8.0 FCEs completed and by permission of the instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: contact Kiran Sahota, Room 300, Larkin Building, Monday to Friday from 9:00am-12:00pm and 2:00-5:00pm, at 416-978-8454 or artsdean@trinity.utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Science, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162692": {
+                        "instructorId": "1162692",
+                        "firstName": "L",
+                        "lastName": "Boehm"
+                    }
+                },
+                "meetingId": "5108",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

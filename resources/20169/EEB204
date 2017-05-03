@@ -1,0 +1,33 @@
+{
+    "EEB204H1-F-20169": {
+        "courseId": "613",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Diversity of Living Organisms",
+        "code": "EEB204H1",
+        "courseDescription": "<p>Introduction to the diversity of living organisms, including microorganisms, fungi, plants, and animals, with an emphasis on evolution, ecology, and conservation.&nbsp;For non-science students in all years and disciplines.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "BIO120H1\/BIO150Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "6076",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 18, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

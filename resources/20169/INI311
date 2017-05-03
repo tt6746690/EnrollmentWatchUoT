@@ -1,0 +1,81 @@
+{
+    "INI311Y1-Y-20169": {
+        "courseId": "1274",
+        "org": "INNIS",
+        "orgName": "Innis College (INI) (JGI) (JEI)",
+        "courseTitle": "Seminar in Creative Writing",
+        "code": "INI311Y1",
+        "courseDescription": "<p>This workshop course examines methodological approaches to literary fiction from the perspective of the creator. Through course readings, discussion, and creative writing assignments, student writers will learn how prose writers combine stylistic techniques, point-of-view, setting, character, scenes, and structure to produce literary effects.<\/p>",
+        "prerequisite": "4.0 full-course equivalents, fluency in English.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Experience or strong interest in writing fiction.",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-30351": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "30351",
+                        "assignedRoom1": "IN 204",
+                        "assignedRoom2": "IN 204"
+                    }
+                },
+                "instructors": {
+                    "1160566": {
+                        "instructorId": "1160566",
+                        "firstName": "S",
+                        "lastName": "English"
+                    }
+                },
+                "meetingId": "2591",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "219",
+                        "postCode": "ASMIN2137",
+                        "postName": "MI WRITING & RHETORIC",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

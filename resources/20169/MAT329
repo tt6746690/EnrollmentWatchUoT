@@ -1,0 +1,105 @@
+{
+    "MAT329Y1-Y-20169": {
+        "courseId": "1471",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Concepts in Elementary Mathematics",
+        "code": "MAT329Y1",
+        "courseDescription": "<p>This course is aimed at students intending to become elementary school teachers. Emphasis is placed on the formation and development of fundamental reasoning and learning skills required to understand and to teach mathematics at the elementary level. Topics may include: Problem Solving and Strategies, Sets and Elementary Logic, Numbers and Elements of Number Theory, Introductory Probability and Fundamentals of Geometry.&nbsp;<\/p>\n<p>The course may include an optional practicum in school classrooms.&nbsp;<\/p>",
+        "prerequisite": "MAT137Y1\/MAT138H1\/MAT223H1\/MAT246H1 and any 7.0 FCE with a CGPA of at least 2.5",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Participation in the practicum requires the presentation of an Ontario Police Report that declares suitability to work with minors and other special groups.",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-41845": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "41845",
+                        "assignedRoom1": "LM 158",
+                        "assignedRoom2": "LM 158"
+                    }
+                },
+                "instructors": {
+                    "1160909": {
+                        "instructorId": "1160909",
+                        "firstName": "F",
+                        "lastName": "Recio"
+                    }
+                },
+                "meetingId": "3162",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-41843": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41843",
+                        "assignedRoom1": "SS 1084",
+                        "assignedRoom2": "SS 1084"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15017",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "MO-41844": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "41844",
+                        "assignedRoom1": "SS 1084",
+                        "assignedRoom2": "SS 1084"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15018",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

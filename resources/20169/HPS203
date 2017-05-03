@@ -1,0 +1,53 @@
+{
+    "HPS203H1-F-20169": {
+        "courseId": "1188",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "Making Sense of Uncertainty",
+        "code": "HPS203H1",
+        "courseDescription": "<p>This course examines issues of uncertainty in various contexts of science, technology, and society since the 19<sup>th<\/sup> century. Topics may include randomized controlled trials, statistical identification of normal and pathological, biopolitics, philosophical interpretations of probability, Brownian motions, uncertainty principle in quantum mechanics, cybernetic mind, and chance in avant-garde arts.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-34613": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "34613",
+                        "assignedRoom1": "VC 323",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160404": {
+                        "instructorId": "1160404",
+                        "firstName": "C",
+                        "lastName": "Yeang"
+                    }
+                },
+                "meetingId": "2390",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "72",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

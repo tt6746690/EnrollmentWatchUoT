@@ -1,0 +1,53 @@
+{
+    "RLG414H1-F-20169": {
+        "courseId": "2109",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Comparing Religions",
+        "code": "RLG414H1",
+        "courseDescription": "<p>Few methods have been more foundational to the scholarly study of religion, or more subject to searching criticism, than the practice of comparison.<span>&nbsp; <\/span>This seminar offers an advanced introduction to comparative method through close study of 4-6 recent works, from ritual studies, philosophy of religion, comparative theology and\/or ethnography<\/p>",
+        "prerequisite": "Permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: please visit http:\/\/www.religion.utoronto.ca\/programs\/undergraduate\/ for enrolment instructions. For further questions, please contact Marilyn Colaco at religion.undergrad@utoronto.ca",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-42909": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "42909",
+                        "assignedRoom1": "CR 106",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161961": {
+                        "instructorId": "1161961",
+                        "firstName": "R",
+                        "lastName": "Locklin"
+                    }
+                },
+                "meetingId": "4264",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "8",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

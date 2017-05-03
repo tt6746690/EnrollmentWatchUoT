@@ -1,0 +1,94 @@
+{
+    "PCL402H1-F-20169": {
+        "courseId": "1711",
+        "org": "PCL",
+        "orgName": "Pharmacology (PCL)",
+        "courseTitle": "Pharmacology and Toxicology in Drug Development",
+        "code": "PCL402H1",
+        "courseDescription": "<p>This course provides the basic principles of drug development, with a primary focus on the application of fundamental principles of pharmacology and toxicology to the design and conduct of early phase clinical trials. This is the phase of the drug development process where much of the innovation and science occurs.<\/p>",
+        "prerequisite": "PCL201H1, PCL302H1",
+        "corequisite": "PCL470H1 and\/or PCL473Y1",
+        "exclusion": "",
+        "recommendedPreparation": "PSL300H1, PSL301H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Student inquiries should be directed to the course coordinator: Dr. Rebecca Laposa, rebecca.laposa@utoronto.ca. Please do not contact the listed instructors for course-related questions.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41798": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41798",
+                        "assignedRoom1": "MS 2172",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161244": {
+                        "instructorId": "1161244",
+                        "firstName": "R",
+                        "lastName": "Al-awar"
+                    },
+                    "1161245": {
+                        "instructorId": "1161245",
+                        "firstName": "G",
+                        "lastName": "Higgins"
+                    },
+                    "1161246": {
+                        "instructorId": "1161246",
+                        "firstName": "R",
+                        "lastName": "Laposa"
+                    },
+                    "1161247": {
+                        "instructorId": "1161247",
+                        "firstName": "M",
+                        "lastName": "Shram"
+                    }
+                },
+                "meetingId": "3466",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "Student inquiries should be directed to the course coordinator: Dr. Rebecca Laposa, rebecca.laposa@utoronto.ca",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-13251": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "13251",
+                        "assignedRoom1": "MS 2173",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "6991",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "HST450Y1-Y-20169": {
+        "courseId": "1226",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Undergraduate Health Research Project (formerly UNI450Y1)",
+        "code": "HST450Y1",
+        "courseDescription": "<p>Students engage in a specific research project during their last two years within the program. Student will prepare an undergraduate thesis by the end of the course. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "HST250H1, STA220H1, HST350Y1",
+        "corequisite": "",
+        "exclusion": "UNI450Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: College approval is required. Please contact Khamla Sengthavy for further information at: UC165, Monday to Friday, 9:00am-4:30pm, 416-978-8083, or khamla.sengthavy@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-42928": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "42928",
+                        "assignedRoom1": "UC B203",
+                        "assignedRoom2": "UC B203"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2468",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

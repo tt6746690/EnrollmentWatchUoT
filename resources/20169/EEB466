@@ -1,0 +1,171 @@
+{
+    "EEB466H1-F-20169": {
+        "courseId": "649",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Approaches to the Study of Biodiversity",
+        "code": "EEB466H1",
+        "courseDescription": "<p>This course uses the collections, research, and public gallery areas of the Royal Ontario Museum to expose students to the ways in which biodiversity is discovered, analyzed, and interpreted in a museum setting. Topics include: morphological and molecular approaches, taxonomy, classification, bioinformatics and e-taxonomy, and the interpretation of biodiversity for the public. Labs include student projects and a one-day field trip on a weekend (cost about $20).<\/p>",
+        "prerequisite": "EEB365H1 and at least one organismal course from EEB266H1, EEB267H1, EEB268H1, EEB330H1, EEB331H1, EEB337H1, EEB356H1, EEB360H1, EEB380H1, EEB382H1, EEB384H1, EEB386H1, EEB388H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-33221": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "33221",
+                        "assignedRoom1": "ES 3087",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159637": {
+                        "instructorId": "1159637",
+                        "firstName": "D",
+                        "lastName": "Currie"
+                    },
+                    "1159638": {
+                        "instructorId": "1159638",
+                        "firstName": "D",
+                        "lastName": "Evans"
+                    },
+                    "1159639": {
+                        "instructorId": "1159639",
+                        "firstName": "H",
+                        "lastName": "Lopez-Fernandez"
+                    }
+                },
+                "meetingId": "1369",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "42",
+                        "postCode": "ASMAJ0110",
+                        "postName": "MA BIODIV & CONSERVATION BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "75",
+                        "postCode": "ASMAJ1006",
+                        "postName": "MA ECOLOGY & EVOLUTIONARY BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "270",
+                        "postCode": "ASSPE1006",
+                        "postName": "SP ECOLOGY & EVOLUTIONARY BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "WE-43543": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "43543",
+                        "assignedRoom1": "ROM 2B-05E",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "6458",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

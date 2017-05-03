@@ -1,0 +1,53 @@
+{
+    "SMC441Y1-Y-20169": {
+        "courseId": "4396",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Old and Middle Irish",
+        "code": "SMC441Y1",
+        "courseDescription": "<p>An introduction to Old and Middle Irish language and literature from the 7th to the 11th century.<\/p>",
+        "prerequisite": "Permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-44813": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "44813",
+                        "assignedRoom1": "LI 310",
+                        "assignedRoom2": "LI 310"
+                    }
+                },
+                "instructors": {
+                    "1162445": {
+                        "instructorId": "1162445",
+                        "firstName": "B",
+                        "lastName": "Miles"
+                    }
+                },
+                "meetingId": "13043",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "NEW424Y1-Y-20169": {
+        "courseId": "1592",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "The Capitalist Press and the New Imperialism (formerly NEW424H1)",
+        "code": "NEW424Y1",
+        "courseDescription": "<p>Social analysis of the state-corporate mainstream capitalist press (print\/electronic) problematically named The Free Press; its racist-sexist globalizing EuroAmerican cultural imperialism; the production of the commoditized consumer-subject and other re-conquest narratives and their implications for Caribbean and other World Majority peoples.<\/p>",
+        "prerequisite": "HIS230H1\/HIS231H1\/NEW120Y1\/NEW220H1\/NEW221H1\/NEW224Y1",
+        "corequisite": "",
+        "exclusion": "NEW424H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3), Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-42476": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42476",
+                        "assignedRoom1": "WI 2008",
+                        "assignedRoom2": "WI 2008"
+                    }
+                },
+                "instructors": {
+                    "1161097": {
+                        "instructorId": "1161097",
+                        "firstName": "A",
+                        "lastName": "Itwaru"
+                    }
+                },
+                "meetingId": "3317",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "HPS352H1-F-20169": {
+        "courseId": "3521",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "History of the Human Sciences",
+        "code": "HPS352H1",
+        "courseDescription": "<p>This course explores major developments and controversies in the human sciences: psychology, sociology, economics, political science, and anthropology. How have scientists in these areas explained human behavior? &nbsp;How have they described, evaluated, and tried to improve society? We examine these issues in their historical context and consider their contemporary relevance.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-16460": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "16460",
+                        "assignedRoom1": "NF 006",
+                        "assignedRoom2": null
+                    },
+                    "TH-16461": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "16461",
+                        "assignedRoom1": "NF 006",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160420": {
+                        "instructorId": "1160420",
+                        "firstName": "M",
+                        "lastName": "Solovey"
+                    }
+                },
+                "meetingId": "5708",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

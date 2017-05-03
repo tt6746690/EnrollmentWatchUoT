@@ -1,0 +1,53 @@
+{
+    "RLG262H1-S-20169": {
+        "courseId": "4650",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Introduction to Tibetan II (formerly RLG261Y1)",
+        "code": "RLG262H1",
+        "courseDescription": "<p>The second semester of an introduction to Classical Tibetan language course for beginners. Continued work on grammar and vocabulary, advancing to reading texts. This is an online course. Lectures will be delivered via the web and mandatory tutorials will require live webinar participation. The final exam will require attendance on the St. George campus, or in another authorized exam centre.<\/p>",
+        "prerequisite": "RLG261H1",
+        "corequisite": "",
+        "exclusion": "RLG261Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161924": {
+                        "instructorId": "1161924",
+                        "firstName": "F",
+                        "lastName": "Garrett"
+                    }
+                },
+                "meetingId": "14211",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "NMC380H1-F-20169": {
+        "courseId": "4668",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Religion and Myth in the Ancient Near East",
+        "code": "NMC380H1",
+        "courseDescription": "<p>The ancient religions of the ancient Near East are interesting for the profound insights their myths enshrine, and for the impact they had on Judaism, Christianity and Islam, as well as on Greek literature. This course will give equal attention to the religions of Mesopotamia (Sumerian, Assyro-Babylonian), and to those of Syria (especially Ugarit). (Offered in alternate years)<\/p>",
+        "prerequisite": "NMC102H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-45380": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45380",
+                        "assignedRoom1": "BA 2139",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161166": {
+                        "instructorId": "1161166",
+                        "firstName": "A",
+                        "lastName": "Porter"
+                    }
+                },
+                "meetingId": "15178",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Changed: August 3, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

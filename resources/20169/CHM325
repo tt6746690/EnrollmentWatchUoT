@@ -1,0 +1,123 @@
+{
+    "CHM325H1-S-20169": {
+        "courseId": "220",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Introduction to Inorganic and Polymer Materials Chemistry",
+        "code": "CHM325H1",
+        "courseDescription": "<p>Fashioned to illustrate how inorganic and polymer materials chemistry can be rationally used to synthesize superconductors, metals, semiconductors, ceramics, elastomers, thermoplastics, thermosets and polymer liquid crystals, with properties that can be tailored for applications in a range of advanced technologies. Coverage is fairly broad and is organized to crosscut many aspects of the field.&nbsp;<\/p>",
+        "prerequisite": "CHM220H1\/CHM222H1\/CHM2225Y, CHM238Y1, CHM247H1\/CHM249H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-2501": {
+                "schedule": {
+                    "TH-37662": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "37662",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 158"
+                    }
+                },
+                "instructors": {
+                    "1158895": {
+                        "instructorId": "1158895",
+                        "firstName": "E",
+                        "lastName": "Kumacheva"
+                    },
+                    "1158896": {
+                        "instructorId": "1158896",
+                        "firstName": "G",
+                        "lastName": "Ozin"
+                    }
+                },
+                "meetingId": "5701",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "2",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TH-41212": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "41212",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 158"
+                    }
+                },
+                "instructors": {
+                    "1158897": {
+                        "instructorId": "1158897",
+                        "firstName": "E",
+                        "lastName": "Kumacheva"
+                    },
+                    "1158898": {
+                        "instructorId": "1158898",
+                        "firstName": "G",
+                        "lastName": "Ozin"
+                    }
+                },
+                "meetingId": "544",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "50",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "RLG404H1-S-20169": {
+        "courseId": "2105",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Departmental Capstone-Research",
+        "code": "RLG404H1",
+        "courseDescription": "<p>An integrative capstone seminar that emphasizes iterative development of a research project, locating a research specialization within its broader disciplinary audience, and communicating the process and results of a research project to non-specialists within the study of religion.Open to Relgion Specialists and Majors only.<\/p>",
+        "prerequisite": "open to 4th year  Religion Specialists and Majors",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-46987": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "46987",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2123"
+                    }
+                },
+                "instructors": {
+                    "1161958": {
+                        "instructorId": "1161958",
+                        "firstName": "M",
+                        "lastName": "Christian"
+                    }
+                },
+                "meetingId": "4259",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Room Changed: September 19, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "64",
+                        "subjectCode": "RLG",
+                        "subjectName": "RELIGION",
+                        "designationId": "2",
+                        "designationCode": "MAJ",
+                        "designationName": "Major",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "64",
+                        "subjectCode": "RLG",
+                        "subjectName": "RELIGION",
+                        "designationId": "5",
+                        "designationCode": "SPE",
+                        "designationName": "Specialist",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

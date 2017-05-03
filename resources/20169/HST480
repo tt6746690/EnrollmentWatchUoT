@@ -1,0 +1,92 @@
+{
+    "HST480H1-F-20169": {
+        "courseId": "1229",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Independent Research in Health Studies (formerly UNI480H1)",
+        "code": "HST480H1",
+        "courseDescription": "<p>This one-semester course will permit students to gain academic credit for health studies pursued independently, or to participate in an ongoing health research project, under the supervision of a University of Toronto faculty member. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "HST209H1, HST250H1",
+        "corequisite": "",
+        "exclusion": "UNI480H1",
+        "recommendedPreparation": "HST350Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: College approval is required. Please contact Khamla Sengthavy for further information at: UC165, Monday to Friday, 9:00am-4:30pm, 416-978-8083, or khamla.sengthavy@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2471",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "HST480H1-S-20169": {
+        "courseId": "1229",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Independent Research in Health Studies (formerly UNI480H1)",
+        "code": "HST480H1",
+        "courseDescription": "<p>This one-semester course will permit students to gain academic credit for health studies pursued independently, or to participate in an ongoing health research project, under the supervision of a University of Toronto faculty member. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "HST209H1, HST250H1",
+        "corequisite": "",
+        "exclusion": "UNI480H1",
+        "recommendedPreparation": "HST350Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: College approval is required. Please contact Khamla Sengthavy for further information at: UC165, Monday to Friday, 9:00am-4:30pm, 416-978-8083, or khamla.sengthavy@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2472",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

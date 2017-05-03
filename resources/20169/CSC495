@@ -1,0 +1,155 @@
+{
+    "CSC495H1-F-20169": {
+        "courseId": "445",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Computer Science Project",
+        "code": "CSC495H1",
+        "courseDescription": "<p>This half-course involves a significant project in any area of Computer Science. The project may be undertaken individually or in small groups. The course is offered by arrangement with a Computer Science faculty member. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Three 300-\/400-level CSC half-courses, and permission of the Associate Chair, Undergraduate Studies. Contact the Computer Science Undergraduate Office for information about course enrolment procedures.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact the Computer Science Undergraduate Office at ug@cs.toronto.edu.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159318": {
+                        "instructorId": "1159318",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1006",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSC495H1-S-20169": {
+        "courseId": "445",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Computer Science Project",
+        "code": "CSC495H1",
+        "courseDescription": "<p>This half-course involves a significant project in any area of Computer Science. The project may be undertaken individually or in small groups. The course is offered by arrangement with a Computer Science faculty member. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Three 300-\/400-level CSC half-courses, and permission of the Associate Chair, Undergraduate Studies. Contact the Computer Science Undergraduate Office for information about course enrolment procedures.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact the Computer Science Undergraduate Office at ug@cs.toronto.edu.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159319": {
+                        "instructorId": "1159319",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1007",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSC495H1-Y-20169": {
+        "courseId": "445",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Computer Science Project",
+        "code": "CSC495H1",
+        "courseDescription": "<p>This half-course involves a significant project in any area of Computer Science. The project may be undertaken individually or in small groups. The course is offered by arrangement with a Computer Science faculty member. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Three 300-\/400-level CSC half-courses, and permission of the Associate Chair, Undergraduate Studies. Contact the Computer Science Undergraduate Office for information about course enrolment procedures.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact the Computer Science Undergraduate Office at ug@cs.toronto.edu.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159320": {
+                        "instructorId": "1159320",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1008",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

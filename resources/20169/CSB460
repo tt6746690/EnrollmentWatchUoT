@@ -1,0 +1,66 @@
+{
+    "CSB460H1-F-20169": {
+        "courseId": "382",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Plant Signal Transduction",
+        "code": "CSB460H1",
+        "courseDescription": "<p>Plant development, ecological adaptation and crop plant productivity depend on the sophisticated potential of plants to sense and compute signals to regulate their responses. An arsenal of genetic and genomic tools is employed to elucidate these plant signal transduction pathways. Examples from the original literature will be used to introduce general concepts of plant signal transduction, molecular biology and genomics and their application in understanding and influencing plant growth and development.<\/p>",
+        "prerequisite": "BCH311H1\/CSB349H1\/MGY311Y1 or permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41584": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41584",
+                        "assignedRoom1": "ES 3087",
+                        "assignedRoom2": null
+                    },
+                    "WE-41585": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41585",
+                        "assignedRoom1": "ES 3087",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159113": {
+                        "instructorId": "1159113",
+                        "firstName": "A",
+                        "lastName": "Caragea"
+                    },
+                    "1159114": {
+                        "instructorId": "1159114",
+                        "firstName": "P",
+                        "lastName": "McCourt"
+                    }
+                },
+                "meetingId": "818",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "36",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

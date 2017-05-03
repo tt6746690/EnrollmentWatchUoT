@@ -1,0 +1,53 @@
+{
+    "ITA320H1-F-20169": {
+        "courseId": "1319",
+        "org": "ITA",
+        "orgName": "Italian (ITA)",
+        "courseTitle": "Dante: Vita Nuova and Divina Commedia (Inferno)",
+        "code": "ITA320H1",
+        "courseDescription": "<p>Dante's poetry and great Christian epic of conversion explode with the passions of this world. This course focuses on intertextual and rhetorical strategies used to fashion&nbsp;the author's&nbsp;complex vision of contemporary society within the framework of providential history. This course includes a component designed to enhance students' research experience.<\/p>",
+        "prerequisite": "ITA250Y1\/ITA251Y1\/ITA252Y1",
+        "corequisite": "",
+        "exclusion": "ITA311H1\/ITA320Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-38876": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "38876",
+                        "assignedRoom1": "CR 405",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160628": {
+                        "instructorId": "1160628",
+                        "firstName": "F",
+                        "lastName": "Pierno"
+                    }
+                },
+                "meetingId": "2656",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

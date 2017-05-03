@@ -1,0 +1,85 @@
+{
+    "STA414H1-S-20169": {
+        "courseId": "2443",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Statistical Methods for Data Mining and Machine Learning",
+        "code": "STA414H1",
+        "courseDescription": "<p>Statistical aspects of supervised learning: regression with spline bases, regularization methods, parametric and nonparametric classification methods, nearest neighbours, cross-validation and model selection, generalized additive models, trees, model averaging, clustering and nearest neighbour methods for unsupervised learning.<\/p>",
+        "prerequisite": "CSC108H1\/CSC120H1\/CSC121H1\/CSC148H1, STA302H1\/CSC411H1, STA303H1 (recommended)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-32089": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "32089",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "EM 119"
+                    }
+                },
+                "instructors": {
+                    "1162617": {
+                        "instructorId": "1162617",
+                        "firstName": "D",
+                        "lastName": "Duvenaud"
+                    }
+                },
+                "meetingId": "13838",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "49",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TU-47175": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "22:00",
+                        "meetingScheduleId": "47175",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1071"
+                    }
+                },
+                "instructors": {
+                    "1162618": {
+                        "instructorId": "1162618",
+                        "firstName": "M",
+                        "lastName": "Ebden"
+                    }
+                },
+                "meetingId": "15295",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "78",
+                "actualEnrolment": "44",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "New Section Added: October 5, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

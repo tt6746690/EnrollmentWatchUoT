@@ -1,0 +1,58 @@
+{
+    "CSB492H1-S-20169": {
+        "courseId": "389",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Advanced Topics in Cell and Systems Biology",
+        "code": "CSB492H1",
+        "courseDescription": "<p>This advanced course covers topics in cell and systems biology at all levels of biological organization.&nbsp; Students learn about the wide array of state-of-the-art molecular, genomic, proteomic, cell biological, imaging, physiological and computational tools and methods that researchers use to study the behaviour of cells.<\/p>",
+        "prerequisite": "CSB325H1\/CSB349H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-41591": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "41591",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RW 143"
+                    }
+                },
+                "instructors": {
+                    "1159123": {
+                        "instructorId": "1159123",
+                        "firstName": "B",
+                        "lastName": "Chang"
+                    },
+                    "1159124": {
+                        "instructorId": "1159124",
+                        "firstName": "T",
+                        "lastName": "Harris"
+                    }
+                },
+                "meetingId": "825",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "32",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

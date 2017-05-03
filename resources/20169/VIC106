@@ -1,0 +1,104 @@
+{
+    "VIC106H1-F-20169": {
+        "courseId": "2524",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Psychology and Society",
+        "code": "VIC106H1",
+        "courseDescription": "<p>This course explores central developments and ongoing controversies in the scientific study of the human mind, brain and behaviour. It examines topics such as: psychoanalysis, behaviourism, humanistic psychology, evolutionary psychology, intelligence testing, and feminist perspectives. Goals include understanding the historical evolution and social relevance of scientific psychology. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "VIC206H1, Innis One, Munk One, New One, SMC One, Trinity One, UC One, Vic One, Woodsworth One;  No more than another 0.5 FCE from 199 seminars or Vic One Hundred.",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-34226": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "34226",
+                        "assignedRoom1": "VC 211",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162736": {
+                        "instructorId": "1162736",
+                        "firstName": "J",
+                        "lastName": "Faflak"
+                    }
+                },
+                "meetingId": "13656",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "VIC106H1-S-20169": {
+        "courseId": "2524",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Psychology and Society",
+        "code": "VIC106H1",
+        "courseDescription": "<p>This course explores central developments and ongoing controversies in the scientific study of the human mind, brain and behaviour. It examines topics such as: psychoanalysis, behaviourism, humanistic psychology, evolutionary psychology, intelligence testing, and feminist perspectives. Goals include understanding the historical evolution and social relevance of scientific psychology. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "VIC206H1, Innis One, Munk One, New One, SMC One, Trinity One, UC One, Vic One, Woodsworth One;  No more than another 0.5 FCE from 199 seminars or Vic One Hundred.",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-34229": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "34229",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 211"
+                    }
+                },
+                "instructors": {
+                    "1162737": {
+                        "instructorId": "1162737",
+                        "firstName": "J",
+                        "lastName": "FAFLAK"
+                    }
+                },
+                "meetingId": "5158",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

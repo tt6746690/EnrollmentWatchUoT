@@ -1,0 +1,69 @@
+{
+    "GER372H1-S-20169": {
+        "courseId": "3299",
+        "org": "GER",
+        "orgName": "German (GER) (JGJ)",
+        "courseTitle": "German Business Culture 2",
+        "code": "GER372H1",
+        "courseDescription": "<p>This course offers an intensive development of the linguistic skills needed in the context of business transactions and management in German-speaking countries. Through materials from various sources, students develop oral and written skills for competence in German business communication as well as cross-cultural awareness.<\/p>",
+        "prerequisite": "GER370H1",
+        "corequisite": "",
+        "exclusion": "GER470H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-35932": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "35932",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 403"
+                    },
+                    "WE-35933": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "35933",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 403"
+                    },
+                    "FR-35934": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "35934",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 403"
+                    }
+                },
+                "instructors": {
+                    "1160108": {
+                        "instructorId": "1160108",
+                        "firstName": "M",
+                        "lastName": "Hager"
+                    }
+                },
+                "meetingId": "6200",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

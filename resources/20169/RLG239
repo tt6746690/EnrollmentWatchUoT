@@ -1,0 +1,53 @@
+{
+    "RLG239H1-F-20169": {
+        "courseId": "4113",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Special Topics",
+        "code": "RLG239H1",
+        "courseDescription": "<p>Some topic of central interest to students of religion, treated on a once-only basis. For details of this years offering, consult the Departments current undergraduate handbook.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-46820": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46820",
+                        "assignedRoom1": "JH 317",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161918": {
+                        "instructorId": "1161918",
+                        "firstName": "N",
+                        "lastName": "Moumtaz"
+                    }
+                },
+                "meetingId": "14478",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "The Politics of Charity",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Sept 14, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

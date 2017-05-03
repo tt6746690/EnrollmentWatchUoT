@@ -1,0 +1,33 @@
+{
+    "SMC436H1-S-20169": {
+        "courseId": "2344",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Advanced Mediaeval Latin Seminar",
+        "code": "SMC436H1",
+        "courseDescription": "<p>This seminar explores the intellectual milieu of the cathedral schools of the twelfth century and the debates of its famous and infamous protagonists: Abelard, for instance, and Bernard of Clairvaux, Heloise, Peter the Venerable, etc. Readings in the original Latin will be discussed and commented upon by students.<\/p>",
+        "prerequisite": "SMC323H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SMC210H1\/SMC212H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "14594",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Advanced Latin",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "October 18, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

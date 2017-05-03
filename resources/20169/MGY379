@@ -1,0 +1,138 @@
+{
+    "MGY379Y1-Y-20169": {
+        "courseId": "1514",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Microbiology Laboratory",
+        "code": "MGY379Y1",
+        "courseDescription": "<p>Laboratory experiments will teach important concepts and provide students with hands-on experience in working safely with medically-important bacteria and viruses. Analysis of the results will help to develop skills in data analysis. Valuable not only for advanced work in microbiology but also in related fields that make use of bacteria and viruses as research tools. Topics include molecular techniques for identification and characterization of bacteria and viruses, biofilms, antibiotic resistance, site-directed mutagenesis, communication of bacteria with each other and their environment, propagation and assay of viruses, host response to infection, viral vectors.<\/p>",
+        "prerequisite": "BIO120H1, BIO230H1, BIO260H1\/HMB265H1",
+        "corequisite": "MGY377H1, MGY378H1",
+        "exclusion": "MGY376H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cAE\u201d indicator courses: students who miss the registration deadline should contact the instructor directly. NOTE REGARDING LAB TIMES: PRA0101 will be on Tues 9am-12pm in both the first and second term. PRA0201 will take place on Tues 9am-12pm in first term and Tues 2-5pm in second term. PRA0201 will be offered if numbers exceed capacity in PRA0101. Capacity in second term is determined by the need to work in biological safety cabinets which are limited in number. Students are encouraged to keep Tuesdays 2-5pm open on their timetable in the second term.\r\n",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42864": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42864",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": "MS 4279"
+                    }
+                },
+                "instructors": {
+                    "1160995": {
+                        "instructorId": "1160995",
+                        "firstName": "A",
+                        "lastName": "Bognar"
+                    },
+                    "1160996": {
+                        "instructorId": "1160996",
+                        "firstName": "M",
+                        "lastName": "Brown"
+                    }
+                },
+                "meetingId": "3220",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "1",
+                        "postCode": "*",
+                        "postName": "",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "TU-39389": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39389",
+                        "assignedRoom1": "MS 3381",
+                        "assignedRoom2": "MS 3381"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3221",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "TU-39390": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39390",
+                        "assignedRoom1": "MS 3282",
+                        "assignedRoom2": "MS 3282"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3222",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

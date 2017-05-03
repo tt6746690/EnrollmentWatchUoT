@@ -1,0 +1,53 @@
+{
+    "CSB443H1-F-20169": {
+        "courseId": "375",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Homeostasis",
+        "code": "CSB443H1",
+        "courseDescription": "<p>This integrative physiology course focuses on active and passive mechanisms maintaining cellular and organismal function. Students debate current research and controversies in homeostasis, allostasis and performance. Emphasis is on critical evaluation of concepts, assumptions, data and interpretations.&nbsp; This course is interactive, and students are expected to contribute to class activities.<\/p>",
+        "prerequisite": "CJH332H1\/CSB325H1\/CSB332H1\/CSB343H1\/CSB346H1 or permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Students must submit an application form to the CSB Undergraduate Office (RW424) by Monday, 20 June, to be considered with the first round of applicants.  Forms are available at www.csb.utoronto.ca\/undergraduate-studies\/forms. For more information, please contact the Undergraduate Coordinator, Janet Mannone, at janet.mannone@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-42749": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42749",
+                        "assignedRoom1": "RW 15A",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159105": {
+                        "instructorId": "1159105",
+                        "firstName": "R",
+                        "lastName": "Stephenson"
+                    }
+                },
+                "meetingId": "811",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

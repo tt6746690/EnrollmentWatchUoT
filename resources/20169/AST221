@@ -1,0 +1,69 @@
+{
+    "AST221H1-F-20169": {
+        "courseId": "129",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (PLN)",
+        "courseTitle": "Stars and Planets",
+        "code": "AST221H1",
+        "courseDescription": "<p>The (astro)physics of stars and planets, their observed variety, their structure, formation and evolution. Introduction to telescopes and instrumentation.<\/p>",
+        "prerequisite": "PHY132H1\/PHY152H1\/PHY180H1",
+        "corequisite": "",
+        "exclusion": "AST101H1\/AST201H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41094": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41094",
+                        "assignedRoom1": "AB 107",
+                        "assignedRoom2": null
+                    },
+                    "WE-41095": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41095",
+                        "assignedRoom1": "AB 107",
+                        "assignedRoom2": null
+                    },
+                    "FR-41096": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41096",
+                        "assignedRoom1": "AB 107",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158564": {
+                        "instructorId": "1158564",
+                        "firstName": "Y",
+                        "lastName": "Wu"
+                    }
+                },
+                "meetingId": "277",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "52",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

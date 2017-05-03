@@ -1,0 +1,129 @@
+{
+    "PHY489H1-F-20169": {
+        "courseId": "1865",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Introduction to High Energy Physics",
+        "code": "PHY489H1",
+        "courseDescription": "<p>This course introduces the basics of fundamental particles and the strong, weak and electromagnetic forces that govern their interactions in the Standard Model of particle physics. Topics include relativistic kinematics, conservation laws, particle decays and scattering processes, with an emphasis on the techniques used for calculating experimental observables.<\/p>",
+        "prerequisite": "PHY354H1, PHY356H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40962": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40962",
+                        "assignedRoom1": "MP 134",
+                        "assignedRoom2": null
+                    },
+                    "TH-40963": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40963",
+                        "assignedRoom1": "MP 134",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161518": {
+                        "instructorId": "1161518",
+                        "firstName": "H",
+                        "lastName": "Tanaka"
+                    }
+                },
+                "meetingId": "3875",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "47",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "TU-40964": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40964",
+                        "assignedRoom1": "MP 134",
+                        "assignedRoom2": null
+                    },
+                    "TH-40965": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40965",
+                        "assignedRoom1": "MP 134",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161519": {
+                        "instructorId": "1161519",
+                        "firstName": "H",
+                        "lastName": "Tanaka"
+                    }
+                },
+                "meetingId": "14873",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "12",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

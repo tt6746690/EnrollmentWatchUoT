@@ -1,0 +1,104 @@
+{
+    "PHY478H1-F-20169": {
+        "courseId": "1859",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Undergraduate Research Project",
+        "code": "PHY478H1",
+        "courseDescription": "<p>An individual experimental or theoretical research project undertaken with the advice of, and under the direction of, a staff member. A student may take advantage of this course either to specialize further in a field of interest or to explore independent research. Consult the department web site for some possible topics. This course may also be available in the summer. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Consult the Physics Associate Chair (Undergraduate Studies)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses and any undergraduate inquiries contact: Undergraduate Coordinator at ugcoord@physics.utoronto.ca or 416-978-7057, in room MP 301, McLennan Physical Labs.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161505": {
+                        "instructorId": "1161505",
+                        "firstName": "J",
+                        "lastName": "Harlow"
+                    }
+                },
+                "meetingId": "3868",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PHY478H1-S-20169": {
+        "courseId": "1859",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Undergraduate Research Project",
+        "code": "PHY478H1",
+        "courseDescription": "<p>An individual experimental or theoretical research project undertaken with the advice of, and under the direction of, a staff member. A student may take advantage of this course either to specialize further in a field of interest or to explore independent research. Consult the department web site for some possible topics. This course may also be available in the summer. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Consult the Physics Associate Chair (Undergraduate Studies)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses and any undergraduate inquiries contact: Undergraduate Coordinator at ugcoord@physics.utoronto.ca or 416-978-7057, in room MP 301, McLennan Physical Labs.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161506": {
+                        "instructorId": "1161506",
+                        "firstName": "J",
+                        "lastName": "Harlow"
+                    }
+                },
+                "meetingId": "3869",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

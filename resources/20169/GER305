@@ -1,0 +1,61 @@
+{
+    "GER305H1-F-20169": {
+        "courseId": "955",
+        "org": "GER",
+        "orgName": "German (GER) (JGJ)",
+        "courseTitle": "German Literature II",
+        "code": "GER305H1",
+        "courseDescription": "<p>Building on the work of GER205H1, this course offers a survey of German literature and culture from the eighteenth to the twentieth century. Within a chronological framework, students read and analyze excerpts from representative works of major German writers.<\/p>\n<p>&nbsp;Note: This course is required for the major and specialist program, and should be taken concurrently with <a target=_blank\" href=\"http:\/\/www.artsandscience.utoronto.ca\/ofr\/calendar\/crs_ger.htm#GER300Y1\">GER300Y1<\/a><\/p>\"",
+        "prerequisite": "GER205H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42412": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42412",
+                        "assignedRoom1": "TF 202",
+                        "assignedRoom2": null
+                    },
+                    "WE-42413": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "42413",
+                        "assignedRoom1": "TF 202",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160100": {
+                        "instructorId": "1160100",
+                        "firstName": "M",
+                        "lastName": "Burks"
+                    }
+                },
+                "meetingId": "1974",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

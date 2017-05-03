@@ -1,0 +1,61 @@
+{
+    "ACT348H1-F-20169": {
+        "courseId": "31",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Advanced Life Contingencies",
+        "code": "ACT348H1",
+        "courseDescription": "<p>Determination of benefit premium and benefit reserves for life insurance and annuities; analysis of insurance loss random variables; theory of life contingencies for multiple lives.<\/p>",
+        "prerequisite": "ACT240H1 (minimum grade C); ACT245H1 (minimum grade C); ACT247H1 (minimum grade C); (STA257H1,STA261H1); MAT237Y1\/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-40469": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "40469",
+                        "assignedRoom1": "EM 001",
+                        "assignedRoom2": null
+                    },
+                    "WE-40470": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "40470",
+                        "assignedRoom1": "EM 001",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158429": {
+                        "instructorId": "1158429",
+                        "firstName": "A",
+                        "lastName": "Badescu"
+                    }
+                },
+                "meetingId": "43",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "90",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

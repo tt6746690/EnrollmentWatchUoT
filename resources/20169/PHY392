@@ -1,0 +1,129 @@
+{
+    "PHY392H1-S-20169": {
+        "courseId": "1843",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Physics of Climate",
+        "code": "PHY392H1",
+        "courseDescription": "<p>This course provides an introduction to climate physics and the earth-atmosphere-ocean system.&nbsp; Topics include solar and terrestrial radiation; global energy balance; radiation laws; radiative transfer; atmospheric structure; convection; the meridional structure of the atmosphere; the general circulation of the atmosphere; the ocean and its circulation; and climate variability.<\/p>",
+        "prerequisite": "PHY231H1\/PHY250H1, MAT235Y1\/MAT237Y1\/MAT257Y1",
+        "corequisite": "",
+        "exclusion": "PHY315H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-43589": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "43589",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 137"
+                    },
+                    "TH-43590": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "43590",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 137"
+                    }
+                },
+                "instructors": {
+                    "1161441": {
+                        "instructorId": "1161441",
+                        "firstName": "C",
+                        "lastName": "Lee"
+                    }
+                },
+                "meetingId": "3847",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "88",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "TU-43591": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "43591",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 137"
+                    },
+                    "TH-43592": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "43592",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 137"
+                    }
+                },
+                "instructors": {
+                    "1161442": {
+                        "instructorId": "1161442",
+                        "firstName": "C",
+                        "lastName": "Lee"
+                    }
+                },
+                "meetingId": "14780",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

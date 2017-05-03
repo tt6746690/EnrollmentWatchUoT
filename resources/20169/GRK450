@@ -1,0 +1,61 @@
+{
+    "GRK450H1-S-20169": {
+        "courseId": "3357",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Greek Epic II",
+        "code": "GRK450H1",
+        "courseDescription": "<p>Advanced readings from Greek epics, including Homer.<\/p>",
+        "prerequisite": "One FCE in the GRK 300-series",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-45396": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45396",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LI 205"
+                    },
+                    "WE-45397": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45397",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LI 205"
+                    }
+                },
+                "instructors": {
+                    "1160214": {
+                        "instructorId": "1160214",
+                        "firstName": "J",
+                        "lastName": "Burgess"
+                    }
+                },
+                "meetingId": "14100",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

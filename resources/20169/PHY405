@@ -1,0 +1,61 @@
+{
+    "PHY405H1-S-20169": {
+        "courseId": "1844",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Electronics Lab",
+        "code": "PHY405H1",
+        "courseDescription": "<p>Electrical circuits, networks and devices are all-pervasive in the modern world. This laboratory course is an introduction to the world of electronics. Students will learn the joys and perils of electronics, by designing, constructing and debugging circuits and devices. The course will cover topics ranging from filters and operational amplifiers to micro-controllers, and will introduce students to concepts such as impedance, transfer functions, feedback and noise. The course will include lectures, assigned readings, and a final circuit project.<\/p>",
+        "prerequisite": "PHY224H1, PHY250H1. PHY405H1 may be taken in third or fourth year",
+        "corequisite": "",
+        "exclusion": "PHY305H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-46232": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46232",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 134"
+                    },
+                    "FR-46231": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46231",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 238"
+                    }
+                },
+                "instructors": {
+                    "1161443": {
+                        "instructorId": "1161443",
+                        "firstName": "A",
+                        "lastName": "Vutha"
+                    }
+                },
+                "meetingId": "3848",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

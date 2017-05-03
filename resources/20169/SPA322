@@ -1,0 +1,53 @@
+{
+    "SPA322H1-F-20169": {
+        "courseId": "2416",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "Introduction to Hispanic Linguistics",
+        "code": "SPA322H1",
+        "courseDescription": "<p>The basic concepts and analytic tools of linguistics applied to the study of Spanish, with a focus on the Spanish phonological, morphological, and syntactic systems. Theoretical discussion and practical exercises in analytic techniques.&nbsp;<\/p>",
+        "prerequisite": "SPA220Y1\/SPA219Y1; or instructor's permission",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SPA221H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-45054": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45054",
+                        "assignedRoom1": "NF 113",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162569": {
+                        "instructorId": "1162569",
+                        "firstName": "O",
+                        "lastName": "Tararova"
+                    }
+                },
+                "meetingId": "14079",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,435 @@
+{
+    "CHM247H1-F-20169": {
+        "courseId": "215",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Introductory Organic Chemistry II",
+        "code": "CHM247H1",
+        "courseDescription": "<p>Reactions of organic compounds. Principles of mechanism, synthesis, and spectroscopy, continuing from CHM138H1. This course is recommended for students in life and health science programs that involve a small amount of chemistry. Students enrolled in any chemistry specialist program (including Biological Chemistry and Environmental Chemistry) or who will be including a substantial amount of chemistry in their degree (such as those following a chemistry major program) are strongly encouraged to take CHM249H1. (Lab Materials Fee: $25).<\/p>",
+        "prerequisite": "(CHM135H1\/CHM139H1, CHM136H1\/CHM138H1)\/CHM151Y1",
+        "corequisite": "",
+        "exclusion": "CHM249H1, CHM243H5, CHMB42H3",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "A one-hour tutorial is integrated into the lecture time. Wednesday lectures will alternate with the practical section, PRA5101, on W6:30-10. First meeting of PRA5101 will be on September 21.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-43567": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "43567",
+                        "assignedRoom1": "LM 162",
+                        "assignedRoom2": null
+                    },
+                    "TH-43566": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "43566",
+                        "assignedRoom1": "LM 162",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158864": {
+                        "instructorId": "1158864",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    },
+                    "1158865": {
+                        "instructorId": "1158865",
+                        "firstName": "S",
+                        "lastName": "Rousseaux"
+                    }
+                },
+                "meetingId": "524",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "144",
+                "actualEnrolment": "66",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-5101": {
+                "schedule": {
+                    "WE-43568": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:30",
+                        "meetingEndTime": "22:00",
+                        "meetingScheduleId": "43568",
+                        "assignedRoom1": "LM 217",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158866": {
+                        "instructorId": "1158866",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    }
+                },
+                "meetingId": "5697",
+                "teachingMethod": "PRA",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "144",
+                "actualEnrolment": "65",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CHM247H1-S-20169": {
+        "courseId": "215",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Introductory Organic Chemistry II",
+        "code": "CHM247H1",
+        "courseDescription": "<p>Reactions of organic compounds. Principles of mechanism, synthesis, and spectroscopy, continuing from CHM138H1. This course is recommended for students in life and health science programs that involve a small amount of chemistry. Students enrolled in any chemistry specialist program (including Biological Chemistry and Environmental Chemistry) or who will be including a substantial amount of chemistry in their degree (such as those following a chemistry major program) are strongly encouraged to take CHM249H1. (Lab Materials Fee: $25).<\/p>",
+        "prerequisite": "(CHM135H1\/CHM139H1, CHM136H1\/CHM138H1)\/CHM151Y1",
+        "corequisite": "",
+        "exclusion": "CHM249H1, CHM243H5, CHMB42H3",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Laboratory (PRA) sections meet every other week.  PRA sections ending in 1 will begin the week of January 16; PRA sections ending in 2 will begin the week of January 23. Students may attend a tutorial at one of the following times: T5, W5, R3 or F2.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41192": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41192",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    },
+                    "WE-41193": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41193",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    },
+                    "FR-41191": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41191",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    }
+                },
+                "instructors": {
+                    "1158867": {
+                        "instructorId": "1158867",
+                        "firstName": "A",
+                        "lastName": "Dicks"
+                    },
+                    "1158868": {
+                        "instructorId": "1158868",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    },
+                    "1158869": {
+                        "instructorId": "1158869",
+                        "firstName": "M",
+                        "lastName": "Nitz"
+                    },
+                    "1158870": {
+                        "instructorId": "1158870",
+                        "firstName": "M",
+                        "lastName": "Winnik"
+                    }
+                },
+                "meetingId": "525",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "400",
+                "actualEnrolment": "339",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "MO-41197": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41197",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    },
+                    "TU-41199": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41199",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    },
+                    "TH-41198": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41198",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    }
+                },
+                "instructors": {
+                    "1158871": {
+                        "instructorId": "1158871",
+                        "firstName": "A",
+                        "lastName": "Dicks"
+                    },
+                    "1158872": {
+                        "instructorId": "1158872",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    },
+                    "1158873": {
+                        "instructorId": "1158873",
+                        "firstName": "M",
+                        "lastName": "Nitz"
+                    },
+                    "1158874": {
+                        "instructorId": "1158874",
+                        "firstName": "M",
+                        "lastName": "Winnik"
+                    }
+                },
+                "meetingId": "526",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "400",
+                "actualEnrolment": "137",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "TU-43370": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "08:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43370",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 217"
+                    }
+                },
+                "instructors": {
+                    "1158875": {
+                        "instructorId": "1158875",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    }
+                },
+                "meetingId": "527",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "128",
+                "actualEnrolment": "100",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0202": {
+                "schedule": {
+                    "TU-43371": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "08:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43371",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 217"
+                    }
+                },
+                "instructors": {
+                    "1158876": {
+                        "instructorId": "1158876",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    }
+                },
+                "meetingId": "528",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "128",
+                "actualEnrolment": "101",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0301": {
+                "schedule": {
+                    "WE-43372": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "08:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43372",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 217"
+                    }
+                },
+                "instructors": {
+                    "1158877": {
+                        "instructorId": "1158877",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    }
+                },
+                "meetingId": "529",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "128",
+                "actualEnrolment": "41",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0302": {
+                "schedule": {
+                    "WE-43373": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "08:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43373",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 217"
+                    }
+                },
+                "instructors": {
+                    "1158878": {
+                        "instructorId": "1158878",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    }
+                },
+                "meetingId": "530",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0302",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "128",
+                "actualEnrolment": "32",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0401": {
+                "schedule": {
+                    "TH-43374": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "08:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43374",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 217"
+                    }
+                },
+                "instructors": {
+                    "1158879": {
+                        "instructorId": "1158879",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    }
+                },
+                "meetingId": "531",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "128",
+                "actualEnrolment": "98",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0402": {
+                "schedule": {
+                    "TH-43375": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "08:30",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43375",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 217"
+                    }
+                },
+                "instructors": {
+                    "1158880": {
+                        "instructorId": "1158880",
+                        "firstName": "C",
+                        "lastName": "Kutas"
+                    }
+                },
+                "meetingId": "532",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0402",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "128",
+                "actualEnrolment": "104",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

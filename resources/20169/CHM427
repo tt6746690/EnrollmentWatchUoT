@@ -1,0 +1,53 @@
+{
+    "CHM427H1-S-20169": {
+        "courseId": "237",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Statistical Mechanics",
+        "code": "CHM427H1",
+        "courseDescription": "<p>Ensemble theory in statistical mechanics. Applications, including imperfect gases and liquid theories. Introduction to non-equilibrium problems.<\/p>",
+        "prerequisite": "CHM326H1, CHM328H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-41244": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "41244",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 123"
+                    }
+                },
+                "instructors": {
+                    "1158930": {
+                        "instructorId": "1158930",
+                        "firstName": "R",
+                        "lastName": "Miller"
+                    }
+                },
+                "meetingId": "571",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

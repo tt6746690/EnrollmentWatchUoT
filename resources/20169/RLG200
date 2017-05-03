@@ -1,0 +1,53 @@
+{
+    "RLG200H1-F-20169": {
+        "courseId": "2069",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "The Study of Religion (formerly RLG200Y1)",
+        "code": "RLG200H1",
+        "courseDescription": "<p>An introduction to the discipline of the study of religion. This course surveys methods in the study of religion and the history of the discipline in order to prepare students to be majors or specialists in the study of religion.<\/p>",
+        "prerequisite": "Open to Religion Specialists and Majors",
+        "corequisite": "",
+        "exclusion": "RLG200Y1, RLGB10H3, RLG105H5",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-34708": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "34708",
+                        "assignedRoom1": "SS 2127",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161904": {
+                        "instructorId": "1161904",
+                        "firstName": "J",
+                        "lastName": "Stein"
+                    }
+                },
+                "meetingId": "4220",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

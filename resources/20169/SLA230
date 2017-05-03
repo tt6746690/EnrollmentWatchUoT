@@ -1,0 +1,33 @@
+{
+    "SLA230H1-F-20169": {
+        "courseId": "4275",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Golems and Robots on Stage and Screen",
+        "code": "SLA230H1",
+        "courseDescription": "<p>Exploring the ways artificial creatures are presented on stage and on screen, this course introduces students to major issues in the study of theatre, cinema, and popular culture. Focus on case studies from Central and Eastern Europe. Taught in English, all readings in English.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "SLA103H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "13533",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "September 7, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

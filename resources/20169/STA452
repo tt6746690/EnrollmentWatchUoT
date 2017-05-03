@@ -1,0 +1,61 @@
+{
+    "STA452H1-F-20169": {
+        "courseId": "2448",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Mathematical Statistics I (formerly STA352Y1)",
+        "code": "STA452H1",
+        "courseDescription": "<p>Statistical theory and its applications at an advanced mathematical level. Topics include probability and distribution theory as it specifically pertains to the statistical analysis of data. Linear models and the geometry of data, least squares and the connection to conditional expectation. The basic concept of inference and the likelihood function.<\/p>",
+        "prerequisite": "MAT223H1\/MAT240H1; MAT235Y1\/MAT237Y1\/MAT257Y1; (STA257H1,STA355H1)\/STA347H1. Note:  MAT237Y1\/MAT257Y1; (MAT223H1, MAT224H1)\/MAT240H1 very strongly recommended.",
+        "corequisite": "",
+        "exclusion": "STA352Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-45971": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "45971",
+                        "assignedRoom1": "WI 1017",
+                        "assignedRoom2": null
+                    },
+                    "FR-45970": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45970",
+                        "assignedRoom1": "WI 1017",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162625": {
+                        "instructorId": "1162625",
+                        "firstName": "D",
+                        "lastName": "Brenner"
+                    }
+                },
+                "meetingId": "5031",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

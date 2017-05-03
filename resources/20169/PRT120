@@ -1,0 +1,85 @@
+{
+    "PRT120Y1-Y-20169": {
+        "courseId": "1960",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "Portuguese for Speakers of Spanish",
+        "code": "PRT120Y1",
+        "courseDescription": "<p>Introduction to the Portuguese language for speakers of Spanish. Overview of basic grammatical structures, development of vocabulary and oral and written expression.<\/p>",
+        "prerequisite": "Advanced (min. SPA320Y), or native (or near-native) knowledge of Spanish; (or possibly of other Romance language); no previous knowledge of Portuguese.",
+        "corequisite": "",
+        "exclusion": "PRT100Y1, PRT110Y1, PRT219Y1\/PRT220Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Students must enroll in the mandatory tutorial section on ACORN.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-26119": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "26119",
+                        "assignedRoom1": "NF 007",
+                        "assignedRoom2": "NF 007"
+                    }
+                },
+                "instructors": {
+                    "1161674": {
+                        "instructorId": "1161674",
+                        "firstName": "A",
+                        "lastName": "Alves dos Santos Rato"
+                    }
+                },
+                "meetingId": "13908",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-36579": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "36579",
+                        "assignedRoom1": "NF 007",
+                        "assignedRoom2": "NF 007"
+                    }
+                },
+                "instructors": {
+                    "1161675": {
+                        "instructorId": "1161675",
+                        "firstName": "A",
+                        "lastName": "Alves dos Santos Rato"
+                    }
+                },
+                "meetingId": "13909",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "CAS498H1-F-20169": {
+        "courseId": "183",
+        "org": "ASI",
+        "orgName": "Contemporary Asian Studies (CAS) (JHA) (JPA) ",
+        "courseTitle": "Independent Research",
+        "code": "CAS498H1",
+        "courseDescription": "<p>Supervised independent research on a topic agreed on by the student and supervisor before enrolment in the course. Open to advanced students with a strong background in contemporary Asian studies. A maximum of one year of Independent Research courses is allowed per program. Contact hours with the supervisor may vary, but typically comprise of one hour per week. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "At least 14 FCEs including CAS200Y1\/(CAS201H1 and CAS202H1), CAS310H1; enrolment in the Contemporary Asian Studies major or minor, and permission from the Program Director",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "CAS320H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Katherine MacIvor, Program Administrator and Communications Officer, at ai.asianstudies@utoronto.ca.\r\n\r\n",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158693": {
+                        "instructorId": "1158693",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "429",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CAS498H1-S-20169": {
+        "courseId": "183",
+        "org": "ASI",
+        "orgName": "Contemporary Asian Studies (CAS) (JHA) (JPA) ",
+        "courseTitle": "Independent Research",
+        "code": "CAS498H1",
+        "courseDescription": "<p>Supervised independent research on a topic agreed on by the student and supervisor before enrolment in the course. Open to advanced students with a strong background in contemporary Asian studies. A maximum of one year of Independent Research courses is allowed per program. Contact hours with the supervisor may vary, but typically comprise of one hour per week. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "At least 14 FCEs including CAS200Y1\/(CAS201H1 and CAS202H1), CAS310H1; enrolment in the Contemporary Asian Studies major or minor, and permission from the Program Director",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "CAS320H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Katherine MacIvor, Program Administrator and Communications Officer, at ai.asianstudies@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158694": {
+                        "instructorId": "1158694",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "430",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CAS498Y1-Y-20169": {
+        "courseId": "184",
+        "org": "ASI",
+        "orgName": "Contemporary Asian Studies (CAS) (JHA) (JPA) ",
+        "courseTitle": "Independent Research",
+        "code": "CAS498Y1",
+        "courseDescription": "<p>Supervised independent research on a topic agreed on by the student and supervisor before enrolment in the course. Open to advanced students with a strong background in contemporary Asian studies. A maximum of one year of Independent Research courses is allowed per program. Contact hours with the supervisor may vary, but typically comprise of one hour per week. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "At least 14 FCEs including CAS200Y1\/(CAS201H1, CAS202H1), CAS310H1; enrolment in the Contemporary Asian Studies major or minor, and permission from the Program Director",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "CAS320H1",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Katherine MacIvor, Program Administrator and Communications Officer, at ai.asianstudies@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158695": {
+                        "instructorId": "1158695",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "431",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

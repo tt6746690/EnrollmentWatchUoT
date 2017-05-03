@@ -1,0 +1,33 @@
+{
+    "SLA475H1-F-20169": {
+        "courseId": "4338",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Modern Czech Drama",
+        "code": "SLA475H1",
+        "courseDescription": "<p>This course explores the role of theatre and drama in Czech society by focusing on the most important modern Czech plays as well as on the concepts of the modern Czech theatre as represented by directors such as Burian, Honzl, Krej?a and Radok. We will discuss seminal theoretical studies and topics such as dialogue, dramatic text, and puppet theatre. Taught in English, readings in English.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "13544",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "September 7, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

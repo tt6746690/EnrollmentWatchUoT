@@ -1,0 +1,53 @@
+{
+    "SMC343H1-S-20169": {
+        "courseId": "4368",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Medieval Celtic Narratives (formerly SMC343Y1)",
+        "code": "SMC343H1",
+        "courseDescription": "<p>Course explores the full range of Celtic narratives, mythic, heroic, romantic, and voyage lore from medieval Ireland and Wales.<\/p>",
+        "prerequisite": "Completion of at least 5.0 FCEs",
+        "corequisite": "",
+        "exclusion": "SMC343Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-16066": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "16066",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "TF 200"
+                    }
+                },
+                "instructors": {
+                    "1162415": {
+                        "instructorId": "1162415",
+                        "firstName": "T",
+                        "lastName": "Morris"
+                    }
+                },
+                "meetingId": "12893",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

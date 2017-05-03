@@ -1,0 +1,69 @@
+{
+    "PHY385H1-F-20169": {
+        "courseId": "1842",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Introductory Optics",
+        "code": "PHY385H1",
+        "courseDescription": "<p>An introduction to the physics of light. Topics covered include: electromagnetic waves and propagation of light; the Huygens and Fermat principles; geometrical optics and optical instruments; interference of waves and diffraction; polarization; introduction to photons, lasers, and optical fibers.<\/p>",
+        "prerequisite": "PHY250H1, PHY254H1",
+        "corequisite": "",
+        "exclusion": "ECE318H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46625": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46625",
+                        "assignedRoom1": "MP 222",
+                        "assignedRoom2": null
+                    },
+                    "WE-46627": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46627",
+                        "assignedRoom1": "LM 155",
+                        "assignedRoom2": null
+                    },
+                    "TH-46626": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46626",
+                        "assignedRoom1": "MP 134",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161440": {
+                        "instructorId": "1161440",
+                        "firstName": "D",
+                        "lastName": "Souami"
+                    }
+                },
+                "meetingId": "3846",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "41",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Wednesday Room Changed only: Sept 8, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

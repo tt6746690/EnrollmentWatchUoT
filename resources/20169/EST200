@@ -1,0 +1,61 @@
+{
+    "EST200H1-F-20169": {
+        "courseId": "3092",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Intermediate Estonian Language and Culture I (formerly EST200Y1)",
+        "code": "EST200H1",
+        "courseDescription": "<p>This course develops the student's language skills via an exploration of Estonian culture - including its music, literature, film and media. Each of these areas will be examined through readings, writing about one&rsquo;s impressions, and speaking about them to others in the class. The course consists of a combination of both classroom and web-based learning. The course is open to students with some fluency in Estonian.<\/p>",
+        "prerequisite": "(EST100H1, EST101H1) \/ Permission of instructor",
+        "corequisite": "",
+        "exclusion": "EST200Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-47121": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "47121",
+                        "assignedRoom1": "AH 206",
+                        "assignedRoom2": null
+                    },
+                    "TH-47122": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "47122",
+                        "assignedRoom1": "AH 206",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159877": {
+                        "instructorId": "1159877",
+                        "firstName": "M",
+                        "lastName": "Toomsalu"
+                    }
+                },
+                "meetingId": "13483",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Sept 27, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

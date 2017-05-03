@@ -1,0 +1,176 @@
+{
+    "EEB390H1-S-20169": {
+        "courseId": "641",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Vertebrate Paleontology: Major Transitions in Vertebrate History",
+        "code": "EEB390H1",
+        "courseDescription": "<p><span style=\"font-size: 8.5pt; font-family: 'Arial','sans-serif'; color: black; mso-bidi-font-size: 9.0pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\" lang=\"EN-US\">The evolutionary history of vertebrates is recorded in their fossil record. Lectures highlight the origin and radiation of major vertebrate clades, and emphasize key events in vertebrate history, notably major ecological and evolutionary transitions, and mass extinctions. Practicals (at the Royal Ontario Museum) explore fossils that exemplify these themes.<\/span><\/p>",
+        "prerequisite": "BIO220H1; at least one of EEB263H1, EEB267H1, EEB362H1, EEB382H1, EEB384H1, EEB386H1, EEB388H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "EEB263H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-33195": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "33195",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 123"
+                    }
+                },
+                "instructors": {
+                    "1159624": {
+                        "instructorId": "1159624",
+                        "firstName": "G",
+                        "lastName": "Deiuliis"
+                    },
+                    "1159625": {
+                        "instructorId": "1159625",
+                        "firstName": "D",
+                        "lastName": "Evans"
+                    }
+                },
+                "meetingId": "1359",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "26",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "75",
+                        "postCode": "ASMAJ1006",
+                        "postName": "MA ECOLOGY & EVOLUTIONARY BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "270",
+                        "postCode": "ASSPE1006",
+                        "postName": "SP ECOLOGY & EVOLUTIONARY BIOL",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "TU-43539": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "43539",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ROM 2B-05E"
+                    }
+                },
+                "instructors": {
+                    "1159626": {
+                        "instructorId": "1159626",
+                        "firstName": "G",
+                        "lastName": "Deiuliis"
+                    },
+                    "1159627": {
+                        "instructorId": "1159627",
+                        "firstName": "D",
+                        "lastName": "Evans"
+                    }
+                },
+                "meetingId": "1360",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "13",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0102": {
+                "schedule": {
+                    "TU-43541": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "43541",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ROM 2B-05E"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "6414",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "13",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

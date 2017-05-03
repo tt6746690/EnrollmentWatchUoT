@@ -1,0 +1,81 @@
+{
+    "NEW438H1-F-20169": {
+        "courseId": "1596",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Research Methods in Mindfulness Meditation",
+        "code": "NEW438H1",
+        "courseDescription": "<p>Critically evaluates the empirical research literature relevant to the study of mindfulness meditation.&nbsp; Conceptual, methodological and interpretive limitations of the scientific literature are discussed.&nbsp; Comparisons between the scientific models of mindfulness meditation and Buddhist descriptions will be made.<\/p>",
+        "prerequisite": "a statistics course (e.g. PSY201H1, SOC202H1, STA220H1)",
+        "corequisite": "",
+        "exclusion": "NEW338H1 (taken 2009 or earlier)",
+        "recommendedPreparation": "NEW232Y1\/NEW331H1\/NEW333H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-45081": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "45081",
+                        "assignedRoom1": "UC 152",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161100": {
+                        "instructorId": "1161100",
+                        "firstName": "A",
+                        "lastName": "Toneatto"
+                    }
+                },
+                "meetingId": "3321",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "183",
+                        "postCode": "ASMIN1017",
+                        "postName": "MI BUDDHISM, PSY & MENTAL HLTH",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

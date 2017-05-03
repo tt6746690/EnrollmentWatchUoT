@@ -1,0 +1,53 @@
+{
+    "RLG301H1-F-20169": {
+        "courseId": "4123",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Sigmund Freud on Religion",
+        "code": "RLG301H1",
+        "courseDescription": "<p>Systematic analysis of Freud&rsquo;s main writings on religion, studied within the context of central concepts and issues in psychoanalysis such as: the Oedipus Complex, the meaning and function of symbols, the formation of the ego and the superego, and the relations between the individual and culture.<\/p>",
+        "prerequisite": "RLG211Y1\/RLG211H1; see note above for general Prerequisites",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46277": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46277",
+                        "assignedRoom1": "LA 213",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161930": {
+                        "instructorId": "1161930",
+                        "firstName": "M",
+                        "lastName": "Hewitt"
+                    }
+                },
+                "meetingId": "6536",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

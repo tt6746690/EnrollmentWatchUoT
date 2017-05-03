@@ -1,0 +1,53 @@
+{
+    "PHY479Y1-Y-20169": {
+        "courseId": "1860",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Undergraduate Research Project",
+        "code": "PHY479Y1",
+        "courseDescription": "<p>An individual experimental or theoretical research project undertaken with the advice of, and under the direction of, a faculty member. A student may take advantage of this course either to specialize further in a field of interest or to explore independent research. Consult the department web site for possible topics. This course may also be available in the summer. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Consult the Physics Associate Chair (Undergraduate Studies)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses and any undergraduate inquiries contact: Undergraduate Coordinator at ugcoord@physics.utoronto.ca or 416-978-7057, in room MP 301, McLennan Physical Labs.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161507": {
+                        "instructorId": "1161507",
+                        "firstName": "P",
+                        "lastName": "Sinervo"
+                    }
+                },
+                "meetingId": "3870",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

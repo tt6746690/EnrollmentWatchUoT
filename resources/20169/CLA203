@@ -1,0 +1,53 @@
+{
+    "CLA203H1-S-20169": {
+        "courseId": "2809",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Science in Antiquity",
+        "code": "CLA203H1",
+        "courseDescription": "<p>The first scientific traditions in the classical Mediterranean and the Near East, with emphasis on Greek science. Discussions of early physical science, biology, mathematics, and astronomy, and their place in ancient life and thought, based on primary sources in translation. Designed for students in both the sciences and humanities.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-37781": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "37781",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "BR 200"
+                    }
+                },
+                "instructors": {
+                    "1158993": {
+                        "instructorId": "1158993",
+                        "firstName": "M",
+                        "lastName": "Durand"
+                    }
+                },
+                "meetingId": "14560",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "250",
+                "actualEnrolment": "87",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

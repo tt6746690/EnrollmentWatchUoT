@@ -1,0 +1,108 @@
+{
+    "PSY399H1-F-20169": {
+        "courseId": "2035",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Psychobiology Laboratory",
+        "code": "PSY399H1",
+        "courseDescription": "<p>An introduction to experimental methods in behavioural neuroscience, including neuroanatomical and psychopharmacological methods in rodents. Course projects will cover experimental design, laboratory techniques, data analysis, and scientific writing. Course capacity is limited to 12-15 students&nbsp;and priority is given to PSY Specialists and Research Specialists during the first enrolment period. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "PSY202H1 (or exclusion), PSY290H1\/HMB200H1",
+        "corequisite": "",
+        "exclusion": "HMB310H1\/PSY399H5\/PSYC06H3",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'PE' indicator courses: Enroll via ACORN during the dates stated in the Enrolment Controls. Starting August 12, course enrolment and cancellations are processed by the Undergraduate Administrator (undergrad@psych.utoronto.ca) in Sid Smith, Room 4014, during regular academic advising office hours: Tuesday to Friday, 10:00 a.m. to 4:00 p.m.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-44119": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "44119",
+                        "assignedRoom1": "RW 316",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161859": {
+                        "instructorId": "1161859",
+                        "firstName": "S",
+                        "lastName": "Groppe"
+                    }
+                },
+                "meetingId": "4160",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "12",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "PE",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "287",
+                        "postCode": "ASSPE1160",
+                        "postName": "SP PSYCHOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "353",
+                        "postCode": "ASSPE1958",
+                        "postName": "SP PSYCHOLOGY RESEARCH(THESIS)",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

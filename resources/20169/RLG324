@@ -1,0 +1,53 @@
+{
+    "RLG324H1-F-20169": {
+        "courseId": "4137",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Paul of Tarsus",
+        "code": "RLG324H1",
+        "courseDescription": "<p>An examination of Paul&rsquo;s life and thought as seen in the early Christian literature written by him (the seven undisputed letters), about him (the Acts of the Apostles, the Acts of Paul) and in his name (the six disputed NT letters).<\/p>",
+        "prerequisite": "RLG241Y1; see note for above general Prerequisites",
+        "corequisite": "",
+        "exclusion": "RLG324H5",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-31888": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "31888",
+                        "assignedRoom1": "SS 1088",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161941": {
+                        "instructorId": "1161941",
+                        "firstName": "B",
+                        "lastName": "Zapata"
+                    }
+                },
+                "meetingId": "6797",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

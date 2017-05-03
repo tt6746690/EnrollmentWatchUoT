@@ -1,0 +1,61 @@
+{
+    "PHY331H1-S-20169": {
+        "courseId": "1834",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Introduction to Biological Physics",
+        "code": "PHY331H1",
+        "courseDescription": "<p>A course for students interested in a deeper understanding of physical phenomena occurring in biological systems. Thermodynamics, diffusion, entropic forces, fluids, biological applications.<\/p>",
+        "prerequisite": "PHY252H1\/CHM222H1\/CHM225Y1, PHY231H1\/PHY250H1\/PHY254H1\/PHY256H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46233": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46233",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 606"
+                    },
+                    "WE-46234": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46234",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 257"
+                    }
+                },
+                "instructors": {
+                    "1161427": {
+                        "instructorId": "1161427",
+                        "firstName": "S",
+                        "lastName": "Goyal"
+                    }
+                },
+                "meetingId": "3829",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

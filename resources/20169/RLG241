@@ -1,0 +1,53 @@
+{
+    "RLG241H1-F-20169": {
+        "courseId": "4114",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Early Christian Writings I",
+        "code": "RLG241H1",
+        "courseDescription": "<p>An introduction to early Christian writings, including the 'New Testament,' examined within the historical context of the first two centuries. No familiarity with Christianity or the New Testament is expected.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "RLG241H5; RLG341H5; HUMC14H3; RLG241Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-35954": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "35954",
+                        "assignedRoom1": "RW 117",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161919": {
+                        "instructorId": "1161919",
+                        "firstName": "R",
+                        "lastName": "Olfert"
+                    }
+                },
+                "meetingId": "5703",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "32",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

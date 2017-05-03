@@ -1,0 +1,89 @@
+{
+    "PHC320H1-S-20169": {
+        "courseId": "1728",
+        "org": "PHM",
+        "orgName": "Pharmaceutical Chemistry (PHC) (JFP)",
+        "courseTitle": "Medicinal Chemistry",
+        "code": "PHC320H1",
+        "courseDescription": "<p>Modern discovery and synthesis of antibiotics, antineoplastics, antiviral and other therapeutic agents.<\/p>",
+        "prerequisite": "BCH210H1, CHM247H1\/CHM249H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-44185": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:30",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "44185",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "PB 255"
+                    },
+                    "TU-44186": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:30",
+                        "meetingScheduleId": "44186",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "PB 255"
+                    }
+                },
+                "instructors": {
+                    "1161276": {
+                        "instructorId": "1161276",
+                        "firstName": "L",
+                        "lastName": "Kotra"
+                    }
+                },
+                "meetingId": "3487",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "291",
+                        "postCode": "ASSPE1211",
+                        "postName": "SP PHARMACEUTICAL CHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

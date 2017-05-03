@@ -1,0 +1,237 @@
+{
+    "DRM300Y1-Y-20169": {
+        "courseId": "456",
+        "org": "DRAMA",
+        "orgName": "Drama, Theatre and Performance Studies, Centre for (DRM) (JDC) (JIA)",
+        "courseTitle": "Performance I",
+        "code": "DRM300Y1",
+        "courseDescription": "<p><span style=\"color: #222222; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px;\"><span style=\"color: #000000; font-size: 10pt; font-family: Calibri, sans-serif;\">Building upon the work of <\/span><span style=\"color: #000000; font-size: 10pt; font-family: Calibri, sans-serif;\" lang=\"EN-CA\"><a target=_blank\" href=\"http:\/\/www.artsandscience.utoronto.ca\/ofr\/calendar\/crs_drm.htm#DRM200Y1\"><span style=\"color: windowtext; mso-ansi-language: EN-US; text-decoration: none; text-underline: none;\" lang=\"EN-US\">DRM200Y1<\/span><\/a><\/span><span style=\"color: #000000; font-size: 10pt; font-family: Calibri",
+        "prerequisite": "sans-serif;\">",
+        "corequisite": "students concentrate on scene study",
+        "exclusion": "styles of acting",
+        "recommendedPreparation": "and the development of ensemble work with an intensive focus on voice and movement practices.&nbsp;<\/span>The&nbsp;<\/span><a style=\"margin: 0px; padding: 0px; font-size: 12px; font-family: 'Helvetica Neue'",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For more information on how to enrol, please contact Colleen Osborn at c.osborn@utoronto.ca.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-27941": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "27941",
+                        "assignedRoom1": "UP 109",
+                        "assignedRoom2": "UP 109"
+                    },
+                    "WE-27942": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "27942",
+                        "assignedRoom1": "UP 109",
+                        "assignedRoom2": "UP 109"
+                    },
+                    "FR-27943": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "27943",
+                        "assignedRoom1": "UP 109",
+                        "assignedRoom2": "UP 109"
+                    }
+                },
+                "instructors": {
+                    "1159335": {
+                        "instructorId": "1159335",
+                        "firstName": "S",
+                        "lastName": "Boye"
+                    },
+                    "1159336": {
+                        "instructorId": "1159336",
+                        "firstName": "K",
+                        "lastName": "Lynch"
+                    }
+                },
+                "meetingId": "1023",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "14",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "146",
+                        "postCode": "ASMAJ2148",
+                        "postName": "MA DRAMA",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "365",
+                        "postCode": "ASSPE2148",
+                        "postName": "SP DRAMA",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "MO-27944": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "27944",
+                        "assignedRoom1": "UP 109",
+                        "assignedRoom2": "UP 109"
+                    },
+                    "WE-27945": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "27945",
+                        "assignedRoom1": "UP 109",
+                        "assignedRoom2": "UP 109"
+                    },
+                    "FR-27946": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "27946",
+                        "assignedRoom1": "UP 109",
+                        "assignedRoom2": "UP 109"
+                    }
+                },
+                "instructors": {
+                    "1159337": {
+                        "instructorId": "1159337",
+                        "firstName": "S",
+                        "lastName": "Boye"
+                    },
+                    "1159338": {
+                        "instructorId": "1159338",
+                        "firstName": "K",
+                        "lastName": "Lynch"
+                    }
+                },
+                "meetingId": "6194",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "14",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "146",
+                        "postCode": "ASMAJ2148",
+                        "postName": "MA DRAMA",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "365",
+                        "postCode": "ASSPE2148",
+                        "postName": "SP DRAMA",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

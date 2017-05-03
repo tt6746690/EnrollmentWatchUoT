@@ -1,0 +1,312 @@
+{
+    "FSL100H1-F-20169": {
+        "courseId": "929",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "French for Beginners",
+        "code": "FSL100H1",
+        "courseDescription": "<p>An intensive basic course in spoken and written French for students who have no knowledge of French: comprehension, speaking, reading, and writing.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "FSL102H1 and higher.",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "The Department reserves the right to place students in the language course appropriate to their level of linguistic competence, based on the results of a placement test. For more information on taking the placement test and guidelines on how to enroll into our courses, please visit: <a href=\"http:\/\/www.french.utoronto.ca\/undergraduate\/enrolment_guidelines \">www.french.utoronto.ca\/undergraduate\/enrolment_guidelines <\/a><u>",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42326": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "42326",
+                        "assignedRoom1": "EM 119",
+                        "assignedRoom2": null
+                    },
+                    "WE-42327": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "42327",
+                        "assignedRoom1": "EM 119",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159993": {
+                        "instructorId": "1159993",
+                        "firstName": "V",
+                        "lastName": "Manuele"
+                    }
+                },
+                "meetingId": "1880",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "53",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "MO-42330": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "42330",
+                        "assignedRoom1": "AH 107",
+                        "assignedRoom2": null
+                    },
+                    "WE-42331": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "42331",
+                        "assignedRoom1": "AH 107",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159994": {
+                        "instructorId": "1159994",
+                        "firstName": "K",
+                        "lastName": "Peric"
+                    }
+                },
+                "meetingId": "1881",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "51",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-42334": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "42334",
+                        "assignedRoom1": "UC 161",
+                        "assignedRoom2": null
+                    },
+                    "WE-42335": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "42335",
+                        "assignedRoom1": "UC 161",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159995": {
+                        "instructorId": "1159995",
+                        "firstName": "C",
+                        "lastName": "Lamaison"
+                    }
+                },
+                "meetingId": "1882",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "52",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "FSL100H1-S-20169": {
+        "courseId": "929",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "French for Beginners",
+        "code": "FSL100H1",
+        "courseDescription": "<p>An intensive basic course in spoken and written French for students who have no knowledge of French: comprehension, speaking, reading, and writing.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "FSL102H1 and higher.",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "The Department reserves the right to place students in the language course appropriate to their level of linguistic competence, based on the results of a placement test. For more information on taking the placement test and guidelines on how to enroll into our courses, please visit: <a href=\"http:\/\/www.french.utoronto.ca\/undergraduate\/enrolment_guidelines \">www.french.utoronto.ca\/undergraduate\/enrolment_guidelines <\/a><u>",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-42340": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42340",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 107"
+                    },
+                    "TH-42339": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42339",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 107"
+                    }
+                },
+                "instructors": {
+                    "1159996": {
+                        "instructorId": "1159996",
+                        "firstName": "L",
+                        "lastName": "Li"
+                    }
+                },
+                "meetingId": "1883",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "38",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "FR-47674": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "47674",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 212"
+                    }
+                },
+                "instructors": {
+                    "1159997": {
+                        "instructorId": "1159997",
+                        "firstName": "M",
+                        "lastName": "Beji"
+                    }
+                },
+                "meetingId": "15338",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "New Section Added: January 11, 2017",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-42343": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "42343",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 161"
+                    },
+                    "WE-42344": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "42344",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 161"
+                    }
+                },
+                "instructors": {
+                    "1159998": {
+                        "instructorId": "1159998",
+                        "firstName": "K",
+                        "lastName": "Walton"
+                    }
+                },
+                "meetingId": "1884",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "52",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-5102": {
+                "schedule": {
+                    "MO-42347": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "42347",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 212"
+                    },
+                    "WE-42348": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "42348",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 212"
+                    }
+                },
+                "instructors": {
+                    "1159999": {
+                        "instructorId": "1159999",
+                        "firstName": "V",
+                        "lastName": "Manuele"
+                    }
+                },
+                "meetingId": "1885",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "67",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

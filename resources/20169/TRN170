@@ -1,0 +1,53 @@
+{
+    "TRN170Y1-Y-20169": {
+        "courseId": "2471",
+        "org": "TRIN",
+        "orgName": "Trinity College (TRN)",
+        "courseTitle": "Ethics and the Creative Imagination",
+        "code": "TRN170Y1",
+        "courseDescription": "<p>A seminar course that explores ethical issues through the study of works of the creative imagination that pose or provoke questions of right and wrong, good and evil, justice and injustice. The selected works will be drawn from such fields as literature, film, and the visual and performing arts. Open only to students admitted to Trinity One. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Admission to Trinity One",
+        "corequisite": "",
+        "exclusion": "Innis One, Munk One, New One, St. Mike's One, Vic One, UC One, Woodsworth One",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: contact Kiran Sahota, Room 300, Larkin Building, Monday to Friday from 9:00am-12:00pm and 2:00-5:00pm, at 416-978-8454 or artsdean@trinity.utoronto.ca.",
+        "breadthCategories": "Creative and Cultural Representations (1), Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46328": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46328",
+                        "assignedRoom1": "HI CART",
+                        "assignedRoom2": "HI CART"
+                    }
+                },
+                "instructors": {
+                    "1162667": {
+                        "instructorId": "1162667",
+                        "firstName": "A",
+                        "lastName": "Connolly"
+                    }
+                },
+                "meetingId": "5084",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "Time Change: August 30, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

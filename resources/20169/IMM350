@@ -1,0 +1,94 @@
+{
+    "IMM350H1-S-20169": {
+        "courseId": "1254",
+        "org": "IMM",
+        "orgName": "Immunology (IMM) (MIJ)",
+        "courseTitle": "The Immune System in Action",
+        "code": "IMM350H1",
+        "courseDescription": "<p>This course illustrates how different elements of the immune system come together to mount efficient and measured responses. Topics include response to infectious microorganisms, allergy and autoimmunity, immune responses against cancer, and transplantation immunology.<\/p>",
+        "prerequisite": "IMM340H1\/IMM341H1",
+        "corequisite": "",
+        "exclusion": "IMM334Y1\/IMM335Y1\/IMM351H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-30324": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "30324",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 102"
+                    },
+                    "TH-30325": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "30325",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    }
+                },
+                "instructors": {
+                    "1160539": {
+                        "instructorId": "1160539",
+                        "firstName": "L",
+                        "lastName": "Clemenza"
+                    },
+                    "1160540": {
+                        "instructorId": "1160540",
+                        "firstName": "T",
+                        "lastName": "Mallevaey"
+                    }
+                },
+                "meetingId": "2562",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "350",
+                "actualEnrolment": "249",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "73",
+                        "postCode": "ASMAJ1002",
+                        "postName": "MA IMMUNOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

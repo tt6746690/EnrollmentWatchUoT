@@ -1,0 +1,53 @@
+{
+    "FCS195H1-S-20169": {
+        "courseId": "867",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Napoleon to Asterix",
+        "code": "FCS195H1",
+        "courseDescription": "<p>A multi-media course, analyzing the contributions the French have made to world culture in such domains as architecture, art, literature, and music, as well as some of the implications of the appropriation of French cultural icons by big business and the media.<\/p>",
+        "prerequisite": "None",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-33327": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "33327",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 140"
+                    }
+                },
+                "instructors": {
+                    "1159925": {
+                        "instructorId": "1159925",
+                        "firstName": "M",
+                        "lastName": "McShane"
+                    }
+                },
+                "meetingId": "1802",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "70",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "PSL421H1-S-20169": {
+        "courseId": "1983",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Reproduction II: Pregnancy and Birth",
+        "code": "PSL421H1",
+        "courseDescription": "<p>General overview of the integrated physiologic events associated with pregnancy and birth. The approach emphasizes physiologic processes using insights gained from studies of humans, animals, cells and genes. Where appropriate the clinical consequences of aberrant development are reviewed.<\/p>",
+        "prerequisite": "PSL300H1, PSL301H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "PSL420H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-30988": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "30988",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4171"
+                    }
+                },
+                "instructors": {
+                    "1161734": {
+                        "instructorId": "1161734",
+                        "firstName": "I",
+                        "lastName": "Caniggia"
+                    },
+                    "1161735": {
+                        "instructorId": "1161735",
+                        "firstName": "S",
+                        "lastName": "Matthews"
+                    },
+                    "1161736": {
+                        "instructorId": "1161736",
+                        "firstName": "P",
+                        "lastName": "McNamara"
+                    },
+                    "1161737": {
+                        "instructorId": "1161737",
+                        "firstName": "N",
+                        "lastName": "Rosenblum"
+                    }
+                },
+                "meetingId": "4045",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "57",
+                        "postCode": "ASMAJ0482",
+                        "postName": "MA PHYSIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "249",
+                        "postCode": "ASSPE0482",
+                        "postName": "SP PHYSIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "386",
+                        "postCode": "ASSPE2738",
+                        "postName": "SP BIOL PHY: PHYSIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

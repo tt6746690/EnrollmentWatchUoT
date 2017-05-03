@@ -1,0 +1,108 @@
+{
+    "USA402H1-F-20169": {
+        "courseId": "2517",
+        "org": "CSUS",
+        "orgName": "American Studies (USA)",
+        "courseTitle": "Topics in American Studies",
+        "code": "USA402H1",
+        "courseDescription": "<p>In-depth examination of specific themes relating to American Studies. For more information on the specific topic, see <a href=\"http:\/\/munkschool.utoronto.ca\/csus\/undergraduate-program\">http:\/\/munkschool.utoronto.ca\/csus\/undergraduate-program<\/a><\/p><\/p>",
+        "prerequisite": "At least two courses from the American Studies list",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-34754": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "34754",
+                        "assignedRoom1": "UC 244",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162730": {
+                        "instructorId": "1162730",
+                        "firstName": "A",
+                        "lastName": "Rahr"
+                    }
+                },
+                "meetingId": "13774",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Disaster in America",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "45",
+                        "postCode": "ASMAJ0135",
+                        "postName": "MA AMERICAN STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "160",
+                        "postCode": "ASMIN0135",
+                        "postName": "MI AMERICAN STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

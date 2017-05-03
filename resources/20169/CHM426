@@ -1,0 +1,203 @@
+{
+    "CHM426H1-F-20169": {
+        "courseId": "236",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Polymer Chemistry",
+        "code": "CHM426H1",
+        "courseDescription": "<p>Scope of polymer chemistry. Classification of polymers. Synthesis and characterization. Polymers in solution. Thermodynamics of polymer solutions and blends, Flory-Huggins theory. Polymers in the solid state. Crystalline and amorphous polymers. Glass transition and melting temperature. Mechanical properties. Polymers as advanced materials.<\/p>",
+        "prerequisite": "CHM220H1\/CHM222H1\/CHM225Y1, CHM247H1\/CHM249H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "CHM325H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-2501": {
+                "schedule": {
+                    "TU-36332": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "36332",
+                        "assignedRoom1": "LM 158",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158926": {
+                        "instructorId": "1158926",
+                        "firstName": "E",
+                        "lastName": "Kumacheva"
+                    },
+                    "1158927": {
+                        "instructorId": "1158927",
+                        "firstName": "M",
+                        "lastName": "Winnik"
+                    }
+                },
+                "meetingId": "6067",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "8",
+                        "postCode": "AEESCBASCO",
+                        "postName": "BASc-Engineering Sci(Nano Eng)",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TU-41242": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "41242",
+                        "assignedRoom1": "LM 158",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158928": {
+                        "instructorId": "1158928",
+                        "firstName": "E",
+                        "lastName": "Kumacheva"
+                    },
+                    "1158929": {
+                        "instructorId": "1158929",
+                        "firstName": "M",
+                        "lastName": "Winnik"
+                    }
+                },
+                "meetingId": "570",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "FR-9746": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "9746",
+                        "assignedRoom1": "LM 158",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "6064",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "TUT-2001": {
+                "schedule": {
+                    "FR-35250": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "35250",
+                        "assignedRoom1": "LM 158",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "6066",
+                "teachingMethod": "TUT",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "8",
+                        "postCode": "AEESCBASCO",
+                        "postName": "BASc-Engineering Sci(Nano Eng)",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

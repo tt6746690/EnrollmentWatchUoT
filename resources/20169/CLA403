@@ -1,0 +1,81 @@
+{
+    "CLA403H1-F-20169": {
+        "courseId": "308",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Advanced Seminar in Roman Civilization",
+        "code": "CLA403H1",
+        "courseDescription": "<p>An advanced research seminar devoted to critical issues relating to Roman civilization.&nbsp; Course requirements include a research essay.Topics vary from year to year.<\/p>",
+        "prerequisite": "Enrolment in Major Program in Classical Civilization; 14.0 FCEs completed including 1.0 in CLA 300-series",
+        "corequisite": "",
+        "exclusion": "CLA402H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-38634": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "38634",
+                        "assignedRoom1": "LI 220",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159025": {
+                        "instructorId": "1159025",
+                        "firstName": "M",
+                        "lastName": "Dewar"
+                    }
+                },
+                "meetingId": "14091",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "54",
+                        "postCode": "ASMAJ0382",
+                        "postName": "MA CLASSICAL CIVILIZATION",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "NEW358H1-F-20169": {
+        "courseId": "1586",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Special Topics in African Studies",
+        "code": "NEW358H1",
+        "courseDescription": "<p>An upper level course.&nbsp; Topics of study vary from year to year.<\/p>",
+        "prerequisite": "NEW150Y1\/NEW250Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-29545": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "29545",
+                        "assignedRoom1": "RW 142",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161091": {
+                        "instructorId": "1161091",
+                        "firstName": "A",
+                        "lastName": "Wasike"
+                    }
+                },
+                "meetingId": "7049",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Culture and Development in Postcolonial Africa",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "NEW358H1-S-20169": {
+        "courseId": "1586",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Special Topics in African Studies",
+        "code": "NEW358H1",
+        "courseDescription": "<p>An upper level course.&nbsp; Topics of study vary from year to year.<\/p>",
+        "prerequisite": "NEW150Y1\/NEW250Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "14904",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Literatures of War in Africa",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Cancelled: Dec. 15, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "STA201H1-S-20169": {
+        "courseId": "2428",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Why Numbers Matter",
+        "code": "STA201H1",
+        "courseDescription": "<p>This course teaches non-science students the importance of quantitative reasoning to many different areas.&nbsp; It explores a variety of applications to such diverse subjects as economics, gambling, politics, poetry, graphics, music, medicine, demographics, sports, secret codes, and more, using only basic high school level mathematics combined with logical thinking.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "This course is not open to first-year students, nor to students enrolled in any science Major or Specialist program",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "The following students are NOT eligible to enroll: St. George campus students in Science subject POSt and Year 1 St. George campus students.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-45450": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45450",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "EM 001"
+                    },
+                    "WE-45451": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45451",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "EM 001"
+                    }
+                },
+                "instructors": {
+                    "1162585": {
+                        "instructorId": "1162585",
+                        "firstName": "B",
+                        "lastName": "White"
+                    }
+                },
+                "meetingId": "14474",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "164",
+                "actualEnrolment": "147",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "5",
+                        "subjectCode": "ART",
+                        "subjectName": "Arts",
+                        "designationId": "4",
+                        "designationCode": "PGM",
+                        "designationName": "Program",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "15",
+                        "subjectCode": "COM",
+                        "subjectName": "COMMERCE",
+                        "designationId": "4",
+                        "designationCode": "PGM",
+                        "designationName": "Program",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "71",
+                        "subjectCode": "SOS",
+                        "subjectName": "SOCIAL SCIENCES",
+                        "designationId": "4",
+                        "designationCode": "PGM",
+                        "designationName": "Program",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

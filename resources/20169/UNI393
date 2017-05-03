@@ -1,0 +1,53 @@
+{
+    "UNI393Y1-Y-20169": {
+        "courseId": "2507",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "University College Independent Studies",
+        "code": "UNI393Y1",
+        "courseDescription": "<p>An opportunity to design an independent research course of study at the 300 level not otherwise available within the Faculty. Normally, students will have a minimum cGPA of 3.0 and have completed 10 FCEs. Permission of a faculty supervisor and approval by the Vice-Prinicipal are required. Those registered in a UC program or UC-registered students should submit a written proposal and application form to the Programs Office (UC173) for approval. Applications for Y and F courses are due by 30 June prior to the academic year; S courses to be submitted by 15 September; Summer proposals are due by 15 February. Not eligible for CR\/NCR option.<\/p>\n<p>Application form is available at the University College website at www.uc.utoronto.ca\/<\/p>",
+        "prerequisite": "Permission of University College Vice-Principal",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: College approval is required. Please contact Khamla Sengthavy for further information at: UC165, Monday to Friday, 9:00am-4:30pm, 416-978-8083, or khamla.sengthavy@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162718": {
+                        "instructorId": "1162718",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "5135",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "NMC274H1-F-20169": {
+        "courseId": "4688",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "The Steppe Frontier in Eurasian and Islamic History",
+        "code": "NMC274H1",
+        "courseDescription": "",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-42689": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "42689",
+                        "assignedRoom1": "BF 323",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161149": {
+                        "instructorId": "1161149",
+                        "firstName": "V",
+                        "lastName": "Ostapchuk"
+                    }
+                },
+                "meetingId": "14657",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

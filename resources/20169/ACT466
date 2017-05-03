@@ -1,0 +1,61 @@
+{
+    "ACT466H1-S-20169": {
+        "courseId": "40",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Credibility and Simulation",
+        "code": "ACT466H1",
+        "courseDescription": "<p>Limited fluctuation credibility, Bayesian estimation, Buhlmann credibility, non-parametric credibility methods, inverse transformation simulation method, specialized simulation methods for the normal and lognormal distributions, Monte Carlo methods, the bootstrap method.<\/p>",
+        "prerequisite": "ACT451H1; STA261H1, STA347H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40495": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "40495",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1070"
+                    },
+                    "TH-40494": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "40494",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1070"
+                    }
+                },
+                "instructors": {
+                    "1158441": {
+                        "instructorId": "1158441",
+                        "firstName": "A",
+                        "lastName": "Badescu"
+                    }
+                },
+                "meetingId": "52",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "44",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

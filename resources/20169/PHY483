@@ -1,0 +1,145 @@
+{
+    "PHY483H1-F-20169": {
+        "courseId": "1861",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Relativity Theory I",
+        "code": "PHY483H1",
+        "courseDescription": "<p>Basis of Einstein's theory: differential geometry, tensor analysis, gravitational physics leading to General Relativity. Theory starting from solutions of Schwarzschild, Kerr, etc.<\/p>",
+        "prerequisite": "PHY350H1, PHY354H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46620": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46620",
+                        "assignedRoom1": "MP 134",
+                        "assignedRoom2": null
+                    },
+                    "TH-46621": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46621",
+                        "assignedRoom1": "MP 134",
+                        "assignedRoom2": null
+                    },
+                    "FR-46619": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46619",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161508": {
+                        "instructorId": "1161508",
+                        "firstName": "A",
+                        "lastName": "Peet"
+                    }
+                },
+                "meetingId": "3871",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "78",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Friday Room Changed only: September 8, 2016",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-46622": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46622",
+                        "assignedRoom1": "MP 134",
+                        "assignedRoom2": null
+                    },
+                    "TH-46623": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46623",
+                        "assignedRoom1": "MP 134",
+                        "assignedRoom2": null
+                    },
+                    "FR-46624": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46624",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161509": {
+                        "instructorId": "1161509",
+                        "firstName": "A",
+                        "lastName": "Peet"
+                    }
+                },
+                "meetingId": "14869",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Friday Room Changed only: September 8, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

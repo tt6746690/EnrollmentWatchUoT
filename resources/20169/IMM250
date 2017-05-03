@@ -1,0 +1,119 @@
+{
+    "IMM250H1-F-20169": {
+        "courseId": "1251",
+        "org": "IMM",
+        "orgName": "Immunology (IMM) (MIJ)",
+        "courseTitle": "The Immune System and Infectious Disease",
+        "code": "IMM250H1",
+        "courseDescription": "<p>Students will be introduced to the basic concepts of immunity to infectious disease and how breakdown of the immune response can lead to auto-immunity<span style=\"line-height: 115%; font-family: 'Times New Roman','serif'; color: red; font-size: 12pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><span style=\"line-height: 115%; font-family: 'Times New Roman','serif'; font-size: 12pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><span style=\"color: #000000;\">.&nbsp;<\/span><\/span><\/span>We will trace the history of current ideas in immunology and the immune response by examining how bacteria and viruses cause disease and the initial discoveries that led to such developments as vaccination. Current topical and newsworthy infectious diseases (HIV, tuberculosis, SARS, avian flu) will be used as examples of how the immune system copes with microbial infections.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "BIO120H1, BIO130H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-44414": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44414",
+                        "assignedRoom1": "OI G162",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160530": {
+                        "instructorId": "1160530",
+                        "firstName": "L",
+                        "lastName": "Clemenza"
+                    },
+                    "1160531": {
+                        "instructorId": "1160531",
+                        "firstName": "W",
+                        "lastName": "Tamminen"
+                    }
+                },
+                "meetingId": "2558",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "500",
+                "actualEnrolment": "263",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Changed: July 19, 2016",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "IMM250H1-S-20169": {
+        "courseId": "1251",
+        "org": "IMM",
+        "orgName": "Immunology (IMM) (MIJ)",
+        "courseTitle": "The Immune System and Infectious Disease",
+        "code": "IMM250H1",
+        "courseDescription": "<p>Students will be introduced to the basic concepts of immunity to infectious disease and how breakdown of the immune response can lead to auto-immunity<span style=\"line-height: 115%; font-family: 'Times New Roman','serif'; color: red; font-size: 12pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><span style=\"line-height: 115%; font-family: 'Times New Roman','serif'; font-size: 12pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\"><span style=\"color: #000000;\">.&nbsp;<\/span><\/span><\/span>We will trace the history of current ideas in immunology and the immune response by examining how bacteria and viruses cause disease and the initial discoveries that led to such developments as vaccination. Current topical and newsworthy infectious diseases (HIV, tuberculosis, SARS, avian flu) will be used as examples of how the immune system copes with microbial infections.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "BIO120H1, BIO130H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-30317": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "30317",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CH ---"
+                    }
+                },
+                "instructors": {
+                    "1160532": {
+                        "instructorId": "1160532",
+                        "firstName": "L",
+                        "lastName": "Clemenza"
+                    },
+                    "1160533": {
+                        "instructorId": "1160533",
+                        "firstName": "J",
+                        "lastName": "Gommerman"
+                    },
+                    "1160534": {
+                        "instructorId": "1160534",
+                        "firstName": "D",
+                        "lastName": "Philpott"
+                    }
+                },
+                "meetingId": "2559",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "1500",
+                "actualEnrolment": "831",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

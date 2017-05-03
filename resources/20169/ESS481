@@ -1,0 +1,47 @@
+{
+    "ESS481H1-S-20169": {
+        "courseId": "801",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Advanced Topics in Earth Sciences",
+        "code": "ESS481H1",
+        "courseDescription": "<p>An in-depth study of a modern earth science question, for example mineralogy and material science, advanced petrology, or exploration geochemistry.<\/p>",
+        "prerequisite": "appropriate 300-level ESS credits. Prerequisites change from year to year; consult Department for details.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-47748": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47748",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1067"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14338",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "Contact Scott Moore for more information on this course: s.moore@utoronto.ca",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

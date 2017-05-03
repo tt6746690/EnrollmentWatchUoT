@@ -1,0 +1,120 @@
+{
+    "STA304H1-F-20169": {
+        "courseId": "2438",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Surveys, Sampling and Observational Data (formerly STA322H1)",
+        "code": "STA304H1",
+        "courseDescription": "<p>Design of surveys, sources of bias, randomized response surveys.&nbsp; Techniques of sampling; stratification, clustering, unequal probability selection.&nbsp; Sampling inference, estimates of population mean and variances, ratio estimation.&nbsp; Observational data; correlation vs. causation, missing data, sources of bias.<\/p>",
+        "prerequisite": "ECO220Y1\/ECO227Y1\/GGR270H1\/PSY201H1\/SOC300Y1\/STA220H1\/STA255H1\/STA261H1\/STA248H1\/EEB225H1",
+        "corequisite": "",
+        "exclusion": "STA322H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-40518": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "40518",
+                        "assignedRoom1": "OI G162",
+                        "assignedRoom2": null
+                    },
+                    "FR-40517": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40517",
+                        "assignedRoom1": "OI G162",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162608": {
+                        "instructorId": "1162608",
+                        "firstName": "D",
+                        "lastName": "Banjevic"
+                    }
+                },
+                "meetingId": "5020",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "485",
+                "actualEnrolment": "363",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "STA304H1-S-20169": {
+        "courseId": "2438",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Surveys, Sampling and Observational Data (formerly STA322H1)",
+        "code": "STA304H1",
+        "courseDescription": "<p>Design of surveys, sources of bias, randomized response surveys.&nbsp; Techniques of sampling; stratification, clustering, unequal probability selection.&nbsp; Sampling inference, estimates of population mean and variances, ratio estimation.&nbsp; Observational data; correlation vs. causation, missing data, sources of bias.<\/p>",
+        "prerequisite": "ECO220Y1\/ECO227Y1\/GGR270H1\/PSY201H1\/SOC300Y1\/STA220H1\/STA255H1\/STA261H1\/STA248H1\/EEB225H1",
+        "corequisite": "",
+        "exclusion": "STA322H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47423": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "47423",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 100"
+                    },
+                    "TH-47424": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "47424",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 003"
+                    }
+                },
+                "instructors": {
+                    "1162609": {
+                        "instructorId": "1162609",
+                        "firstName": "D",
+                        "lastName": "Banjevic"
+                    }
+                },
+                "meetingId": "5021",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "276",
+                "actualEnrolment": "229",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Change: Dec. 13, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

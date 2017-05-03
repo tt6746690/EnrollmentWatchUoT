@@ -1,0 +1,61 @@
+{
+    "NML230H1-F-20169": {
+        "courseId": "3844",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Elementary Coptic I",
+        "code": "NML230H1",
+        "courseDescription": "<p>Introduces the student to the last stage of the Egyptian language, written mostly in Greek characters. The course will first concentrate on the grammar of the language and go on to read short texts.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-42672": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "42672",
+                        "assignedRoom1": "SS 1078",
+                        "assignedRoom2": null
+                    },
+                    "FR-42673": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "42673",
+                        "assignedRoom1": "SS 1078",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161195": {
+                        "instructorId": "1161195",
+                        "firstName": "R",
+                        "lastName": "Bishara"
+                    }
+                },
+                "meetingId": "14386",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "NML370Y1-Y-20169": {
+        "courseId": "3853",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Intermediate Turkish",
+        "code": "NML370Y1",
+        "courseDescription": "<p>This course involves reading, grammatical analysis and translation of modern Turkish texts of intermediate difficulty. The reading materials are selected from a wise range of literary genres. Included is a basic review of grammar as well as more advanced grammatical topics. Course serves as preparation for advanced study of Turkish as well as study of Ottoman Turksih language and literature.<\/p>",
+        "prerequisite": "NML270Y1 or permission of instructor.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47083": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47083",
+                        "assignedRoom1": "BF 215",
+                        "assignedRoom2": "BF 215"
+                    },
+                    "TH-47084": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47084",
+                        "assignedRoom1": "BF 215",
+                        "assignedRoom2": "BF 215"
+                    }
+                },
+                "instructors": {
+                    "1161211": {
+                        "instructorId": "1161211",
+                        "firstName": "L",
+                        "lastName": "Javanshir"
+                    }
+                },
+                "meetingId": "14526",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "32",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "VIC102H1-F-20169": {
+        "courseId": "4551",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Ethics and Choices in Times of Crisis",
+        "code": "VIC102H1",
+        "courseDescription": "<p>This course examines a specific event, or events, in relation to the public sphere. The course will use events or an event as an entry point to discuss the nature of society including topics such as major revolutions, economic crises, the impact of the appearance of significant artistic or cultural works, and the impact of technological changes. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "VIC102Y1; Innis One, Munk One, New One, SMC One, Trinity One, UC One, Vic One, Woodsworth One;  No more than another 0.5 FCE from 199 seminars or Vic One Hundred.",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-33479": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "33479",
+                        "assignedRoom1": "NF 332",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162735": {
+                        "instructorId": "1162735",
+                        "firstName": "E",
+                        "lastName": "Jennings"
+                    }
+                },
+                "meetingId": "13655",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

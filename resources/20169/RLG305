@@ -1,0 +1,53 @@
+{
+    "RLG305H1-F-20169": {
+        "courseId": "2084",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Material Religion",
+        "code": "RLG305H1",
+        "courseDescription": "<p>Religions are constituted by material forms, including bodies, shrines, films, icons, and \u2018 kitsch\u2019. Anti-material impulses have also prompted many religious impulses, involving forms of iconoclasm that ironically demonstrate the power of objects. What is at stake in studying materiality? How might such a perspective transform our view of religion?<\/p>",
+        "prerequisite": "See note above for general prerequisites",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40062": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "40062",
+                        "assignedRoom1": "SS 1070",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161932": {
+                        "instructorId": "1161932",
+                        "firstName": "S",
+                        "lastName": "Coleman"
+                    }
+                },
+                "meetingId": "4237",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

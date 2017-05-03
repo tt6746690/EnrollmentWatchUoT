@@ -1,0 +1,53 @@
+{
+    "IMM450Y1-Y-20169": {
+        "courseId": "1260",
+        "org": "IMM",
+        "orgName": "Immunology (IMM) (MIJ)",
+        "courseTitle": "Research Project in Immunology",
+        "code": "IMM450Y1",
+        "courseDescription": "<p>An opportunity for specialized research in Immunology under the supervision of a member of the Faculty. There are no pre- or co-requisites, although preference is given to Immunology Specialist and Major students. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: contact the department at undergraduate.immunology@utoronto.ca for an application. Check the departmental web page for more information: www.immunology.utoronto.ca",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160549": {
+                        "instructorId": "1160549",
+                        "firstName": "A",
+                        "lastName": "Martin"
+                    }
+                },
+                "meetingId": "2568",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

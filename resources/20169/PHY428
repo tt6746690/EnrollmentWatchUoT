@@ -1,0 +1,290 @@
+{
+    "PHY428H1-F-20169": {
+        "courseId": "1849",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Advanced Practical Physics II",
+        "code": "PHY428H1",
+        "courseDescription": "<p>This course is a continuation of PHY426H1, but students have more freedom to progressively focus on specific areas of physics, do extended experiments, projects, or computational modules.<\/p>",
+        "prerequisite": "PHY426H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39935": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39935",
+                        "assignedRoom1": "MP 251",
+                        "assignedRoom2": null
+                    },
+                    "FR-39934": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39934",
+                        "assignedRoom1": "MP 251",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161470": {
+                        "instructorId": "1161470",
+                        "firstName": "S",
+                        "lastName": "Julian"
+                    },
+                    "1161471": {
+                        "instructorId": "1161471",
+                        "firstName": "N",
+                        "lastName": "Krasnopolskaia"
+                    },
+                    "1161472": {
+                        "instructorId": "1161472",
+                        "firstName": "P",
+                        "lastName": "Krieger"
+                    },
+                    "1161473": {
+                        "instructorId": "1161473",
+                        "firstName": "C",
+                        "lastName": "Netterfield"
+                    },
+                    "1161474": {
+                        "instructorId": "1161474",
+                        "firstName": "X",
+                        "lastName": "Xing"
+                    }
+                },
+                "meetingId": "3855",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "37",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "TU-38304": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "38304",
+                        "assignedRoom1": "MP 251",
+                        "assignedRoom2": null
+                    },
+                    "FR-38305": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "38305",
+                        "assignedRoom1": "MP 251",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161475": {
+                        "instructorId": "1161475",
+                        "firstName": "N",
+                        "lastName": "Krasnopolskaia"
+                    }
+                },
+                "meetingId": "14860",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "3",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "PHY428H1-S-20169": {
+        "courseId": "1849",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Advanced Practical Physics II",
+        "code": "PHY428H1",
+        "courseDescription": "<p>This course is a continuation of PHY426H1, but students have more freedom to progressively focus on specific areas of physics, do extended experiments, projects, or computational modules.<\/p>",
+        "prerequisite": "PHY426H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39939": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39939",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 251"
+                    },
+                    "FR-39938": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39938",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 251"
+                    }
+                },
+                "instructors": {
+                    "1161476": {
+                        "instructorId": "1161476",
+                        "firstName": "N",
+                        "lastName": "Krasnopolskaia"
+                    },
+                    "1161477": {
+                        "instructorId": "1161477",
+                        "firstName": "R",
+                        "lastName": "Orr"
+                    },
+                    "1161478": {
+                        "instructorId": "1161478",
+                        "firstName": "A",
+                        "lastName": "Steinberg"
+                    },
+                    "1161479": {
+                        "instructorId": "1161479",
+                        "firstName": "J",
+                        "lastName": "Wei"
+                    },
+                    "1161480": {
+                        "instructorId": "1161480",
+                        "firstName": "L",
+                        "lastName": "Yang"
+                    }
+                },
+                "meetingId": "3856",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "37",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "TU-38306": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "38306",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MP 251"
+                    },
+                    "FR-38307": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "38307",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MP 251"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14861",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "3",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

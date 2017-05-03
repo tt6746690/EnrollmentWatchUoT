@@ -1,0 +1,53 @@
+{
+    "ITA310H1-S-20169": {
+        "courseId": "1317",
+        "org": "ITA",
+        "orgName": "Italian (ITA)",
+        "courseTitle": "The 'Journey' in 19th Century Italian Literature",
+        "code": "ITA310H1",
+        "courseDescription": "<p>The course illustrates Italy's contribution to the history of the trope during a time when countries became increasingly interdependent and conscious of each other's cultures. Through literary and social analysis the course traces the most vital aspects of the journey motif. This course includes a component designed to enhance students' research experience. (Given in English)<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-47602": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47602",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "OI 2212"
+                    }
+                },
+                "instructors": {
+                    "1160627": {
+                        "instructorId": "1160627",
+                        "firstName": "B",
+                        "lastName": "Magliocchetti"
+                    }
+                },
+                "meetingId": "2654",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "81",
+                "actualEnrolment": "78",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Jan. 6, 2017",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

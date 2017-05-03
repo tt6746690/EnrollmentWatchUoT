@@ -1,0 +1,104 @@
+{
+    "RLG388H1-F-20169": {
+        "courseId": "2099",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Special Topics I",
+        "code": "RLG388H1",
+        "courseDescription": "<p>Special Topics.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-43787": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "43787",
+                        "assignedRoom1": "SS 1078",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161956": {
+                        "instructorId": "1161956",
+                        "firstName": "Z",
+                        "lastName": "Anthony"
+                    }
+                },
+                "meetingId": "4252",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "Religion and Crisis",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "RLG388H1-S-20169": {
+        "courseId": "2099",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Special Topics I",
+        "code": "RLG388H1",
+        "courseDescription": "<p>Special Topics.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-43788": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "43788",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2111"
+                    }
+                },
+                "instructors": {
+                    "1161957": {
+                        "instructorId": "1161957",
+                        "firstName": "L",
+                        "lastName": "Ribeiro"
+                    }
+                },
+                "meetingId": "4253",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "Queering Religion: Religion in the Closet, Religion out of the Closet",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "FIN310H1-S-20169": {
+        "courseId": "3222",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Finnish Folklore: The Kalevala",
+        "code": "FIN310H1",
+        "courseDescription": "<p>An examination of the Finnish national epic, the Kalevala: its relationship to the tradition of folk poetry; its quality as an epic poem; the mythological, religious, and cultural dimensions of its world view; its role in Finlands nation building in the 19th and 20th centuries. Readings in English. (Offered at least every alternate year)<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-38151": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "38151",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "TF 203"
+                    }
+                },
+                "instructors": {
+                    "1159931": {
+                        "instructorId": "1159931",
+                        "firstName": "A",
+                        "lastName": "Muhonen"
+                    }
+                },
+                "meetingId": "14906",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

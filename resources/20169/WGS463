@@ -1,0 +1,53 @@
+{
+    "WGS463H1-F-20169": {
+        "courseId": "2649",
+        "org": "WGSI",
+        "orgName": "Women and Gender Studies (WGS)",
+        "courseTitle": "Advanced Topics in Gender Theory",
+        "code": "WGS463H1",
+        "courseDescription": "<p>Senior students may pursue more advanced study in feminist theory. Topics vary from year to year depending on instructor.<\/p>",
+        "prerequisite": "WGS160Y1, one full course at the 300+ level in WGS, and one half course in WGS.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-43090": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43090",
+                        "assignedRoom1": "WI 2006",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162924": {
+                        "instructorId": "1162924",
+                        "firstName": "B",
+                        "lastName": "McElhinny"
+                    }
+                },
+                "meetingId": "14431",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Water and Social Justice",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

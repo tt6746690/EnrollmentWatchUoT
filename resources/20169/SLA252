@@ -1,0 +1,214 @@
+{
+    "SLA252H1-S-20169": {
+        "courseId": "4283",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Russian Short Fiction",
+        "code": "SLA252H1",
+        "courseDescription": "<p>An exploration of the elements of the short story through close readings of works by 19th and 20th century writers. Stories in translation by Pushkin, Gogol, Turgenev, Dostoevsky, Chekhov, Olesha, Babel, and others.&nbsp; All readings in English.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-47444": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47444",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 400"
+                    }
+                },
+                "instructors": {
+                    "1162344": {
+                        "instructorId": "1162344",
+                        "firstName": "R",
+                        "lastName": "Carter"
+                    },
+                    "1162345": {
+                        "instructorId": "1162345",
+                        "firstName": "D",
+                        "lastName": "Orwin"
+                    }
+                },
+                "meetingId": "13537",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "82",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "MO-47302": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "47302",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 106"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15316",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: Nov. 15, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "MO-47303": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "47303",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 106"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15317",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: Nov. 15, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "WE-47304": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47304",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 107"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15318",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: Nov. 15, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0401": {
+                "schedule": {
+                    "TH-47305": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "47305",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "TF 103"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15319",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: Nov. 15, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0501": {
+                "schedule": {
+                    "TH-47306": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47306",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "TF 203"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15320",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: Nov. 15, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0601": {
+                "schedule": {
+                    "FR-47307": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "47307",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AH 302"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15321",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0601",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: Nov. 15, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

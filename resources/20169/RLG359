@@ -1,0 +1,53 @@
+{
+    "RLG359H1-F-20169": {
+        "courseId": "4155",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Intermediate Sanskrit I",
+        "code": "RLG359H1",
+        "courseDescription": "<p>Review of grammar and the development of vocabulary with a focus on reading simple narrative prose and verse.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-44131": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44131",
+                        "assignedRoom1": "JH 319",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161949": {
+                        "instructorId": "1161949",
+                        "firstName": "E",
+                        "lastName": "Mills"
+                    }
+                },
+                "meetingId": "14145",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

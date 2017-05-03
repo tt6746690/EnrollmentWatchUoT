@@ -1,0 +1,113 @@
+{
+    "CHM434H1-F-20169": {
+        "courseId": "239",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Advanced Materials Chemistry",
+        "code": "CHM434H1",
+        "courseDescription": "<p>A comprehensive investigation of synthetic methods for preparing diverse classes of inorganic materials with properties intentionally tailored for a particular use. Begins with a primer on solid-state materials and electronic band description of solids followed by a survey of archetypical solids that have had a dramatic influence on the materials world, some new developments in materials chemistry and a look at perceived future developments in materials research and technology. Strategies for synthesizing many different classes of materials with intentionally designed structures and compositions, textures and morphologies are then explored in detail emphasizing how to control the relations between structure and property of materials and ultimately function and utility. A number of contemporary issues in materials research are critically evaluated to appreciate recent highlights in the field of materials chemistry - an emerging sub-discipline of chemistry.<\/p>",
+        "prerequisite": "CHM325H1, CHM338H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-41251": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "41251",
+                        "assignedRoom1": "LM 157",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158932": {
+                        "instructorId": "1158932",
+                        "firstName": "G",
+                        "lastName": "Ozin"
+                    }
+                },
+                "meetingId": "573",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "TH-37565": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "37565",
+                        "assignedRoom1": "LM 157",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158933": {
+                        "instructorId": "1158933",
+                        "firstName": "G",
+                        "lastName": "Ozin"
+                    }
+                },
+                "meetingId": "6068",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "2",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "8",
+                        "postCode": "AEESCBASCO",
+                        "postName": "BASc-Engineering Sci(Nano Eng)",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

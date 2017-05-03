@@ -1,0 +1,53 @@
+{
+    "EEB498Y1-Y-20169": {
+        "courseId": "654",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Advanced Research Project in Ecology and Evolutionary Biology",
+        "code": "EEB498Y1",
+        "courseDescription": "<p>An advanced research project (a literature review alone is not sufficient) requiring the prior consent of a member of the Department to supervise the project. The topic is to be one mutually agreed on by the student and supervisor. They must arrange the time, place, and provision of any materials and submit to the Undergraduate Office a signed form of agreement outlining details prior to being enrolled. This course is normally open only to highly self-motivated students who are in their Fourth-Year and have adequate background in ecology and\/or evolutionary biology. Students are required to write up the results of their research in a formal paper, often in the format of a research article, and are also required to present the results at a poster session and\/or oral presentation. The time commitment is approximately 8 hours per week. Students should contact their potential supervisors over the summer before classes begin in September. Information regarding how to register for the course is available on the EEB website. Students in this course are also concurrently enrolled in EEB488H1Y Research Issues in Ecology and Evolutionary Biology. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of department",
+        "corequisite": "EEB488H1Y",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Application instructions for registration are found at <a href=\"http:\/\/www.eeb.utoronto.ca\/Learning\/u-courses\/up-courses.htm\">http:\/\/www.eeb.utoronto.ca\/Learning\/u-courses\/up-courses.htm<\/a>. For more information, please contact the Undergraduate Assistant, at undergrad.eeb@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159651": {
+                        "instructorId": "1159651",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1376",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

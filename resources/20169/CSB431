@@ -1,0 +1,66 @@
+{
+    "CSB431H1-S-20169": {
+        "courseId": "372",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Evolution and Development: Gastrulation",
+        "code": "CSB431H1",
+        "courseDescription": "<p>Gastrulation is used to examine the molecular and cellular mechanisms of a major morphogenetic process and its evolutionary modifications.&nbsp; This course includes small group discussions and presentations.&nbsp; Controversial issues presented in the lectures are debated.<\/p>",
+        "prerequisite": "CSB328H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41577": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41577",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RW 15A"
+                    },
+                    "TU-41578": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "41578",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RW 15A"
+                    }
+                },
+                "instructors": {
+                    "1159100": {
+                        "instructorId": "1159100",
+                        "firstName": "A",
+                        "lastName": "Bruce"
+                    },
+                    "1159101": {
+                        "instructorId": "1159101",
+                        "firstName": "R",
+                        "lastName": "Winklbauer"
+                    }
+                },
+                "meetingId": "808",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

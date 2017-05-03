@@ -1,0 +1,84 @@
+{
+    "NMC491H1-F-20169": {
+        "courseId": "3842",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Mesopotamian Material Culture: Art",
+        "code": "NMC491H1",
+        "courseDescription": "<p>This course focuses on a comprehensive introduction and discussion of Mesopotamian artwork from the Neolithic to the Iron Age periods (ca. 6000 - 300 BCE). Following an introduction of major artifact classes (including sculpture, relief, and glyptics [seals and sealings]), students will learn to describe and catalogue works of Mesopotamian art, allowing them to critically use and evaluate primary and secondary publications. Systematic descriptions and labels for key characteristics such as the object materials, size, iconography, genre, style, and theme will be established to show how meaningful artifact typologies can be constructed. The potential as well as limitations of art-historical approaches for archaeological work, especially for the chronology and interpretation of archeological contexts, will be discussed and examined on selected cases. Several classes will be taught at the Royal Ontario Museum to demonstrate the handling and physical analysis of artifacts.<\/p>",
+        "prerequisite": "Permission of the instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "15152",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "August 4, 2016",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "NMC491H1-S-20169": {
+        "courseId": "3842",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Mesopotamian Material Culture: Art",
+        "code": "NMC491H1",
+        "courseDescription": "<p>This course focuses on a comprehensive introduction and discussion of Mesopotamian artwork from the Neolithic to the Iron Age periods (ca. 6000 - 300 BCE). Following an introduction of major artifact classes (including sculpture, relief, and glyptics [seals and sealings]), students will learn to describe and catalogue works of Mesopotamian art, allowing them to critically use and evaluate primary and secondary publications. Systematic descriptions and labels for key characteristics such as the object materials, size, iconography, genre, style, and theme will be established to show how meaningful artifact typologies can be constructed. The potential as well as limitations of art-historical approaches for archaeological work, especially for the chronology and interpretation of archeological contexts, will be discussed and examined on selected cases. Several classes will be taught at the Royal Ontario Museum to demonstrate the handling and physical analysis of artifacts.<\/p>",
+        "prerequisite": "Permission of the instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-47632": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47632",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 415"
+                    }
+                },
+                "instructors": {
+                    "1161180": {
+                        "instructorId": "1161180",
+                        "firstName": "A",
+                        "lastName": "Porter"
+                    }
+                },
+                "meetingId": "15230",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Jan 9, 2017",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

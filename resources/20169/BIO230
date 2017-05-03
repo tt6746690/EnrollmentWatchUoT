@@ -1,0 +1,514 @@
+{
+    "BIO230H1-F-20169": {
+        "courseId": "169",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "From Genes to Organisms",
+        "code": "BIO230H1",
+        "courseDescription": "<p>The genome is the \"book of life,\" providing instructions to construct an organism. This course introduces genome biology and explores how the building blocks of life are networked into functioning organisms. We will investigate how cells perceive internal and external cues, how gene expression is shaped by this perception, and how these events give rise to tissues, organs, and whole organisms. (Lab Materials Fee: $25).<\/p>",
+        "prerequisite": "BIO130H1, (CHM135H1, CHM136H1)\/(CHM138H1, CHM139H1)\/CHM151Y1",
+        "corequisite": "",
+        "exclusion": "BIO240H1, BIO241H1, BIO250Y1, BIO255H1, BIO255Y1. Students who have only completed one of BIO240H1 or BIO241H1 can take BIO230H1 for credit.",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Practicals (laboratories) meet in alternate weeks (A): practical meeting section numbers that end with 1 will be taking place on the weeks of: September 19th, October 3rd, October 17th, October 31st, and November 21st. Practical meeting section numbers that end with 2 will be taking place on the weeks of: September 26, October 10th, October 24th, November 14th, November 28th. Check portal for more information. Laboratory enrolment can be done on the SWS until the evening of Tuesday, September 6. Late lab enrolment or lab changes must be done in the BIO230H1 Office (ES3053) starting September 12 until September 16. For your BIO230H1 laboratory classes, if you plan to take any other course laboratory on the same day in alternating weeks, check the dates of all labs in the corresponding cycles in both courses.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46112": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46112",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    },
+                    "TH-46113": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46113",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158673": {
+                        "instructorId": "1158673",
+                        "firstName": "D",
+                        "lastName": "Desveaux"
+                    },
+                    "1158674": {
+                        "instructorId": "1158674",
+                        "firstName": "T",
+                        "lastName": "Harris"
+                    }
+                },
+                "meetingId": "373",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "1105",
+                "actualEnrolment": "965",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "TU-46114": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "46114",
+                        "assignedRoom1": "ES 1050",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158675": {
+                        "instructorId": "1158675",
+                        "firstName": "K",
+                        "lastName": "Yip"
+                    }
+                },
+                "meetingId": "374",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "350",
+                "actualEnrolment": "327",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "TU-46521": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46521",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "375",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "TU-46522": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46522",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "377",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "78",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-0202": {
+                "schedule": {
+                    "TU-46523": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46523",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "378",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "81",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-0301": {
+                "schedule": {
+                    "WE-46533": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46533",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "379",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "93",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-0302": {
+                "schedule": {
+                    "WE-46524": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46524",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "380",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0302",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "91",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-0401": {
+                "schedule": {
+                    "WE-46525": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46525",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "381",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "84",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-0402": {
+                "schedule": {
+                    "WE-46526": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46526",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "382",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0402",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "86",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-0501": {
+                "schedule": {
+                    "TH-46527": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46527",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "383",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "38",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-0502": {
+                "schedule": {
+                    "TH-46534": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46534",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "384",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0502",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-0601": {
+                "schedule": {
+                    "TH-46535": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46535",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "385",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0601",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "93",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-0602": {
+                "schedule": {
+                    "TH-46532": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46532",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "386",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0602",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "90",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-5101": {
+                "schedule": {
+                    "WE-46531": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "46531",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "387",
+                "teachingMethod": "PRA",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "87",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-5102": {
+                "schedule": {
+                    "WE-46536": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "46536",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "388",
+                "teachingMethod": "PRA",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "92",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-5201": {
+                "schedule": {
+                    "TU-46530": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "46530",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "6557",
+                "teachingMethod": "PRA",
+                "sectionNumber": "5201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "79",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-5301": {
+                "schedule": {
+                    "TH-46529": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "46529",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "389",
+                "teachingMethod": "PRA",
+                "sectionNumber": "5301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "76",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "PRA-5302": {
+                "schedule": {
+                    "TH-46528": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "46528",
+                        "assignedRoom1": " ",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "390",
+                "teachingMethod": "PRA",
+                "sectionNumber": "5302",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "96",
+                "actualEnrolment": "84",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

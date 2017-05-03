@@ -1,0 +1,61 @@
+{
+    "GRK202H1-S-20169": {
+        "courseId": "1037",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Intermediate Ancient Greek II",
+        "code": "GRK202H1",
+        "courseDescription": "<p>Continued language training with readings in Ancient Greek prose and verse.<\/p>",
+        "prerequisite": "GRK201H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41370": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41370",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LI 220"
+                    },
+                    "WE-41371": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41371",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LI 220"
+                    }
+                },
+                "instructors": {
+                    "1160204": {
+                        "instructorId": "1160204",
+                        "firstName": "K",
+                        "lastName": "Wilkinson"
+                    }
+                },
+                "meetingId": "2172",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

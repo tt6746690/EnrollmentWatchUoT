@@ -1,0 +1,53 @@
+{
+    "HMB396Y0-Y-20169": {
+        "courseId": "1159",
+        "org": "HMB",
+        "orgName": "Human Biology (HMB) (CJH) (HAJ) (JEH) (EHJ)",
+        "courseTitle": "International Research Project in Human Biology",
+        "code": "HMB396Y0",
+        "courseDescription": "<p>Your individual, independent research project is supervised by a faculty member in an approved university. This unique opportunity to conduct a lab-based research project is open to students in any Human Biology program. Not eligible for CR\/NCR option. Coordinated by <a target=_blank\" href=\"http:\/\/summerabroad.utoronto.ca\/\" target=\"_blank\">Woodsworth College<\/a>.<\/p>\"",
+        "prerequisite": "An approved 300-series science laboratory course and permission of the Human Biology Program from which application forms may be obtained.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Students interested in enrolling in HMB396Y0 should contact the Summer Abroad Office at Woodsworth College http:\/\/summerabroad.utoronto.ca\/contact-us\/",
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160371": {
+                        "instructorId": "1160371",
+                        "firstName": "F",
+                        "lastName": "Taverna"
+                    }
+                },
+                "meetingId": "2343",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

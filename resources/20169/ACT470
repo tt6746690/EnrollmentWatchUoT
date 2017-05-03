@@ -1,0 +1,53 @@
+{
+    "ACT470H1-S-20169": {
+        "courseId": "41",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Advanced Pension Mathematics",
+        "code": "ACT470H1",
+        "courseDescription": "<p>Topics in pension mathematics; funding methods for pension plans. (Offered in alternate years)<\/p>",
+        "prerequisite": "ACT348H1 or permission of instructor",
+        "corequisite": "ACT455H1",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-40497": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "40497",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2105"
+                    }
+                },
+                "instructors": {
+                    "1158442": {
+                        "instructorId": "1158442",
+                        "firstName": "H",
+                        "lastName": "Lyons"
+                    }
+                },
+                "meetingId": "53",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

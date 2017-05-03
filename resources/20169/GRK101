@@ -1,0 +1,117 @@
+{
+    "GRK101H1-F-20169": {
+        "courseId": "1034",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Introductory Ancient Greek I (formerly GRK 100Y1)",
+        "code": "GRK101H1",
+        "courseDescription": "<p>An intensive introduction to Ancient Greek for students who have no knowledge of the language; preparation for the reading of Ancient Greek literature.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "GRK100Y1  Students who have studied Ancient Greek previously must obtain permission from the Undergraduate Coordinator before enrolling.",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41342": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "41342",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": null
+                    },
+                    "TU-41344": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "41344",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": null
+                    },
+                    "WE-41345": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "41345",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": null
+                    },
+                    "TH-41343": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "41343",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160199": {
+                        "instructorId": "1160199",
+                        "firstName": "E",
+                        "lastName": "Parker"
+                    }
+                },
+                "meetingId": "2167",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TU-41349": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41349",
+                        "assignedRoom1": "NF 119",
+                        "assignedRoom2": null
+                    },
+                    "TH-41348": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41348",
+                        "assignedRoom1": "NF 119",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160200": {
+                        "instructorId": "1160200",
+                        "firstName": "T",
+                        "lastName": "Lytle"
+                    }
+                },
+                "meetingId": "2168",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

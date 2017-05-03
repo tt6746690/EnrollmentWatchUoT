@@ -1,0 +1,120 @@
+{
+    "APM462H1-F-20169": {
+        "courseId": "114",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Nonlinear Optimization",
+        "code": "APM462H1",
+        "courseDescription": "<p>An introduction to first and second order conditions for finite and infinite dimensional optimization problems with mention of available software. Topics include Lagrange multipliers, Kuhn-Tucker conditions, convexity and calculus variations. Basic numerical search methods and software packages which implement them will be discussed.<\/p>",
+        "prerequisite": "MAT223H1, MAT224H1, MAT235Y1,",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "MAT336H1\/MAT337H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-36057": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "36057",
+                        "assignedRoom1": "SS 2102",
+                        "assignedRoom2": null
+                    },
+                    "TU-36058": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "36058",
+                        "assignedRoom1": "FG 103",
+                        "assignedRoom2": null
+                    },
+                    "FR-36059": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "36059",
+                        "assignedRoom1": "FG 103",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158542": {
+                        "instructorId": "1158542",
+                        "firstName": "S",
+                        "lastName": "Alexakis"
+                    }
+                },
+                "meetingId": "14291",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "130",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "APM462H1-S-20169": {
+        "courseId": "114",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Nonlinear Optimization",
+        "code": "APM462H1",
+        "courseDescription": "<p>An introduction to first and second order conditions for finite and infinite dimensional optimization problems with mention of available software. Topics include Lagrange multipliers, Kuhn-Tucker conditions, convexity and calculus variations. Basic numerical search methods and software packages which implement them will be discussed.<\/p>",
+        "prerequisite": "MAT223H1, MAT224H1, MAT235Y1,",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "MAT336H1\/MAT337H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-39051": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "39051",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 162"
+                    }
+                },
+                "instructors": {
+                    "1158543": {
+                        "instructorId": "1158543",
+                        "firstName": "A",
+                        "lastName": "Nachman"
+                    }
+                },
+                "meetingId": "198",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "154",
+                "actualEnrolment": "128",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

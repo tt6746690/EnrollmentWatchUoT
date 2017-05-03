@@ -1,0 +1,121 @@
+{
+    "MAT257Y1-Y-20169": {
+        "courseId": "1464",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Analysis II",
+        "code": "MAT257Y1",
+        "courseDescription": "<p>Topology of R^n; compactness, functions and continuity, extreme value theorem. Derivatives; inverse and implicit function theorems, maxima and minima, Lagrange multipliers. Integration; Fubini's theorem, partitions of unity, change of variables. Differential forms. Manifolds in R^n; integration on manifolds; Stokes' theorem for differential forms and classical versions.<\/p>",
+        "prerequisite": "MAT157Y1, MAT240H1, MAT247H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47025": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "47025",
+                        "assignedRoom1": "MC 254",
+                        "assignedRoom2": "RS 211"
+                    },
+                    "WE-47026": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "47026",
+                        "assignedRoom1": "MC 254",
+                        "assignedRoom2": "RS 211"
+                    },
+                    "FR-47024": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "47024",
+                        "assignedRoom1": "MC 254",
+                        "assignedRoom2": "RS 211"
+                    }
+                },
+                "instructors": {
+                    "1160898": {
+                        "instructorId": "1160898",
+                        "firstName": "D",
+                        "lastName": "Bar-Natan"
+                    }
+                },
+                "meetingId": "3150",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "89",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: September 19, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-47022": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "47022",
+                        "assignedRoom1": "AB 107",
+                        "assignedRoom2": "AB 107"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3151",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "66",
+                "actualEnrolment": "49",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-47023": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "47023",
+                        "assignedRoom1": "BA 2185",
+                        "assignedRoom2": "BA 2185"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3152",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "52",
+                "actualEnrolment": "38",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "HPS210H1-F-20169": {
+        "courseId": "1190",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "Scientific Revolutions I",
+        "code": "HPS210H1",
+        "courseDescription": "<p>Case studies in the history of science from antiquity to 1800, including the revolutionary work of Copernicus, Kepler, Galileo, Descartes, Newton, Linnaeus, Lavoisier, and Herschel. The course is designed to be accessible to science students and non-scientists alike.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "HPS200Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-29359": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "29359",
+                        "assignedRoom1": "BR 200",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160406": {
+                        "instructorId": "1160406",
+                        "firstName": "C",
+                        "lastName": "Forbes"
+                    }
+                },
+                "meetingId": "12905",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "225",
+                "actualEnrolment": "176",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

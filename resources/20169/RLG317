@@ -1,0 +1,53 @@
+{
+    "RLG317H1-F-20169": {
+        "courseId": "2088",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Religious Violence and Nonviolence",
+        "code": "RLG317H1",
+        "courseDescription": "<p>Religious violence and nonviolence as they emerge in the tension between strict adherence to tradition and individual actions of charismatic figures. The place of violence and nonviolence in selected faith traditions.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "RLG317H5",
+        "recommendedPreparation": "RLG100Y1\/280Y1; see note above for general prerequisites",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-28669": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "28669",
+                        "assignedRoom1": "SS 1070",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161939": {
+                        "instructorId": "1161939",
+                        "firstName": "D",
+                        "lastName": "Perley"
+                    }
+                },
+                "meetingId": "14475",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

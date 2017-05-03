@@ -1,0 +1,108 @@
+{
+    "CRI386H1-S-20169": {
+        "courseId": "2827",
+        "org": "CRIM",
+        "orgName": "Criminology and Sociolegal Studies, Centre for (CRI)",
+        "courseTitle": "Origins of Criminal Justice",
+        "code": "CRI386H1",
+        "courseDescription": "<p>Criminal justice practice, as well as political debate concerning crime and criminal justice, are often influenced by ideas that are initially developed outside the criminal justice arena.&nbsp; This course examines the history, current influence and efficacy of a range of such ideas, such as: the role of religious practice in rehabilitating offenders; military service and participation in sports as preventive of delinquency; the influence of environmental pollution on crime rates; the concept of the &lsquo;problem family&rsquo;; intelligence based policing and the use of management theories in criminal justice organizations.&nbsp;&nbsp;<\/p>\n<p>20171:&nbsp; The course will include an optional Service Learning component.&nbsp; Students in the Service Learning component complete 20 hours volunteer work with a community service agency and a reduced study load in the lecture course.&nbsp; Space in the Service Learning option is limited.&nbsp; See timetable for details.<\/p>",
+        "prerequisite": "CRI205H1, CRI210H1",
+        "corequisite": "",
+        "exclusion": "CRI390H1 Roots of Criminal Justice Policy taken in 20141\/20151\/20161.",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "A service learning placement option will be offered to 15 students  in this course.  All other students will complete CRI386H1 as a regular lecture course.   For details on the service learning option please check the program website here. (http:\/\/www.wdw.utoronto.ca\/index.php\/programs\/criminology\/service_learning)\r\nNote:  Students who enrol in this course after September 12, 2016 will complete CRI386H1 as a regular course (see website for details). ",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-16508": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "16508",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WW 126"
+                    }
+                },
+                "instructors": {
+                    "1159050": {
+                        "instructorId": "1159050",
+                        "firstName": "W",
+                        "lastName": "Watson"
+                    }
+                },
+                "meetingId": "6766",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "44",
+                "actualEnrolment": "40",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "70",
+                        "postCode": "ASMAJ0826",
+                        "postName": "MA CRIMINOLOGY & SOCIOL STUDY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "263",
+                        "postCode": "ASSPE0826",
+                        "postName": "SP CRIMINOLOGY & SOCIOL STUDY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

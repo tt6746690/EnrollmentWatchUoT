@@ -1,0 +1,58 @@
+{
+    "POL101Y1-Y-20169": {
+        "courseId": "1873",
+        "org": "POL",
+        "orgName": "Political Science (POL) (JHP) (JPA) (JPD) (JPF) (JPP) (JPR) (JPU) (JRA)",
+        "courseTitle": "Democracy, Dictatorship, War, and Peace: An Introduction",
+        "code": "POL101Y1",
+        "courseDescription": "<p>This course is an introductory survey of the main currents and important themes in political science, emphasizing the sub disciplines of international relations, comparative politics, and political theory.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "POL103Y1, POL105Y1, POL108Y1, any POL 100-level course",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "All POL 100-series courses are mutually exclusive. Students who have previously completed a POL 100-series course with a grade of at least 50% will be removed from POL101Y1 at any time they are discovered. ",
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-11343": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "11343",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": "CH ---"
+                    }
+                },
+                "instructors": {
+                    "1161544": {
+                        "instructorId": "1161544",
+                        "firstName": "R",
+                        "lastName": "Hansen"
+                    },
+                    "1161545": {
+                        "instructorId": "1161545",
+                        "firstName": "C",
+                        "lastName": "Jung"
+                    }
+                },
+                "meetingId": "3900",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "1200",
+                "actualEnrolment": "964",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "CHM440H1-F-20169": {
+        "courseId": "241",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "The Synthesis of Modern Pharmaceutical Agents",
+        "code": "CHM440H1",
+        "courseDescription": "<p>This course provides an overview of reactions and synthetic strategies that are being used at different stages of the drug development process. Using representative examples from the literature, we will concentrate on synthesis of complex heterocyclic compounds.<\/p>",
+        "prerequisite": "CHM342H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41257": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41257",
+                        "assignedRoom1": "LM 158",
+                        "assignedRoom2": null
+                    },
+                    "TH-41256": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41256",
+                        "assignedRoom1": "LM 158",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158935": {
+                        "instructorId": "1158935",
+                        "firstName": "A",
+                        "lastName": "Yudin"
+                    }
+                },
+                "meetingId": "575",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

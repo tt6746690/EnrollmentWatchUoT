@@ -1,0 +1,456 @@
+{
+    "VIC401H1-F-20169": {
+        "courseId": "2596",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Seminar in Comparative Literature",
+        "code": "VIC401H1",
+        "courseDescription": "<p>This course offers senior students in&nbsp;<span style=\"font-size: 8.0pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: Arial; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\" lang=\"EN-US\">Literature and Critical Theory<\/span>&nbsp;the opportunity to take part in a&nbsp;graduate seminar in Comparative Literature. Topics change annually.<\/p>",
+        "prerequisite": "Permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "To enroll in this course, students must submit an application by June 1st. For more information, visit www.vic.utoronto.ca\/students\/academics\/lct\/vic401.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42936": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42936",
+                        "assignedRoom1": "BT 319",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162840": {
+                        "instructorId": "1162840",
+                        "firstName": "A",
+                        "lastName": "Motsch"
+                    }
+                },
+                "meetingId": "5260",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Literature of Contact and Anthropological Thought 16th-18th Century",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TU-42937": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42937",
+                        "assignedRoom1": "BT 319",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162841": {
+                        "instructorId": "1162841",
+                        "firstName": "A",
+                        "lastName": "Sakaki"
+                    }
+                },
+                "meetingId": "5261",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "Diasporic Cities",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0301": {
+                "schedule": {
+                    "WE-42938": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42938",
+                        "assignedRoom1": "BT 319",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162842": {
+                        "instructorId": "1162842",
+                        "firstName": "V",
+                        "lastName": "Ambros"
+                    }
+                },
+                "meetingId": "5262",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "Magic Prague: Questions of Literacy Cityscapes",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0401": {
+                "schedule": {
+                    "WE-42939": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42939",
+                        "assignedRoom1": "BT 319",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162843": {
+                        "instructorId": "1162843",
+                        "firstName": "V",
+                        "lastName": "Li"
+                    }
+                },
+                "meetingId": "5263",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0401",
+                "subtitle": "Giorgio Agamben: Exception and Potentiality",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0501": {
+                "schedule": {
+                    "TH-42940": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "42940",
+                        "assignedRoom1": "BT 319",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162844": {
+                        "instructorId": "1162844",
+                        "firstName": "R",
+                        "lastName": "Bai"
+                    }
+                },
+                "meetingId": "5264",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0501",
+                "subtitle": "Text and Digital Media",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0601": {
+                "schedule": {
+                    "TH-42941": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42941",
+                        "assignedRoom1": "BT 319",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162845": {
+                        "instructorId": "1162845",
+                        "firstName": "J",
+                        "lastName": "Ricco"
+                    }
+                },
+                "meetingId": "5265",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0601",
+                "subtitle": "Queer Ethics and Aesthetics",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0701": {
+                "schedule": {
+                    "FR-42942": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "42942",
+                        "assignedRoom1": "BT 319",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162846": {
+                        "instructorId": "1162846",
+                        "firstName": "A",
+                        "lastName": "Komaromi"
+                    }
+                },
+                "meetingId": "5266",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0701",
+                "subtitle": "Public Reading",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0801": {
+                "schedule": {
+                    "TU-25184": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "25184",
+                        "assignedRoom1": "BT 319",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162847": {
+                        "instructorId": "1162847",
+                        "firstName": "B",
+                        "lastName": "Havercroft"
+                    }
+                },
+                "meetingId": "14127",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0801",
+                "subtitle": "Gender, Agency, and Life Writing",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "VIC401H1-S-20169": {
+        "courseId": "2596",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Seminar in Comparative Literature",
+        "code": "VIC401H1",
+        "courseDescription": "<p>This course offers senior students in&nbsp;<span style=\"font-size: 8.0pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: Arial; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\" lang=\"EN-US\">Literature and Critical Theory<\/span>&nbsp;the opportunity to take part in a&nbsp;graduate seminar in Comparative Literature. Topics change annually.<\/p>",
+        "prerequisite": "Permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "To enroll in this course, students must submit an application by June 1st. For more information, visit www.vic.utoronto.ca\/students\/academics\/lct\/vic401.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-42943": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42943",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BT 319"
+                    }
+                },
+                "instructors": {
+                    "1162848": {
+                        "instructorId": "1162848",
+                        "firstName": "E",
+                        "lastName": "Jagoe"
+                    }
+                },
+                "meetingId": "5267",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Forms of Critical Writing",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TU-42944": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42944",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BT 319"
+                    }
+                },
+                "instructors": {
+                    "1162849": {
+                        "instructorId": "1162849",
+                        "firstName": "T",
+                        "lastName": "Lahusen"
+                    }
+                },
+                "meetingId": "5268",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "A Journey from Petersburg to Los Angeles ",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "3",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0301": {
+                "schedule": {
+                    "WE-42945": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42945",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BT 319"
+                    }
+                },
+                "instructors": {
+                    "1162850": {
+                        "instructorId": "1162850",
+                        "firstName": "J",
+                        "lastName": "Zilcosky"
+                    }
+                },
+                "meetingId": "5269",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "Freud and Psychoanalysis",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0401": {
+                "schedule": {
+                    "TH-28991": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "28991",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BT 319"
+                    }
+                },
+                "instructors": {
+                    "1162851": {
+                        "instructorId": "1162851",
+                        "firstName": "S",
+                        "lastName": "Rupp"
+                    }
+                },
+                "meetingId": "14530",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0401",
+                "subtitle": "Reading Cervantes",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "LEC-0501": {
+                "schedule": {
+                    "TU-29992": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "29992",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BT 319"
+                    }
+                },
+                "instructors": {
+                    "1162852": {
+                        "instructorId": "1162852",
+                        "firstName": "J",
+                        "lastName": "LeBlanc"
+                    }
+                },
+                "meetingId": "14128",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0501",
+                "subtitle": "Performative Autobiographical Acts: Painted and Photographic Representations of Self in Personal and Political Testimonials",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "4",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

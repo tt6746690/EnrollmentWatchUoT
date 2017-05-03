@@ -1,0 +1,61 @@
+{
+    "SLA206H1-F-20169": {
+        "courseId": "2235",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Intermediate Polish I",
+        "code": "SLA206H1",
+        "courseDescription": "<p>The goal of this course is to develop students&rsquo; Polish language skills, such as speaking, listening, writing, and reading, using new methods of the second language acquisition at a lower intermediate level. Many elements of Polish culture are also examined in the context of language and communication through readings of original texts, which form the basis for class discussions. The course uses authentic Polish materials (newspapers, short stories, poems, radio programs, movies, and songs).<\/p>",
+        "prerequisite": "SLA106Y1 or permission of instructor",
+        "corequisite": "",
+        "exclusion": "SLA206Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-40188": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "40188",
+                        "assignedRoom1": "AH 204",
+                        "assignedRoom2": null
+                    },
+                    "TH-40187": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "40187",
+                        "assignedRoom1": "AH 204",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162331": {
+                        "instructorId": "1162331",
+                        "firstName": "A",
+                        "lastName": "Rabczuk"
+                    }
+                },
+                "meetingId": "4640",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "27",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

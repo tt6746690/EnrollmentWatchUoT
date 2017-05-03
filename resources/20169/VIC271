@@ -1,0 +1,53 @@
+{
+    "VIC271H1-S-20169": {
+        "courseId": "2562",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Reading the Wild",
+        "code": "VIC271H1",
+        "courseDescription": "<p class=\"MsoNormal\"><span lang=\"EN-US\">In light of the environmental crisis, this seminar surveys a wide range of oral and written literature in order to discover how our approach to nature has changed over the centuries, what gains and losses have attended modernity, and what older cultures can teach us as we seek to preserve threatened ecosystems. <\/span><\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-34273": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "34273",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 304"
+                    }
+                },
+                "instructors": {
+                    "1162795": {
+                        "instructorId": "1162795",
+                        "firstName": "J",
+                        "lastName": "BEMROSE"
+                    }
+                },
+                "meetingId": "5215",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "JUM203H1-F-20169": {
+        "courseId": "3668",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Mathematics as a Recreation",
+        "code": "JUM203H1",
+        "courseDescription": "<p>A study of games, puzzles and problems focusing on the deeper principles they illustrate. Concentration is on problems arising out of number theory and geometry, with emphasis on the process of mathematical reasoning. Technical requirements are kept to a minimum. A foundation is provided for a continuing lay interest in mathematics. (Offered every three years)<\/p>\n<p>&nbsp;<a target=_blank\" href=\"http:\/\/www.artsandscience.utoronto.ca\/ofr\/calendar\/crs_uni.htm#JUM203H1\">JUM203H1<\/a> is particularly suited as a Science Distribution Requirement course for Humanities and Social Science students.<\/p>\"",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "JUM103H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-36945": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "36945",
+                        "assignedRoom1": "UC 256",
+                        "assignedRoom2": null
+                    },
+                    "WE-36946": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "36946",
+                        "assignedRoom1": "UC 256",
+                        "assignedRoom2": null
+                    },
+                    "FR-36947": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "36947",
+                        "assignedRoom1": "UC 256",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160695": {
+                        "instructorId": "1160695",
+                        "firstName": "S",
+                        "lastName": "Homayouni-Boroojeni"
+                    }
+                },
+                "meetingId": "14737",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "36",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

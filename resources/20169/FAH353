@@ -1,0 +1,53 @@
+{
+    "FAH353H1-S-20169": {
+        "courseId": "3154",
+        "org": "FAR",
+        "orgName": "Art (FAH)",
+        "courseTitle": "On Display: Cultures of Exhibition, 1789-1900",
+        "code": "FAH353H1",
+        "courseDescription": "<p>Examination&nbsp;of the historical development of the cultures of exhibition in Nineteenth-Century Europe, and the diversity of venues displaying works of art and nature. Historical and theoretical overview is complemented by case studies which include investigations of private cabinets of curiosity, encyclopedic museums, commercial galleries, side-shows, and world's fairs.<\/p>",
+        "prerequisite": "Any FAH 200-level course",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "some introduction to art and\/or cultural history",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-43269": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "43269",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2135"
+                    }
+                },
+                "instructors": {
+                    "1159904": {
+                        "instructorId": "1159904",
+                        "firstName": "J",
+                        "lastName": "Bear"
+                    }
+                },
+                "meetingId": "15175",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "188",
+                "actualEnrolment": "133",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

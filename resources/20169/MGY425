@@ -1,0 +1,76 @@
+{
+    "MGY425H1-S-20169": {
+        "courseId": "1516",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Signal Transduction and Cell Cycle Regulation",
+        "code": "MGY425H1",
+        "courseDescription": "<p>This course presents and integrates molecular aspects of signal transduction and cell cycle regulation in eukaryotic cells from yeast to humans. Emphasis is on recent advances in growth factor receptor signalling, modular protein domains, and the recurrent role of protein phosphorylation and protein-protein interactions in cell regulation.<\/p>",
+        "prerequisite": "BCH311H1\/MGY311Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-25088": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "25088",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4171"
+                    },
+                    "WE-25089": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "25089",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4171"
+                    }
+                },
+                "instructors": {
+                    "1161000": {
+                        "instructorId": "1161000",
+                        "firstName": "D",
+                        "lastName": "Durocher"
+                    },
+                    "1161001": {
+                        "instructorId": "1161001",
+                        "firstName": "S",
+                        "lastName": "Egan"
+                    },
+                    "1161002": {
+                        "instructorId": "1161002",
+                        "firstName": "L",
+                        "lastName": "Pelletier"
+                    },
+                    "1161003": {
+                        "instructorId": "1161003",
+                        "firstName": "J",
+                        "lastName": "Wrana"
+                    }
+                },
+                "meetingId": "14281",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

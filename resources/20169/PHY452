@@ -1,0 +1,129 @@
+{
+    "PHY452H1-S-20169": {
+        "courseId": "1853",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Statistical Mechanics",
+        "code": "PHY452H1",
+        "courseDescription": "<p>Classical and quantum statistical mechanics of noninteracting systems; the statistical basis of thermodynamics; ensembles, partition function; thermodynamic equilibrium; stability and fluctuations; formulation of quantum statistics; theory of simple gases; ideal Bose and Fermi systems.<\/p>",
+        "prerequisite": "PHY252H1, PHY256H1",
+        "corequisite": "",
+        "exclusion": "PHY480H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39960": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39960",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 137"
+                    },
+                    "WE-39961": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39961",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 137"
+                    }
+                },
+                "instructors": {
+                    "1161494": {
+                        "instructorId": "1161494",
+                        "firstName": "Y",
+                        "lastName": "Kim"
+                    }
+                },
+                "meetingId": "3861",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "86",
+                "actualEnrolment": "39",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-38313": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "38313",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MP 137"
+                    },
+                    "WE-38314": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "38314",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MP 137"
+                    }
+                },
+                "instructors": {
+                    "1161495": {
+                        "instructorId": "1161495",
+                        "firstName": "Y",
+                        "lastName": "Kim"
+                    }
+                },
+                "meetingId": "14864",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "9",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

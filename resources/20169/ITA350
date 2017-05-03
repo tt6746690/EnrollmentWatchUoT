@@ -1,0 +1,101 @@
+{
+    "ITA350Y1-Y-20169": {
+        "courseId": "1324",
+        "org": "ITA",
+        "orgName": "Italian (ITA)",
+        "courseTitle": "Language Practice",
+        "code": "ITA350Y1",
+        "courseDescription": "<p>For students who have completed ITA250Y1\/ITA251Y1. Discussion of problems of grammar, style, and composition. Language analysis based on readings of Italian authors. One hour a week of oral practice. This course includes a component designed to enhance students' research experience.<\/p>",
+        "prerequisite": "ITA250Y1\/ITA251Y1",
+        "corequisite": "",
+        "exclusion": "ITA351Y1\/ITA352Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-20445": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "20445",
+                        "assignedRoom1": "TF 101",
+                        "assignedRoom2": "TF 101"
+                    },
+                    "WE-20446": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "20446",
+                        "assignedRoom1": "TF 101",
+                        "assignedRoom2": "TF 101"
+                    },
+                    "FR-20447": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "20447",
+                        "assignedRoom1": "TF 101",
+                        "assignedRoom2": "TF 101"
+                    }
+                },
+                "instructors": {
+                    "1160632": {
+                        "instructorId": "1160632",
+                        "firstName": "B",
+                        "lastName": "Magliocchetti"
+                    }
+                },
+                "meetingId": "13819",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-47101": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "47101",
+                        "assignedRoom1": "NF 113",
+                        "assignedRoom2": "NF 113"
+                    }
+                },
+                "instructors": {
+                    "1160633": {
+                        "instructorId": "1160633",
+                        "firstName": "B",
+                        "lastName": "Magliocchetti"
+                    }
+                },
+                "meetingId": "2661",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "43",
+                "actualEnrolment": "35",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: September 21, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

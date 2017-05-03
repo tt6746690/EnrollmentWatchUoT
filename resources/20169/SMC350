@@ -1,0 +1,53 @@
+{
+    "SMC350H1-F-20169": {
+        "courseId": "4372",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Celtic Spirituality",
+        "code": "SMC350H1",
+        "courseDescription": "<p>The religious culture of the early and mediaeval Celtic Church as manifested in the material and written record, and its significance for contemporary religious movements. Texts studied include the Patrician dossier, early monastic Rules and Liturgies, selected hagiographical, homiletic, devotional and lyric texts.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-25227": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "25227",
+                        "assignedRoom1": "TF 102",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162417": {
+                        "instructorId": "1162417",
+                        "firstName": "D",
+                        "lastName": "Brielmaier"
+                    }
+                },
+                "meetingId": "14286",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

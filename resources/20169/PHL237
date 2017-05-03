@@ -1,0 +1,61 @@
+{
+    "PHL237H1-F-20169": {
+        "courseId": "1749",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "History of Chinese Philosophy",
+        "code": "PHL237H1",
+        "courseDescription": "<p>An historical and systematic introduction to the main phases of Chinese philosophical development, including Confucianism, Taoism, Buddhism, and Neo-Confucianism; the challenge of Western thought and the development of modern Chinese Philosophy.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "EAS241H1, RLG274H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "MO-39691": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "39691",
+                        "assignedRoom1": "SS 1069",
+                        "assignedRoom2": null
+                    },
+                    "WE-39692": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "39692",
+                        "assignedRoom1": "SS 1069",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161306": {
+                        "instructorId": "1161306",
+                        "firstName": "V",
+                        "lastName": "Shen"
+                    }
+                },
+                "meetingId": "3592",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "78",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

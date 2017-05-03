@@ -1,0 +1,53 @@
+{
+    "NEW302Y1-Y-20169": {
+        "courseId": "1562",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "C.G. Jung: Stories, Patterns, Symbols",
+        "code": "NEW302Y1",
+        "courseDescription": "<p>Impact of Jung's analytical psychology, critical methodology and interpretative practice on issues in religion, anthropology, art and literature, popular culture, gender studies and postmodernist critique. Theoretical studies include traditional Jungian and contemporary post-Jungian texts together with feminist and non-Jungian sources.<\/p>",
+        "prerequisite": "Four FCEs, at least one of which should be in the humanities",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1), Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-39451": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "39451",
+                        "assignedRoom1": "WI 2008",
+                        "assignedRoom2": "WI 2008"
+                    }
+                },
+                "instructors": {
+                    "1161064": {
+                        "instructorId": "1161064",
+                        "firstName": "T",
+                        "lastName": "Pilgrim"
+                    }
+                },
+                "meetingId": "3286",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "29",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

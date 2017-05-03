@@ -1,0 +1,53 @@
+{
+    "BCB330Y1-Y-20169": {
+        "courseId": "139",
+        "org": "BCH",
+        "orgName": "Biochemistry (BCH) (BCB)",
+        "courseTitle": "Special Project in Bioinformatics and Computational Biology",
+        "code": "BCB330Y1",
+        "courseDescription": "<p>An opportunity for specialized individual research in bioinformatics and computational biology by arrangement with the course coordinator and a supervisor. Significant background in both life science and computer science courses is required. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of the course coordinator.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please send and email, with your student ID, to Jennifer Haughton at jennifer.haughton@utoronto.ca.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158574": {
+                        "instructorId": "1158574",
+                        "firstName": "N",
+                        "lastName": "Provart"
+                    }
+                },
+                "meetingId": "287",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

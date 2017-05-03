@@ -1,0 +1,104 @@
+{
+    "HPS483H1-F-20169": {
+        "courseId": "1206",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "Special Research Opportunity in History of Technology",
+        "code": "HPS483H1",
+        "courseDescription": "<p>This course offers advanced undergraduate students the opportunity to undertake original research into the history of the natural or physical sciences, under the guidance of a faculty mentor.<\/p>",
+        "prerequisite": "Permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Preparation with instructor",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: contact Denise Horsley at denise.horsley@utoronto.ca, (416) 978\u20135397, Victoria College, 91 Charles Street West, room 316.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160425": {
+                        "instructorId": "1160425",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "2441",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "HPS483H1-S-20169": {
+        "courseId": "1206",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "Special Research Opportunity in History of Technology",
+        "code": "HPS483H1",
+        "courseDescription": "<p>This course offers advanced undergraduate students the opportunity to undertake original research into the history of the natural or physical sciences, under the guidance of a faculty mentor.<\/p>",
+        "prerequisite": "Permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Preparation with instructor",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: contact Denise Horsley at denise.horsley@utoronto.ca, (416) 978\u20135397, Victoria College, 91 Charles Street West, room 316.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160426": {
+                        "instructorId": "1160426",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "2442",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

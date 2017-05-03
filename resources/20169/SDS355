@@ -1,0 +1,53 @@
+{
+    "SDS355H1-S-20169": {
+        "courseId": "2211",
+        "org": "SDST",
+        "orgName": "Sexual Diversity Studies, Mark S. Bonham Centre (SDS) (JNS) (JPU) (JSU)",
+        "courseTitle": "Theories of Sexuality II: Contemporary Perspectives (formerly UNI355H1)",
+        "code": "SDS355H1",
+        "courseDescription": "<p>An integrated survey of some ways in which sexuality has been theorized recently. How have desire and its identities been conceptualized and deployed? What are the implications for psychoanalysis, feminism, and cultural production? What interconnections are yet to be made between sexuality and the markers of gender, race, and class?<\/p>",
+        "prerequisite": "SDS255H1\/SDS256H1\/UNI255H1\/UNI256H1 or permission of the instructor",
+        "corequisite": "",
+        "exclusion": "UNI355H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-40122": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "40122",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 244"
+                    }
+                },
+                "instructors": {
+                    "1162278": {
+                        "instructorId": "1162278",
+                        "firstName": "E",
+                        "lastName": "Basile"
+                    }
+                },
+                "meetingId": "4587",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "59",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

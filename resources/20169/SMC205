@@ -1,0 +1,53 @@
+{
+    "SMC205H1-S-20169": {
+        "courseId": "4346",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Varieties of Christian Experience",
+        "code": "SMC205H1",
+        "courseDescription": "<p>Exploration of the variety of forms which Christian personal experience has taken in the course of history (martyrdom, mysticism, monasticism, sanctification of ordinary life, etc.) in order to appreciate their variety, complexity, and deep unity.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-43731": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "43731",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 403"
+                    }
+                },
+                "instructors": {
+                    "1162388": {
+                        "instructorId": "1162388",
+                        "firstName": "G",
+                        "lastName": "Silano"
+                    }
+                },
+                "meetingId": "12887",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "37",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

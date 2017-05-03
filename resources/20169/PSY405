@@ -1,0 +1,206 @@
+{
+    "PSY405H1-F-20169": {
+        "courseId": "2040",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Individual Projects",
+        "code": "PSY405H1",
+        "courseDescription": "<p>An intensive laboratory or applied research project under the supervision of a Dept. of Psychology faculty member.&nbsp; Project must be academically demanding and uniquely suitable for the individual student.&nbsp; Additional information and applications are available at the department and on its website.&nbsp; This course is open to all Psychology program students.&nbsp; Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "PSY202H1 (or exclusion), and appropriate background for the proposed work",
+        "corequisite": "",
+        "exclusion": "PSY303H1\/PSY304H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For PSY405H1\/Y1 and 406H1\/Y1: Project proposals must be submitted by the second week in September for F and Y section code courses, and by the second week in January for S section code courses. For more information please contact the department at: undergrad@psych.utoronto.ca\r\n",
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161861": {
+                        "instructorId": "1161861",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "4168",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PSY405H1-S-20169": {
+        "courseId": "2040",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Individual Projects",
+        "code": "PSY405H1",
+        "courseDescription": "<p>An intensive laboratory or applied research project under the supervision of a Dept. of Psychology faculty member.&nbsp; Project must be academically demanding and uniquely suitable for the individual student.&nbsp; Additional information and applications are available at the department and on its website.&nbsp; This course is open to all Psychology program students.&nbsp; Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "PSY202H1 (or exclusion), and appropriate background for the proposed work",
+        "corequisite": "",
+        "exclusion": "PSY303H1\/PSY304H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For PSY405H1\/Y1 and 406H1\/Y1: Project proposals must be submitted by the second week in September for F and Y section code courses, and by the second week in January for S section code courses. For more information please contact the department at: undergrad@psych.utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161862": {
+                        "instructorId": "1161862",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "4169",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PSY405H1-Y-20169": {
+        "courseId": "2040",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Individual Projects",
+        "code": "PSY405H1",
+        "courseDescription": "<p>An intensive laboratory or applied research project under the supervision of a Dept. of Psychology faculty member.&nbsp; Project must be academically demanding and uniquely suitable for the individual student.&nbsp; Additional information and applications are available at the department and on its website.&nbsp; This course is open to all Psychology program students.&nbsp; Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "PSY202H1 (or exclusion), and appropriate background for the proposed work",
+        "corequisite": "",
+        "exclusion": "PSY303H1\/PSY304H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For PSY405H1\/Y1 and 406H1\/Y1: Project proposals must be submitted by the second week in September for F and Y section code courses, and by the second week in January for S section code courses. For more information please contact the department at: undergrad@psych.utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161863": {
+                        "instructorId": "1161863",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "4170",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "PSY405Y1-Y-20169": {
+        "courseId": "2041",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Individual Projects",
+        "code": "PSY405Y1",
+        "courseDescription": "<p>An intensive laboratory or applied research project under the supervision of a Dept. of Psychology faculty member.&nbsp; Project must be academically demanding and uniquely suitable for the individual student.&nbsp; Additional information and applications are available at the department and on its website.&nbsp; This course is open to all Psychology program students.&nbsp; Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "PSY202H1 (or exclusion), and appropriate background for the proposed work",
+        "corequisite": "",
+        "exclusion": "PSY303H1\/PSY304H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For PSY405H1\/Y1 and 406H1\/Y1: Project proposals must be submitted by the second week in September for F and Y section code courses, and by the second week in January for S section code courses. For more information please contact the department at: undergrad@psych.utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161864": {
+                        "instructorId": "1161864",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "4171",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

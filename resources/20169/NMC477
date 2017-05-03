@@ -1,0 +1,53 @@
+{
+    "NMC477H1-F-20169": {
+        "courseId": "3838",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Modern Turkey",
+        "code": "NMC477H1",
+        "courseDescription": "<p>This seminar examines the history and politics of Turkey since 1923.&nbsp; It explores issues such as the Ottoman roots of Turkey&rsquo;s early leadership, the establishment of the republic, Ataturk&rsquo;s reforms and legacy, internal political and social transformations, and the country&rsquo;s changing geopolitical role.&nbsp; The course also explores some aspects of Turkish literature and culture. &nbsp;No knowledge of Turkish is required.<\/p>",
+        "prerequisite": "NMC278H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NMC274Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-31573": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "31573",
+                        "assignedRoom1": "BF 315",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161177": {
+                        "instructorId": "1161177",
+                        "firstName": "M",
+                        "lastName": "Methodieva"
+                    }
+                },
+                "meetingId": "14557",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "ETH350H1-S-20169": {
+        "courseId": "809",
+        "org": "ETHIC",
+        "orgName": "Ethics, Centre for (ETH)",
+        "courseTitle": "Topics in Value Theory",
+        "code": "ETH350H1",
+        "courseDescription": "<p>Selected topics in value theory, broadly construed (ethics, political theory, law).<\/p>\n<p>The winter 2017 session will be structured around the concept of human dignity. The course will explore philosophical, legal, and historical interpretations of this concept. It will use dignity as a lens through which to examine issues including discrimination, multiculturalism, and human rights.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-32173": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "32173",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LA 211"
+                    }
+                },
+                "instructors": {
+                    "1159880": {
+                        "instructorId": "1159880",
+                        "firstName": "C",
+                        "lastName": "Mark"
+                    }
+                },
+                "meetingId": "1730",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Human Dignity",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "121",
+                        "postCode": "ASMAJ1618",
+                        "postName": "MA ETHICS, SOCIETY & LAW",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

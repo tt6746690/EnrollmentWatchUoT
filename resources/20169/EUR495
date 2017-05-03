@@ -1,0 +1,238 @@
+{
+    "EUR495H1-F-20169": {
+        "courseId": "812",
+        "org": "CERES",
+        "orgName": "European Studies (EUR) (HUN) (MGR) (JRA) ",
+        "courseTitle": "Independent Studies",
+        "code": "EUR495H1",
+        "courseDescription": "<p>An in-depth of an issue of relevance to the European Union. Content depends on the instructor. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Open only to students enrolled in the European Studies Major Program. Third and Fourth year students only.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Varies year to year.",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For more information, please contact the Program Office by telephone (416-946-8962) or email at robert.austin@utoronto.ca.\r\n",
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159884": {
+                        "instructorId": "1159884",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1733",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "122",
+                        "postCode": "ASMAJ1625",
+                        "postName": "MA EUROPEAN STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "EUR495H1-S-20169": {
+        "courseId": "812",
+        "org": "CERES",
+        "orgName": "European Studies (EUR) (HUN) (MGR) (JRA) ",
+        "courseTitle": "Independent Studies",
+        "code": "EUR495H1",
+        "courseDescription": "<p>An in-depth of an issue of relevance to the European Union. Content depends on the instructor. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Open only to students enrolled in the European Studies Major Program. Third and Fourth year students only.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Varies year to year.",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For more information, please contact the Program Office by telephone (416-946-8962) or email at robert.austin@utoronto.ca.\r\n",
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159885": {
+                        "instructorId": "1159885",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1734",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "122",
+                        "postCode": "ASMAJ1625",
+                        "postName": "MA EUROPEAN STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "181",
+                        "postCode": "ASMIN1011",
+                        "postName": "MI EUROPEAN UNION STUDIES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "EUR495H1-Y-20169": {
+        "courseId": "812",
+        "org": "CERES",
+        "orgName": "European Studies (EUR) (HUN) (MGR) (JRA) ",
+        "courseTitle": "Independent Studies",
+        "code": "EUR495H1",
+        "courseDescription": "<p>An in-depth of an issue of relevance to the European Union. Content depends on the instructor. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Open only to students enrolled in the European Studies Major Program. Third and Fourth year students only.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Varies year to year.",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For more information, please contact the Program Office by telephone (416-946-8962) or email at robert.austin@utoronto.ca.\r\n",
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159886": {
+                        "instructorId": "1159886",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1735",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "ECO461H1-S-20169": {
+        "courseId": "605",
+        "org": "ECO",
+        "orgName": "Economics (ECO)",
+        "courseTitle": "The Economics of Financial Risk Management",
+        "code": "ECO461H1",
+        "courseDescription": "<p>This course is intended primarily for students in the Financial Economics specialist program and is not open to students in the BCom program. The role of risk management in both private and public sectors, a discussion of why firms and government should hedge financial risks; individual and social gains of financial risk management; identification and quantification of financial risks (including Value-at-Risk measures); how derivative securities can be used for financial risk management.<\/p>",
+        "prerequisite": "ECO358H1(70%)",
+        "corequisite": "",
+        "exclusion": "ACT349H1, RSM332H1, RSM333H1, RSM435H1, ECO460H5, ECO461H5",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-34080": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "34080",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 152"
+                    }
+                },
+                "instructors": {
+                    "1159556": {
+                        "instructorId": "1159556",
+                        "firstName": "A",
+                        "lastName": "Mazaheri"
+                    }
+                },
+                "meetingId": "1282",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "383",
+                        "postCode": "ASSPE2722",
+                        "postName": "SP FINANCIAL ECONOMICS",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "394",
+                        "postCode": "ERSPE2722",
+                        "postName": "SP FINANCIAL ECONOMICS",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

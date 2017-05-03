@@ -1,0 +1,108 @@
+{
+    "HST409H1-F-20169": {
+        "courseId": "1223",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Special Topics on Health Research (formerly UNI409H1)",
+        "code": "HST409H1",
+        "courseDescription": "<p>The specific content of this course will vary from one year to another, depending on the availability of particular health researchers and scholars. Specific course information will be available on the Health Studies website at www.uc.utoronto.ca\/healthstudies\/.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "UNI409H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-41119": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "41119",
+                        "assignedRoom1": "UC 44",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160456": {
+                        "instructorId": "1160456",
+                        "firstName": "M",
+                        "lastName": "Spencer"
+                    }
+                },
+                "meetingId": "6044",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Public Health in a Nuclear Age",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "22",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "144",
+                        "postCode": "ASMAJ2085",
+                        "postName": "MA HEALTH STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "363",
+                        "postCode": "ASSPE2085",
+                        "postName": "SP HEALTH STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "RLG343H1-F-20169": {
+        "courseId": "2093",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Kabbala: A History of Mystical Thought in Judaism",
+        "code": "RLG343H1",
+        "courseDescription": "<p>A historical study of the Kabbala and the mystical tradition in Judaism, with emphasis on the ideas of Jewish mystical thinkers and movements.<\/p>",
+        "prerequisite": "RLG100Y1\/RLG202Y1\/RLG280Y1; see note above for general Prerequisites",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-29229": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "29229",
+                        "assignedRoom1": "UC 177",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161945": {
+                        "instructorId": "1161945",
+                        "firstName": "K",
+                        "lastName": "Green"
+                    }
+                },
+                "meetingId": "6996",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

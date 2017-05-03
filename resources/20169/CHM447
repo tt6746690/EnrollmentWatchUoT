@@ -1,0 +1,61 @@
+{
+    "CHM447H1-S-20169": {
+        "courseId": "245",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Bio-organic Chemistry",
+        "code": "CHM447H1",
+        "courseDescription": "<p>Mechanisms in biochemical systems:&nbsp; Examples of biological catalysis are considered in terms of chemical mechanisms and their extensions, overcoming barriers catalytic groups in active sites, stereochemical applications, energy transfer, kinetic patterns, inhibitors, drug design, cofactors, ribozymes, proteosomes.&nbsp; Related current issues are noted and discussed.&nbsp; The format includes lectures integrated with in-class discussions.&nbsp;<\/p>",
+        "prerequisite": "CHM347H1, CHM348H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41275": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41275",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    },
+                    "TH-41274": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41274",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": {
+                    "1158941": {
+                        "instructorId": "1158941",
+                        "firstName": "G",
+                        "lastName": "Woolley"
+                    }
+                },
+                "meetingId": "579",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

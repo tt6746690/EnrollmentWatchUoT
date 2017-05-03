@@ -1,0 +1,129 @@
+{
+    "PHY487H1-F-20169": {
+        "courseId": "1864",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Condensed Matter Physics",
+        "code": "PHY487H1",
+        "courseDescription": "<p>Introduction to the concepts used in the modern treatment of solids. The student is assumed to be familiar with elementary quantum mechanics. Topics include: crystal structure, the reciprocal lattice, crystal binding, the free electron model, electrons in periodic potential, lattice vibrations, electrons and holes, semiconductors, metals.<\/p>",
+        "prerequisite": "PHY356H1, PHY252H1, PHY250H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-40958": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40958",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    },
+                    "WE-40959": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40959",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161516": {
+                        "instructorId": "1161516",
+                        "firstName": "J",
+                        "lastName": "Wei"
+                    }
+                },
+                "meetingId": "3874",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "81",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-40960": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40960",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    },
+                    "WE-40961": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40961",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161517": {
+                        "instructorId": "1161517",
+                        "firstName": "J",
+                        "lastName": "Wei"
+                    }
+                },
+                "meetingId": "14872",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "12",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

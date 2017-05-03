@@ -1,0 +1,104 @@
+{
+    "CSC491H1-F-20169": {
+        "courseId": "2854",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Capstone Design Project",
+        "code": "CSC491H1",
+        "courseDescription": "<p>This half-course gives students experience solving a substantial problem that may span several areas of Computer Science. Students will define the scope of the problem, develop a solution plan, produce a working implementation, and present their work using written, oral, and (if suitable) video reports. Class time will focus on the project, but may include some lectures. The class will be small and highly interactive. Project themes change each year. Contact the Computer Science Undergraduate Office for information about this year&rsquo;s topic themes, required preparation, and course enrolment procedures. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of the instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact the Computer Science Undergraduate Office at ug@cs.toronto.edu. ",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-40082": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40082",
+                        "assignedRoom1": "ZZ DEPT",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159314": {
+                        "instructorId": "1159314",
+                        "firstName": "H",
+                        "lastName": "Kontozopoulos"
+                    }
+                },
+                "meetingId": "14959",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Business of Software Build Component",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSC491H1-S-20169": {
+        "courseId": "2854",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Capstone Design Project",
+        "code": "CSC491H1",
+        "courseDescription": "<p>This half-course gives students experience solving a substantial problem that may span several areas of Computer Science. Students will define the scope of the problem, develop a solution plan, produce a working implementation, and present their work using written, oral, and (if suitable) video reports. Class time will focus on the project, but may include some lectures. The class will be small and highly interactive. Project themes change each year. Contact the Computer Science Undergraduate Office for information about this year&rsquo;s topic themes, required preparation, and course enrolment procedures. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of the instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact the Computer Science Undergraduate Office at ug@cs.toronto.edu. ",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40083": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40083",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ZZ DEPT"
+                    }
+                },
+                "instructors": {
+                    "1159315": {
+                        "instructorId": "1159315",
+                        "firstName": "H",
+                        "lastName": "Kontozopoulos"
+                    }
+                },
+                "meetingId": "14960",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Business of Software Build Component",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

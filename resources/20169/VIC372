@@ -1,0 +1,53 @@
+{
+    "VIC372H1-F-20169": {
+        "courseId": "4602",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Reviewing, Reception, and Reading Communities",
+        "code": "VIC372H1",
+        "courseDescription": "<p>While readers and audiences often are considered to be cultural \"consumers,\" this course will consider reception as an active, creative, and often collaborative activity, by examining formal and informal practices of reviewing and response that may include fan\/fanfic cultures, book clubs, community and nation-wide reading programs, and award competitions. Such contexts of reception will be considered along with their social, economic, and ethical implications.<\/p>",
+        "prerequisite": "Completion of 6.0 FCE",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-34315": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "34315",
+                        "assignedRoom1": "NF 231",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162830": {
+                        "instructorId": "1162830",
+                        "firstName": "H",
+                        "lastName": "Murray"
+                    }
+                },
+                "meetingId": "13863",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

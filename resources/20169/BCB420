@@ -1,0 +1,53 @@
+{
+    "BCB420H1-S-20169": {
+        "courseId": "141",
+        "org": "BCH",
+        "orgName": "Biochemistry (BCH) (BCB)",
+        "courseTitle": "Computational Systems Biology",
+        "code": "BCB420H1",
+        "courseDescription": "<p>Current approaches to using the computer for analyzing and modeling biology as integrated molecular systems. Lectures plus hands-on practical exercises. The course extends and complements an introductory Bioinformatics course, such as BCH441H1.<\/p>",
+        "prerequisite": "BCH441H1\/CSB472H1 or permission of the course coordinator",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41127": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "41127",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 4171"
+                    }
+                },
+                "instructors": {
+                    "1158576": {
+                        "instructorId": "1158576",
+                        "firstName": "B",
+                        "lastName": "Steipe"
+                    }
+                },
+                "meetingId": "289",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

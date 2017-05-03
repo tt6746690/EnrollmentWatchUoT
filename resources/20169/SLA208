@@ -1,0 +1,61 @@
+{
+    "SLA208Y1-Y-20169": {
+        "courseId": "2237",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Intermediate Ukrainian",
+        "code": "SLA208Y1",
+        "courseDescription": "<p>Study of morphology through grammar drills; oral practice; reading of texts from Ukrainian literature.<\/p>",
+        "prerequisite": "Permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-40196": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "40196",
+                        "assignedRoom1": "TF 103",
+                        "assignedRoom2": "TF 103"
+                    },
+                    "TH-40195": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "40195",
+                        "assignedRoom1": "TF 103",
+                        "assignedRoom2": "TF 103"
+                    }
+                },
+                "instructors": {
+                    "1162333": {
+                        "instructorId": "1162333",
+                        "firstName": "N",
+                        "lastName": "Gereliouk"
+                    }
+                },
+                "meetingId": "4642",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

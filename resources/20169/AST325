@@ -1,0 +1,129 @@
+{
+    "AST325H1-F-20169": {
+        "courseId": "134",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (PLN)",
+        "courseTitle": "Introduction to Practical Astronomy",
+        "code": "AST325H1",
+        "courseDescription": "<p>Through experiment and observation, develop the core skills to collect, reduce, and interpret astronomical data.&nbsp; Develop understanding and usage of telescopes, instruments, and detectors; reduction and analysis methods; simulations and model fitting; data and error analysis.<\/p>",
+        "prerequisite": "AST221H1,AST222H1 (or equivalent readings, consult the instructor)",
+        "corequisite": "",
+        "exclusion": "AST326Y1",
+        "recommendedPreparation": "basic programming\/scripting, numerical techniques (e.g., through CSC108H1\/CSC148H1, CSC260H1).",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41113": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "41113",
+                        "assignedRoom1": "AB 107",
+                        "assignedRoom2": null
+                    },
+                    "MO-41114": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "41114",
+                        "assignedRoom1": "AB 107",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158569": {
+                        "instructorId": "1158569",
+                        "firstName": "S",
+                        "lastName": "Sivanandam"
+                    }
+                },
+                "meetingId": "282",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "38",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-37563": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "37563",
+                        "assignedRoom1": "AB 107",
+                        "assignedRoom2": null
+                    },
+                    "MO-37564": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "37564",
+                        "assignedRoom1": "AB 107",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158570": {
+                        "instructorId": "1158570",
+                        "firstName": "S",
+                        "lastName": "Sivanandam"
+                    }
+                },
+                "meetingId": "14805",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "2",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

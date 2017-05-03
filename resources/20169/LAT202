@@ -1,0 +1,61 @@
+{
+    "LAT202H1-S-20169": {
+        "courseId": "1390",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Intermediate Latin II",
+        "code": "LAT202H1",
+        "courseDescription": "<p>Continued language training with readings in Latin prose and verse.<\/p>",
+        "prerequisite": "LAT201H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41430": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41430",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 006"
+                    },
+                    "TH-41431": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41431",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 006"
+                    }
+                },
+                "instructors": {
+                    "1160714": {
+                        "instructorId": "1160714",
+                        "firstName": "S",
+                        "lastName": "Bilynskyj Dunning"
+                    }
+                },
+                "meetingId": "2757",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

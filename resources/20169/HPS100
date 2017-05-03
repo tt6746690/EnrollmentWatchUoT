@@ -1,0 +1,520 @@
+{
+    "HPS100H1-F-20169": {
+        "courseId": "1185",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "Introduction to History and Philosophy of Science",
+        "code": "HPS100H1",
+        "courseDescription": "<p>This is an online introduction to the key issues in the history and philosophy of science. How do scientific theories and method change through time? Is there a universal and unchangeable method of science? What demarcates science from non-science? Can scientific theories provide true descriptions of the world? Is there scientific progress? What are the major worldviews in the history of science? The pre-recorded lectures are available online at any time. Tutorial sessions are live at the portal. For more information: http:\/\/www.hps.utoronto.ca\/undergraduate_courses.htm<\/p>\n<div>&nbsp;<\/div>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Science",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160399": {
+                        "instructorId": "1160399",
+                        "firstName": "H",
+                        "lastName": "Barseghyan"
+                    }
+                },
+                "meetingId": "2370",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "840",
+                "actualEnrolment": "707",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9901": {
+                "schedule": {
+                    "TH-46442": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46442",
+                        "assignedRoom1": "Online",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13212",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "95",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9902": {
+                "schedule": {
+                    "TH-46443": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46443",
+                        "assignedRoom1": "Online",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13213",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9902",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "88",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9903": {
+                "schedule": {
+                    "TH-46444": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46444",
+                        "assignedRoom1": "Online",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13214",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9903",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "83",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9904": {
+                "schedule": {
+                    "TH-46445": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "46445",
+                        "assignedRoom1": "Online",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13215",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9904",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "88",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9905": {
+                "schedule": {
+                    "FR-46446": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46446",
+                        "assignedRoom1": "Online",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13216",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9905",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "93",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9906": {
+                "schedule": {
+                    "FR-46447": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46447",
+                        "assignedRoom1": "Online",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13217",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9906",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "88",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9907": {
+                "schedule": {
+                    "FR-46448": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46448",
+                        "assignedRoom1": "Online",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13218",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9907",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "87",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9908": {
+                "schedule": {
+                    "FR-46449": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "46449",
+                        "assignedRoom1": "Online",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13219",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9908",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "84",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "HPS100H1-S-20169": {
+        "courseId": "1185",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "Introduction to History and Philosophy of Science",
+        "code": "HPS100H1",
+        "courseDescription": "<p>This is an online introduction to the key issues in the history and philosophy of science. How do scientific theories and method change through time? Is there a universal and unchangeable method of science? What demarcates science from non-science? Can scientific theories provide true descriptions of the world? Is there scientific progress? What are the major worldviews in the history of science? The pre-recorded lectures are available online at any time. Tutorial sessions are live at the portal. For more information: http:\/\/www.hps.utoronto.ca\/undergraduate_courses.htm<\/p>\n<div>&nbsp;<\/div>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Science",
+        "meetings": {
+            "LEC-9901": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160400": {
+                        "instructorId": "1160400",
+                        "firstName": "H",
+                        "lastName": "Barseghyan"
+                    }
+                },
+                "meetingId": "2377",
+                "teachingMethod": "LEC",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "840",
+                "actualEnrolment": "748",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9901": {
+                "schedule": {
+                    "TU-46450": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46450",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Online"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13190",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9901",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "98",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9902": {
+                "schedule": {
+                    "TU-46451": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46451",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Online"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13191",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9902",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "92",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9903": {
+                "schedule": {
+                    "TU-46452": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46452",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Online"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13192",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9903",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "94",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9904": {
+                "schedule": {
+                    "TU-46453": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "46453",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Online"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13193",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9904",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "93",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9905": {
+                "schedule": {
+                    "TH-46454": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46454",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Online"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13194",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9905",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "93",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9906": {
+                "schedule": {
+                    "TH-46455": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46455",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Online"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13195",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9906",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "99",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9907": {
+                "schedule": {
+                    "TH-46456": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46456",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Online"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13196",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9907",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "80",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-9908": {
+                "schedule": {
+                    "TH-46457": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "46457",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Online"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "13197",
+                "teachingMethod": "TUT",
+                "sectionNumber": "9908",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "Online Meeting",
+                "enrollmentCapacity": "105",
+                "actualEnrolment": "96",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

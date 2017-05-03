@@ -1,0 +1,457 @@
+{
+    "STA261H1-S-20169": {
+        "courseId": "2435",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Probability and Statistics II",
+        "code": "STA261H1",
+        "courseDescription": "<p>A rigourous introduction to the theory of statistical inference and to statistical practice. Statistical models, parameters, and samples.&nbsp; Estimators for parameters, sampling distributions for estimators, and the properties of consistency, bias, and variance.&nbsp; The likelihood function and the maximum likelihood estimator.&nbsp; Hypothesis tests and confidence regions.&nbsp; Examples illustrating statistical theory and its limitations.&nbsp; Introduction to the use of a computer environment for statistical analysis. (Note: STA261H1 does not count as a distribution requirement course).<\/p>",
+        "prerequisite": "STA257H1",
+        "corequisite": "MAT235Y1\/MAT237Y1\/MAT257Y1, MAT223H1\/MAT240H1",
+        "exclusion": "ECO227Y1\/STA248H1\/STA255H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Students in LEC0101 must enrol in one of the tutorials on Wednesdays 4:00-5:00pm (TUT0101-TUT0108). Students in LEC5101 must enrol in one of the tutorials on Wednesday 6:00-7:00pm (TUT5101-TUT5106). ",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42732": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "42732",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 2158"
+                    },
+                    "WE-42733": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42733",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "PB B150"
+                    }
+                },
+                "instructors": {
+                    "1162601": {
+                        "instructorId": "1162601",
+                        "firstName": "O",
+                        "lastName": "Harari"
+                    }
+                },
+                "meetingId": "5014",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "300",
+                "actualEnrolment": "246",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Students in LEC0101 must enrol in one of the tutorials on Wednesdays 4:00-5:00pm.",
+                "enrollmentControls": []
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "WE-40514": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "22:00",
+                        "meetingScheduleId": "40514",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WB 116"
+                    }
+                },
+                "instructors": {
+                    "1162602": {
+                        "instructorId": "1162602",
+                        "firstName": "O",
+                        "lastName": "Harari"
+                    }
+                },
+                "meetingId": "5015",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "240",
+                "actualEnrolment": "114",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Students in LEC5101 must enrol in one of the tutorials on Wednesdays 6:00-7:00pm.",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-36807": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "36807",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AB 107"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14718",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC0101 only",
+                "enrollmentControls": []
+            },
+            "TUT-0102": {
+                "schedule": {
+                    "WE-36808": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "36808",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AP 120"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14719",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC0101 only",
+                "enrollmentControls": []
+            },
+            "TUT-0103": {
+                "schedule": {
+                    "WE-36809": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "36809",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2135"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14720",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "36",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC0101 only",
+                "enrollmentControls": []
+            },
+            "TUT-0104": {
+                "schedule": {
+                    "WE-36810": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "36810",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1240"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14721",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0104",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "32",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC0101 only",
+                "enrollmentControls": []
+            },
+            "TUT-0105": {
+                "schedule": {
+                    "WE-36811": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "36811",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "PB 255"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14722",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0105",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "35",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC0101 only",
+                "enrollmentControls": []
+            },
+            "TUT-0106": {
+                "schedule": {
+                    "WE-36812": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "36812",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1084"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14723",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0106",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC0101 only",
+                "enrollmentControls": []
+            },
+            "TUT-0107": {
+                "schedule": {
+                    "WE-36813": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "36813",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1088"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14724",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0107",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC0101 only",
+                "enrollmentControls": []
+            },
+            "TUT-0108": {
+                "schedule": {
+                    "WE-36814": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "36814",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 52"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14725",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0108",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC0101 only",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "WE-36815": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "36815",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AB 107"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14726",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC5101 only",
+                "enrollmentControls": []
+            },
+            "TUT-5102": {
+                "schedule": {
+                    "WE-36816": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "36816",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 323"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14727",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC5101 only",
+                "enrollmentControls": []
+            },
+            "TUT-5103": {
+                "schedule": {
+                    "WE-36817": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "36817",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "FG 139"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14728",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC5101 only",
+                "enrollmentControls": []
+            },
+            "TUT-5104": {
+                "schedule": {
+                    "WE-36818": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "36818",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 4001"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14729",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5104",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC5101 only",
+                "enrollmentControls": []
+            },
+            "TUT-5105": {
+                "schedule": {
+                    "WE-36819": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "36819",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "HS 108"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14730",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5105",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC5101 only",
+                "enrollmentControls": []
+            },
+            "TUT-5106": {
+                "schedule": {
+                    "WE-36820": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "36820",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3278"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14731",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5106",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "For students in LEC5101 only",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

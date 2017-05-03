@@ -1,0 +1,53 @@
+{
+    "LIN495Y1-Y-20169": {
+        "courseId": "1427",
+        "org": "LIN",
+        "orgName": "Linguistics (LIN) (JLP) (JLS) (JAL) (JFL) ",
+        "courseTitle": "Individual Project",
+        "code": "LIN495Y1",
+        "courseDescription": "<p>A research or reading project undertaken by the student under the supervision of a staff member. Open only when a faculty member is willing and available to supervise. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of the Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: contact the Undergraduate Co-ordinator, Sidney Smith Hall Room 4076, 100 St. George Street. Phone 416-946-3808; Fax 416-971-2688; Email: ugling@chass.utoronto.ca",
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160761": {
+                        "instructorId": "1160761",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "2858",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

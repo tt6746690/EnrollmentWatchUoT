@@ -1,0 +1,53 @@
+{
+    "SLA203H1-F-20169": {
+        "courseId": "4259",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Faking It",
+        "code": "SLA203H1",
+        "courseDescription": "<p>The role of forgery in cultural, national, and personal identities. A scholar &ldquo;discovering&rdquo; an &ldquo;ancient&rdquo; manuscript, a noblewoman in disguise joining the army, an impostor conning a provincial town, a writer faking political loyalty. Literary texts from Central and Eastern Europe expose the porous boundaries between authenticity and lies, highlighting the artificiality and vulnerability of social and cultural conventions. Taught in English, all readings in English.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-19394": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "19394",
+                        "assignedRoom1": "TF 202",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162330": {
+                        "instructorId": "1162330",
+                        "firstName": "T",
+                        "lastName": "Koznarsky"
+                    }
+                },
+                "meetingId": "13529",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

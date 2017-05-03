@@ -1,0 +1,98 @@
+{
+    "ITA490Y1-F-20169": {
+        "courseId": "1335",
+        "org": "ITA",
+        "orgName": "Italian (ITA)",
+        "courseTitle": "Independent Studies",
+        "code": "ITA490Y1",
+        "courseDescription": "<p>In exceptional circumstances, students may request to pursue at&nbsp;the 400-level an independent course of study not otherwise available. A written proposal, co-signed by the instructor, must be submitted on the appropriate proposal form for approval by the Department of Italian Studies. Application deadline April 30.<\/p>",
+        "prerequisite": "Permission of Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: contact the Undergraduate Coordinator at 416-926-2338 or italian.undergrad@utoronto.ca for an appointment. Departmental Hours: Monday to Friday 9:00 a.m. to 5:00 p.m.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160640": {
+                        "instructorId": "1160640",
+                        "firstName": "M",
+                        "lastName": "Pasquarelli Clivio"
+                    }
+                },
+                "meetingId": "14606",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ITA490Y1-Y-20169": {
+        "courseId": "1335",
+        "org": "ITA",
+        "orgName": "Italian (ITA)",
+        "courseTitle": "Independent Studies",
+        "code": "ITA490Y1",
+        "courseDescription": "<p>In exceptional circumstances, students may request to pursue at&nbsp;the 400-level an independent course of study not otherwise available. A written proposal, co-signed by the instructor, must be submitted on the appropriate proposal form for approval by the Department of Italian Studies. Application deadline April 30.<\/p>",
+        "prerequisite": "Permission of Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: contact the Undergraduate Coordinator at 416-926-2338 or italian.undergrad@utoronto.ca for an appointment. Departmental Hours: Monday to Friday 9:00 a.m. to 5:00 p.m.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "2673",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

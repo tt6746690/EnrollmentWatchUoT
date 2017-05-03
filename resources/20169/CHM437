@@ -1,0 +1,61 @@
+{
+    "CHM437H1-S-20169": {
+        "courseId": "240",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Bioinorganic Chemistry",
+        "code": "CHM437H1",
+        "courseDescription": "<p>This course examines the use of metals in biology. Topics include naturally occurring and medicinal ligands; transport, uptake and control of concentration of metal ions; and physical methods of characterization of metal binding sites. The roles of metal ions in nature are discussed, including as structural and signaling elements in proteins, nucleic acids and DNA-binding complexes and proteins; as Lewis-acid centres in enzymes; as carriers of electrons, atoms and groups in redox proteins and enzymes; and as sources of biominerals; as radiopharmaceuticals.<\/p>",
+        "prerequisite": "CHM238Y1",
+        "corequisite": "",
+        "exclusion": "CHM333H5, CHMD69H3",
+        "recommendedPreparation": "CHM338H1(strongly recommended), CHM347H1\/CHM379H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41253": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41253",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    },
+                    "TH-41252": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41252",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": {
+                    "1158934": {
+                        "instructorId": "1158934",
+                        "firstName": "J",
+                        "lastName": "Chin"
+                    }
+                },
+                "meetingId": "574",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "37",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "ANA498Y1-Y-20169": {
+        "courseId": "50",
+        "org": "ANA",
+        "orgName": "Anatomy (ANA)",
+        "courseTitle": "Project in Anatomy",
+        "code": "ANA498Y1",
+        "courseDescription": "<p>A research project in Histology, Cellular or Molecular Biology, Developmental Biology, Neuroanatomy or Gross Anatomy. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of a professor to supervise the project\r\n",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Beblan Soorae, the Undergraduate Administrative Officer, at b.soorae@utoronto.ca",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158455": {
+                        "instructorId": "1158455",
+                        "firstName": "H",
+                        "lastName": "Sun"
+                    }
+                },
+                "meetingId": "62",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

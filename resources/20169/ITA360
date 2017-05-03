@@ -1,0 +1,53 @@
+{
+    "ITA360H1-F-20169": {
+        "courseId": "1326",
+        "org": "ITA",
+        "orgName": "Italian (ITA)",
+        "courseTitle": "Italian Linguistics",
+        "code": "ITA360H1",
+        "courseDescription": "<p>For students having a knowledge of Italian and\/or Italian dialects but no background in linguistics. Concepts of general linguistics. Italy as a linguistic entity. The structure of contemporary Italian, with special regard to its sound system and grammatical categories. This course includes a component designed to enhance students' research experience. (Given in English)<\/p>",
+        "prerequisite": "ITA250Y1\/ITA251Y1\/ITA252Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-38885": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "38885",
+                        "assignedRoom1": "CR 403",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160634": {
+                        "instructorId": "1160634",
+                        "firstName": "M",
+                        "lastName": "Pasquarelli Clivio"
+                    }
+                },
+                "meetingId": "2663",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

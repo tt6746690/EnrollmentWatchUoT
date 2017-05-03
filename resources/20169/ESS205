@@ -1,0 +1,53 @@
+{
+    "ESS205H1-S-20169": {
+        "courseId": "776",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Confronting Global Change",
+        "code": "ESS205H1",
+        "courseDescription": "<p>The emergence of society as a major geological force is considered in terms of the evolving debate about the consequences of human activity for the habitability of our planet. Major issues such as climate change, environmental pollution, and depletion of natural resources are examined.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "GLG205H1, ERS321H5",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-42237": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "42237",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "OI G162"
+                    }
+                },
+                "instructors": {
+                    "1159842": {
+                        "instructorId": "1159842",
+                        "firstName": "T",
+                        "lastName": "Sahin"
+                    }
+                },
+                "meetingId": "1685",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "500",
+                "actualEnrolment": "456",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

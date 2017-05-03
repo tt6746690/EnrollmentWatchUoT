@@ -1,0 +1,61 @@
+{
+    "AST326Y1-Y-20169": {
+        "courseId": "135",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (PLN)",
+        "courseTitle": "Practical Astronomy",
+        "code": "AST326Y1",
+        "courseDescription": "<p>Through experiment and observation, develop the core skills to collect, reduce, and interpret astronomical data.&nbsp; Develop understanding and usage of telescopes, instruments, and detectors; reduction and analysis methods; simulations and model fitting; data and error analysis. This course is an expanded version of AST325H1 that gives a wider exposure to practical astronomy.<\/p>",
+        "prerequisite": "AST221H1,AST222H1 (or equivalent readings; consult the instructor)",
+        "corequisite": "",
+        "exclusion": "AST325H1",
+        "recommendedPreparation": "basic programming\/scripting, numerical techniques (e.g., through CSC108H1\/CSC148H1, CSC260H1)",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41122": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "41122",
+                        "assignedRoom1": "AB 107",
+                        "assignedRoom2": "AB 107"
+                    },
+                    "MO-41123": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "19:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "41123",
+                        "assignedRoom1": "AB 107",
+                        "assignedRoom2": "AB 107"
+                    }
+                },
+                "instructors": {
+                    "1158571": {
+                        "instructorId": "1158571",
+                        "firstName": "D",
+                        "lastName": "Moon"
+                    }
+                },
+                "meetingId": "283",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

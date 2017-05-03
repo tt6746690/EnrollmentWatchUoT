@@ -1,0 +1,53 @@
+{
+    "RLG304H1-S-20169": {
+        "courseId": "4124",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Language, Symbols, Self",
+        "code": "RLG304H1",
+        "courseDescription": "<p>Theories of the self that involve the constitutive role of language in its various forms. Problems of socially-conditioned worldviews and sense of self as related to discourse. Myth, symbol, metaphor, and literary arts as vehicles for personality development and self-transformation along religious lines.<\/p>",
+        "prerequisite": "See note above for general prerequisites",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-31886": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "31886",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 1070"
+                    }
+                },
+                "instructors": {
+                    "1161931": {
+                        "instructorId": "1161931",
+                        "firstName": "A",
+                        "lastName": "Tebbutt"
+                    }
+                },
+                "meetingId": "6538",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "CHM416H1-S-20169": {
+        "courseId": "233",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Separation Science",
+        "code": "CHM416H1",
+        "courseDescription": "<p>Principles of separation in analytical chemistry. Fractionation processes and solvent extractions; theory of chromatography, retention time, column efficiency and resolution. Principles of gas-liquid chromatography; instrumentation for gas chromatography. High performance liquid chromatography - practice and equipment design. Ion exchange, size-exclusion and affinity chromatography. Electrophoretic techniques.<\/p>",
+        "prerequisite": "CHM317H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41238": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41238",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 157"
+                    },
+                    "TH-41237": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "41237",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 157"
+                    }
+                },
+                "instructors": {
+                    "1158923": {
+                        "instructorId": "1158923",
+                        "firstName": "M",
+                        "lastName": "Thompson"
+                    }
+                },
+                "meetingId": "567",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "30",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

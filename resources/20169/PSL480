@@ -1,0 +1,58 @@
+{
+    "PSL480H1-F-20169": {
+        "courseId": "1992",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Diving Physiology of Marine Mammals",
+        "code": "PSL480H1",
+        "courseDescription": "<p>This course compares and contrasts the physiological and anatomical adaptations exhibited by the different species of marine mammals in relationship to humans, with respect to diving.<\/p>",
+        "prerequisite": "(BIO270H1, BIO271H1)\/PSL201Y1\/PSL300H1, PSL301H1; PSL280H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-40024": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40024",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161764": {
+                        "instructorId": "1161764",
+                        "firstName": "M",
+                        "lastName": "Belanger"
+                    },
+                    "1161765": {
+                        "instructorId": "1161765",
+                        "firstName": "C",
+                        "lastName": "Wittnich"
+                    }
+                },
+                "meetingId": "4054",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "58",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

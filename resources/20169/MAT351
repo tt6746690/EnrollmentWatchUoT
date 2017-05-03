@@ -1,0 +1,107 @@
+{
+    "MAT351Y1-Y-20169": {
+        "courseId": "3696",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Partial Differential Equations",
+        "code": "MAT351Y1",
+        "courseDescription": "<p>Diffusion and wave equations. Separation of variables. Fourier series. Laplace's equation; Green's function. Schr&ouml;dinger equations. Boundary problems in plane and space. General eigenvalue problems; minimum principle for eigenvalues. Distributions and Fourier transforms. Laplace transforms. Differential equations of physics (electromagnetism, fluids, acoustic waves, scattering). Introduction to nonlinear equations (shock waves, solitary waves).<\/p>",
+        "prerequisite": "MAT267H1",
+        "corequisite": "MAT334H1\/MAT354H1",
+        "exclusion": "APM351Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-36160": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "36160",
+                        "assignedRoom1": "SS 1072",
+                        "assignedRoom2": "SS 1072"
+                    },
+                    "WE-36161": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "36161",
+                        "assignedRoom1": "SS 1072",
+                        "assignedRoom2": "SS 1072"
+                    },
+                    "FR-36162": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "36162",
+                        "assignedRoom1": "SS 1072",
+                        "assignedRoom2": "SS 1072"
+                    }
+                },
+                "instructors": {
+                    "1160922": {
+                        "instructorId": "1160922",
+                        "firstName": "A",
+                        "lastName": "Burchard"
+                    }
+                },
+                "meetingId": "14611",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Replaced APM351Y1Y",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "15118",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Dec. 20, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "FR-47735": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47735",
+                        "assignedRoom1": "BA 2179",
+                        "assignedRoom2": "SS 1072"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15119",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "**Room Changed: Jan 16, 2017**",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

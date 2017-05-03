@@ -1,0 +1,53 @@
+{
+    "COG341H1-F-20169": {
+        "courseId": "310",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Issues on Attention, Perception and Consciousness",
+        "code": "COG341H1",
+        "courseDescription": "<p>An examination of core topics in cognitive science building on introductions in COG250Y. Typical topics include: perception and attention; concepts; imagery; consciousness.<\/p>",
+        "prerequisite": "COG250Y1 and one of PSY270H1\/PHL342H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-40566": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "40566",
+                        "assignedRoom1": "UC A101",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159027": {
+                        "instructorId": "1159027",
+                        "firstName": "J",
+                        "lastName": "John"
+                    }
+                },
+                "meetingId": "718",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "67",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

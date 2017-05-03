@@ -1,0 +1,61 @@
+{
+    "VIC112Y1-Y-20169": {
+        "courseId": "2527",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Puzzles, Discovery and the Human Imagination",
+        "code": "VIC112Y1",
+        "courseDescription": "<p>There has never been a period of time, nor has there ever been a culture, without some kind of puzzle tradition. Are puzzles just playful artefacts, intended merely to entertain? Or are they mirrors of something much more fundamental in human life? The course will take a close look at what puzzles tell us about the human mind and human culture.&nbsp;Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Innis One, Munk One, New One, SMC One, Trinity One, UC One, Vic One, Woodsworth One; 199 seminars or  other Vic One Hundred seminars.",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-34239": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "34239",
+                        "assignedRoom1": "NF 119",
+                        "assignedRoom2": "NF 119"
+                    },
+                    "WE-34240": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "10:00",
+                        "meetingScheduleId": "34240",
+                        "assignedRoom1": "NF 119",
+                        "assignedRoom2": "NF 119"
+                    }
+                },
+                "instructors": {
+                    "1162740": {
+                        "instructorId": "1162740",
+                        "firstName": "M",
+                        "lastName": "Danesi"
+                    }
+                },
+                "meetingId": "5161",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "34",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

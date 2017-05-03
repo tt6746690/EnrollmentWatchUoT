@@ -1,0 +1,120 @@
+{
+    "CSC404H1-F-20169": {
+        "courseId": "422",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Introduction to Video Game Design",
+        "code": "CSC404H1",
+        "courseDescription": "<p>Concepts and techniques for the design and development of electronic games. History, social issues, and story elements. The business of game development and game promotion. Software engineering, artificial intelligence, and graphics elements. Level and model design. Audio elements. Practical assignments leading to team implementation of a complete game.<\/p>",
+        "prerequisite": "CSC301H1\/CSC318H1\/CSC384H1\/CSC418H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-44753": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "44753",
+                        "assignedRoom1": "LM 123",
+                        "assignedRoom2": null
+                    },
+                    "TH-44754": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44754",
+                        "assignedRoom1": "LM 123",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159268": {
+                        "instructorId": "1159268",
+                        "firstName": "E",
+                        "lastName": "Adum"
+                    }
+                },
+                "meetingId": "14958",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Mobile",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSC404H1-S-20169": {
+        "courseId": "422",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Introduction to Video Game Design",
+        "code": "CSC404H1",
+        "courseDescription": "<p>Concepts and techniques for the design and development of electronic games. History, social issues, and story elements. The business of game development and game promotion. Software engineering, artificial intelligence, and graphics elements. Level and model design. Audio elements. Practical assignments leading to team implementation of a complete game.<\/p>",
+        "prerequisite": "CSC301H1\/CSC318H1\/CSC384H1\/CSC418H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact the Computer Science Undergraduate Office at ug@cs.toronto.edu.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47219": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47219",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 1240"
+                    },
+                    "TH-47220": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47220",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RS 208"
+                    }
+                },
+                "instructors": {
+                    "1159269": {
+                        "instructorId": "1159269",
+                        "firstName": "S",
+                        "lastName": "Engels"
+                    }
+                },
+                "meetingId": "965",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "38",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "Room Changed: Oct 20, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

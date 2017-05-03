@@ -1,0 +1,505 @@
+{
+    "PHY132H1-S-20169": {
+        "courseId": "1820",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Introduction to Physics II",
+        "code": "PHY132H1",
+        "courseDescription": "<p>The second university physics course primarily for students not intending to pursue a Specialist or Major program in Physical or Mathematical Sciences. Topics include: electricity, magnetism, light, optics, special relativity.<\/p>",
+        "prerequisite": "PHY131H1\/PHY151H1",
+        "corequisite": "MAT136H1\/MAT137Y1\/MAT157Y1",
+        "exclusion": "PHY152H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For PHY132H1S: Practicals meet every week. Students cannot alternate their Practical, on the same day, with any 100-level BIO or CHM course lab. Students may add or change a Practical (P) section via ACORN until January 11, 2016. http:\/\/www.physics.utoronto.ca\/students\/undergraduate-courses\/practical-sections-forms. Their request will be put in priority sequence and processed at the beginning of the Winter term. Starting January 12, any adding or changing of Practical sections must be requested online  at: http:\/\/www.physics.utoronto.ca\/students\/undergraduate-courses\/practical-sections-forms. Students who find that all Practical sections consistent with their course schedule are full should still register in a lecture section and fill the appropriate section request form at http:\/\/www.physics.utoronto.ca\/students\/undergraduate-courses\/practical-sections-forms, with the understanding that a spot will be found for them at the beginning of Winter term if none has opened up in the meantime. All term tests will be held on a Tuesday from 6:00 to 8:00 p.m. Students should try to avoid scheduling tutorials\/practicals in other courses in that time slot. If a conflict  is unavoidable, students should be available Tuesdays 4:00 to 6:00 pm to write at the alternate sitting. BIO130 students who wish to register in a Tuesday evening lab section should select the one at 6:00pm so as to be able to write at the PHY131F alternate sitting of tests.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-35336": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "35336",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CH ---"
+                    },
+                    "WE-35337": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "35337",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CH ---"
+                    }
+                },
+                "instructors": {
+                    "1161399": {
+                        "instructorId": "1161399",
+                        "firstName": "A",
+                        "lastName": "Meyertholen"
+                    },
+                    "1161400": {
+                        "instructorId": "1161400",
+                        "firstName": "X",
+                        "lastName": "Xing"
+                    }
+                },
+                "meetingId": "3759",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "1500",
+                "actualEnrolment": "352",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "66",
+                        "subjectCode": "SCN",
+                        "subjectName": "SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-5101": {
+                "schedule": {
+                    "MO-47251": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "47251",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 103"
+                    },
+                    "WE-47252": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "47252",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 103"
+                    }
+                },
+                "instructors": {
+                    "1161401": {
+                        "instructorId": "1161401",
+                        "firstName": "A",
+                        "lastName": "Meyertholen"
+                    },
+                    "1161402": {
+                        "instructorId": "1161402",
+                        "firstName": "X",
+                        "lastName": "Xing"
+                    }
+                },
+                "meetingId": "3760",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "196",
+                "actualEnrolment": "142",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "66",
+                        "subjectCode": "SCN",
+                        "subjectName": "SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "PRA-0103": {
+                "schedule": {
+                    "MO-39758": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "39758",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3761",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0103",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "55",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0105": {
+                "schedule": {
+                    "MO-39759": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "39759",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3762",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0105",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "37",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0201": {
+                "schedule": {
+                    "TU-39760": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39760",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3763",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "36",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0202": {
+                "schedule": {
+                    "TU-33054": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "33054",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3764",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0202",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "36",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0205": {
+                "schedule": {
+                    "TU-39761": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "39761",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3765",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0205",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "36",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0303": {
+                "schedule": {
+                    "WE-39762": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "39762",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3766",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0303",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "39",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0305": {
+                "schedule": {
+                    "WE-39763": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "39763",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3767",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0305",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "48",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0401": {
+                "schedule": {
+                    "TH-46056": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46056",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3768",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "36",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0402": {
+                "schedule": {
+                    "TH-39765": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39765",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3769",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0402",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "48",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0404": {
+                "schedule": {
+                    "TH-39766": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "39766",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3770",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0404",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "43",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0501": {
+                "schedule": {
+                    "FR-39767": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39767",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3771",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0501",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "52",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0502": {
+                "schedule": {
+                    "FR-39768": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39768",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3772",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0502",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-5302": {
+                "schedule": {
+                    "WE-39769": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "39769",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "3773",
+                "teachingMethod": "PRA",
+                "sectionNumber": "5302",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "72",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

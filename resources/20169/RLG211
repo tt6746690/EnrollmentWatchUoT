@@ -1,0 +1,53 @@
+{
+    "RLG211H1-F-20169": {
+        "courseId": "2072",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Psychology of Religion",
+        "code": "RLG211H1",
+        "courseDescription": "<p>A survey of the psychological approaches to aspects of religion such as religious experience, doctrine, myth and symbols, ethics and human transformation. Attention will be given to phenomenological, psychoanalytic, Jungian, existentialist, and feminist approaches.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-45829": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45829",
+                        "assignedRoom1": "SS 2127",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161910": {
+                        "instructorId": "1161910",
+                        "firstName": "M",
+                        "lastName": "Hewitt"
+                    }
+                },
+                "meetingId": "4223",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "80",
+                "actualEnrolment": "58",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

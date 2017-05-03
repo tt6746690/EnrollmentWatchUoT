@@ -1,0 +1,53 @@
+{
+    "ACT471H1-F-20169": {
+        "courseId": "2672",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Topics in Casualty Actuarial Science",
+        "code": "ACT471H1",
+        "courseDescription": "<p>Topic for 2014-2015: Casualty Insurance<br \/>Topics covered will include ratemaking and reserving for casulaty insurance policies.<br \/>(Offered in alternate years)<\/p>",
+        "prerequisite": "permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-46958": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "46958",
+                        "assignedRoom1": "SS 2123",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158443": {
+                        "instructorId": "1158443",
+                        "firstName": "A",
+                        "lastName": "Le"
+                    }
+                },
+                "meetingId": "14569",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "Room Changed: September 16, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

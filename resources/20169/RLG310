@@ -1,0 +1,53 @@
+{
+    "RLG310H1-S-20169": {
+        "courseId": "4127",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Modern Atheism and the Critique of Religion (formerly RLG310Y1)",
+        "code": "RLG310H1",
+        "courseDescription": "<p>This course examines major classical thinkers who have contributed to the development of critical approaches to religion in the modern West, and whose theories still influence contemporary debates. We begin with the 17th century European Enlightenment and proceed to examine selected 19th and 20th century thinkers. The approaches considered are mainly philosophical, but include historical, social, and political issues as well. Authors studied include Hume, Kant, Marx, Nietzsche and others.<\/p>",
+        "prerequisite": "three RLG or PHI\/PHL half-courses and third year standing. See note above for general prerequisites",
+        "corequisite": "",
+        "exclusion": "RLG310Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46673": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46673",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 562"
+                    }
+                },
+                "instructors": {
+                    "1161936": {
+                        "instructorId": "1161936",
+                        "firstName": "J",
+                        "lastName": "DiCenso"
+                    }
+                },
+                "meetingId": "6773",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room changed: September 8th, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

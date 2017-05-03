@@ -1,0 +1,61 @@
+{
+    "FIN100H1-F-20169": {
+        "courseId": "3214",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Elementary Finnish I",
+        "code": "FIN100H1",
+        "courseDescription": "<p>The Department reserves the right to assign students to courses appropriate to their level of competence in Finnish. An introductory language course for students with no knowledge of Finnish. The acquisition of a basic vocabulary and of an understanding of elementary structural features through practice in comprehension, speaking, reading and writing.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-19473": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "19473",
+                        "assignedRoom1": "AH 103",
+                        "assignedRoom2": null
+                    },
+                    "TH-19474": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "19474",
+                        "assignedRoom1": "AH 103",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159928": {
+                        "instructorId": "1159928",
+                        "firstName": "A",
+                        "lastName": "Muhonen"
+                    }
+                },
+                "meetingId": "13548",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

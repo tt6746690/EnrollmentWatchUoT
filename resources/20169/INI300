@@ -1,0 +1,81 @@
+{
+    "INI300H1-F-20169": {
+        "courseId": "1269",
+        "org": "INNIS",
+        "orgName": "Innis College (INI) (JGI) (JEI)",
+        "courseTitle": "Strategic Writing in Business and the Professions: Theory and Practice (formerly INI300Y1)",
+        "code": "INI300H1",
+        "courseDescription": "<p>Aims to teach students to recognize the rhetoric of the professional workplace and to communicate strategically and ethically using written and oral discourse appropriate to business, government, and not-for-profit organizations. Case study analysis using ethical reasoning models is a central component of the course.<\/p>",
+        "prerequisite": "Completion of 4.0 full-course equivalents.",
+        "corequisite": "",
+        "exclusion": "INI300Y1; INI302H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-30341": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "30341",
+                        "assignedRoom1": "LM 155",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160560": {
+                        "instructorId": "1160560",
+                        "firstName": "V",
+                        "lastName": "Jovanovic-Krstic"
+                    }
+                },
+                "meetingId": "2581",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "47",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "219",
+                        "postCode": "ASMIN2137",
+                        "postName": "MI WRITING & RHETORIC",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

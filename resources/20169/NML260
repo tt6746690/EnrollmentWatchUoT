@@ -1,0 +1,69 @@
+{
+    "NML260Y1-Y-20169": {
+        "courseId": "3847",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Introductory Persian",
+        "code": "NML260Y1",
+        "courseDescription": "<p>The fundamentals of modern standard Persian grammar, with emphasis on attaining fluency in reading and writing simple texts. Also serves as a basis for classical Persian. (Offered in alternate years)<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Native users. Priority enrollment will be given to declared NMC majors\/specialists",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-42674": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42674",
+                        "assignedRoom1": "BF 323",
+                        "assignedRoom2": "BF 323"
+                    },
+                    "TH-42675": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42675",
+                        "assignedRoom1": "BF 323",
+                        "assignedRoom2": "BF 323"
+                    },
+                    "FR-42676": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42676",
+                        "assignedRoom1": "BF 323",
+                        "assignedRoom2": "BF 323"
+                    }
+                },
+                "instructors": {
+                    "1161201": {
+                        "instructorId": "1161201",
+                        "firstName": "A",
+                        "lastName": "Hojatollah Taleghani"
+                    }
+                },
+                "meetingId": "14387",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

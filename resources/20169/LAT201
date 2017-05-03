@@ -1,0 +1,61 @@
+{
+    "LAT201H1-F-20169": {
+        "courseId": "1389",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Intermediate Latin I",
+        "code": "LAT201H1",
+        "courseDescription": "<p>Reading of selections of Latin prose works with systematic language study.<\/p>",
+        "prerequisite": "LAT100Y1\/LAT102H1. Grade 12 in Latin may be accepted, but students should consult the Undergraduate Coordinator before enrolling.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41426": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41426",
+                        "assignedRoom1": "NF 119",
+                        "assignedRoom2": null
+                    },
+                    "TH-41427": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "41427",
+                        "assignedRoom1": "NF 119",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160713": {
+                        "instructorId": "1160713",
+                        "firstName": "M",
+                        "lastName": "Dewar"
+                    }
+                },
+                "meetingId": "2756",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

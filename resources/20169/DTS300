@@ -1,0 +1,53 @@
+{
+    "DTS300H1-F-20169": {
+        "courseId": "481",
+        "org": "DTS",
+        "orgName": "Diaspora and Transnational Studies (DTS)",
+        "courseTitle": "Qualitative and Quantitative Reasoning",
+        "code": "DTS300H1",
+        "courseDescription": "<p>Focuses on research design and training in methods from history, geography, anthropology, literary and cultural studies, and other disciplines appropriate to Diaspora and Transnational Studies. Prepares students to undertake primary research required in senior seminars.<\/p>",
+        "prerequisite": "DTS200Y1 or CJS200H1 or CJS201H1 or permission of course instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-20429": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "20429",
+                        "assignedRoom1": "SS 1069",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159368": {
+                        "instructorId": "1159368",
+                        "firstName": "A",
+                        "lastName": "Arhin"
+                    }
+                },
+                "meetingId": "13817",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "56",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

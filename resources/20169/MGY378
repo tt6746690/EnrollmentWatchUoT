@@ -1,0 +1,84 @@
+{
+    "MGY378H1-S-20169": {
+        "courseId": "1513",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Microbiology II: Viruses",
+        "code": "MGY378H1",
+        "courseDescription": "<p>Detailed study of viruses in terms of structure, classification, replication and interaction with the host. Basis for advanced study in virology. Requires some familiarity with immunology. A concurrent course in immunology (IMM334Y1\/335Y1) is recommended.<\/p>",
+        "prerequisite": "BCH210H1\/BCH242Y1; BIO120H1, BIO230H1; BIO260H1\/HMB265H1",
+        "corequisite": "BCH311H1\/CSB349H1\/MGY311Y1",
+        "exclusion": "BIO351Y1, CSB351Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39387": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39387",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 159"
+                    },
+                    "WE-39388": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39388",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 159"
+                    },
+                    "FR-39386": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39386",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 159"
+                    }
+                },
+                "instructors": {
+                    "1160991": {
+                        "instructorId": "1160991",
+                        "firstName": "M",
+                        "lastName": "Brown"
+                    },
+                    "1160992": {
+                        "instructorId": "1160992",
+                        "firstName": "A",
+                        "lastName": "Cochrane"
+                    },
+                    "1160993": {
+                        "instructorId": "1160993",
+                        "firstName": "L",
+                        "lastName": "Frappier"
+                    },
+                    "1160994": {
+                        "instructorId": "1160994",
+                        "firstName": "S",
+                        "lastName": "Mubareka"
+                    }
+                },
+                "meetingId": "3219",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "196",
+                "actualEnrolment": "111",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

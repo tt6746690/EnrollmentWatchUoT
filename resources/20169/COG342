@@ -1,0 +1,61 @@
+{
+    "COG342H1-S-20169": {
+        "courseId": "311",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Issues on Concepts, Theories of Mind, Cognitive Evolution",
+        "code": "COG342H1",
+        "courseDescription": "<p>An examination of core topics in cognitive science building on introductions in COG250Y. Typical topics include: concepts; theories of mind; cognitive evolution.<\/p>",
+        "prerequisite": "COG250Y1 and one of PSY270H1\/PHL342H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42728": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:30",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42728",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC A101"
+                    },
+                    "WE-42729": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:30",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42729",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC A101"
+                    }
+                },
+                "instructors": {
+                    "1159028": {
+                        "instructorId": "1159028",
+                        "firstName": "J",
+                        "lastName": "John"
+                    }
+                },
+                "meetingId": "719",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "67",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "EST100H1-F-20169": {
+        "courseId": "806",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Elementary Estonian Language and Culture I (formerly EST100Y1)",
+        "code": "EST100H1",
+        "courseDescription": "<p>Learn essential Estonian vocabulary, basic grammar and develop elementary conversational competence. Popular songs, poetry, and structured dialogue are among the various tools for achieving these objectives. Students will learn commonly used phrases and expressions used in everyday situations, from greeting people to making purchases in stores, and ordering meals in cafes. The course is designed for students with either no fluency or minimum fluency in Estonian.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "EST100Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "6758",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "September 13, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

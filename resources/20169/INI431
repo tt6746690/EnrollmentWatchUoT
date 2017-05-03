@@ -1,0 +1,53 @@
+{
+    "INI431Y1-Y-20169": {
+        "courseId": "1286",
+        "org": "INNIS",
+        "orgName": "Innis College (INI) (JGI) (JEI)",
+        "courseTitle": "Special Topics in Urban Studies",
+        "code": "INI431Y1",
+        "courseDescription": "<p>From time to time, the Urban Studies Program organizes community outreach and information sessions. At the discretion of the Director, students may enroll in a special topics course and investigate these issues more deeply under the supervision of an agreeable faculty member. Proposals including a letter from an agreeable faculty member should be submitted to the Director by June 1 for a Fall or Year-long course, or by November 1 for a Spring course. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Enrolment in a major or specialist program in Urban Studies.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "INI235Y1, completion of research design and research methods courses, and suitable 4th-year standing (in terms of credits completed) in an aligned social science discipline.",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For E indicator Urban Studies and Writing and Rhetoric courses: contact Tony Pi, 416-978-5809, Innis College Room 233, Monday to Friday, 9:00 a.m. to 4:30 p.m. during the summer, and 9:00 a.m. to 5:00 p.m. after Labour Day, urbanstudies.innis@utoronto.ca and writingandrhetoric.innis@utoronto.ca.",
+        "breadthCategories": "",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160573": {
+                        "instructorId": "1160573",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "2603",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

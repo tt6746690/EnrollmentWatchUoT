@@ -1,0 +1,53 @@
+{
+    "ESS463H1-S-20169": {
+        "courseId": "799",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Contaminants in the Environment",
+        "code": "ESS463H1",
+        "courseDescription": "<p>Disturbances to the Earth system by anthropogenic contaminant input and how to improve environmental quality. Case studies include mining contamination and remediation, and movement of contaminants in air, water, soils, and sediments, particularly in urban areas.<\/p>",
+        "prerequisite": "ESS261H1, ESS262H1, ESS361H1\/ESS362H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-44187": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "44187",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1062"
+                    }
+                },
+                "instructors": {
+                    "1159873": {
+                        "instructorId": "1159873",
+                        "firstName": "M",
+                        "lastName": "Diamond"
+                    }
+                },
+                "meetingId": "1719",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

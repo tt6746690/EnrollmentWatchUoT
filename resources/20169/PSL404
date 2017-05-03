@@ -1,0 +1,66 @@
+{
+    "PSL404H1-F-20169": {
+        "courseId": "4072",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Regenerative Medicine",
+        "code": "PSL404H1",
+        "courseDescription": "<p>Regenerative medicine promises to restore body function that has been lost due to disease, damage or age. Students will explore selected molecular, stem cell and tissue engineering developments to better understand how the body normally functions and how cells, tissues, and organs can be repaired or replaced.<\/p>",
+        "prerequisite": "PSL300H1, PSL301H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "PSL350H1\/BCH311H1\/CSB349H1\/MGY311Y",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "This course may be added using ROSI\/ACORN, but will appear with an interim status until reviewed. It is the responsibility of the student to check whether their status has been approved or refused. For questions, please contact Eva Eng at eva.eng@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-45591": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45591",
+                        "assignedRoom1": "MS 4171",
+                        "assignedRoom2": null
+                    },
+                    "TH-45592": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45592",
+                        "assignedRoom1": "MS 4171",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161728": {
+                        "instructorId": "1161728",
+                        "firstName": "M",
+                        "lastName": "French"
+                    },
+                    "1161729": {
+                        "instructorId": "1161729",
+                        "firstName": "C",
+                        "lastName": "Nostro"
+                    }
+                },
+                "meetingId": "13341",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "39",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "INI203Y1-Y-20169": {
+        "courseId": "1266",
+        "org": "INNIS",
+        "orgName": "Innis College (INI) (JGI) (JEI)",
+        "courseTitle": "Foundations of Written Discourse",
+        "code": "INI203Y1",
+        "courseDescription": "<p>Designed to teach students to write persuasively and to recognize persuasive strategies at work in writing they analyze. Classical rhetorical terms, elements of style, and modes of argument are central to the course. Assignments include a rhetorical analysis, in-class essays, and a term essay. Readings include prose from a variety of disciplines, excluding fiction and poetry. Students who enrol in the course must demonstrate competence in the English language.<\/p>",
+        "prerequisite": "Completion of 4.0 full-course equivalents.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-36597": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "36597",
+                        "assignedRoom1": "IN 204",
+                        "assignedRoom2": "IN 204"
+                    }
+                },
+                "instructors": {
+                    "1160555": {
+                        "instructorId": "1160555",
+                        "firstName": "V",
+                        "lastName": "Visvis"
+                    }
+                },
+                "meetingId": "2578",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "219",
+                        "postCode": "ASMIN2137",
+                        "postName": "MI WRITING & RHETORIC",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

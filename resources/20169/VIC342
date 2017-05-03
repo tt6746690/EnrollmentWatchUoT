@@ -1,0 +1,53 @@
+{
+    "VIC342H1-F-20169": {
+        "courseId": "2578",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Women and Writing in the Renaissance",
+        "code": "VIC342H1",
+        "courseDescription": "<p>Focusing on writers from various geographical areas, the course examines a variety of texts by early modern women (for example, treatises, letters, and poetry) so as to explore the female experience in a literate society, with particular attention to how women constructed a gendered identity for themselves against the backdrop of the cultural debates of the time.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-40657": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "40657",
+                        "assignedRoom1": "VC 115",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162812": {
+                        "instructorId": "1162812",
+                        "firstName": "A",
+                        "lastName": "Scarci"
+                    }
+                },
+                "meetingId": "5233",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "75",
+                "actualEnrolment": "50",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

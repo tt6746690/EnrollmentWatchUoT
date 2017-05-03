@@ -1,0 +1,61 @@
+{
+    "NMC366Y1-S-20169": {
+        "courseId": "3809",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Archaeology from Alexander to Muhammad",
+        "code": "NMC366Y1",
+        "courseDescription": "<p>An overview of late antique Greek, Arab and Persian material culture, as seen through the archaeological record of Syria, Iraq, and Iran.<\/p>",
+        "prerequisite": "NMC101H1, NMC102H1, NMC103H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NMC260H1, NMC262H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1), Society and its Institutions (3)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-42662": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "42662",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 215"
+                    },
+                    "TH-42663": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "42663",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 215"
+                    }
+                },
+                "instructors": {
+                    "1161162": {
+                        "instructorId": "1161162",
+                        "firstName": "E",
+                        "lastName": "Keall"
+                    }
+                },
+                "meetingId": "14373",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

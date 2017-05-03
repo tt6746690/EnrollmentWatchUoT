@@ -1,0 +1,53 @@
+{
+    "VIC480H1-S-20169": {
+        "courseId": "2604",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Poetry: A Master Class",
+        "code": "VIC480H1",
+        "courseDescription": "<p>A workshop course in writing poetry. Designed for those with a serious ambition to be writers as evinced in work they are already doing. Does not offer instruction for beginning writers. Presupposes perfect and sophisticated written language skills.<\/p>",
+        "prerequisite": "Application required.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "To enroll in this course, students must submit an application by June 1st. For more information, visit www.vic.utoronto.ca\/students\/academics\/creative\/courses.\r\n",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-42932": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "42932",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 205"
+                    }
+                },
+                "instructors": {
+                    "1162861": {
+                        "instructorId": "1162861",
+                        "firstName": "A",
+                        "lastName": "Moritz"
+                    }
+                },
+                "meetingId": "5282",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

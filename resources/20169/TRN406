@@ -1,0 +1,104 @@
+{
+    "TRN406H1-F-20169": {
+        "courseId": "2491",
+        "org": "TRIN",
+        "orgName": "Trinity College (TRN)",
+        "courseTitle": "Community Research Partnerships in Ethics",
+        "code": "TRN406H1",
+        "courseDescription": "<p>Students undertake research projects designed to meet the knowledge needs of ethics-oriented organizations in the broader community.<\/p>",
+        "prerequisite": "Students must be in the final year of registration in the Major Program in Ethics, Society, and Law and will normally have a CGPA of at least 3.70. Enrolment is by application. Consult the Arts & Science Registration Instructions and Timetable at http:\/\/www.artsci.utoronto.ca\/current\/course for course enrolment procedures.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "PHL271H1, TRN203H1, TRN204H1, TRN303H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: contact Kiran Sahota, Room 300, Larkin Building, Monday to Friday from 9:00am-12:00pm and 2:00-5:00pm, at 416-978-8454 or artsdean@trinity.utoronto.ca.",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162698": {
+                        "instructorId": "1162698",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "5114",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "TRN406H1-S-20169": {
+        "courseId": "2491",
+        "org": "TRIN",
+        "orgName": "Trinity College (TRN)",
+        "courseTitle": "Community Research Partnerships in Ethics",
+        "code": "TRN406H1",
+        "courseDescription": "<p>Students undertake research projects designed to meet the knowledge needs of ethics-oriented organizations in the broader community.<\/p>",
+        "prerequisite": "Students must be in the final year of registration in the Major Program in Ethics, Society, and Law and will normally have a CGPA of at least 3.70. Enrolment is by application. Consult the Arts & Science Registration Instructions and Timetable at http:\/\/www.artsci.utoronto.ca\/current\/course for course enrolment procedures.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "PHL271H1, TRN203H1, TRN204H1, TRN303H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: contact Kiran Sahota, Room 300, Larkin Building, Monday to Friday from 9:00am-12:00pm and 2:00-5:00pm, at 416-978-8454 or artsdean@trinity.utoronto.ca.",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162699": {
+                        "instructorId": "1162699",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "5115",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

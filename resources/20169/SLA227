@@ -1,0 +1,53 @@
+{
+    "SLA227H1-F-20169": {
+        "courseId": "4273",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "South Slavic Literature: National Revival and Beyond",
+        "code": "SLA227H1",
+        "courseDescription": "<p>A survey of national revival and consolidation in Serbia, Croatia, Slovenia and Bosnia through a chronological selection of literary texts (poems, plays, novels) from the eighteenth to the twentieth century. The course places South Slavic literary developments within the broader context of European intellectual history as well as Balkan cultural and political life. Taught in English, all readings in English.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-19499": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "19499",
+                        "assignedRoom1": "TF 203",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162340": {
+                        "instructorId": "1162340",
+                        "firstName": "D",
+                        "lastName": "Obradovic"
+                    }
+                },
+                "meetingId": "13532",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "MGY314H1-F-20169": {
+        "courseId": "1508",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Principles of Genetic Analysis I",
+        "code": "MGY314H1",
+        "courseDescription": "<p><span lang=\"EN-US\">Laboratory experiments in genetics, with the focus on microbial and prokaryotic genetics. Topics and experiments include mutagenesis and genetic selection, linkage and recombination, genetic crosses, gene regulation, suppressor analyses, and genetic mapping.<\/span><\/p>",
+        "prerequisite": "BIO230H1, BIO260H1\/HMB265H1",
+        "corequisite": "",
+        "exclusion": "MGY312H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cAE\u201d indicator courses: students who miss the registration deadline should contact the instructor directly.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-44362": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "44362",
+                        "assignedRoom1": "Contact Department",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160977": {
+                        "instructorId": "1160977",
+                        "firstName": "B",
+                        "lastName": "Funnell"
+                    }
+                },
+                "meetingId": "3214",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "55",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "1",
+                        "postCode": "*",
+                        "postName": "",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

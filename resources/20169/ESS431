@@ -1,0 +1,53 @@
+{
+    "ESS431H1-S-20169": {
+        "courseId": "795",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Basin Analysis (formerly ESS332H1)",
+        "code": "ESS431H1",
+        "courseDescription": "<p><span style=\"color: #222222; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px;\">Detailed study of each of the major sedimentary environments. Typical facies assemblages, cyclic sedimentation. Autogenic and allogenic processes. The principles of sequence stratigraphy. The history of the sequence concept; systems tracts and bounding surfaces. Sequence models. What causes sequences: mechanisms of change in base level and accommodation: &ndash; tectonism, climate change, eustatic sea-level change.<\/span><\/p>",
+        "prerequisite": "ESS331H1",
+        "corequisite": "",
+        "exclusion": "GLG430H1, ESS332H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47604": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "47604",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1062"
+                    }
+                },
+                "instructors": {
+                    "1159867": {
+                        "instructorId": "1159867",
+                        "firstName": "A",
+                        "lastName": "Miall"
+                    }
+                },
+                "meetingId": "14344",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "24",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Jan. 6, 2017",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

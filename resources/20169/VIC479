@@ -1,0 +1,53 @@
+{
+    "VIC479Y1-Y-20169": {
+        "courseId": "2603",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "The Novel: A Master Class",
+        "code": "VIC479Y1",
+        "courseDescription": "<p>Advanced young writers in this fourth-year seminar work to produce a short novel appropriate for submission to an agent or a publisher. The class does not offer instruction for beginning writers. It is intended for serious writers interested in learning about writing novels at a professional level.<\/p>",
+        "prerequisite": "Application required",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enroll in this course, students must submit an application by June 1st. For more information, visit www.vic.utoronto.ca\/students\/academics\/creative\/courses\r\n",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42933": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "42933",
+                        "assignedRoom1": "NF 008",
+                        "assignedRoom2": "NF 008"
+                    }
+                },
+                "instructors": {
+                    "1162860": {
+                        "instructorId": "1162860",
+                        "firstName": "D",
+                        "lastName": "Gilmour"
+                    }
+                },
+                "meetingId": "5281",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

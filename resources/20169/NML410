@@ -1,0 +1,61 @@
+{
+    "NML410Y1-Y-20169": {
+        "courseId": "1683",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Advanced Standard Arabic",
+        "code": "NML410Y1",
+        "courseDescription": "<p>This course assumes active knowledge of the content covered in NML310Y. &nbsp;Its goal is to strengthen the students reading and writing skills, refine their knowledge of syntax and morphological patterns, and enrich their cultural background. This is achieved through analysis of sophisticated authentic texts covering a wide range of genres. In addition, Classical Arabic literary texts will be incrementally introduced. &nbsp;By the end of the course, students are expected to reach a superior level of proficiency.<\/p>",
+        "prerequisite": "NML310Y1 or permission of instructor.",
+        "corequisite": "",
+        "exclusion": "Native speakers.",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-45399": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45399",
+                        "assignedRoom1": "BF 308",
+                        "assignedRoom2": "BF 308"
+                    },
+                    "TH-45398": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45398",
+                        "assignedRoom1": "BF 308",
+                        "assignedRoom2": "BF 308"
+                    }
+                },
+                "instructors": {
+                    "1161213": {
+                        "instructorId": "1161213",
+                        "firstName": "A",
+                        "lastName": "Ali"
+                    }
+                },
+                "meetingId": "3434",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "SOC243H1-S-20169": {
+        "courseId": "2368",
+        "org": "SOC",
+        "orgName": "Sociology (SOC)",
+        "courseTitle": "Sociology of Health and Illness (formerly 242Y1)",
+        "code": "SOC243H1",
+        "courseDescription": "<p>This course examines (1) the social causes of illness and disease, (2) the experience of illness, and social processes that shape both of these issues, including medicalization. It focuses on population health, the relation between agency and structure, and macro-micro connections. Professional health care is discussed to the extent that it provides context for analyses of illness patterns and experiences.<\/p>",
+        "prerequisite": "SOC101Y1 or SOC102H1 or SOC103H1",
+        "corequisite": "",
+        "exclusion": "SOC242Y1; SOC239H5",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-16353": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "16353",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 161"
+                    }
+                },
+                "instructors": {
+                    "1162482": {
+                        "instructorId": "1162482",
+                        "firstName": "W",
+                        "lastName": "Magee"
+                    }
+                },
+                "meetingId": "12233",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "140",
+                "actualEnrolment": "85",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

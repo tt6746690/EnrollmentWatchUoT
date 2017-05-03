@@ -1,0 +1,53 @@
+{
+    "FRE441H1-F-20169": {
+        "courseId": "3260",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Advanced Topics in French Literature",
+        "code": "FRE441H1",
+        "courseDescription": "<p>An advanced, research-oriented seminar devoted to specific issues of French literature and culture. Focus on a literary genre, a particular subject or literary movement, or based on a multidisciplinary approach involving cinema, arts, and music.<\/p>",
+        "prerequisite": "FRE240H1 + FRE241H1 + FRE344H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-47098": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "47098",
+                        "assignedRoom1": "NF 205",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159978": {
+                        "instructorId": "1159978",
+                        "firstName": "A",
+                        "lastName": "Motsch"
+                    }
+                },
+                "meetingId": "5462",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "The Writings of New France",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: September 21, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

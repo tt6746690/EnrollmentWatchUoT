@@ -1,0 +1,86 @@
+{
+    "PHC430H1-F-20169": {
+        "courseId": "3908",
+        "org": "PHM",
+        "orgName": "Pharmaceutical Chemistry (PHC) (JFP)",
+        "courseTitle": "Recent Developments in Dosage Form Design",
+        "code": "PHC430H1",
+        "courseDescription": "<p>Introduction to controlled drug delivery: Mechanisms and kinetics of controlled drug release. Fundamental theories and mathematical tools for the design of modern dosage forms. Development and applications of controlled drug delivery dosage forms. This course is restricted to Pharmaceutical Chemistry specialist program students.<\/p>",
+        "prerequisite": "Enrolled as a Year 4 student in the Pharmaceutical Chemistry specialist program.",
+        "corequisite": "",
+        "exclusion": "PHM324H1, PHM1109H",
+        "recommendedPreparation": "PHC230H1, PHC330H1,PHC340Y1.",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-45867": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45867",
+                        "assignedRoom1": "PB 450",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161289": {
+                        "instructorId": "1161289",
+                        "firstName": "P",
+                        "lastName": "Lee"
+                    },
+                    "1161290": {
+                        "instructorId": "1161290",
+                        "firstName": "X",
+                        "lastName": "Wu"
+                    }
+                },
+                "meetingId": "13110",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "291",
+                        "postCode": "ASSPE1211",
+                        "postName": "SP PHARMACEUTICAL CHEMISTRY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

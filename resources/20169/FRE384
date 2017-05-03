@@ -1,0 +1,81 @@
+{
+    "FRE384H1-F-20169": {
+        "courseId": "916",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Teaching French as a Second Language",
+        "code": "FRE384H1",
+        "courseDescription": "<p>This course provides an introduction to the communicative approach in recent methods and pedagogical materials published in France and in North America. Emphasis is put on the various interpretations of the communicative approach in teaching FSL, with reference to theoretical issues and historical background.&nbsp;<\/p>",
+        "prerequisite": "FRE272H1 + FSL321Y1 + FRE225Y1 (JFI225Y1)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-37698": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "37698",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159975": {
+                        "instructorId": "1159975",
+                        "firstName": "G",
+                        "lastName": "Maheux-Pelletier"
+                    }
+                },
+                "meetingId": "1863",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "44",
+                        "postCode": "ASMAJ0120",
+                        "postName": "MA FRENCH LANGUAGE LEARNING",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

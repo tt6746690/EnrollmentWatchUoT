@@ -1,0 +1,87 @@
+{
+    "EEB380H1-F-20169": {
+        "courseId": "636",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Diversity of Insects (formerly EEB356H1)",
+        "code": "EEB380H1",
+        "courseDescription": "<p>Evolutionary history, morphology, physiology, development, behaviour, and ecological significance of insects. Labs focus on identification of major groups of insects found in Ontario and each student makes an insect collection. Insects are collected during field trips during class time and also on Saturday field trips early in the term.<\/p>",
+        "prerequisite": "BIO220H1",
+        "corequisite": "",
+        "exclusion": "EEB356H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-35240": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "35240",
+                        "assignedRoom1": "RW 143",
+                        "assignedRoom2": null
+                    },
+                    "WE-35241": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "35241",
+                        "assignedRoom1": "RW 143",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159618": {
+                        "instructorId": "1159618",
+                        "firstName": "D",
+                        "lastName": "Darling"
+                    }
+                },
+                "meetingId": "1350",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "MO-43528": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "43528",
+                        "assignedRoom1": "RW 013",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "6128",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "AST320H1-S-20169": {
+        "courseId": "133",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (PLN)",
+        "courseTitle": "Introduction to Astrophysics",
+        "code": "AST320H1",
+        "courseDescription": "<p>The formation, equilibrium and evolution of structure on all astronomical scales from the largest to the smallest: universe, clusters of galaxies, galaxies, clusters of stars, gas clouds and stars.<\/p>",
+        "prerequisite": "PHY252H1\/PHY294H1; AST221H1,AST222H1 (or equivalent AST readings; consult the instructor)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41108": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "41108",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AB 114"
+                    },
+                    "FR-41107": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41107",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AB 114"
+                    }
+                },
+                "instructors": {
+                    "1158567": {
+                        "instructorId": "1158567",
+                        "firstName": "R",
+                        "lastName": "Hlozek"
+                    }
+                },
+                "meetingId": "281",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "38",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-37561": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "37561",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AB 114"
+                    },
+                    "FR-37562": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "37562",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "AB 114"
+                    }
+                },
+                "instructors": {
+                    "1158568": {
+                        "instructorId": "1158568",
+                        "firstName": "R",
+                        "lastName": "Hlozek"
+                    }
+                },
+                "meetingId": "14804",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

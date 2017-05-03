@@ -1,0 +1,53 @@
+{
+    "SPA480H1-F-20169": {
+        "courseId": "4500",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "Icons and Iconography in Latin American Culture",
+        "code": "SPA480H1",
+        "courseDescription": "<p><span style=\"font-size: 12.0pt; font-family: 'Helvetica Neue'; mso-fareast-font-family: 'MS ??'; mso-bidi-font-family: 'Helvetica Neue'; color: #1a1a1a; mso-ansi-language: EN-CA; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\" lang=\"EN-CA\">Production, circulation and meaning of icons through Latin American literary and cultural contexts. Readings are selected from the period of independence to the present, and focus on the transformative ideological charge of cultural objects across geographic space and history. Focuses on political and socio-economic tensions between popular and elite spheres of cultural production, and on the risks and limits of iconographic representation. (Offered every three years)<\/span>&nbsp; &nbsp;&nbsp;<\/p>",
+        "prerequisite": "At least one 300-series half-course in Spanish.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SPA258H1\/SPA259H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-27014": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "27014",
+                        "assignedRoom1": "NF 332",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162583": {
+                        "instructorId": "1162583",
+                        "firstName": "S",
+                        "lastName": "Antebi"
+                    }
+                },
+                "meetingId": "14113",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

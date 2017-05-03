@@ -1,0 +1,53 @@
+{
+    "VIC137H1-S-20169": {
+        "courseId": "4561",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Science and Science Fiction",
+        "code": "VIC137H1",
+        "courseDescription": "<p>Based on reading and discussion of science fiction and popular science in the context of social issues, this seminar course explores the fantastic visions of humanity's future inspired by scientific advances during the twentieth century.&nbsp;Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Innis One, Munk One, New One, SMC One, Trinity One, UC One, Vic One, Woodsworth One; No more than another 0.5 FCE from 199 seminars or Vic One Hundred; HPS260H1, HMB444H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-34259": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "34259",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 211"
+                    }
+                },
+                "instructors": {
+                    "1162747": {
+                        "instructorId": "1162747",
+                        "firstName": "N",
+                        "lastName": "Krementsov"
+                    }
+                },
+                "meetingId": "13682",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

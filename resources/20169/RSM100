@@ -1,0 +1,295 @@
+{
+    "RSM100H1-F-20169": {
+        "courseId": "4653",
+        "org": "COMPG",
+        "orgName": "Rotman Commerce (RSM) (MGT)",
+        "courseTitle": "Introduction to Management (formerly RSM100Y)",
+        "code": "RSM100H1",
+        "courseDescription": "<p>Introduction to management and its subdisciplines. Themes include business in a Canadian context, the nature of corporations, corporate governance, organizational behavior, operations, and strategy. Enrolment limited to students entering the University with an expressed interest in studying at Rotman Commerce.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "MGT100H1, RSM100Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-43962": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43962",
+                        "assignedRoom1": "BT 101",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161985": {
+                        "instructorId": "1161985",
+                        "firstName": "M",
+                        "lastName": "Khan"
+                    },
+                    "1161986": {
+                        "instructorId": "1161986",
+                        "firstName": "J",
+                        "lastName": "Oesch"
+                    }
+                },
+                "meetingId": "13178",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "302",
+                "actualEnrolment": "296",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "15",
+                        "subjectCode": "COM",
+                        "subjectName": "COMMERCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "WE-31827": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "31827",
+                        "assignedRoom1": "OI G162",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161987": {
+                        "instructorId": "1161987",
+                        "firstName": "M",
+                        "lastName": "Khan"
+                    },
+                    "1161988": {
+                        "instructorId": "1161988",
+                        "firstName": "J",
+                        "lastName": "Oesch"
+                    }
+                },
+                "meetingId": "13179",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "300",
+                "actualEnrolment": "238",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "15",
+                        "subjectCode": "COM",
+                        "subjectName": "COMMERCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "LEC-0301": {
+                "schedule": {
+                    "WE-31828": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "31828",
+                        "assignedRoom1": "OI G162",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161989": {
+                        "instructorId": "1161989",
+                        "firstName": "M",
+                        "lastName": "Khan"
+                    },
+                    "1161990": {
+                        "instructorId": "1161990",
+                        "firstName": "J",
+                        "lastName": "Oesch"
+                    }
+                },
+                "meetingId": "13180",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "300",
+                "actualEnrolment": "188",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "15",
+                        "subjectCode": "COM",
+                        "subjectName": "COMMERCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    },
+    "RSM100H1-S-20169": {
+        "courseId": "4653",
+        "org": "COMPG",
+        "orgName": "Rotman Commerce (RSM) (MGT)",
+        "courseTitle": "Introduction to Management (formerly RSM100Y)",
+        "code": "RSM100H1",
+        "courseDescription": "<p>Introduction to management and its subdisciplines. Themes include business in a Canadian context, the nature of corporations, corporate governance, organizational behavior, operations, and strategy. Enrolment limited to students entering the University with an expressed interest in studying at Rotman Commerce.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "MGT100H1, RSM100Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-45833": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45833",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "OI G162"
+                    }
+                },
+                "instructors": {
+                    "1161991": {
+                        "instructorId": "1161991",
+                        "firstName": "J",
+                        "lastName": "Klakurka"
+                    }
+                },
+                "meetingId": "13188",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "89",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "**Enrolment for RSM100H1S on ACORN will be closed until November 2016**",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "15",
+                        "subjectCode": "COM",
+                        "subjectName": "COMMERCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "PLN420H1-Y-20169": {
+        "courseId": "1868",
+        "org": "AST",
+        "orgName": "Astronomy & Astrophysics (AST) (PLN)",
+        "courseTitle": "Interdisciplinary Seminar in Planetary Science",
+        "code": "PLN420H1",
+        "courseDescription": "<p>Discussion of topics of current interest in planetary science with emphasis on papers published in scientific journals. This course is intended for students in the final year of the Planetary Science specialist program. Students must enrol with the course coordinator.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Lillian Lanca at lanca@astro.utoronto.ca.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161523": {
+                        "instructorId": "1161523",
+                        "firstName": "R",
+                        "lastName": "Ghent"
+                    }
+                },
+                "meetingId": "3878",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "FOR423H1-S-20169": {
+        "courseId": "893",
+        "org": "FOR",
+        "orgName": "Forestry (FOR) (JFG)",
+        "courseTitle": "Sustainable Materials Design and Manufacturing",
+        "code": "FOR423H1",
+        "courseDescription": "<p>This course focuses on the manufacturing processes, properties and uses of wood and agricultural fibre based products including wood based composites, ligno-cellulosic\/thermoplastic composites and structural or engineered composites, and the practical use of these products in design.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "FOR424H1 (APSC)",
+        "recommendedPreparation": "Completion of at least 10 Science FCEs",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For more information, please contact susanwy.lee@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42800": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "42800",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 158"
+                    }
+                },
+                "instructors": {
+                    "1159951": {
+                        "instructorId": "1159951",
+                        "firstName": "M",
+                        "lastName": "Sain"
+                    }
+                },
+                "meetingId": "1832",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "FR-33845": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "33845",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 158"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14323",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

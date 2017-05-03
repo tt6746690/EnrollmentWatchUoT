@@ -1,0 +1,53 @@
+{
+    "PHL235H1-S-20169": {
+        "courseId": "1748",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "Philosophy of Religion",
+        "code": "PHL235H1",
+        "courseDescription": "<p>Some central issues in the philosophy of religion such as the nature of religion and religious faith, arguments for the existence of God, the problem of evil, varieties of religious experience, religion and human autonomy.&nbsp;<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-36330": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "36330",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WI 1017"
+                    }
+                },
+                "instructors": {
+                    "1161305": {
+                        "instructorId": "1161305",
+                        "firstName": "G",
+                        "lastName": "Citron"
+                    }
+                },
+                "meetingId": "12237",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "118",
+                "actualEnrolment": "88",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

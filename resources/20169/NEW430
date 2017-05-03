@@ -1,0 +1,81 @@
+{
+    "NEW430H1-F-20169": {
+        "courseId": "3765",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Jungian Psychology and Tantric Buddhism",
+        "code": "NEW430H1",
+        "courseDescription": "<p>Carl Jung wrote extensively on the benefits of Buddhism to personal development and transformation.&nbsp; Explores the contribution of Jungian pscyhology to an understanding of Tantric (or Vajrayana) Buddhism.&nbsp; Through experiential exercises, students will investigate the role of archetypal psychology and identification as a mediator of spiritual change.<\/p>",
+        "prerequisite": "NEW232Y1",
+        "corequisite": "",
+        "exclusion": "NEW433H1 Advanced Special Topics:  Psychology of Tantric Buddhism",
+        "recommendedPreparation": "NEW302Y1, NEW303H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-36294": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "36294",
+                        "assignedRoom1": "WE 52",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161099": {
+                        "instructorId": "1161099",
+                        "firstName": "A",
+                        "lastName": "Toneatto"
+                    }
+                },
+                "meetingId": "6001",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "183",
+                        "postCode": "ASMIN1017",
+                        "postName": "MI BUDDHISM, PSY & MENTAL HLTH",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

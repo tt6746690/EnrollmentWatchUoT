@@ -1,0 +1,150 @@
+{
+    "PSL450H1-F-20169": {
+        "courseId": "1987",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Mechanisms of Neural and Endocrinal Secretion",
+        "code": "PSL450H1",
+        "courseDescription": "<p>Exocytosis and other aspects of secretion mainly in neurons and neuroendocrine cells, but also in pancreatic cells. Topics include synapse anatomy and physiology, synaptic plasma membrane and vesicle proteins, membrane fusion, genetic tools, endocrine secretion, plasticity in neurotransmitter release, diseases arising from secretion defects.<\/p>",
+        "prerequisite": "BCH210H1, PSL300H1\/(BIO240H1, BIO241H1), PSL350H1\/CSB349H1\/BCH311H1\/MGY311Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-30994": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "30994",
+                        "assignedRoom1": "MS 4171",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161748": {
+                        "instructorId": "1161748",
+                        "firstName": "D",
+                        "lastName": "Belsham"
+                    },
+                    "1161749": {
+                        "instructorId": "1161749",
+                        "firstName": "A",
+                        "lastName": "Klip"
+                    },
+                    "1161750": {
+                        "instructorId": "1161750",
+                        "firstName": "S",
+                        "lastName": "Sugita"
+                    },
+                    "1161751": {
+                        "instructorId": "1161751",
+                        "firstName": "W",
+                        "lastName": "Trimble"
+                    }
+                },
+                "meetingId": "4049",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "26",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "57",
+                        "postCode": "ASMAJ0482",
+                        "postName": "MA PHYSIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "249",
+                        "postCode": "ASSPE0482",
+                        "postName": "SP PHYSIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "386",
+                        "postCode": "ASSPE2738",
+                        "postName": "SP BIOL PHY: PHYSIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

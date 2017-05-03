@@ -1,0 +1,53 @@
+{
+    "CDN202H1-F-20169": {
+        "courseId": "188",
+        "org": "UC",
+        "orgName": "University College (UNI) (CDN) (COG) (HST) (JSU) (JUM) (PHS)",
+        "courseTitle": "Aspects of Quebec Culture (formerly UNI202H1)",
+        "code": "CDN202H1",
+        "courseDescription": "<p>An exploration of modern Qu&eacute;bec culture as expressed in literature and the performing arts. Through a selection of internationally-known entertainers, we examine form, artistic innovation, communication of information and knowledge, and spectatorship. Novels and plays provide key elements such as tradition and historical context.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "UNI202H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-40549": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "40549",
+                        "assignedRoom1": "UC 256",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158731": {
+                        "instructorId": "1158731",
+                        "firstName": "R",
+                        "lastName": "Saverino"
+                    }
+                },
+                "meetingId": "469",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

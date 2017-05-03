@@ -1,0 +1,53 @@
+{
+    "FOR419H1-S-20169": {
+        "courseId": "892",
+        "org": "FOR",
+        "orgName": "Forestry (FOR) (JFG)",
+        "courseTitle": "Forest Fire Behaviour and Management",
+        "code": "FOR419H1",
+        "courseDescription": "<p>Understanding forest fire activity is important for predicting fire's impact on forests and the wildland-urban interface, as well as understanding the impacts of climate change. Basic principles of forest fuel moisture exchange, fire occurrence and fire behaviour are explored. Emphasis is placed on application of these models to real fire management problems.<\/p>",
+        "prerequisite": "One course in quantitative methods, linear algebra or calculus",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "ECO220Y1, ECO227Y1, GGR270H1, MAT133Y1, MAT137Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-42291": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "42291",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 4001"
+                    }
+                },
+                "instructors": {
+                    "1159950": {
+                        "instructorId": "1159950",
+                        "firstName": "B",
+                        "lastName": "Wotton"
+                    }
+                },
+                "meetingId": "1831",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

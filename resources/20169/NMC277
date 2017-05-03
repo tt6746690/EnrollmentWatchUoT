@@ -1,0 +1,192 @@
+{
+    "NMC277H1-F-20169": {
+        "courseId": "3790",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Topics in Near & Middle Eastern Civilizations",
+        "code": "NMC277H1",
+        "courseDescription": "<p>Topics vary from year to year, depending on instructor.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-47221": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "47221",
+                        "assignedRoom1": "BF 200B",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161151": {
+                        "instructorId": "1161151",
+                        "firstName": "A",
+                        "lastName": "Porter"
+                    }
+                },
+                "meetingId": "15227",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Death in the Ancient Near East",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Oct 20, 2016",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "MO-47087": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "47087",
+                        "assignedRoom1": "BF 316",
+                        "assignedRoom2": null
+                    },
+                    "WE-47088": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "47088",
+                        "assignedRoom1": "BF 316",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161152": {
+                        "instructorId": "1161152",
+                        "firstName": "Y",
+                        "lastName": "Vevaina"
+                    }
+                },
+                "meetingId": "15270",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "Avestan I",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Changed: September 21, 2016",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "NMC277H1-S-20169": {
+        "courseId": "3790",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Topics in Near & Middle Eastern Civilizations",
+        "code": "NMC277H1",
+        "courseDescription": "<p>Topics vary from year to year, depending on instructor.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47256": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "47256",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 316"
+                    },
+                    "WE-47257": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "47257",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 316"
+                    }
+                },
+                "instructors": {
+                    "1161153": {
+                        "instructorId": "1161153",
+                        "firstName": "Y",
+                        "lastName": "Vevaina"
+                    }
+                },
+                "meetingId": "15220",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Avestan II",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: Nov. 7, 2016",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TU-47265": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:30",
+                        "meetingScheduleId": "47265",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 214"
+                    },
+                    "TH-47266": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:30",
+                        "meetingScheduleId": "47266",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 214"
+                    }
+                },
+                "instructors": {
+                    "1161154": {
+                        "instructorId": "1161154",
+                        "firstName": "Y",
+                        "lastName": "Vevaina"
+                    }
+                },
+                "meetingId": "15311",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "The Sasanians: Religion, Empire, and Society in Late Antique Iran",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Added: Nov. 7, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

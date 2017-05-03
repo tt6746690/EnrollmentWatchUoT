@@ -1,0 +1,53 @@
+{
+    "GER321H1-F-20169": {
+        "courseId": "3282",
+        "org": "GER",
+        "orgName": "German (GER) (JGJ)",
+        "courseTitle": "19th Century German Literature (formerly GER325H1)",
+        "code": "GER321H1",
+        "courseDescription": "<p>This course focuses on German authors of the nineteenth century. Literary, political and philosophical texts are analyzed as a discussion of political uprisings, the industrial revolution and the emergence of German nationalism.<\/p>",
+        "prerequisite": "GER205H1",
+        "corequisite": "",
+        "exclusion": "GER325H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-25354": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "25354",
+                        "assignedRoom1": "TF 102",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160102": {
+                        "instructorId": "1160102",
+                        "firstName": "C",
+                        "lastName": "Lehleiter"
+                    }
+                },
+                "meetingId": "6150",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "22",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

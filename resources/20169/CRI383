@@ -1,0 +1,108 @@
+{
+    "CRI383H1-S-20169": {
+        "courseId": "331",
+        "org": "CRIM",
+        "orgName": "Criminology and Sociolegal Studies, Centre for (CRI)",
+        "courseTitle": "Immigration, Ethnicity and",
+        "code": "CRI383H1",
+        "courseDescription": "<p>The connection between immigration and crime, the effect of immigration on crime rates, discrimination against immigrants, the representation of immigrants in crime statistics, public perception of risk and security, and criminal justice policy changes which affect immigration. We consider research conducted in North America and Europe.<\/p>",
+        "prerequisite": "(CRI205H1 or SOC212H1) or (CRI210H1 and CRI225H1)",
+        "corequisite": "CRI205H1",
+        "exclusion": "WDW383H1, WDW390H1 in 2008",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-15848": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "15848",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 323"
+                    }
+                },
+                "instructors": {
+                    "1159048": {
+                        "instructorId": "1159048",
+                        "firstName": "K",
+                        "lastName": "Taylor"
+                    }
+                },
+                "meetingId": "743",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "92",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "70",
+                        "postCode": "ASMAJ0826",
+                        "postName": "MA CRIMINOLOGY & SOCIOL STUDY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "263",
+                        "postCode": "ASSPE0826",
+                        "postName": "SP CRIMINOLOGY & SOCIOL STUDY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

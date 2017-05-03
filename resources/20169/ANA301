@@ -1,0 +1,61 @@
+{
+    "ANA301H1-S-20169": {
+        "courseId": "48",
+        "org": "ANA",
+        "orgName": "Anatomy (ANA)",
+        "courseTitle": "Human Embryology",
+        "code": "ANA301H1",
+        "courseDescription": "<p>Human embryology from fertilization to the end of the fetal period. Current concepts in mammalian morphogenesis applied to the development of the various organ systems; etiologies and pathogenesis of some of the more common human congenital abnormalities.<\/p>",
+        "prerequisite": "BIO130H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-37796": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "37796",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MS 2158"
+                    },
+                    "FR-37795": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "37795",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "MS 2158"
+                    }
+                },
+                "instructors": {
+                    "1158453": {
+                        "instructorId": "1158453",
+                        "firstName": "N",
+                        "lastName": "Abdalahad"
+                    }
+                },
+                "meetingId": "60",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "500",
+                "actualEnrolment": "168",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

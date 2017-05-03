@@ -1,0 +1,53 @@
+{
+    "FRE376H1-F-20169": {
+        "courseId": "912",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "French Phonology and Phonetics",
+        "code": "FRE376H1",
+        "courseDescription": "<p>A study of the phonological system of modern French based on actual samples of speech taken from different regional varieties and socio-economic groups.<\/p>",
+        "prerequisite": "FRE272H1 + FRE274H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-42313": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "42313",
+                        "assignedRoom1": "CR 103",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159971": {
+                        "instructorId": "1159971",
+                        "firstName": "P",
+                        "lastName": "Bhatt"
+                    }
+                },
+                "meetingId": "1859",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "PSL201Y1-Y-20169": {
+        "courseId": "1972",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Basic Human Physiology",
+        "code": "PSL201Y1",
+        "courseDescription": "<p>A survey course intended for students who are not proceeding further in Physiology.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Any 300-level PSL course taken previously or concurrently",
+        "recommendedPreparation": "100-level course in BIO or equivalent",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-40020": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "40020",
+                        "assignedRoom1": "PB B250",
+                        "assignedRoom2": "PB B250"
+                    }
+                },
+                "instructors": {
+                    "1161692": {
+                        "instructorId": "1161692",
+                        "firstName": "M",
+                        "lastName": "French"
+                    },
+                    "1161693": {
+                        "instructorId": "1161693",
+                        "firstName": "N",
+                        "lastName": "Kee"
+                    },
+                    "1161694": {
+                        "instructorId": "1161694",
+                        "firstName": "J",
+                        "lastName": "Kroetsch"
+                    },
+                    "1161695": {
+                        "instructorId": "1161695",
+                        "firstName": "H",
+                        "lastName": "Miliotis"
+                    },
+                    "1161696": {
+                        "instructorId": "1161696",
+                        "firstName": "C",
+                        "lastName": "Wong"
+                    }
+                },
+                "meetingId": "4024",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "240",
+                "actualEnrolment": "165",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

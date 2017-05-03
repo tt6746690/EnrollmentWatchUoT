@@ -1,0 +1,89 @@
+{
+    "CSB447H1-S-20169": {
+        "courseId": "377",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Living Without Oxygen: Microbes to Mammals",
+        "code": "CSB447H1",
+        "courseDescription": "<p>In-depth examination of the unique cellular adaptations of different organisms and tissues to survival in low oxygen environments.&nbsp; Cellular, physiological and biochemical strategies, and systemic and whole organism responses will be investigated to uncover broad-ranging common strategies employed by diverse organisms to live without oxygen and in other stressful environments.<\/p>",
+        "prerequisite": "(BIO270H1, BIO271H1)\/(PSL300H1, PSL301H1)",
+        "corequisite": "",
+        "exclusion": "CSB347H1, NUS348H0",
+        "recommendedPreparation": "BCH210H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-33448": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "33448",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RW 143"
+                    },
+                    "TH-33449": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "33449",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RW 143"
+                    }
+                },
+                "instructors": {
+                    "1159107": {
+                        "instructorId": "1159107",
+                        "firstName": "L",
+                        "lastName": "Buck"
+                    }
+                },
+                "meetingId": "813",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "117",
+                        "postCode": "ASMAJ1538",
+                        "postName": "MA ANIMAL PHYSIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

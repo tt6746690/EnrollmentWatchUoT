@@ -1,0 +1,85 @@
+{
+    "VIC493H1-Y-20169": {
+        "courseId": "2611",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Vic Capstone Research Colloquium",
+        "code": "VIC493H1",
+        "courseDescription": "<p>This seminar provides work-in-progress support for students pursuing full-year or half-year Individual Studies projects. In an interdisciplinary seminar, students receive training and practice in project design, professional skills, and effective communication in a variety of genres and contexts. This course is Pass\/Fail. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Students must have a minimum CGPA of 3.0 and 15 completed FCE. Application required.",
+        "corequisite": "Registration in an Independent \/ Individual Studies or Senior Essay course",
+        "exclusion": "POL499Y1; RLG404H1\/405H1; UNI460H1; thesis seminars in other programs",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "To enroll in this course, students must submit an application by June 30. For more information, visit www.vic.utoronto.ca\/students\/academics\/capstone.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Science, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-44145": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "44145",
+                        "assignedRoom1": "VC 102",
+                        "assignedRoom2": "VC 102"
+                    }
+                },
+                "instructors": {
+                    "1162875": {
+                        "instructorId": "1162875",
+                        "firstName": "W",
+                        "lastName": "Robins"
+                    }
+                },
+                "meetingId": "5295",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0102": {
+                "schedule": {
+                    "MO-28990": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "28990",
+                        "assignedRoom1": "NF 205",
+                        "assignedRoom2": "NF 205"
+                    }
+                },
+                "instructors": {
+                    "1162876": {
+                        "instructorId": "1162876",
+                        "firstName": "E",
+                        "lastName": "Istrate"
+                    }
+                },
+                "meetingId": "13865",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0102",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

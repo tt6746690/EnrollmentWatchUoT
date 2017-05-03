@@ -1,0 +1,53 @@
+{
+    "IMC200H1-F-20169": {
+        "courseId": "1249",
+        "org": "OTC",
+        "orgName": "Impact Centre (IMC)",
+        "courseTitle": "Innovation and Entrepreneurship",
+        "code": "IMC200H1",
+        "courseDescription": "<p>How do innovations become useful in society? What is needed for a company to use such innovations successfuly? Why and how do individuals and companies commercialize a technology? This course gives an introduction to the skills needed by entrepreneurs in order to start a new venture based on an innovative idea. This course is Pass\/Fail.&nbsp; Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "4.0 FCEs in any subject",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "No particular preparation needed. Although the topics relate to science innovations, the course is targeted at students from all disciplines, who are interested in using innovations. This includes science, social sciences and humanities students, mirroring the roles of these individuals in enterprises. Because this is an introductory course, students who have previously taken business or entrepreneurial courses are strongly discouraged from registering in this course.",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-44571": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "44571",
+                        "assignedRoom1": "MS 2158",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160528": {
+                        "instructorId": "1160528",
+                        "firstName": "C",
+                        "lastName": "Plant"
+                    }
+                },
+                "meetingId": "2556",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "500",
+                "actualEnrolment": "477",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

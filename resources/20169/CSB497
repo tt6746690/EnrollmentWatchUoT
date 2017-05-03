@@ -1,0 +1,104 @@
+{
+    "CSB497H1-F-20169": {
+        "courseId": "390",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Independent Research in Cell and Systems Biology I",
+        "code": "CSB497H1",
+        "courseDescription": "<p>An original research project (a literature review alone is not sufficient) requiring the prior consent of a member of the Department to supervise the project. The topic is to be mutually agreed upon by the student and supervisor. They must arrange the time, place, and provision of any materials and submit to the Undergraduate Office a signed form of agreement outlining details prior to being enrolled.&nbsp; <span style=\"font-family: mceinline;\">I<\/span>n the Fall or Winter sessions, a commitment of 8-10 hours per week is expected for research and related course activities.&nbsp; In the Summer Session, the number of hours doubles (16-20 per week) as the length of the term is halved. &nbsp; Many students spend more than this amount of time as they become immersed in their project.&nbsp; This course is normally open only to fourth year students with adequate background in Cell and Systems Biology. Course requirements include a final report, and either an oral presentation (Summer and Fall sessions) or a poster presentation (Winter session). Monthly workshops are scheduled and highly recommended.&nbsp; Details for enrollment are available at http:\/\/csb.utoronto.ca\/undergraduate-studies\/undergraduate-courses\/undergraduate-course-level-400\/. (Lab Materials Fee: $50). Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Students must submit a completed CSB497H1F contract to the CSB Undergraduate Office (RW424) by Wednesday, September 21, before being enrolled.  If this is the only course you are taking in 2016-17, the contract must be submitted by Wednesday, August 17.  Contracts are available at www.csb.utoronto.ca\/undergraduate-studies\/forms\r\n\r\nTime scheduled is for monthly workshops that are highly recommended. For more information, please contact the Undergraduate Coordinator, Janet Mannone, at janet.mannone@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-42755": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:30",
+                        "meetingScheduleId": "42755",
+                        "assignedRoom1": "RW 142",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159125": {
+                        "instructorId": "1159125",
+                        "firstName": "L",
+                        "lastName": "Buck"
+                    }
+                },
+                "meetingId": "826",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CSB497H1-S-20169": {
+        "courseId": "390",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Independent Research in Cell and Systems Biology I",
+        "code": "CSB497H1",
+        "courseDescription": "<p>An original research project (a literature review alone is not sufficient) requiring the prior consent of a member of the Department to supervise the project. The topic is to be mutually agreed upon by the student and supervisor. They must arrange the time, place, and provision of any materials and submit to the Undergraduate Office a signed form of agreement outlining details prior to being enrolled.&nbsp; <span style=\"font-family: mceinline;\">I<\/span>n the Fall or Winter sessions, a commitment of 8-10 hours per week is expected for research and related course activities.&nbsp; In the Summer Session, the number of hours doubles (16-20 per week) as the length of the term is halved. &nbsp; Many students spend more than this amount of time as they become immersed in their project.&nbsp; This course is normally open only to fourth year students with adequate background in Cell and Systems Biology. Course requirements include a final report, and either an oral presentation (Summer and Fall sessions) or a poster presentation (Winter session). Monthly workshops are scheduled and highly recommended.&nbsp; Details for enrollment are available at http:\/\/csb.utoronto.ca\/undergraduate-studies\/undergraduate-courses\/undergraduate-course-level-400\/. (Lab Materials Fee: $50). Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Students must submit a completed CSB497H1S contract to the CSB Undergraduate Office (RW424) by Friday, January 13, before being enrolled.  If this is the only course you are taking in 2016-17, the contract must be submitted by Wednesday, August 17.  Contracts are available at www.csb.utoronto.ca\/undergraduate-studies\/forms\r\n\r\nTime scheduled is for monthly workshops that are highly recommended. For more information, please contact the Undergraduate Coordinator, Janet Mannone, at janet.mannone@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-42756": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:30",
+                        "meetingScheduleId": "42756",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RW 142"
+                    }
+                },
+                "instructors": {
+                    "1159126": {
+                        "instructorId": "1159126",
+                        "firstName": "L",
+                        "lastName": "Buck"
+                    }
+                },
+                "meetingId": "827",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

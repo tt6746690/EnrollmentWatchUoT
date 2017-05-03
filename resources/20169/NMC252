@@ -1,0 +1,33 @@
+{
+    "NMC252H1-F-20169": {
+        "courseId": "1631",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Hebrew Bible",
+        "code": "NMC252H1",
+        "courseDescription": "<p>An introduction to the critical study of the Hebrew Bible\/Old Testament and the related literature of ancient Jewish communities (Apocrypha, Pseudepigrapha, Dead Sea Scrolls). English translations used; no knowledge of Hebrew is required. (Offered alternate years)<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NMC104H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "3376",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 28, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "ESS331H1-F-20169": {
+        "courseId": "785",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Sedimentation and Stratigraphy",
+        "code": "ESS331H1",
+        "courseDescription": "<p>Formal principles of stratigraphy, types of stratigraphic unit, methods of dating and correlation (biostratigraphic methods, magnetostratigraphy, radiometric dating). Methods of study in surface and subsurface (outcrop measurement, elementary introduction to wireline logs, seismic methods). The principles of facies analysis; sediment transport - sedimentary structures, the flow regime, and sediment gravity flows. The carbonate factory and carbonate rock classification. Trace fossils. Laboratory exercises in understanding facies mapping, isopachs and isolith maps.<\/p>",
+        "prerequisite": "ESS221H1",
+        "corequisite": "",
+        "exclusion": "GLG360H1, ERS313H5",
+        "recommendedPreparation": "ESS222H1, ESS330H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-45703": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45703",
+                        "assignedRoom1": "ES 1067",
+                        "assignedRoom2": null
+                    },
+                    "TU-45704": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45704",
+                        "assignedRoom1": "ES 1067",
+                        "assignedRoom2": null
+                    },
+                    "TU-45705": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "45705",
+                        "assignedRoom1": "ES 1067",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159856": {
+                        "instructorId": "1159856",
+                        "firstName": "L",
+                        "lastName": "Tutty"
+                    }
+                },
+                "meetingId": "1702",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "MO-45706": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45706",
+                        "assignedRoom1": "ES 1067",
+                        "assignedRoom2": null
+                    },
+                    "TU-45707": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45707",
+                        "assignedRoom1": "ES 1067",
+                        "assignedRoom2": null
+                    },
+                    "TU-45708": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "45708",
+                        "assignedRoom1": "ES 1067",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159857": {
+                        "instructorId": "1159857",
+                        "firstName": "L",
+                        "lastName": "Tutty"
+                    }
+                },
+                "meetingId": "14801",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

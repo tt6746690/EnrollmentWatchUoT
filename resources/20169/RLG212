@@ -1,0 +1,53 @@
+{
+    "RLG212H1-F-20169": {
+        "courseId": "4104",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Anthropology of Religion (formerly RLG212Y1)",
+        "code": "RLG212H1",
+        "courseDescription": "<p>Anthropological study of the supernatural in small-scale non-literate societies. A cross-cultural examination of systems of belief and ritual focusing on the relationship between spiritual beings and the cosmos as well as the rights and obligations which arise therefrom. Among the topics covered are: myth and ritual; shamanism and healing; magic, witchcraft and sorcery; divination; ancestor worship.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "RLG212Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-35955": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "35955",
+                        "assignedRoom1": "SS 1070",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161911": {
+                        "instructorId": "1161911",
+                        "firstName": "A",
+                        "lastName": "Mulhern"
+                    }
+                },
+                "meetingId": "5463",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "39",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "RLG462H1-S-20169": {
+        "courseId": "4203",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Newar Religion",
+        "code": "RLG462H1",
+        "courseDescription": "<p>An academic legend recounts that if you ask a Newar whether he is Hindu or Buddhist the answer is yes. The course deals with the problem of how to study religions which coexist and compete with each other creating shifting coordinates of religious identification from the perspective of one specific Nepalese community.<\/p>",
+        "prerequisite": "Permission of Instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "RLG205Y1\/ RLG206Y1\/RLG205H5\/RLG206H5",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cE\u201d indicator courses: please visit http:\/\/www.religion.utoronto.ca\/programs\/undergraduate\/ for enrolment instructions. For further questions, please contact Marilyn Colaco at religion.undergrad@utoronto.ca",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-44135": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44135",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "JH 319"
+                    }
+                },
+                "instructors": {
+                    "1161968": {
+                        "instructorId": "1161968",
+                        "firstName": "C",
+                        "lastName": "Emmrich"
+                    }
+                },
+                "meetingId": "7053",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "8",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "CSC120H1-F-20169": {
+        "courseId": "396",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Computer Science for the Sciences",
+        "code": "CSC120H1",
+        "courseDescription": "<p>An introduction to computer science for students in other sciences, with an emphasis on gaining practical skills. Introduction to programming with examples and exercises appropriate to the sciences; web programming; software tools.&nbsp; Topics from: database design, considerations in numerical calculation, using UNIX\/LINUX systems. At the end of this course you will be able to develop computer tools for scientific applications, such as the structuring and analysis of experimental data. With some additional preparation, you will also be ready to go on to CSC148H1.&nbsp; Practical (P) sections consist of supervised work in the computer laboratory. No programming experience is necessary.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Any CSC course, with the exception of CSC104H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "1st Year Computer Science Students are excluded from enrolling into this course.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-45605": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45605",
+                        "assignedRoom1": "AH 100",
+                        "assignedRoom2": null
+                    },
+                    "TH-45606": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45606",
+                        "assignedRoom1": "AH 100",
+                        "assignedRoom2": null
+                    },
+                    "TH-45607": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "45607",
+                        "assignedRoom1": "BA CDF Labs",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159141": {
+                        "instructorId": "1159141",
+                        "firstName": "K",
+                        "lastName": "Fraser"
+                    }
+                },
+                "meetingId": "14732",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "156",
+                "actualEnrolment": "124",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "1st Year Computer Science Students are excluded from enrolling into this course.",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

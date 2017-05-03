@@ -1,0 +1,134 @@
+{
+    "PSL190H1-S-20169": {
+        "courseId": "4068",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Biomedical Research at the Cutting Edge",
+        "code": "PSL190H1",
+        "courseDescription": "<p>Explore the thought processes, logic, motivation, techniques, analysis and impact of recent high-profile publications to gain insight into the enterprise of science. Outstanding scientists present recent high-impact papers, and students will examine the research in depth, focusing on the underlying questions, experimental approach, results and significance.<\/p>",
+        "prerequisite": "SBI4U and SCH4U (Grade 12 University Preparation Biology and Chemistry); permission of Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "This course has restricted enrolment for newly admitted first-year science degree students with fewer than 4 credits.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-43056": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43056",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3278"
+                    },
+                    "WE-43057": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43057",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3278"
+                    },
+                    "FR-43058": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "43058",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 3278"
+                    }
+                },
+                "instructors": {
+                    "1161689": {
+                        "instructorId": "1161689",
+                        "firstName": "M",
+                        "lastName": "French"
+                    },
+                    "1161690": {
+                        "instructorId": "1161690",
+                        "firstName": "A",
+                        "lastName": "Gramolini"
+                    },
+                    "1161691": {
+                        "instructorId": "1161691",
+                        "firstName": "C",
+                        "lastName": "Nostro"
+                    }
+                },
+                "meetingId": "14015",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "36",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "66",
+                        "subjectCode": "SCN",
+                        "subjectName": "SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "66",
+                        "subjectCode": "SCN",
+                        "subjectName": "SCIENCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

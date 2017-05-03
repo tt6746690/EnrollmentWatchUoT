@@ -1,0 +1,53 @@
+{
+    "IMC390Y1-Y-20169": {
+        "courseId": "1250",
+        "org": "OTC",
+        "orgName": "Impact Centre (IMC)",
+        "courseTitle": "Internship in New Ventures",
+        "code": "IMC390Y1",
+        "courseDescription": "<p>This course allows students to earn one course credit by participating in an internship in a start-up company from the University of Toronto, with oversight from the Impact Centre. Students will contribute to the work needed in making an innovation available to the public. This course is Pass\/Fail. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "IMC200H1 or RSM100Y1 and 8.0 FCEs in any subject",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "Although the internships often relate to science innovations, they are targeted at students from all disciplines. This includes science and engineering, social sciences and humanities students, mirroring the roles of these individuals in enterprises.",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For more information on enrolling in IMC390Y \"E\" indicator course, students must follow procedures and deadlines as listed on the Impact Centre website (http:\/\/www.impactcentre.ca\/undergraduate\/imc390).",
+        "breadthCategories": "",
+        "distributionCategories": "Science, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-42869": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "42869",
+                        "assignedRoom1": "CB 417",
+                        "assignedRoom2": "CB 417"
+                    }
+                },
+                "instructors": {
+                    "1160529": {
+                        "instructorId": "1160529",
+                        "firstName": "M",
+                        "lastName": "Goh"
+                    }
+                },
+                "meetingId": "2557",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "32",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

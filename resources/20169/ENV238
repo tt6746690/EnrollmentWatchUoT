@@ -1,0 +1,142 @@
+{
+    "ENV238H1-S-20169": {
+        "courseId": "747",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Physics of the Changing Environment B",
+        "code": "ENV238H1",
+        "courseDescription": "<p>The course will cover basic physics of environmental processes and of measurement techniques in the atmosphere, the ocean, lake-land-forest systems, and other biological systems. It will place its work in the context of climate change and other aspects of environmental change. This course is solely intended for students in the Environmental Science Major program who have completed a previous first year physics core course.<\/p>",
+        "prerequisite": "MAT135H1\/MAT136H1\/MAT137Y1\/MAT157Y1\/JMB170Y1, CHM136H1\/CHM138H1\/CHM135H1\/CHM139H1\/CHM151Y1, PHY131H1\/PHY132H1\/PHY151H1\/PHY152H1",
+        "corequisite": "",
+        "exclusion": "ENV237H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-45334": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45334",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 118"
+                    },
+                    "TH-45333": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "45333",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 118"
+                    }
+                },
+                "instructors": {
+                    "1159791": {
+                        "instructorId": "1159791",
+                        "firstName": "K",
+                        "lastName": "Walker"
+                    }
+                },
+                "meetingId": "1637",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "83",
+                        "postCode": "ASMAJ1076",
+                        "postName": "MA ENVIRONMENTAL SCIENCE",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": "210",
+                        "postCode": "ASMIN1555",
+                        "postName": "MI ENVIRONMENTAL SCIENCE",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "PRA-0101": {
+                "schedule": {
+                    "MO-45335": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45335",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 125"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "1638",
+                "teachingMethod": "PRA",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "5",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

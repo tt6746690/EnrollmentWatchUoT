@@ -1,0 +1,159 @@
+{
+    "CSB325H1-F-20169": {
+        "courseId": "353",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Endocrine Physiology",
+        "code": "CSB325H1",
+        "courseDescription": "<p>The regulation of physiological processes by hormones and other signalling molecules in non-human chordates. An integrated genes-to-environment approach is used to examine aspects of hormonal evolution, physiological information flow, behaviour and neuroendocrinology, and xenobiotic endocrine disruptors.&nbsp; Students will have the opportunity to research areas of their own interest via group interaction in a series of tutorial sessions.<\/p>",
+        "prerequisite": "BIO270H1, BIO271H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "EEB266H1, EEB267H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Students must register for one of the tutorial sessions which meet every third week.  Tutorial enrolment can be done on the SWS until the evening of Wednesday, September 14th. Late tutorial enrolment or changes must be done in the CSB325H1 Office (RW424E) after this date.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-33409": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "33409",
+                        "assignedRoom1": "SS 2118",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159070": {
+                        "instructorId": "1159070",
+                        "firstName": "D",
+                        "lastName": "Lovejoy"
+                    }
+                },
+                "meetingId": "776",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "180",
+                "actualEnrolment": "86",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "117",
+                        "postCode": "ASMAJ1538",
+                        "postName": "MA ANIMAL PHYSIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-46829": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "46829",
+                        "assignedRoom1": "SS 1070",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "777",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-46830": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "46830",
+                        "assignedRoom1": "RW 143",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "778",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "36",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            },
+            "TUT-5101": {
+                "schedule": {
+                    "WE-46831": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "46831",
+                        "assignedRoom1": "SS 1087",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "779",
+                "teachingMethod": "TUT",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Closed on ACORN (see Blackboard for more info)",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

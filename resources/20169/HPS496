@@ -1,0 +1,109 @@
+{
+    "HPS496H1-F-20169": {
+        "courseId": "1210",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "Individual Studies",
+        "code": "HPS496H1",
+        "courseDescription": "<p>A reading and research project in some aspect of the social, cultural or intellectual history of science and technology, supervised by a faculty member. <\/p>",
+        "prerequisite": "Two HPS courses",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: contact Denise Horsley at denise.horsley@utoronto.ca, (416) 978\u20135397, Victoria College, 91 Charles Street West, room 316.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160432": {
+                        "instructorId": "1160432",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "2448",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "HPS496H1-S-20169": {
+        "courseId": "1210",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "Individual Studies",
+        "code": "HPS496H1",
+        "courseDescription": "<p>A reading and research project in some aspect of the social, cultural or intellectual history of science and technology, supervised by a faculty member. <\/p>",
+        "prerequisite": "Two HPS courses",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: contact Denise Horsley at denise.horsley@utoronto.ca, (416) 978\u20135397, Victoria College, 91 Charles Street West, room 316.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160433": {
+                        "instructorId": "1160433",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    },
+                    "1160434": {
+                        "instructorId": "1160434",
+                        "firstName": "P",
+                        "lastName": "Thompson"
+                    }
+                },
+                "meetingId": "2449",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

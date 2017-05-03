@@ -1,0 +1,69 @@
+{
+    "VIC223Y1-Y-20169": {
+        "courseId": "2557",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Signs, Meanings, and Culture",
+        "code": "VIC223Y1",
+        "courseDescription": "<p>This course will introduce the main elements of semiotic theory, applying it to the study of human culture, from language, myth, and art to popular forms of culture such as pop music and cinema. It will deal with primary texts in the development of semiotics, and cover a broad range of cultural applications of semiotic theory.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "VIC120Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-34693": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "34693",
+                        "assignedRoom1": "NF 119",
+                        "assignedRoom2": "NF 119"
+                    },
+                    "WE-34694": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "34694",
+                        "assignedRoom1": "NF 119",
+                        "assignedRoom2": "NF 119"
+                    },
+                    "FR-34692": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "34692",
+                        "assignedRoom1": "NF 119",
+                        "assignedRoom2": "NF 119"
+                    }
+                },
+                "instructors": {
+                    "1162787": {
+                        "instructorId": "1162787",
+                        "firstName": "M",
+                        "lastName": "Danesi"
+                    }
+                },
+                "meetingId": "5206",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "52",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

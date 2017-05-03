@@ -1,0 +1,53 @@
+{
+    "SDS354H1-F-20169": {
+        "courseId": "2210",
+        "org": "SDST",
+        "orgName": "Sexual Diversity Studies, Mark S. Bonham Centre (SDS) (JNS) (JPU) (JSU)",
+        "courseTitle": "Theories of Sexuality I: The Foundations (formerly UNI354H1)",
+        "code": "SDS354H1",
+        "courseDescription": "<p>A survey of classic western theories of sexuality; each theory is examined in terms of the practices it allows and prohibits. Under consideration are not only the descriptive and\/or prescriptive aspects of a particular framework but its epistemic grounds, and implications for understanding identity, body, community, and state.<\/p>",
+        "prerequisite": "SDS255H1\/SDS256H1\/UNI255H1\/UNI256H1",
+        "corequisite": "",
+        "exclusion": "UNI354H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-40118": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "40118",
+                        "assignedRoom1": "UC 244",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162277": {
+                        "instructorId": "1162277",
+                        "firstName": "E",
+                        "lastName": "Basile"
+                    }
+                },
+                "meetingId": "4586",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "59",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

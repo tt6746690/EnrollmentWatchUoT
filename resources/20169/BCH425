@@ -1,0 +1,76 @@
+{
+    "BCH425H1-F-20169": {
+        "courseId": "155",
+        "org": "BCH",
+        "orgName": "Biochemistry (BCH) (BCB)",
+        "courseTitle": "Structural Biology: Principles and Practice",
+        "code": "BCH425H1",
+        "courseDescription": "<p>Theory of modern biophysical techniques as applied to the study of the structure and function of macromolecules; emphasis on X-ray crystallography, electron cryomicroscopy, NMR spectroscopy, and other spectroscopic methods.<\/p>",
+        "prerequisite": "BCH210H1\/BCH242Y1. This is a problem-solving course and will require use of skills from introductory physics, math, and\/or chemistry courses.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41144": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41144",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": null
+                    },
+                    "TH-41143": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41143",
+                        "assignedRoom1": "MS 4279",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158620": {
+                        "instructorId": "1158620",
+                        "firstName": "L",
+                        "lastName": "Howell"
+                    },
+                    "1158621": {
+                        "instructorId": "1158621",
+                        "firstName": "J",
+                        "lastName": "Rubinstein"
+                    },
+                    "1158622": {
+                        "instructorId": "1158622",
+                        "firstName": "S",
+                        "lastName": "Sharpe"
+                    },
+                    "1158623": {
+                        "instructorId": "1158623",
+                        "firstName": "C",
+                        "lastName": "Yip"
+                    }
+                },
+                "meetingId": "313",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

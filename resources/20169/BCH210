@@ -1,0 +1,136 @@
+{
+    "BCH210H1-F-20169": {
+        "courseId": "143",
+        "org": "BCH",
+        "orgName": "Biochemistry (BCH) (BCB)",
+        "courseTitle": "Biochemistry I: Proteins, Lipids and Metabolism",
+        "code": "BCH210H1",
+        "courseDescription": "<p>Proteins, enzymes, membranes and the metabolism of carbohydrates and lipids. This course is intended for students who are NOT taking BCH242Y1 as part of their program.<\/p>",
+        "prerequisite": "Successful completion of (CHM135H1, CHM136H1)\/(CHM138H1, CHM139H1)\/CHM151Y1 NOTE: CHM1** WITH COURSE EXCLUSION TO CHM138H1 AND CHM139H1 meet the Prerequisite requirement for BCH210H1. SCI1** DOES NOT COUNT as a Prerequisite. CHM140Y5 (UTM) is equivalent to CMH139H1 ONLY. CHMA10H3 & CHMA11H3 (UTSC) are equivalent to CHM139H1 ONLY. CHMB41H3\/CHMB42H3 (UTSC) are equivalent to CHM138H1 ONLY. Students with a SDF in CHM135H1\/CHM136H1\/CHM138H1\/CHM139H1 are not permitted to enrol in BCH210H1 until a final passing grade (50%) appears on the transcript.",
+        "corequisite": "",
+        "exclusion": "BCH242Y1,CHM265H5(UTM)\/CHM361H5(UTM)\/CHM362H5(UTM)\/ BGYC12H3(UTSC) and BGYC13H3(UTSC)",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41133": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41133",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    },
+                    "TH-41132": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41132",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    },
+                    "FR-41131": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41131",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158578": {
+                        "instructorId": "1158578",
+                        "firstName": "S",
+                        "lastName": "Andreopoulos"
+                    },
+                    "1158579": {
+                        "instructorId": "1158579",
+                        "firstName": "R",
+                        "lastName": "Melnyk"
+                    },
+                    "1158580": {
+                        "instructorId": "1158580",
+                        "firstName": "S",
+                        "lastName": "Patterson"
+                    },
+                    "1158581": {
+                        "instructorId": "1158581",
+                        "firstName": "R",
+                        "lastName": "Reithmeier"
+                    }
+                },
+                "meetingId": "291",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "1500",
+                "actualEnrolment": "1155",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-41134": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41134",
+                        "assignedRoom1": "BI 131",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "292",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "198",
+                "actualEnrolment": "165",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "FR-41135": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41135",
+                        "assignedRoom1": "CH ---",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "293",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "1250",
+                "actualEnrolment": "985",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

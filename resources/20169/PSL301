@@ -1,0 +1,112 @@
+{
+    "PSL301H1-S-20169": {
+        "courseId": "1976",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Human Physiology II",
+        "code": "PSL301H1",
+        "courseDescription": "<p>Principles of respiratory, cardiovascular, gastrointestinal, and renal physiology for students enroled in Life Science programs.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "PSL201Y1, PSL302Y1",
+        "recommendedPreparation": "BIO130H1\/BIO150Y1; CHM138H1\/CHM151Y1; and 1 FCE from any of the following: MAT135H1, MAT136H1, MAT135Y1, MAT137Y1, MAT157Y1, PHY131H1, PHY132H, PHY151H1, PHY152H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "AEESCBASEB BASc in Eng Sci (Biomedical) students can enroll at the same time as Arts & Science students.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-34653": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "34653",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CH ---"
+                    },
+                    "WE-34654": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "34654",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CH ---"
+                    },
+                    "FR-34655": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "34655",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CH ---"
+                    }
+                },
+                "instructors": {
+                    "1161711": {
+                        "instructorId": "1161711",
+                        "firstName": "M",
+                        "lastName": "French"
+                    },
+                    "1161712": {
+                        "instructorId": "1161712",
+                        "firstName": "S",
+                        "lastName": "Heximer"
+                    },
+                    "1161713": {
+                        "instructorId": "1161713",
+                        "firstName": "J",
+                        "lastName": "Scholey"
+                    },
+                    "1161714": {
+                        "instructorId": "1161714",
+                        "firstName": "C",
+                        "lastName": "Wong"
+                    }
+                },
+                "meetingId": "4038",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "1100",
+                "actualEnrolment": "974",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "9",
+                        "postCode": "AEESCBASEB",
+                        "postName": "BASc in Eng Sci (Biomedical)",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

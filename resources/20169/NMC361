@@ -1,0 +1,33 @@
+{
+    "NMC361H1-S-20169": {
+        "courseId": "3806",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "The Archaeology of the Biblical World II: The Iron Age",
+        "code": "NMC361H1",
+        "courseDescription": "<p>The archaeology of Syria-Palestine from the collapse of the Late Bronze Age until the Persian Period, with a special emphasis on the emergence of Israel and the small territorial nation-states of the eastern Mediterranean seaboard. Particular attention will be given to the relationship between the archaeological evidence and contemporary written records, including the Hebrew Bible. (Offered in alternate years)<\/p>",
+        "prerequisite": "NMC260H1, NMC262H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NMC102H1, NMC104H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "15143",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "July 11, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

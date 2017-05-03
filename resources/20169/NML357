@@ -1,0 +1,53 @@
+{
+    "NML357H1-F-20169": {
+        "courseId": "3851",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Midrash Aggadah",
+        "code": "NML357H1",
+        "courseDescription": "<p>The themes of Eros and Thanatos will be explored in Aggadic texts from Song of Songs Rabbah. This Midrashic text stands halfway in the tradition, both making use of earlier texts and being used by editors of later compilations. These interrelations will be the focus of our study as well as the relationship of work to Scripture.<\/p>",
+        "prerequisite": "Intermediate Hebrew (Modern or Biblical)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-46432": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "46432",
+                        "assignedRoom1": "BF Library",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161209": {
+                        "instructorId": "1161209",
+                        "firstName": "T",
+                        "lastName": "Meacham"
+                    }
+                },
+                "meetingId": "14558",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Themes in Midrash Aggadah Literature",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "VIC370H1-S-20169": {
+        "courseId": "4601",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Music and the Imagination",
+        "code": "VIC370H1",
+        "courseDescription": "<p>This course explores how music creatively reflects and inspires our sense of self, place and community through readings, close listening, case studies, and creative responses. We consider various sites of musical imagination, and the genres that intersect with them. Course discussion addresses how music participates in the social life of creativity, imagination and fantasy, and what these roles mean for music's significance in society and culture. No prior experience in music composition required.<\/p>",
+        "prerequisite": "Completion of 6.0 FCE",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-34284": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "34284",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 206"
+                    }
+                },
+                "instructors": {
+                    "1162828": {
+                        "instructorId": "1162828",
+                        "firstName": "K",
+                        "lastName": "McLeod"
+                    }
+                },
+                "meetingId": "13862",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

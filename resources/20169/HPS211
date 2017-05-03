@@ -1,0 +1,53 @@
+{
+    "HPS211H1-S-20169": {
+        "courseId": "1191",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "Scientific Revolutions II",
+        "code": "HPS211H1",
+        "courseDescription": "<p>Case studies in the history of science from 1800 to 2000, including Volta, Lyell, Darwin, Mendel, Einstein, Schrdinger, Watson, and Crick. The course is designed to be accessible to science students and non-scientists alike<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "HPS200Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-34621": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "34621",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BR 200"
+                    }
+                },
+                "instructors": {
+                    "1160407": {
+                        "instructorId": "1160407",
+                        "firstName": "B",
+                        "lastName": "Baigrie"
+                    }
+                },
+                "meetingId": "2400",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "250",
+                "actualEnrolment": "138",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

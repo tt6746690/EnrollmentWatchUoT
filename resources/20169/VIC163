@@ -1,0 +1,175 @@
+{
+    "VIC163H1-F-20169": {
+        "courseId": "2537",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Cultural Forms and Their Meanings: People and Ideas",
+        "code": "VIC163H1",
+        "courseDescription": "<p>A study of culture with a view to developing basic concepts with examples drawn from the visual arts, music, film, architecture, and\/or local urban artefacts. We will emphasize how contemporary thought has affected the practice of everyday life. <span style=\"color: #222222; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 11.818181991577148px; line-height: 16.363636016845703px;\">Not eligible for CR\/NCR option.<\/span><\/p>",
+        "prerequisite": "Admission to Vic One",
+        "corequisite": "VIC162H1, VIC164H1, VIC165H1, and 1.0 FCE in any 100-level course in ENG or FAH or PHL",
+        "exclusion": "Innis One, Munk One, New One, SMC One, Trinity One, UC One, Woodsworth One, 199 seminars, Vic One Hundred courses.",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "This course is only open to students admitted to the Vic One program.",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-19837": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "19837",
+                        "assignedRoom1": "NF 332",
+                        "assignedRoom2": null
+                    },
+                    "WE-19838": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "19838",
+                        "assignedRoom1": "NF 332",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162752": {
+                        "instructorId": "1162752",
+                        "firstName": "A",
+                        "lastName": "Urbancic"
+                    }
+                },
+                "meetingId": "13694",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    },
+    "VIC163H1-S-20169": {
+        "courseId": "2537",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Cultural Forms and Their Meanings: People and Ideas",
+        "code": "VIC163H1",
+        "courseDescription": "<p>A study of culture with a view to developing basic concepts with examples drawn from the visual arts, music, film, architecture, and\/or local urban artefacts. We will emphasize how contemporary thought has affected the practice of everyday life. <span style=\"color: #222222; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 11.818181991577148px; line-height: 16.363636016845703px;\">Not eligible for CR\/NCR option.<\/span><\/p>",
+        "prerequisite": "Admission to Vic One",
+        "corequisite": "VIC162H1, VIC164H1, VIC165H1, and 1.0 FCE in any 100-level course in ENG or FAH or PHL",
+        "exclusion": "Innis One, Munk One, New One, SMC One, Trinity One, UC One, Woodsworth One, 199 seminars, Vic One Hundred courses.",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "This course is only open to students admitted to the Vic One program.",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-19841": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "19841",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 332"
+                    },
+                    "WE-19842": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "19842",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 332"
+                    }
+                },
+                "instructors": {
+                    "1162753": {
+                        "instructorId": "1162753",
+                        "firstName": "A",
+                        "lastName": "Urbancic"
+                    }
+                },
+                "meetingId": "5175",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

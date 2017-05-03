@@ -1,0 +1,81 @@
+{
+    "VIC326H1-F-20169": {
+        "courseId": "4588",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "The Material Culture of Food",
+        "code": "VIC326H1",
+        "courseDescription": "<p>This course explores the material cultures which form around food and foodways in contemporary culture. It looks at foods as objects of production and consumption and at the material landscapes (culinary tools, the geography of the kitchen and restaurant, the archives - recipes, cookbooks, menus - that home cooks or chefs use) in order to \"expose\" the social, cultural and political dimensions of cooking, entertaining and eating.&nbsp;<\/p>",
+        "prerequisite": "Completion of 6.0 FCE",
+        "corequisite": "",
+        "exclusion": "VIC229H1 taken in 2015-2016",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Priority is given to students enrolled in the Material Culture program until August 3rd. Starting August 5th, the course is open to all Arts & Science students.  ",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46929": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "46929",
+                        "assignedRoom1": "NF 006",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162809": {
+                        "instructorId": "1162809",
+                        "firstName": "I",
+                        "lastName": "Mihalache"
+                    }
+                },
+                "meetingId": "13859",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "Room Changed: September 16, 2016",
+                "enrollmentControls": [
+                    {
+                        "postId": "228",
+                        "postCode": "ASMIN2729",
+                        "postName": "MI MATERIAL CULTURE",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

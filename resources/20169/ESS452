@@ -1,0 +1,53 @@
+{
+    "ESS452H1-F-20169": {
+        "courseId": "797",
+        "org": "ES",
+        "orgName": "Earth Sciences (ESS) (JEG) (JGA) (ENV) (JEE) (JPA)",
+        "courseTitle": "Geophysical Imaging with Non-seismic Methods",
+        "code": "ESS452H1",
+        "courseDescription": "<p>Current geophysical surface and borehole methodologies (gravity, magnetics, electrical, electromagnetic, nuclear) and their theoretical basis for investigating Earth's interior to depths ranging from several metres to tens of kilometers.<\/p>",
+        "prerequisite": "PHY395H1, APM346H1",
+        "corequisite": "",
+        "exclusion": "PHY494H1",
+        "recommendedPreparation": "ESS345H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-45711": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45711",
+                        "assignedRoom1": "ES 2100",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159870": {
+                        "instructorId": "1159870",
+                        "firstName": "B",
+                        "lastName": "Milkereit"
+                    }
+                },
+                "meetingId": "14336",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

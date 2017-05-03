@@ -1,0 +1,33 @@
+{
+    "MAT335H1-F-20169": {
+        "courseId": "1474",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Chaos, Fractals and Dynamics",
+        "code": "MAT335H1",
+        "courseDescription": "<p>An elementary introduction to a modern and fast-developing area of mathematics. One-dimensional dynamics: iterations of quadratic polynomials. Dynamics of linear mappings, attractors. Bifurcation, Henon map, Mandelbrot and Julia sets. History and applications.<\/p>",
+        "prerequisite": "MAT137Y1\/MAT157Y1\/200-level calculus, MAT223H1\/MAT240H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "3170",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "June 29, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

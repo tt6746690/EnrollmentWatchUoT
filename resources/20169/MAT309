@@ -1,0 +1,173 @@
+{
+    "MAT309H1-S-20169": {
+        "courseId": "1468",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Introduction to Mathematical Logic",
+        "code": "MAT309H1",
+        "courseDescription": "<p>Predicate calculus. Relationship between truth and provability; G&ouml;del's completeness theorem. First order arithmetic as an example of a first-order system. G&ouml;del's incompleteness theorem; outline of its proof. Introduction to recursive functions.<\/p>",
+        "prerequisite": "MAT223H1\/MAT240H1, MAT235Y1\/MAT237Y1, MAT246H1\/CSC236H1\/CSC240H1 (These Prerequisites will be waived for students who have MAT257Y1)",
+        "corequisite": "",
+        "exclusion": "CSC438H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47397": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47397",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 103"
+                    },
+                    "WE-47398": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47398",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 103"
+                    },
+                    "FR-47399": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "47399",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 103"
+                    }
+                },
+                "instructors": {
+                    "1160905": {
+                        "instructorId": "1160905",
+                        "firstName": "B",
+                        "lastName": "Rossman"
+                    }
+                },
+                "meetingId": "14223",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "192",
+                "actualEnrolment": "59",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Dec. 9, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-45341": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45341",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15003",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-45342": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "45342",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 118"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15004",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "11",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0301": {
+                "schedule": {
+                    "FR-45343": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45343",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "HA 316"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15005",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Changed: July 13, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0401": {
+                "schedule": {
+                    "FR-45344": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45344",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "HA 316"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15006",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0401",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "8",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Changed: July 13, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

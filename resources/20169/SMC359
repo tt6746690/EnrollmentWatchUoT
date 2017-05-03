@@ -1,0 +1,33 @@
+{
+    "SMC359H1-F-20169": {
+        "courseId": "4377",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Mediaeval Theology",
+        "code": "SMC359H1",
+        "courseDescription": "<p>An introduction to the discipline of theology as taught in the mediaeval schools. Building on a basic knowledge of Christian scriptures and of philosophical argument, this course will offer an organic exposition of mediaeval theology, together with an introduction into the scientific method of theological investigation as practised in the Middle ages.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SMC210H1\/SMC212H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": [],
+                "instructors": [],
+                "meetingId": "13045",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "Cancelled",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "May 9, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

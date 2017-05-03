@@ -1,0 +1,53 @@
+{
+    "VIC320Y1-Y-20169": {
+        "courseId": "4585",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Semiotics of Visual Art",
+        "code": "VIC320Y1",
+        "courseDescription": "<p>Theories and models of applied semiotics: analysis of sign systems as articulated in various forms of artistic and cultural production.<\/p>",
+        "prerequisite": "VIC220Y1\/VIC223Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1), Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-37043": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "37043",
+                        "assignedRoom1": "NF 004",
+                        "assignedRoom2": "NF 004"
+                    }
+                },
+                "instructors": {
+                    "1162807": {
+                        "instructorId": "1162807",
+                        "firstName": "L",
+                        "lastName": "WILLETT"
+                    }
+                },
+                "meetingId": "13858",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

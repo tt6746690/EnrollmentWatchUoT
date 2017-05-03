@@ -1,0 +1,53 @@
+{
+    "WGS450H1-S-20169": {
+        "courseId": "2646",
+        "org": "WGSI",
+        "orgName": "Women and Gender Studies (WGS)",
+        "courseTitle": "Modernity, Freedom, Citizenship: Gender and the Black Diaspora",
+        "code": "WGS450H1",
+        "courseDescription": "<p>Explores transnational feminist genealogies of the black diaspora.&nbsp; The course pays attention to the contexts and movements that generated key questions, exploring how these interventions disclose preoccupations with modernity, freedom and citizenship.&nbsp; Topics may include trauma and memory, sexual citizenship, Afrofuturism, indigeneity, and the crafting of political communities.<\/p>",
+        "prerequisite": "WGS160Y1, one full course at the 300+ level in WGS, and one half course in WGS.",
+        "corequisite": "",
+        "exclusion": "WGS434H1 Black Diasporic Feminisms: Modernity, Freedom, Citizenship",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-43089": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "43089",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "OI 7192"
+                    }
+                },
+                "instructors": {
+                    "1162922": {
+                        "instructorId": "1162922",
+                        "firstName": "A",
+                        "lastName": "Trotz"
+                    }
+                },
+                "meetingId": "6785",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "19",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

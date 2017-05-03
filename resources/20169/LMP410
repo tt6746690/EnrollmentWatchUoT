@@ -1,0 +1,86 @@
+{
+    "LMP410H1-F-20169": {
+        "courseId": "1442",
+        "org": "LMP",
+        "orgName": "Laboratory Medicine and Pathobiology (LMP)",
+        "courseTitle": "Pathobiology of Neurodegenerative Disease",
+        "code": "LMP410H1",
+        "courseDescription": "<p>Molecular basis of neurodegenerative diseases of the central and peripheral nervous systems. Relevant neuroanatomy and molecular biology of the CNS. Current research topics in neurodegenerative diseases.<\/p>",
+        "prerequisite": "(BIO240H1, BIO241H1)\/BIO255Y1\/(PSL300H1, PSL301H1)\/PSL302Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-30488": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "30488",
+                        "assignedRoom1": "MS 2173",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160780": {
+                        "instructorId": "1160780",
+                        "firstName": "J",
+                        "lastName": "Robertson"
+                    },
+                    "1160781": {
+                        "instructorId": "1160781",
+                        "firstName": "G",
+                        "lastName": "Schmitt-Ulms"
+                    }
+                },
+                "meetingId": "2874",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "57",
+                "actualEnrolment": "49",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "357",
+                        "postCode": "ASSPE2025",
+                        "postName": "SP PATHOBIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "EEB263H1-F-20169": {
+        "courseId": "618",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Comparative Vertebrate Anatomy",
+        "code": "EEB263H1",
+        "courseDescription": "<p>The ontogeny and phylogeny of vertebrate structure are considered within the context of evolutionary theory. Functional aspects of the various organ systems are examined. Representative vertebrates are analyzed (with brief dissection of some forms) in laboratory to illustrate selected anatomical features and to provide practical exposure to vertebrate construction. (Lab Materials Fee: $25)<\/p>",
+        "prerequisite": "BIO120H1",
+        "corequisite": "",
+        "exclusion": "EEB263Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-41947": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "41947",
+                        "assignedRoom1": "RW 143",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159575": {
+                        "instructorId": "1159575",
+                        "firstName": "G",
+                        "lastName": "Deiuliis"
+                    }
+                },
+                "meetingId": "1301",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "PRA-5101": {
+                "schedule": {
+                    "TH-43501": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "43501",
+                        "assignedRoom1": "RW 013",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "6081",
+                "teachingMethod": "PRA",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "31",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

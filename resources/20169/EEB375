@@ -1,0 +1,53 @@
+{
+    "EEB375H1-F-20169": {
+        "courseId": "635",
+        "org": "EEB",
+        "orgName": "Ecology & Evolutionary Biology (EEB) (BIO) (EHJ) (ENV) (JMB) (JHE)",
+        "courseTitle": "Organisms and Their Environment",
+        "code": "EEB375H1",
+        "courseDescription": "<p>Ecological interactions between organisms and their environment. Past and present changes in Earth&rsquo;s environment and the human responses to those changes. Topics may include: Pleistocene glaciations, origins of agriculture, species extinctions, disease ecology, deforestation, water pollution, pesticides, and estrogenic compounds. (Note: EEB375H1 cannot substitute ENV234H1 to statisfy a program requirement.)<\/p>",
+        "prerequisite": "BIO220H1",
+        "corequisite": "",
+        "exclusion": "ENV234H1\/ENV234Y1\/ENV334H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-33275": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "21:00",
+                        "meetingScheduleId": "33275",
+                        "assignedRoom1": "SS 2110",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159617": {
+                        "instructorId": "1159617",
+                        "firstName": "L",
+                        "lastName": "Duquette"
+                    }
+                },
+                "meetingId": "1349",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "93",
+                "actualEnrolment": "89",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

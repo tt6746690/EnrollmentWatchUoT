@@ -1,0 +1,61 @@
+{
+    "ANA400H1-S-20169": {
+        "courseId": "49",
+        "org": "ANA",
+        "orgName": "Anatomy (ANA)",
+        "courseTitle": "Anatomy Dissection",
+        "code": "ANA400H1",
+        "courseDescription": "<p>A focussed series of Anatomical dissections will be made and the surgical implications of the findings will be the subject of seminars.&nbsp; Attitudes to dissection of the human body, complications of surgery and other relevant issues will be discussed.<\/p>",
+        "prerequisite": "ANA300Y1 and  permission of department.  Normally a \"B+\" standing will be required",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact Beblan Soorae, the Undergraduate Administrative Officer, at b.soorae@utoronto.ca",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-45385": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45385",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    },
+                    "TH-45384": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45384",
+                        "assignedRoom1": null,
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "1158454": {
+                        "instructorId": "1158454",
+                        "firstName": "H",
+                        "lastName": "Noyan"
+                    }
+                },
+                "meetingId": "61",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "Contact Department for room locations",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

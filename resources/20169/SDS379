@@ -1,0 +1,53 @@
+{
+    "SDS379H1-S-20169": {
+        "courseId": "2215",
+        "org": "SDST",
+        "orgName": "Sexual Diversity Studies, Mark S. Bonham Centre (SDS) (JNS) (JPU) (JSU)",
+        "courseTitle": "Queer Popular Culture (formerly UNI379H1)",
+        "code": "SDS379H1",
+        "courseDescription": "<p>Queer Pop Culture seeks to represent a diversity of approaches in queer popular cultures, exploring the ways in which LGBTQ subjectivities are represented in literature, film, and the media, as well as the ways in which sexual identity is inextricably bound up with other axes of identity.<\/p>",
+        "prerequisite": "SDS255H1\/SDS256H1\/UNI255H1\/UNI256H1 or permission of the instructor",
+        "corequisite": "",
+        "exclusion": "UNI379H1; UNI375H1 (2011-2012, 2012-2013, 2013-2014 sessions)",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-40128": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "40128",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC 261"
+                    }
+                },
+                "instructors": {
+                    "1162284": {
+                        "instructorId": "1162284",
+                        "firstName": "A",
+                        "lastName": "Lesk"
+                    }
+                },
+                "meetingId": "4591",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "48",
+                "actualEnrolment": "36",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "IMM428H1-F-20169": {
+        "courseId": "1256",
+        "org": "IMM",
+        "orgName": "Immunology (IMM) (MIJ)",
+        "courseTitle": "Molecular Immunology",
+        "code": "IMM428H1",
+        "courseDescription": "<p>This course will focus on the molecular and cellular biology of immune recognition. The course will emphasize historical and recent experimental evidence leading to our current understanding of immune recognition. Subtopics are subject to change and&nbsp; have recently included mechanisms of diversification of immunoglobulin receptors, T cell &ndash;MHC interactions, T cell activation and signaling mechanisms; receptors of the innate immune system, immune recognition by natural killer cells.<\/p>",
+        "prerequisite": "BCH210H1\/BCH242Y1, IMM350H1\/IMM351H1 (IMM334Y1\/IMM335Y1)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "CSB349H1\/MGY311Y1\/PSL350H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-30327": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "30327",
+                        "assignedRoom1": "MS 2173",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160543": {
+                        "instructorId": "1160543",
+                        "firstName": "T",
+                        "lastName": "Watts"
+                    }
+                },
+                "meetingId": "2564",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "267",
+                        "postCode": "ASSPE1002",
+                        "postName": "SP IMMUNOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

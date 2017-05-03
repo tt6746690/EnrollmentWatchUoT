@@ -1,0 +1,53 @@
+{
+    "DRM411H1-Y-20169": {
+        "courseId": "474",
+        "org": "DRAMA",
+        "orgName": "Drama, Theatre and Performance Studies, Centre for (DRM) (JDC) (JIA)",
+        "courseTitle": "Advanced Concepts in Movement",
+        "code": "DRM411H1",
+        "courseDescription": "<p class=\"MsoNormal\"><span style=\"font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-theme-font: major-latin; mso-ansi-language: EN-US;\">Advanced movement training to refine the skills and concepts developed thus far in DRM200Y1 and DRM300Y1,&nbsp;focusing on performance.&nbsp; Techniques of <\/span><span style=\"font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-theme-font: major-latin;\" lang=\"EN-CA\">personal physical awareness, movement as a tool for discovery in acting processes, movement as communication in performance, ensemble work, and movement generation are studied.<\/span><span style=\"font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-theme-font: major-latin; mso-ansi-language: EN-US;\"> Taken in conjunction with <\/span><span style=\"font-size: 10.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-theme-font: major-latin;\" lang=\"EN-CA\"><a target=_blank\" href=\"http:\/\/www.artsandscience.utoronto.ca\/ofr\/calendar\/crs_drm.htm#DRM400Y1\"><span style=\"color: windowtext; mso-ansi-language: EN-US; text-decoration: none; text-underline: none;\" lang=\"EN-US\">DRM403Y1<\/span><\/a><\/span><span style=\"font-size: 10.0pt; font-family: 'Calibri'",
+        "prerequisite": "'sans-serif'; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-theme-font: major-latin; mso-ansi-language: EN-US;\">: <em>Advanced Performance: Mainstage<\/em> and <\/span><span style=\"font-size: 10.0pt; font-family: 'Calibri'",
+        "corequisite": "'sans-serif'; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-theme-font: major-latin;\" lang=\"EN-CA\"><a target=\"_blank\" href=\"http:\/\/www.artsandscience.utoronto.ca\/ofr\/calendar\/crs_drm.htm#DRM411H1\"><span style=\"color: windowtext; mso-ansi-language: EN-US; text-decoration: none; text-underline: none;\" lang=\"EN-US\">DRM401H1<\/span><\/a><\/span><span style=\"font-size: 10.0pt; font-family: 'Calibri'",
+        "exclusion": "'sans-serif'; mso-ascii-theme-font: major-latin; mso-hansi-theme-font: major-latin; mso-bidi-theme-font: major-latin; mso-ansi-language: EN-US;\">: <em>Advanced Concepts in Voice.<\/em><\/span><\/p>\"",
+        "recommendedPreparation": "Minimum CGPA of 2.7; DRM220Y1\/DRM230Y1; DRM300Y1; Acceptance into DRM403Y1 or permission from the instructor.",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "For more information, please contact Colleen Osborn at c.osborn@utoronto.ca.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-43465": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "43465",
+                        "assignedRoom1": "MO 100B",
+                        "assignedRoom2": "MO 100B"
+                    }
+                },
+                "instructors": {
+                    "1159358": {
+                        "instructorId": "1159358",
+                        "firstName": "S",
+                        "lastName": "Boye"
+                    }
+                },
+                "meetingId": "1043",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "9",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "MAT496H1-F-20169": {
+        "courseId": "1498",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Independent Reading in Mathematics",
+        "code": "MAT496H1",
+        "courseDescription": "<p>Independent study under the direction of a faculty member. Topic must be outside undergraduate offerings. Workload equivalent to a 36L course. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Minimum GPA of 3.5 in APM and MAT courses. Permission of the Associate Chair for Undergraduate Studies and of the prospective supervisor.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: Contact Donna Birch, Rm 6290 at the Bahen Centre, 40 St. George Street | Phone: 416-978-5082 | Email: dbirch@math.utoronto.ca",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160951": {
+                        "instructorId": "1160951",
+                        "firstName": "",
+                        "lastName": "TBA"
+                    }
+                },
+                "meetingId": "3197",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "MAT496H1-S-20169": {
+        "courseId": "1498",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Independent Reading in Mathematics",
+        "code": "MAT496H1",
+        "courseDescription": "<p>Independent study under the direction of a faculty member. Topic must be outside undergraduate offerings. Workload equivalent to a 36L course. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Minimum GPA of 3.5 in APM and MAT courses. Permission of the Associate Chair for Undergraduate Studies and of the prospective supervisor.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: Contact Donna Birch, Rm 6290 at the Bahen Centre, 40 St. George Street | Phone: 416-978-5082 | Email: dbirch@math.utoronto.ca",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160952": {
+                        "instructorId": "1160952",
+                        "firstName": "",
+                        "lastName": "TBA"
+                    }
+                },
+                "meetingId": "3198",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

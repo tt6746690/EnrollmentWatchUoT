@@ -1,0 +1,79 @@
+{
+    "FOR410H1-S-20169": {
+        "courseId": "890",
+        "org": "FOR",
+        "orgName": "Forestry (FOR) (JFG)",
+        "courseTitle": "Bioenergy and Biorefinery Technology",
+        "code": "FOR410H1",
+        "courseDescription": "<p>Technological advances and approaches in deriving biofuels and chemical feedstocks from forest and other biomass. Fundamental chemical attributes of biomass, as they affect the fuel value and potential for deriving liquid, solid and gaseous fuels and valuable chemicals for other applications will be discussed.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "FOR425H1 (APSC)",
+        "recommendedPreparation": "Completion of at least 10 Science FCEs",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For more information, please contact susanwy.lee@utoronto.ca.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-42798": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "42798",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 4001"
+                    }
+                },
+                "instructors": {
+                    "1159948": {
+                        "instructorId": "1159948",
+                        "firstName": "S",
+                        "lastName": "Krigstin"
+                    }
+                },
+                "meetingId": "1829",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-36423": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "36423",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 4001"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "14208",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

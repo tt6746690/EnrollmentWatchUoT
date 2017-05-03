@@ -1,0 +1,53 @@
+{
+    "MUS110H1-S-20169": {
+        "courseId": "3712",
+        "org": "MUSIC",
+        "orgName": "Music (MUS)",
+        "courseTitle": "Introduction to Music History and Culture",
+        "code": "MUS110H1",
+        "courseDescription": "<p>IIntroduction to form, style and the interrelationship of music and culture. A basic ability to read music is required.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "HMU111H1, VPMA80H3",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Faculty of Music students cannot enroll in Arts & Science music courses.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-31574": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "31574",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 003"
+                    }
+                },
+                "instructors": {
+                    "1161035": {
+                        "instructorId": "1161035",
+                        "firstName": "P",
+                        "lastName": "Nickleson"
+                    }
+                },
+                "meetingId": "6419",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "300",
+                "actualEnrolment": "210",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "RLG204H1-F-20169": {
+        "courseId": "4097",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Islam",
+        "code": "RLG204H1",
+        "courseDescription": "<p>The faith and practice of Islam: historical emergence, doctrinal development, and interaction with various world cultures. Note: this course is offered alternatively with NMC283Y1, to which it is equivalent.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "NMC185Y1, NMC185H1, NMC283Y, RLG204H5, RLG204Y1",
+        "recommendedPreparation": "RLG100Y1\/RLG200H1\/RLG280Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-28381": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "28381",
+                        "assignedRoom1": "SS 2127",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161907": {
+                        "instructorId": "1161907",
+                        "firstName": "L",
+                        "lastName": "Silvers"
+                    }
+                },
+                "meetingId": "14479",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "53",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

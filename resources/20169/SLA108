@@ -1,0 +1,61 @@
+{
+    "SLA108Y1-Y-20169": {
+        "courseId": "2233",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Elementary Ukrainian",
+        "code": "SLA108Y1",
+        "courseDescription": "<p>Basic vocabulary, simple sentence patterns, essential morphology. Internet language laboratory drills. Intended for students with little or no knowledge of the language.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-40184": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "40184",
+                        "assignedRoom1": "CR 106",
+                        "assignedRoom2": "CR 106"
+                    },
+                    "TH-40183": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "40183",
+                        "assignedRoom1": "CR 106",
+                        "assignedRoom2": "CR 106"
+                    }
+                },
+                "instructors": {
+                    "1162328": {
+                        "instructorId": "1162328",
+                        "firstName": "O",
+                        "lastName": "Khometa"
+                    }
+                },
+                "meetingId": "4638",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "18",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

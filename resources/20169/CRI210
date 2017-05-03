@@ -1,0 +1,81 @@
+{
+    "CRI210H1-F-20169": {
+        "courseId": "319",
+        "org": "CRIM",
+        "orgName": "Criminology and Sociolegal Studies, Centre for (CRI)",
+        "courseTitle": "Criminal Justice (formerly WDW210H1)",
+        "code": "CRI210H1",
+        "courseDescription": "<p>An introduction to the Canadian criminal justice system. The institutions established by government to respond to crime and control it; how they operate, and the larger function they serve; including the role of the police, the trial process, courts and juries, sentencing, imprisonment and community corrections.<\/p>",
+        "prerequisite": "Open to students in the Criminology and Sociolegal Studies program (ASMAJ0826)",
+        "corequisite": "CRI225H1",
+        "exclusion": "WDW210H1, WDW200Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-15842": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "19:00",
+                        "meetingScheduleId": "15842",
+                        "assignedRoom1": "AH 100",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159037": {
+                        "instructorId": "1159037",
+                        "firstName": "N",
+                        "lastName": "Wortley"
+                    }
+                },
+                "meetingId": "6755",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "220",
+                "actualEnrolment": "208",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "70",
+                        "postCode": "ASMAJ0826",
+                        "postName": "MA CRIMINOLOGY & SOCIOL STUDY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

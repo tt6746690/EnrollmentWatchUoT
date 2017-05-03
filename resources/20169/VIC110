@@ -1,0 +1,53 @@
+{
+    "VIC110H1-F-20169": {
+        "courseId": "2526",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Critical Perspectives on Society",
+        "code": "VIC110H1",
+        "courseDescription": "<p>By means of short texts, film or art works this course explores such themes as the effect of technology on the political, the nature of democracy, the question of resistance through art and the role of violence in the social.&nbsp;Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Exclusion: Innis One, Munk One, New One, SMC One, Trinity One, UC One, Vic One, Woodsworth One; No more than another 0.5 FCE from 199 seminars or Vic One Hundred.",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-34234": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "34234",
+                        "assignedRoom1": "BC 20",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162739": {
+                        "instructorId": "1162739",
+                        "firstName": "D",
+                        "lastName": "Cook"
+                    }
+                },
+                "meetingId": "5160",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

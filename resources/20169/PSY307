@@ -1,0 +1,81 @@
+{
+    "PSY307H1-F-20169": {
+        "courseId": "2009",
+        "org": "PSY",
+        "orgName": "Psychology (PSY) (JLP)",
+        "courseTitle": "Special Topics in Psychology",
+        "code": "PSY307H1",
+        "courseDescription": "<p>In depth examination of specific topics\/themes relating to Psychology.&nbsp; Content in any given year depends on instructor.&nbsp; Priority is given to PSY Major program students during the first enrolment period.<\/p>",
+        "prerequisite": "PSY100H1, PSY201H1 (or exclusion), and one further 200-level PSY half-course",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-34737": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:30",
+                        "meetingEndTime": "12:30",
+                        "meetingScheduleId": "34737",
+                        "assignedRoom1": "SS 1074",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161809": {
+                        "instructorId": "1161809",
+                        "firstName": "J",
+                        "lastName": "Downar"
+                    }
+                },
+                "meetingId": "4105",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Neuroscience of Complex Human Behaviour",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "42",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "90",
+                        "postCode": "ASMAJ1160",
+                        "postName": "MA PSYCHOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

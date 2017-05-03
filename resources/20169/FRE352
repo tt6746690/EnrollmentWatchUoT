@@ -1,0 +1,53 @@
+{
+    "FRE352H0-S-20169": {
+        "courseId": "3250",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Special Topics in Linguistics or Literature",
+        "code": "FRE352H0",
+        "courseDescription": "<p>The course will be part of an international agreement between the University of Toronto and the University of Nice. &nbsp;Students will be taking the course in Nice.<\/p>",
+        "prerequisite": "FRE240H1 and\/or FRE272H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Only students participating in the Third Year Abroad in Nice are eligible for these courses. For more information, contact the Study Elsewhere Advisor at french.elsewhere@utoronto.ca or 416 926 1300, ext. 3141.",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159970": {
+                        "instructorId": "1159970",
+                        "firstName": "D",
+                        "lastName": "Issa-Sayegh"
+                    }
+                },
+                "meetingId": "15222",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Lit\u00e9rature jeunesse",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

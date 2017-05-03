@@ -1,0 +1,61 @@
+{
+    "MGR101H1-S-20169": {
+        "courseId": "1500",
+        "org": "CERES",
+        "orgName": "European Studies (EUR) (HUN) (MGR) (JRA) ",
+        "courseTitle": "Elementary Modern Greek",
+        "code": "MGR101H1",
+        "courseDescription": "<p>This course builds on MGR100H1 and aims to develop competence in the Modern Greek language at the basic level. Students will attain elementary proficiency in the spoken and written language by familiarizing themselves with a variety of grammatical and syntax structures while continuing to enrich their vocabulary. Emphasis will be placed on reading and conversational skills while students are expected to write short descriptive paragraphs.<\/p>",
+        "prerequisite": "MGR100H1",
+        "corequisite": "",
+        "exclusion": "Students who have completed High School in Greece or a Grade 12 Modern Greek language credit.",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46860": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46860",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 215"
+                    },
+                    "TH-46859": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46859",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 215"
+                    }
+                },
+                "instructors": {
+                    "1160954": {
+                        "instructorId": "1160954",
+                        "firstName": "T",
+                        "lastName": "Aravossitas"
+                    }
+                },
+                "meetingId": "3200",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

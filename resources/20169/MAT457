@@ -1,0 +1,61 @@
+{
+    "MAT457H1-F-20169": {
+        "courseId": "1494",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Advanced Real Analysis I",
+        "code": "MAT457H1",
+        "courseDescription": "<p>Lebesque measure and integration; convergence theorems, Fubini's theorem, Lebesgue differentiation theorem, abstract measures, Caratheodory theorem, Radon-Nikodym theorem. Hilbert spaces, orthonormal bases, Riesz representation theorem, compact operators, L^p spaces, H&ouml;lder and Minkowski inequalities.<\/p>",
+        "prerequisite": "MAT357H1",
+        "corequisite": "",
+        "exclusion": "MAT457Y1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-29742": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "29742",
+                        "assignedRoom1": "BA 6183",
+                        "assignedRoom2": null
+                    },
+                    "WE-29743": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "29743",
+                        "assignedRoom1": "BA 6183",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160943": {
+                        "instructorId": "1160943",
+                        "firstName": "R",
+                        "lastName": "Haslhofer"
+                    }
+                },
+                "meetingId": "3192",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "CIN431H1-S-20169": {
+        "courseId": "265",
+        "org": "CINE",
+        "orgName": "Cinema Studies (CIN)",
+        "courseTitle": "Advanced Study in Cinema as Social and Cultural Practice (formerly INI464H1)",
+        "code": "CIN431H1",
+        "courseDescription": "<p>See course description for CIN432H1 listed below.<\/p>",
+        "prerequisite": "At least ten full-course equivalents, including CIN105Y1, CIN201Y1, CIN301Y1\/ permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Please note: Students must complete CIN105Y1, CIN201Y1, and CIN301Y1 before taking any fourth year Cinema Studies courses. For \u2018E\u2019 indicator Cinema Studies Courses: Contact the Undergraduate Assistant, 416-978-8571, cinema.studies@utoronto.ca . ",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-24578": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "24578",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "IN 223"
+                    },
+                    "TH-24579": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "24579",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "IN 223"
+                    }
+                },
+                "instructors": {
+                    "1158966": {
+                        "instructorId": "1158966",
+                        "firstName": "N",
+                        "lastName": "Sammond"
+                    }
+                },
+                "meetingId": "14131",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Graphic!",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

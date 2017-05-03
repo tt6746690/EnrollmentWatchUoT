@@ -1,0 +1,81 @@
+{
+    "FRE225Y1-Y-20169": {
+        "courseId": "895",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "Second Language Learning (formerly JFI225Y1)",
+        "code": "FRE225Y1",
+        "courseDescription": "<p>A theoretical and practical consideration of the ways we learn a second language, with a historical overview and critical evaluation of the various methodologies that have been developed; the role of cultural studies in language learning; practical evalujation and development of syllabus, course and text materials.<\/p>",
+        "prerequisite": "FSL 221Y1 or, upon first FRE\/FSL enrolment, equivalent as determined by theh French Placement Test.",
+        "corequisite": "",
+        "exclusion": "JFI225Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "The Department reserves the right to place students in the language course appropriate to their level of linguistic competence, based on the results of a placement test. For more information on taking the placement test and guidelines on how to enroll into our courses, please visit: <a href=\"http:\/\/www.french.utoronto.ca\/undergraduate\/enrolment_guidelines \">www.french.utoronto.ca\/undergraduate\/enrolment_guidelines <\/a><u>. ",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-35359": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "35359",
+                        "assignedRoom1": "CR 405",
+                        "assignedRoom2": "CR 405"
+                    }
+                },
+                "instructors": {
+                    "1159953": {
+                        "instructorId": "1159953",
+                        "firstName": "G",
+                        "lastName": "Maheux-Pelletier"
+                    }
+                },
+                "meetingId": "1834",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "58",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "44",
+                        "postCode": "ASMAJ0120",
+                        "postName": "MA FRENCH LANGUAGE LEARNING",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

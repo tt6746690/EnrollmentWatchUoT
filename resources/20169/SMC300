@@ -1,0 +1,108 @@
+{
+    "SMC300H1-S-20169": {
+        "courseId": "2306",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "Special Topics in Book and Media Studies I",
+        "code": "SMC300H1",
+        "courseDescription": "<p>Designed to provide for individual half-courses not already covered in the listed range of the Book and Media Studies Program offerings.&nbsp; Students should check the college website for details.<\/p>",
+        "prerequisite": "Priority to BMS students",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SMC219Y1; SMC228H1; SMC229H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-44812": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44812",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Kelly Library Room 232"
+                    }
+                },
+                "instructors": {
+                    "1162400": {
+                        "instructorId": "1162400",
+                        "firstName": "S",
+                        "lastName": "Vong"
+                    }
+                },
+                "meetingId": "14301",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Libraries, Special Collections and Archives",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "Kelly Library: St. Michael's College, 113 St. Joseph Street",
+                "enrollmentControls": [
+                    {
+                        "postId": "101",
+                        "postCode": "ASMAJ1300",
+                        "postName": "MA BOOK & MEDIA STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "199",
+                        "postCode": "ASMIN1300",
+                        "postName": "MI BOOK & MEDIA STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

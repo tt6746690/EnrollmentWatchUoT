@@ -1,0 +1,99 @@
+{
+    "PHC340Y1-Y-20169": {
+        "courseId": "1731",
+        "org": "PHM",
+        "orgName": "Pharmaceutical Chemistry (PHC) (JFP)",
+        "courseTitle": "Pharmaceutical Chemistry Laboratory",
+        "code": "PHC340Y1",
+        "courseDescription": "<p>The scientific basis and practical techniques relevant to modern pharmaceutical development. This course is restricted to Pharmaceutical Chemistry Specialist program students.<\/p>",
+        "prerequisite": "CHM247H1\/CHM249H1; (CHM220H1,CHM222H1)\/CHM223H1; BCH210H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Please note that the times for this course are different in Fall and Winter, as follows -- Fall Term: Mondays 12:00-1:00pm, Thursdays 9:00am-1:00pm. Winter: Wednesdays 11:00am-12:00pm, Thursdays 1:00-5:00pm.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-47420": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47420",
+                        "assignedRoom1": "---",
+                        "assignedRoom2": "PB 255"
+                    },
+                    "TH-47421": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "47421",
+                        "assignedRoom1": "---",
+                        "assignedRoom2": "PB 860"
+                    }
+                },
+                "instructors": {
+                    "1161283": {
+                        "instructorId": "1161283",
+                        "firstName": "D",
+                        "lastName": "Dubins"
+                    },
+                    "1161284": {
+                        "instructorId": "1161284",
+                        "firstName": "P",
+                        "lastName": "Lee"
+                    },
+                    "1161285": {
+                        "instructorId": "1161285",
+                        "firstName": "R",
+                        "lastName": "Macgregor"
+                    }
+                },
+                "meetingId": "3490",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "24",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Times for Fall and Winter differ for this course. Please refer to the Timetable Instructions tab above for more information.",
+                "enrollmentControls": [
+                    {
+                        "postId": "291",
+                        "postCode": "ASSPE1211",
+                        "postName": "SP PHARMACEUTICAL CHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

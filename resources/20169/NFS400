@@ -1,0 +1,81 @@
+{
+    "NFS400H1-S-20169": {
+        "courseId": "1616",
+        "org": "NUSCI",
+        "orgName": "Nutritional Sciences (NFS)",
+        "courseTitle": "Functional Foods and Nutraceuticals in Human Nutrition",
+        "code": "NFS400H1",
+        "courseDescription": "<p>This course will demonstrate the rationale, including health benefits, development and marketing of functional foods and nutraceuticals.<\/p>",
+        "prerequisite": "BCH210H1, NFS284H1, (PSL300H1, PSL301H1)\/PSL302Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "CSB349H1\/PSL350H1\/BCH311H1, NFS386H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-30953": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "30953",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "FG 103"
+                    }
+                },
+                "instructors": {
+                    "1161130": {
+                        "instructorId": "1161130",
+                        "firstName": "D",
+                        "lastName": "Gurfinkel"
+                    }
+                },
+                "meetingId": "3345",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "59",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "82",
+                        "postCode": "ASMAJ1068",
+                        "postName": "MA NUTRITIONAL SCIENCES",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "VIC491H1-F-20169": {
+        "courseId": "2607",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Victoria College Independent Studies",
+        "code": "VIC491H1",
+        "courseDescription": "<p>These courses provide an opportunity to design an interdisciplinary course of study not otherwise available within the Faculty. Written application (detailed proposal, reading list and a letter of support from a Victoria College faculty member who is prepared to supervise) must be submitted for approval on behalf of Victoria College. For application procedures visit the Victoria College website.&nbsp;Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "A minimum CGPA of 3.0 and have a completed 15 FCE and permission of College Program Director.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Please visit www.vic.utoronto.ca\/students\/academics\/independentstudies or email vic.academics@utoronto.ca for more information. ",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162866": {
+                        "instructorId": "1162866",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "5287",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "1",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "VIC491H1-S-20169": {
+        "courseId": "2607",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Victoria College Independent Studies",
+        "code": "VIC491H1",
+        "courseDescription": "<p>These courses provide an opportunity to design an interdisciplinary course of study not otherwise available within the Faculty. Written application (detailed proposal, reading list and a letter of support from a Victoria College faculty member who is prepared to supervise) must be submitted for approval on behalf of Victoria College. For application procedures visit the Victoria College website.&nbsp;Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "A minimum CGPA of 3.0 and have a completed 15 FCE and permission of College Program Director.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Please visit www.vic.utoronto.ca\/students\/academics\/independentstudies or email vic.academics@utoronto.ca for more information. ",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162867": {
+                        "instructorId": "1162867",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "5288",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "VIC491H1-Y-20169": {
+        "courseId": "2607",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Victoria College Independent Studies",
+        "code": "VIC491H1",
+        "courseDescription": "<p>These courses provide an opportunity to design an interdisciplinary course of study not otherwise available within the Faculty. Written application (detailed proposal, reading list and a letter of support from a Victoria College faculty member who is prepared to supervise) must be submitted for approval on behalf of Victoria College. For application procedures visit the Victoria College website.&nbsp;Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "A minimum CGPA of 3.0 and have a completed 15 FCE and permission of College Program Director.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Please visit www.vic.utoronto.ca\/students\/academics\/independentstudies or email vic.academics@utoronto.ca for more information. ",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162868": {
+                        "instructorId": "1162868",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "5289",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "VIC491Y1-Y-20169": {
+        "courseId": "2608",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Victoria College Independent Studies",
+        "code": "VIC491Y1",
+        "courseDescription": "<p>These courses provide an opportunity to design an interdisciplinary course of study not otherwise available within the Faculty. Written application (detailed proposal, reading list and a letter of support from a Victoria College faculty member who is prepared to supervise) must be submitted for approval on behalf of Victoria College. For application procedures visit the Victoria College website.&nbsp;Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "A minimum CGPA of 3.0 and have completed 15 FCE and permission of College Program Director.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Please visit www.vic.utoronto.ca\/students\/academics\/independentstudies or email vic.academics@utoronto.ca for more information. ",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162869": {
+                        "instructorId": "1162869",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "5290",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

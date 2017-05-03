@@ -1,0 +1,61 @@
+{
+    "NMC258H1-S-20169": {
+        "courseId": "3781",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "The Book of Kings: Persian Myth, History, and Art",
+        "code": "NMC258H1",
+        "courseDescription": "<p><span style=\"font-family: Arial, sans-serif;\"><span style=\"font-size: 11px;\">The Persian Book of Kings, or <em>Shahnameh<\/em>, composed in the 11th century by Ferdowsi, is the most important book in Iranian national culture and one of the great works of world literature. The course examines the book&rsquo;s presentation of the history of the pre-Islamic kings of Iran, the exploits of Iran&rsquo;s heroes, and the myths and legends of ancient Iran, which were frequently illustrated in manuscript copies over the centuries.<\/span><\/span><\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "NMC103H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-44287": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "44287",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 200B"
+                    },
+                    "TU-44288": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "44288",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 200B"
+                    }
+                },
+                "instructors": {
+                    "1161146": {
+                        "instructorId": "1161146",
+                        "firstName": "M",
+                        "lastName": "Subtelny"
+                    }
+                },
+                "meetingId": "14354",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

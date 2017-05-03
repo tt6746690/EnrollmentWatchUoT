@@ -1,0 +1,81 @@
+{
+    "NEW441H1-F-20169": {
+        "courseId": "1598",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Advanced Topics in Equity Studies",
+        "code": "NEW441H1",
+        "courseDescription": "<p>An advanced level seminar course. Topics vary from year to year.<\/p>",
+        "prerequisite": "NEW240Y1 or permission of instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cAE\u201d indicator courses: contact the Program Secretary, Room 133, 300 Huron Street, Monday to Friday, 9:00 a.m. to 1:00 p.m. and 2:00 p.m. to 4:30 p.m. Email: nc.programs@utoronto.ca. Phone: 416-978-5404.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-45317": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "45317",
+                        "assignedRoom1": "WE 54G",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161101": {
+                        "instructorId": "1161101",
+                        "firstName": "L",
+                        "lastName": "Burns"
+                    }
+                },
+                "meetingId": "14040",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "Art, Cultural Production and Resistance",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "89",
+                        "postCode": "ASMAJ1140",
+                        "postName": "MA EQUITY STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

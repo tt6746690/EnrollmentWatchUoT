@@ -1,0 +1,53 @@
+{
+    "APM306Y1-Y-20169": {
+        "courseId": "107",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Mathematics and Law",
+        "code": "APM306Y1",
+        "courseDescription": "<p>This course examines the relationship between legal reasoning and mathematical logic; provides a mathematical perspective on the legal treatment of interest and actuarial present value; critiques ethical issues; analyzes how search engine techniques on massive databases transform legal research and considers the impact of statistical analysis and game theory on litigation strategies.<\/p>",
+        "prerequisite": "(MAT135H1\/MAT136H1)\/MAT137Y1\/MAT157Y1, MAT221H1\/MAT223H1\/MAT240H1",
+        "corequisite": "",
+        "exclusion": "JUM206Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5), Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-39029": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "39029",
+                        "assignedRoom1": "AB 114",
+                        "assignedRoom2": "AB 114"
+                    }
+                },
+                "instructors": {
+                    "1158532": {
+                        "instructorId": "1158532",
+                        "firstName": "N",
+                        "lastName": "Derzko"
+                    }
+                },
+                "meetingId": "189",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "34",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

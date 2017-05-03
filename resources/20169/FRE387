@@ -1,0 +1,53 @@
+{
+    "FRE387H1-S-20169": {
+        "courseId": "3256",
+        "org": "FRE",
+        "orgName": "French (FRE) (FCS) (FSL) (JFL) (JFV)",
+        "courseTitle": "French Morphology",
+        "code": "FRE387H1",
+        "courseDescription": "<p>A study of the morphological system of modern French, its relationship to syntax and phonology; theoretical notions derived from the analysis of specific data.<\/p>",
+        "prerequisite": "FRE272H1 + FRE274H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-12824": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "12824",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "TF 200"
+                    }
+                },
+                "instructors": {
+                    "1159976": {
+                        "instructorId": "1159976",
+                        "firstName": "P",
+                        "lastName": "Bessler"
+                    }
+                },
+                "meetingId": "5480",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

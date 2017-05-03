@@ -1,0 +1,86 @@
+{
+    "MGY315H1-S-20169": {
+        "courseId": "1509",
+        "org": "MEDGM",
+        "orgName": "Molecular Genetics and Microbiology (MGY) (MIJ)",
+        "courseTitle": "Principles of Genetic Analysis II",
+        "code": "MGY315H1",
+        "courseDescription": "<p><span lang=\"EN-US\">Laboratory experiments in eukaryotic genetics, using two of the most powerful eukaryotic model systems, the yeast Saccharomyces cerevisiae and fruit fly Drosophila melanogaster. The course follows MGY314H1; topics include analysis of genetic networks and pathways, meiotic segregation analysis, recombination mapping, genetic crosses, and phenotypic analyses.<\/span><\/p>",
+        "prerequisite": "BIO230H1, BIO260H1\/HMB265H1, MGY314H1",
+        "corequisite": "",
+        "exclusion": "MGY312H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cAE\u201d indicator courses: students who miss the registration deadline should contact the instructor directly.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-44176": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "44176",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "Contact Department"
+                    }
+                },
+                "instructors": {
+                    "1160978": {
+                        "instructorId": "1160978",
+                        "firstName": "J",
+                        "lastName": "Brill"
+                    },
+                    "1160979": {
+                        "instructorId": "1160979",
+                        "firstName": "B",
+                        "lastName": "Lavoie"
+                    }
+                },
+                "meetingId": "3215",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "1",
+                        "postCode": "*",
+                        "postName": "",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

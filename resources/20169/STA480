@@ -1,0 +1,53 @@
+{
+    "STA480H1-S-20169": {
+        "courseId": "2451",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Fundamentals of Statistical Genetics",
+        "code": "STA480H1",
+        "courseDescription": "<p>Statistical analysis of genetic data is an important emerging research area with direct impact on population health. This course provides an introduction to the concepts and fundamentals of statistical genetics, including current research directions.&nbsp; The course includes lectures and hands-on experience with R programming and state-of-the-art statistical genetics software packages.<\/p>",
+        "prerequisite": "STA303H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-26407": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "26407",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "UC A101"
+                    }
+                },
+                "instructors": {
+                    "1162629": {
+                        "instructorId": "1162629",
+                        "firstName": "L",
+                        "lastName": "Sun"
+                    }
+                },
+                "meetingId": "12274",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

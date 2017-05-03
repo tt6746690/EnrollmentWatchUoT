@@ -1,0 +1,53 @@
+{
+    "SMC358H1-S-20169": {
+        "courseId": "4376",
+        "org": "SMC",
+        "orgName": "St. Michael's College (SMC)",
+        "courseTitle": "The Mediaeval Book",
+        "code": "SMC358H1",
+        "courseDescription": "<p>This course examines the most salient aspects of mediaeval manuscript culture. We will study, first, how the parchment for books was folded, pricked, ruled and bound, and second, what scripts were employed in the different codices. We will also examine the various types of books made in the Middle Ages and the challenges they pose to modern scholars.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "LAT100Y1\/LAT102H1; SMC210H1\/SMC212H1 or a course in mediaeval history.",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-36451": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "36451",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "TF 200"
+                    }
+                },
+                "instructors": {
+                    "1162419": {
+                        "instructorId": "1162419",
+                        "firstName": "S",
+                        "lastName": "WINSLOW"
+                    }
+                },
+                "meetingId": "14597",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "25",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

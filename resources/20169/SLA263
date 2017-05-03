@@ -1,0 +1,58 @@
+{
+    "SLA263H1-S-20169": {
+        "courseId": "4287",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Studies in Russian-French Cultural History",
+        "code": "SLA263H1",
+        "courseDescription": "<p><span style=\"font-size: 11.0pt; line-height: 107%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\" lang=\"EN-US\">A survey of Russian-French intellectual, literary, and artistic contacts and mutual influences, from the 18<sup>th<\/sup> through the 20<sup>th<\/sup> centuries. Topics may include: transnational circulation of genres, styles, aesthetic programs, philosophical concepts, and political ideas; cultural tourism; cultural appropriation and misreading; direct contacts between French and Russian intellectual and artistic elites. Taught in English by a group of instructors. All readings in English. Students who read French and\/or Russian are encouraged to read in the original.<\/span><\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-36922": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "36922",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "TF 101"
+                    }
+                },
+                "instructors": {
+                    "1162350": {
+                        "instructorId": "1162350",
+                        "firstName": "K",
+                        "lastName": "Holland"
+                    },
+                    "1162351": {
+                        "instructorId": "1162351",
+                        "firstName": "L",
+                        "lastName": "Livak"
+                    }
+                },
+                "meetingId": "12607",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "15",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

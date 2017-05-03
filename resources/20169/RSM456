@@ -1,0 +1,108 @@
+{
+    "RSM456H1-S-20169": {
+        "courseId": "2188",
+        "org": "COMPG",
+        "orgName": "Rotman Commerce (RSM) (MGT)",
+        "courseTitle": "Big Data and Marketing Analytics (formerly RSM411H1)",
+        "code": "RSM456H1",
+        "courseDescription": "<p>The course is designed to introduce students to tools used in marketing analytics. Companies have been collecting vast databases to aid them in making sound marketing decisions. Examples include retail scanner panel data which keeps track of customers&rsquo; purchase histories, loyalty-program data monitoring purchasing under different promotional environments, social network and online shopping history data. The course uses several marketing data sources to illustrate how to use statistical marketing models to evaluate the impacts of marketing-mix, and manage customer lifetime value.<\/p>",
+        "prerequisite": "ECO220Y1\/ECO227Y1\/(STA220H1,STA255H1)\/(STA257H1,STA261H1)",
+        "corequisite": "",
+        "exclusion": "RSM411H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47671": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47671",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "RT 142"
+                    }
+                },
+                "instructors": {
+                    "1162245": {
+                        "instructorId": "1162245",
+                        "firstName": "A",
+                        "lastName": "Ching"
+                    }
+                },
+                "meetingId": "14013",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "45",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "15",
+                        "subjectCode": "COM",
+                        "subjectName": "COMMERCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "15",
+                        "subjectCode": "COM",
+                        "subjectName": "COMMERCE",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "3",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

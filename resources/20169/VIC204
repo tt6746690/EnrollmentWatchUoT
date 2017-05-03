@@ -1,0 +1,53 @@
+{
+    "VIC204H1-F-20169": {
+        "courseId": "2556",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Canons and Canonicity",
+        "code": "VIC204H1",
+        "courseDescription": "<p>This course will consider the problem of canons in a variety of contexts: the aesthetic (including the literary, visual arts and music), but also the religious, the political, the philosophical and other discursive forms.&nbsp; Special focus will be on the problem of the relations across these boundaries.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-40638": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "40638",
+                        "assignedRoom1": "NF 007",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162786": {
+                        "instructorId": "1162786",
+                        "firstName": "D",
+                        "lastName": "Galbraith"
+                    }
+                },
+                "meetingId": "5205",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "28",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

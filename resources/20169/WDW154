@@ -1,0 +1,116 @@
+{
+    "WDW154H1-S-20169": {
+        "courseId": "2622",
+        "org": "WDW",
+        "orgName": "Woodsworth College (WDW) (ABP)",
+        "courseTitle": "Popular Culture Today II: Special Topics",
+        "code": "WDW154H1",
+        "courseDescription": "<p>20171 Topic:&nbsp; Protest and Popular Culture<br \/>Building on the general introduction to the subject provided by WDW153H1, this interdisciplinary seminar examines one major area of popular culture in greater depth: popular music, genre fiction, online culture, etc.&nbsp; The focus will be different each year, and in some years more than one option may be available.&nbsp; Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "WDW153H1 or permission of the Woodsworth One Program Coordinator",
+        "corequisite": "",
+        "exclusion": "INI One, MUN One, NEW One, SMC One, TRN One, UNI One, VIC One",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Woodsworth ONE: WDW151H1 and WDW152H1, WDW153H1 and WDW154H1 are restricted to students in their first year of undergraduate studies (St. George campus) who have been admitted to the Woodsworth One Program. L2001 in WDW151H1 and WDW152H1 is reserved for students in the full-time Academic Bridging Program. For more information, please contact: 416-946-0605 | one.wdw@utoronto.ca | www.wdw.utoronto.ca ",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-47347": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47347",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WW 121"
+                    },
+                    "TH-47348": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "47348",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WW 121"
+                    }
+                },
+                "instructors": {
+                    "1162897": {
+                        "instructorId": "1162897",
+                        "firstName": "T",
+                        "lastName": "Socknat"
+                    }
+                },
+                "meetingId": "5318",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Topic: Protest & Popular Culture",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "14",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

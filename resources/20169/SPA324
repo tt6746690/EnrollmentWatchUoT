@@ -1,0 +1,53 @@
+{
+    "SPA324H1-S-20169": {
+        "courseId": "4474",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "Spanish Bilingualism",
+        "code": "SPA324H1",
+        "courseDescription": "<p>Spanish bilingualism from three different perspectives: linguistic, sociolinguistic, psycholinguistic. Analysis of typical language contact phenomena with materials from Spanish. Case studies of Spanish in contact and discussion of the psychological consequences of bilingualism. Introduction to survey methods in sociolinguistics and psycholinguistics, and basic techniques for conducting language interviews. (Offered in alterante years)<\/p>",
+        "prerequisite": "SPA220Y1\/SPA219Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "SPA221H1\/SPA322H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-47689": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47689",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "NF 007"
+                    }
+                },
+                "instructors": {
+                    "1162570": {
+                        "instructorId": "1162570",
+                        "firstName": "G",
+                        "lastName": "Klassen"
+                    }
+                },
+                "meetingId": "14082",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "22",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Changed: Jan 11, 2017",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

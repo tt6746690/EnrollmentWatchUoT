@@ -1,0 +1,156 @@
+{
+    "PHY224H1-F-20169": {
+        "courseId": "1826",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Practical Physics I",
+        "code": "PHY224H1",
+        "courseDescription": "<p>Develops the core practical experimental and computational skills necessary to do physics. Students tackle simple physics questions involving mathematical models, computational simulations and solutions, experimental measurements, data and uncertainty analysis.<\/p>",
+        "prerequisite": "PHY132H1\/PHY152H1",
+        "corequisite": "PHY231H1\/PHY250H1\/PHY252H1\/PHY254H1\/PHY256H1\/ENV235H1",
+        "exclusion": "PHY225H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39808": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "39808",
+                        "assignedRoom1": "MP 222",
+                        "assignedRoom2": null
+                    },
+                    "FR-39807": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "39807",
+                        "assignedRoom1": "MP 222",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161411": {
+                        "instructorId": "1161411",
+                        "firstName": "C",
+                        "lastName": "Lee"
+                    },
+                    "1161412": {
+                        "instructorId": "1161412",
+                        "firstName": "R",
+                        "lastName": "Serbanescu"
+                    }
+                },
+                "meetingId": "3810",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "41",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TU-39812": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39812",
+                        "assignedRoom1": "MP 222",
+                        "assignedRoom2": null
+                    },
+                    "TH-39811": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "39811",
+                        "assignedRoom1": "MP 222",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161413": {
+                        "instructorId": "1161413",
+                        "firstName": "C",
+                        "lastName": "Lee"
+                    },
+                    "1161414": {
+                        "instructorId": "1161414",
+                        "firstName": "R",
+                        "lastName": "Serbanescu"
+                    }
+                },
+                "meetingId": "3808",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "53",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0301": {
+                "schedule": {
+                    "TU-46043": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46043",
+                        "assignedRoom1": "MP 222",
+                        "assignedRoom2": null
+                    },
+                    "TH-46042": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46042",
+                        "assignedRoom1": "MP 222",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161415": {
+                        "instructorId": "1161415",
+                        "firstName": "C",
+                        "lastName": "Lee"
+                    },
+                    "1161416": {
+                        "instructorId": "1161416",
+                        "firstName": "R",
+                        "lastName": "Serbanescu"
+                    }
+                },
+                "meetingId": "3809",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "56",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

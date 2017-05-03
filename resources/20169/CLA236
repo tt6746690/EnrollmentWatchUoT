@@ -1,0 +1,53 @@
+{
+    "CLA236H1-F-20169": {
+        "courseId": "2810",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Greek and Roman Epic",
+        "code": "CLA236H1",
+        "courseDescription": "<p>A study of one or more of the epic poems of Greek and Roman antiquity (e. g. The <em>Iliad<\/em> and <em>Odyssey<\/em> of Homer and the <em>Aeneid<\/em> of Virgil).<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-29804": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "29804",
+                        "assignedRoom1": "MS 3153",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159004": {
+                        "instructorId": "1159004",
+                        "firstName": "J",
+                        "lastName": "Oliver"
+                    }
+                },
+                "meetingId": "14561",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "250",
+                "actualEnrolment": "117",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "APM446H1-S-20169": {
+        "courseId": "112",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Applied Nonlinear Equations",
+        "code": "APM446H1",
+        "courseDescription": "<p>Partial differential equations appearing in physics, material sciences, biology, geometry, and engineering. Nonlinear evolution equations. Existence and long-time behaviour of solutions. Existence of static, traveling wave, self-similar, topological and localized solutions. Stability. Formation of singularities and pattern formation. Fixed point theorems, spectral analysis, bifurcation theory. Equations considered in this course may include: Allen-Cahn equation (material science), Ginzburg-Landau equation (condensed matter physics), Cahn-Hilliard (material science, biology), nonlinear Schroedinger equation (quantum and plasma physics, water waves, etc). mean curvature flow (geometry, material sciences), Fisher-Kolmogorov-Petrovskii-Piskunov (combustion theory, biology), Keller-Segel equations (biology), and Chern-Simmons equations (particle and condensed matter physics).<\/p>",
+        "prerequisite": "APM346H1\/MAT351Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-36055": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "36055",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2135"
+                    },
+                    "FR-36056": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "36056",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA 2135"
+                    }
+                },
+                "instructors": {
+                    "1158539": {
+                        "instructorId": "1158539",
+                        "firstName": "I",
+                        "lastName": "Sigal"
+                    }
+                },
+                "meetingId": "196",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-2001": {
+                "schedule": {
+                    "TH-38290": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "38290",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "BA 2135"
+                    },
+                    "FR-38291": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "38291",
+                        "assignedRoom1": "",
+                        "assignedRoom2": "BA 2135"
+                    }
+                },
+                "instructors": {
+                    "1158540": {
+                        "instructorId": "1158540",
+                        "firstName": "I",
+                        "lastName": "Sigal"
+                    }
+                },
+                "meetingId": "14888",
+                "teachingMethod": "LEC",
+                "sectionNumber": "2001",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "5",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "4",
+                        "primaryOrgCode": "APSC",
+                        "primaryOrgName": "Faculty of Applied Science & Engineering",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

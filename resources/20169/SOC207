@@ -1,0 +1,53 @@
+{
+    "SOC207H1-S-20169": {
+        "courseId": "4407",
+        "org": "SOC",
+        "orgName": "Sociology (SOC)",
+        "courseTitle": "Sociology of Work & Occupations (formerly SOC207Y1)",
+        "code": "SOC207H1",
+        "courseDescription": "<p>The nature and meaning of work in relation to changes in the position of the professions, unions and government, of women and minority groups, and in industrial societies more generally. Career choice and strategies, occupational mobility, and individual satisfaction at work.<\/p>",
+        "prerequisite": "SOC101Y1 or SOC102H1 or SOC103H1",
+        "corequisite": "",
+        "exclusion": "SOC207Y1; SOC227H5",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-36385": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "36385",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 161"
+                    }
+                },
+                "instructors": {
+                    "1162475": {
+                        "instructorId": "1162475",
+                        "firstName": "M",
+                        "lastName": "Easton"
+                    }
+                },
+                "meetingId": "14465",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "140",
+                "actualEnrolment": "102",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

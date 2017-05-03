@@ -1,0 +1,53 @@
+{
+    "RLG235H1-F-20169": {
+        "courseId": "2078",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Religion, Gender, and Sexuality (formerly RLG314H1)",
+        "code": "RLG235H1",
+        "courseDescription": "<p>Examination of gender as a category in the understanding of religious roles, symbols, rituals, deities, and social relations. Survey of varieties of concepts of gender in recent feminist thought, and application of these concepts to religious life and experience. Examples will be drawn from a variety of religious traditions and groups, contemporary and historical.<\/p>",
+        "prerequisite": "See note above for general prerequisites",
+        "corequisite": "",
+        "exclusion": "RLG314H1, RLG314H5",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46604": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "46604",
+                        "assignedRoom1": "WW 126",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161917": {
+                        "instructorId": "1161917",
+                        "firstName": "E",
+                        "lastName": "Pontoriero"
+                    }
+                },
+                "meetingId": "4229",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "49",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room changed: September 8th, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

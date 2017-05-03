@@ -1,0 +1,53 @@
+{
+    "NEW317H1-F-20169": {
+        "courseId": "3750",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Caribbean Women Writers",
+        "code": "NEW317H1",
+        "courseDescription": "<p>A critical feminist reading of selected works of fiction, poetry and essays by Caribbean women writers.&nbsp; The aim is to appraise the development of this literature, situate texts within the key social and political debates which have influenced the region's literary output, as well as to consider the implications of the environments within which these writers function.<\/p>",
+        "prerequisite": "Completion of 4.0 FCEs",
+        "corequisite": "",
+        "exclusion": "WGS330H1",
+        "recommendedPreparation": "NEW120Y1\/NEW220H1\/NEW221H1\/WGS160Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-21910": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "21910",
+                        "assignedRoom1": "WI 524",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161067": {
+                        "instructorId": "1161067",
+                        "firstName": "R",
+                        "lastName": "Espinet"
+                    }
+                },
+                "meetingId": "5996",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

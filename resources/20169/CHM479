@@ -1,0 +1,61 @@
+{
+    "CHM479H1-S-20169": {
+        "courseId": "246",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Biological Chemistry",
+        "code": "CHM479H1",
+        "courseDescription": "<p>An in depth examination of biological systems at the molecular level. Several complex, multi-component molecular machines with a central role in life will be examined. For each system studied, the focus will be on understanding the chemical mechanisms that underlie the biological activities, and how these processes fit into a cellular context.<\/p>",
+        "prerequisite": "BCH210H1\/BCH242Y1, CHM347H1, CHM348H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41279": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "41279",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    },
+                    "TH-41278": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "41278",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 155"
+                    }
+                },
+                "instructors": {
+                    "1158942": {
+                        "instructorId": "1158942",
+                        "firstName": "D",
+                        "lastName": "Zamble"
+                    }
+                },
+                "meetingId": "580",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

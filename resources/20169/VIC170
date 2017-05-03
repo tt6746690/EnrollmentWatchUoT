@@ -1,0 +1,121 @@
+{
+    "VIC170Y1-Y-20169": {
+        "courseId": "2544",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Introduction to Probability, Persuasion and the Rhetoric of Science",
+        "code": "VIC170Y1",
+        "courseDescription": "<p>How rhetoric and statistical analysis are used to communicate scientific observations and theories to different audiences will be examined in lectures and seminars. Uncertainty, belief, evidence, risk assessment, random error and bias will be discussed using examples drawn from literature, the arts and the physical, life and social sciences.&nbsp; Students will prepare a research grant application on a scientific topic of their own choice.&nbsp;<span style=\"color: #222222; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 11.818181991577148px; line-height: 16.363636016845703px;\">Not eligible for CR\/NCR option.<\/span><\/p>",
+        "prerequisite": "Admission to Vic One",
+        "corequisite": "VIC171Y1 and 1.0 FCE selected from first-year course offerings in the sciences (0.5 FCE must be a BIO course)",
+        "exclusion": "Innis One, Munk One, New One, SMC One, Trinity One, UC One, Woodsworth One, 199 seminars, Vic One Hundred courses.",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "This course is only open to students admitted to the Vic One program. Please note that the times for this course are different in Fall and Winter, as follows -- Fall Term: Tuesdays and Thursdays from 10:00am-12:00pm in NF 113. Winter: Tuesdays 10:00am-12:00pm in NF 113, and Thursdays 1:00-3:00pm in NF 235.",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-45721": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45721",
+                        "assignedRoom1": "NF 113",
+                        "assignedRoom2": ""
+                    },
+                    "TH-45720": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "45720",
+                        "assignedRoom1": "NF 113",
+                        "assignedRoom2": ""
+                    }
+                },
+                "instructors": {
+                    "1162762": {
+                        "instructorId": "1162762",
+                        "firstName": "A",
+                        "lastName": "Baines"
+                    },
+                    "1162763": {
+                        "instructorId": "1162763",
+                        "firstName": "P",
+                        "lastName": "Corey"
+                    }
+                },
+                "meetingId": "5185",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": " \tTimes for Fall and Winter differ for this course. Please refer to the Timetable Instructions tab above for more information.",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "5",
+                        "primaryOrgCode": "ARCLA",
+                        "primaryOrgName": "John H. Daniels Faculty of Architecture, Landscape, & Design",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    },
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "1",
+                        "typeOfProgramId": "11",
+                        "typeOfProgramCode": "OTH",
+                        "typeOfProgramName": "Other",
+                        "primaryOrgId": "6",
+                        "primaryOrgCode": "ARTSC",
+                        "primaryOrgName": "Faculty of Arts and Science",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

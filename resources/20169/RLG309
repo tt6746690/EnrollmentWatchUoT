@@ -1,0 +1,53 @@
+{
+    "RLG309H1-S-20169": {
+        "courseId": "4126",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Religion and Human Rights",
+        "code": "RLG309H1",
+        "courseDescription": "<p>The relationship and interaction between religious and ethical norms, social and political ideals, and systems of law.The course concerns the ongoing dialectic between religious and other values, the application of religious ideas to social orders, and questions of religious and human rights.<\/p>",
+        "prerequisite": "three RLG or PHI\/PHL half-courses and third year standing. See note above for general prerequisites",
+        "corequisite": "",
+        "exclusion": "RLG309H5, RLG309Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-43150": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "43150",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 101"
+                    }
+                },
+                "instructors": {
+                    "1161935": {
+                        "instructorId": "1161935",
+                        "firstName": "E",
+                        "lastName": "Pontoriero"
+                    }
+                },
+                "meetingId": "14477",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "59",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

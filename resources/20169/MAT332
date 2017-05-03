@@ -1,0 +1,113 @@
+{
+    "MAT332H1-F-20169": {
+        "courseId": "1472",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Introduction to Graph Theory",
+        "code": "MAT332H1",
+        "courseDescription": "<p>This course will explore the following topics: Graphs, subgraphs, isomorphism, trees, connectivity, Euler and Hamiltonian properties, matchings, vertex and edge colourings, planarity, network flows and strongly regular graphs. Participants will be encouraged to use these topics and execute applications to such problems as timetabling, tournament scheduling, experimental design and finite geometries.<\/p>",
+        "prerequisite": "MAT224H1\/MAT247H1",
+        "corequisite": "Recommended Corequisite: MAT301H1\/MAT347Y1",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-45352": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45352",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    },
+                    "TH-45351": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "45351",
+                        "assignedRoom1": "MP 137",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160910": {
+                        "instructorId": "1160910",
+                        "firstName": "G",
+                        "lastName": "Scott"
+                    }
+                },
+                "meetingId": "3163",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "93",
+                "actualEnrolment": "58",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TH-45353": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "45353",
+                        "assignedRoom1": "UC 244",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15019",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "43",
+                "actualEnrolment": "27",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "TH-45354": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "45354",
+                        "assignedRoom1": "UC 244",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15020",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "42",
+                "actualEnrolment": "29",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

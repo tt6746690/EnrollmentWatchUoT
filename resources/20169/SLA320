@@ -1,0 +1,74 @@
+{
+    "SLA320Y1-Y-20169": {
+        "courseId": "2256",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "Advanced Russian",
+        "code": "SLA320Y1",
+        "courseDescription": "<p>A survey of Russian culture and history of the 20th century through non-adapted readings and film. Development of advanced speaking, reading, listening and writing skills on a wide variety of topics. Work on grammar and vocabulary building. Subordinate and relative clauses, aspect, verbs of motion, participles and gerunds. Class is conducted primarily in Russian.<\/p>",
+        "prerequisite": "SLA220Y1 or permission of instructor",
+        "corequisite": "",
+        "exclusion": "native speakers of Russian, including SLA210H1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-46556": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46556",
+                        "assignedRoom1": "CR 107",
+                        "assignedRoom2": "CR 107"
+                    },
+                    "WE-46557": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46557",
+                        "assignedRoom1": "CR 107",
+                        "assignedRoom2": "CR 107"
+                    },
+                    "FR-46555": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "46555",
+                        "assignedRoom1": "CR 107",
+                        "assignedRoom2": "CR 107"
+                    }
+                },
+                "instructors": {
+                    "1162359": {
+                        "instructorId": "1162359",
+                        "firstName": "I",
+                        "lastName": "Garner"
+                    },
+                    "1162360": {
+                        "instructorId": "1162360",
+                        "firstName": "R",
+                        "lastName": "Tashlitskyy"
+                    }
+                },
+                "meetingId": "4668",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "**Room Changed: Sept 7, 2016**",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

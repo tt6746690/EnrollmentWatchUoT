@@ -1,0 +1,61 @@
+{
+    "CSB346H1-S-20169": {
+        "courseId": "361",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Neurobiology of Respiration",
+        "code": "CSB346H1",
+        "courseDescription": "<p>Integrated control of cardio-respiratory physiology and metabolism in mammals. Topics include exercise, diving, sleep and hibernation.<\/p>",
+        "prerequisite": "(BIO270H1, BIO271H1)\/(PSL300H1, PSL301H1)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-41739": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41739",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MC 102"
+                    },
+                    "TH-41740": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "41740",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 1050"
+                    }
+                },
+                "instructors": {
+                    "1159084": {
+                        "instructorId": "1159084",
+                        "firstName": "J",
+                        "lastName": "Peever"
+                    }
+                },
+                "meetingId": "788",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "345",
+                "actualEnrolment": "295",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

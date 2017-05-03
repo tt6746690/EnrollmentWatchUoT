@@ -1,0 +1,232 @@
+{
+    "RSM270H1-F-20169": {
+        "courseId": "2141",
+        "org": "COMPG",
+        "orgName": "Rotman Commerce (RSM) (MGT)",
+        "courseTitle": "Operations Management (formerly RSM370H1)",
+        "code": "RSM270H1",
+        "courseDescription": "<p>Introduction to the management of business processes that convert inputs (labor, material, equipment) into outputs (goods and services) for internal and external markets. Topics include aggregate planning, inventory processes, supply chain management and service operations management. Presents modern quantitative and computing tools necessary for in-depth operational design and analysis. Not eligible for CR\/NCR option. Contact Rotman Commerce for details.<\/p>",
+        "prerequisite": "RSM100H1\/MGT100H1\/RSM100Y1",
+        "corequisite": "",
+        "exclusion": "RSM370H1",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-32728": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "32728",
+                        "assignedRoom1": "WO 35",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162098": {
+                        "instructorId": "1162098",
+                        "firstName": "A",
+                        "lastName": "Malekian"
+                    }
+                },
+                "meetingId": "4407",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "56",
+                "actualEnrolment": "48",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TH-32737": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "32737",
+                        "assignedRoom1": "WO 35",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162099": {
+                        "instructorId": "1162099",
+                        "firstName": "A",
+                        "lastName": "Malekian"
+                    }
+                },
+                "meetingId": "4408",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "56",
+                "actualEnrolment": "48",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0301": {
+                "schedule": {
+                    "TH-32732": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "32732",
+                        "assignedRoom1": "WO 35",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162100": {
+                        "instructorId": "1162100",
+                        "firstName": "A",
+                        "lastName": "Malekian"
+                    }
+                },
+                "meetingId": "4406",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "56",
+                "actualEnrolment": "47",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "RSM270H1-S-20169": {
+        "courseId": "2141",
+        "org": "COMPG",
+        "orgName": "Rotman Commerce (RSM) (MGT)",
+        "courseTitle": "Operations Management (formerly RSM370H1)",
+        "code": "RSM270H1",
+        "courseDescription": "<p>Introduction to the management of business processes that convert inputs (labor, material, equipment) into outputs (goods and services) for internal and external markets. Topics include aggregate planning, inventory processes, supply chain management and service operations management. Presents modern quantitative and computing tools necessary for in-depth operational design and analysis. Not eligible for CR\/NCR option. Contact Rotman Commerce for details.<\/p>",
+        "prerequisite": "RSM100H1\/MGT100H1\/RSM100Y1",
+        "corequisite": "",
+        "exclusion": "RSM370H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-32739": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "32739",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WO 35"
+                    }
+                },
+                "instructors": {
+                    "1162101": {
+                        "instructorId": "1162101",
+                        "firstName": "S",
+                        "lastName": "Krishnamoorthy"
+                    }
+                },
+                "meetingId": "4409",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "56",
+                "actualEnrolment": "46",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TH-32745": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "32745",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WO 35"
+                    }
+                },
+                "instructors": {
+                    "1162102": {
+                        "instructorId": "1162102",
+                        "firstName": "G",
+                        "lastName": "Romero"
+                    }
+                },
+                "meetingId": "4410",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "56",
+                "actualEnrolment": "51",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0301": {
+                "schedule": {
+                    "TH-32742": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "32742",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "WO 35"
+                    }
+                },
+                "instructors": {
+                    "1162103": {
+                        "instructorId": "1162103",
+                        "firstName": "G",
+                        "lastName": "Romero"
+                    }
+                },
+                "meetingId": "4411",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0301",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "56",
+                "actualEnrolment": "47",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

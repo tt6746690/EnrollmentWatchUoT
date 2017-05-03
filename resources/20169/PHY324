@@ -1,0 +1,106 @@
+{
+    "PHY324H1-S-20169": {
+        "courseId": "1833",
+        "org": "PHY",
+        "orgName": "Physics (PHY) (ENV) (JPE) (JPH) (JPA) (JOP) (IVP) ",
+        "courseTitle": "Practical Physics II",
+        "code": "PHY324H1",
+        "courseDescription": "<p>A modular practical course that further develops the core experimental and computational skills necessary to do physics. Modules include: experimental skills building, computational tools in data and uncertainty analysis, and independent experimental projects.<\/p>",
+        "prerequisite": "PHY224H1",
+        "corequisite": "",
+        "exclusion": "PHY225H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-46069": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46069",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 238"
+                    },
+                    "TH-46068": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "46068",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 238"
+                    }
+                },
+                "instructors": {
+                    "1161424": {
+                        "instructorId": "1161424",
+                        "firstName": "R",
+                        "lastName": "Serbanescu"
+                    }
+                },
+                "meetingId": "3827",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "38",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "LEC-0201": {
+                "schedule": {
+                    "TU-46071": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46071",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 238"
+                    },
+                    "TH-46070": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "46070",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MP 238"
+                    }
+                },
+                "instructors": {
+                    "1161425": {
+                        "instructorId": "1161425",
+                        "firstName": "R",
+                        "lastName": "Serbanescu"
+                    },
+                    "1161426": {
+                        "instructorId": "1161426",
+                        "firstName": "B",
+                        "lastName": "Wilson"
+                    }
+                },
+                "meetingId": "3828",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "50",
+                "actualEnrolment": "41",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

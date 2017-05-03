@@ -1,0 +1,61 @@
+{
+    "MAT464H1-F-20169": {
+        "courseId": "3706",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Riemannian Geometry",
+        "code": "MAT464H1",
+        "courseDescription": "<p>Riemannian metrics. Levi-Civita connection. Geodesics. Exponential map. Second fundamental form. Complete manifolds and Hopf-Rinow theorem. Curvature tensors. Ricci curvature and scalar curvature. Spaces of constant curvature.<\/p>",
+        "prerequisite": "MAT367H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-36740": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "36740",
+                        "assignedRoom1": "BA 6183",
+                        "assignedRoom2": null
+                    },
+                    "TH-36741": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "36741",
+                        "assignedRoom1": "BA 6183",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160945": {
+                        "instructorId": "1160945",
+                        "firstName": "R",
+                        "lastName": "Rotman"
+                    }
+                },
+                "meetingId": "14688",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "6",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "HPS350H1-F-20169": {
+        "courseId": "1201",
+        "org": "IHPST",
+        "orgName": "History and Philosophy of Science and Technology (HPS) (JHE) (JPH)",
+        "courseTitle": "Revolution in Science",
+        "code": "HPS350H1",
+        "courseDescription": "<p>An investigation into the nature and development of scientific knowledge, inspired by Kuhns notion of revolutions. Topics may include, the rationality of theory choice, and social constructivism.<\/p>",
+        "prerequisite": "HPS250H1 or permission of the instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-35847": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "35847",
+                        "assignedRoom1": "VC 206",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160419": {
+                        "instructorId": "1160419",
+                        "firstName": "I",
+                        "lastName": "Dragos"
+                    }
+                },
+                "meetingId": "14586",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "57",
+                "actualEnrolment": "19",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

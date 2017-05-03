@@ -1,0 +1,53 @@
+{
+    "VIC119H1-S-20169": {
+        "courseId": "4560",
+        "org": "VIC",
+        "orgName": "Victoria College (VIC) (IVP) (JSV) (JFV)",
+        "courseTitle": "Myths and Legends in Modern Contexts",
+        "code": "VIC119H1",
+        "courseDescription": "<p>This course provides an introduction to modern forms of ancient narratives, exploring the ways in which selected ancient literary sources and myths have been adapted to modern Canadian literature. Ancient narratives or &lsquo;old stories&rsquo; are often reused, reinterpreted or reconstructed in modern narratives and given new relevance in a contemporary context. Students will encounter sources and contexts of ancient narratives.&nbsp;Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Innis One, Munk One, New One, SMC One, Trinity One, UC One, Vic One, Woodsworth One;  No more than another 0.5 FCE from 199 seminars or Vic One Hundred.",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-34242": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "34242",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 304"
+                    }
+                },
+                "instructors": {
+                    "1162741": {
+                        "instructorId": "1162741",
+                        "firstName": "R",
+                        "lastName": "Brandeis"
+                    }
+                },
+                "meetingId": "13672",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "21",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R2",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

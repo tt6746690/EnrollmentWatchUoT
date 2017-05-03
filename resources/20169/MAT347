@@ -1,0 +1,113 @@
+{
+    "MAT347Y1-Y-20169": {
+        "courseId": "1478",
+        "org": "MAT",
+        "orgName": "Mathematics (MAT) (APM) (JMB) (JUM)",
+        "courseTitle": "Groups, Rings and Fields",
+        "code": "MAT347Y1",
+        "courseDescription": "<p>Groups, subgroups, quotient groups, Sylow theorems, Jordan-H&ouml;lder theorem, finitely generated abelian groups, solvable groups. Rings, ideals, Chinese remainder theorem; Euclidean domains and principal ideal domains: unique factorization. Noetherian rings, Hilbert basis theorem. Finitely generated modules. Field extensions, algebraic closure, straight-edge and compass constructions. Galois theory, including insolvability of the quintic.<\/p>",
+        "prerequisite": "MAT257Y1\/(MAT247H1 and permission of the instructor)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-39337": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "39337",
+                        "assignedRoom1": "GB 220",
+                        "assignedRoom2": "GB 221"
+                    },
+                    "WE-39338": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "39338",
+                        "assignedRoom1": "GB 220",
+                        "assignedRoom2": "GB 221"
+                    }
+                },
+                "instructors": {
+                    "1160921": {
+                        "instructorId": "1160921",
+                        "firstName": "F",
+                        "lastName": "Murnaghan"
+                    }
+                },
+                "meetingId": "3176",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "85",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "TU-45027": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "45027",
+                        "assignedRoom1": "BA 2195",
+                        "assignedRoom2": "IN 204"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15116",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "43",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Time Changed: July 22, 2016",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "MO-42121": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "42121",
+                        "assignedRoom1": "UC 52",
+                        "assignedRoom2": "UC 52"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "15117",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "42",
+                "actualEnrolment": "7",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

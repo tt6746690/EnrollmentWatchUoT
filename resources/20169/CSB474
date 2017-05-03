@@ -1,0 +1,53 @@
+{
+    "CSB474H1-S-20169": {
+        "courseId": "385",
+        "org": "CSB",
+        "orgName": "Cell and Systems Biology (CSB) (BIO) (CJH)",
+        "courseTitle": "Methods in Genomics and Proteomics",
+        "code": "CSB474H1",
+        "courseDescription": "<p>This is a hands-on, laboratory based course offered through the Centre for the Analysis of Genome Evolution and Function (CAGEF).&nbsp; It will teach students how to produce and analyze data that are central to the fields of genomics and proteomics. Techniques taught include DNA and RNA extraction, PCR, DNA sequencing, quantitative PCR, transcript profiling using microarrays, 2D-gel proteome analysis, and associated bioinformatics analyses. (Lab Materials Fee: $50).<\/p>",
+        "prerequisite": "BIO260H1\/HMB265H1, BIO255H1\/CSB330H1\/CSB350H1 or by permission of the instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "BCH311H1\/CSB349H1\/MGY311Y1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Students must submit an application form to the CSB Undergraduate Office (RW424) by Monday, 20 June, to be considered with the first round of applicants.  Forms are available at www.csb.utoronto.ca\/undergraduate-studies\/forms. For more information, please contact the Undergraduate Coordinator, Janet Mannone, at janet.mannone@utoronto.ca.",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-42752": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "42752",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "ES 4076"
+                    }
+                },
+                "instructors": {
+                    "1159119": {
+                        "instructorId": "1159119",
+                        "firstName": "P",
+                        "lastName": "Wang"
+                    }
+                },
+                "meetingId": "821",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "21",
+                "actualEnrolment": "20",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

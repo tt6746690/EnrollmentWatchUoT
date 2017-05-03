@@ -1,0 +1,105 @@
+{
+    "EAS101Y1-Y-20169": {
+        "courseId": "489",
+        "org": "EAS",
+        "orgName": "East Asian Studies (EAS)",
+        "courseTitle": "Modern Chinese I for Students with Prior Background",
+        "code": "EAS101Y1",
+        "courseDescription": "<p>This course is designed for students who understand elementary Mandarin or any Chinese dialect because of their cultural or family backgrounds. The course consists of mandatory lectures and tutorials. Students will learn a minimum of 650 characters. Interviews are required of all students who wish to enrol in the course. See www.eas.utoronto.ca\/languages\/chinese for details.<!--EndFragment--><\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "EAS100Y1",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "In order to request enrolment in this course students must attend an interview. Returning students should attend an interview in April; incoming students in September. For more information and to register: \r\nhttp:\/\/www.eas.utoronto.ca\/languages\/chinese\/",
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-42783": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "42783",
+                        "assignedRoom1": "SS 1070",
+                        "assignedRoom2": "SS 1070"
+                    }
+                },
+                "instructors": {
+                    "1159378": {
+                        "instructorId": "1159378",
+                        "firstName": "G",
+                        "lastName": "Pan"
+                    }
+                },
+                "meetingId": "1063",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "60",
+                "actualEnrolment": "33",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0101": {
+                "schedule": {
+                    "WE-41619": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "09:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "41619",
+                        "assignedRoom1": "SK 114",
+                        "assignedRoom2": "SK 114"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "1064",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "16",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            },
+            "TUT-0201": {
+                "schedule": {
+                    "WE-41620": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "11:00",
+                        "meetingEndTime": "13:00",
+                        "meetingScheduleId": "41620",
+                        "assignedRoom1": "SK 114",
+                        "assignedRoom2": "SK 114"
+                    }
+                },
+                "instructors": [],
+                "meetingId": "1065",
+                "teachingMethod": "TUT",
+                "sectionNumber": "0201",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

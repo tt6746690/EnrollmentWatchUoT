@@ -1,0 +1,61 @@
+{
+    "LAT342H1-S-20169": {
+        "courseId": "3674",
+        "org": "CLAS",
+        "orgName": "Classics (CLA) (GRK) (LAT)",
+        "courseTitle": "Latin Orators I",
+        "code": "LAT342H1",
+        "courseDescription": "<p>Readings from Latin orators, including Cicero.<\/p>",
+        "prerequisite": "LAT202H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-45941": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "45941",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 404"
+                    },
+                    "TH-45942": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "45942",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "CR 404"
+                    }
+                },
+                "instructors": {
+                    "1160716": {
+                        "instructorId": "1160716",
+                        "firstName": "M",
+                        "lastName": "Dewar"
+                    }
+                },
+                "meetingId": "14120",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "15",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

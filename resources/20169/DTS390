@@ -1,0 +1,155 @@
+{
+    "DTS390H1-F-20169": {
+        "courseId": "482",
+        "org": "DTS",
+        "orgName": "Diaspora and Transnational Studies (DTS)",
+        "courseTitle": "Independent Study",
+        "code": "DTS390H1",
+        "courseDescription": "<p>A scholarly project chosen by the student, approved by the Department, and supervised by one of its instructors. Consult with the Diaspora and Transnational Studies Program Office for more information. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "DTS200Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159369": {
+                        "instructorId": "1159369",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1053",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "DTS390H1-S-20169": {
+        "courseId": "482",
+        "org": "DTS",
+        "orgName": "Diaspora and Transnational Studies (DTS)",
+        "courseTitle": "Independent Study",
+        "code": "DTS390H1",
+        "courseDescription": "<p>A scholarly project chosen by the student, approved by the Department, and supervised by one of its instructors. Consult with the Diaspora and Transnational Studies Program Office for more information. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "DTS200Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159370": {
+                        "instructorId": "1159370",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1054",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "DTS390Y1-Y-20169": {
+        "courseId": "483",
+        "org": "DTS",
+        "orgName": "Diaspora and Transnational Studies (DTS)",
+        "courseTitle": "Independent Study",
+        "code": "DTS390Y1",
+        "courseDescription": "<p>A scholarly project chosen by the student, approved by the Department, and supervised by one of its instructors. Consult with the Diaspora and Transnational Studies Program Office for more information. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "DTS200Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "",
+        "distributionCategories": "Humanities, Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159371": {
+                        "instructorId": "1159371",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "1055",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

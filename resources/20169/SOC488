@@ -1,0 +1,108 @@
+{
+    "SOC488H1-S-20169": {
+        "courseId": "4463",
+        "org": "SOC",
+        "orgName": "Sociology (SOC)",
+        "courseTitle": "Mental Health Over the Life Course",
+        "code": "SOC488H1",
+        "courseDescription": "<p>This course is a research-based exploration of mental health at all stages of life, from birth to death. It emphasizes the long-term consequences for mental health of childhood adversities and disadvantage, major life transitions, and turning points in the life course. Restricted to 4th-year sociology specialists and majors.<\/p>",
+        "prerequisite": "SOC202H1 or an equivalent statistics course",
+        "corequisite": "",
+        "exclusion": "SOC494H1F (12\/13) and SOC498H1S (14\/15)",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Society and its Institutions (3)",
+        "distributionCategories": "Social Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-44787": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "44787",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "SS 2114"
+                    }
+                },
+                "instructors": {
+                    "1162528": {
+                        "instructorId": "1162528",
+                        "firstName": "B",
+                        "lastName": "Wheaton"
+                    }
+                },
+                "meetingId": "13220",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "76",
+                        "postCode": "ASMAJ1013",
+                        "postName": "MA SOCIOLOGY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    },
+                    {
+                        "postId": "271",
+                        "postCode": "ASSPE1013",
+                        "postName": "SP SOCIOLOGY",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "4",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "RLG307H1-S-20169": {
+        "courseId": "2085",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Museums and Material Religion",
+        "code": "RLG307H1",
+        "courseDescription": "<p>Museums have long collected and curated religious objects for public audiences, with missionaries as a primary collections source. Multiple visits to the Royal Ontario Museum and other museums will enable students to think critically about how museums received and presented these objects, while engaging with the challenges of museum curation.<\/p>",
+        "prerequisite": "One FCE in Social Science or Humanities",
+        "corequisite": "None",
+        "exclusion": "None",
+        "recommendedPreparation": "None",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-24768": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "24768",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "VC 115"
+                    }
+                },
+                "instructors": {
+                    "1161933": {
+                        "instructorId": "1161933",
+                        "firstName": "M",
+                        "lastName": "Franz"
+                    }
+                },
+                "meetingId": "6760",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "70",
+                "actualEnrolment": "47",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

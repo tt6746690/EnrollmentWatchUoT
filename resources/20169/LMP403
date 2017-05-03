@@ -1,0 +1,86 @@
+{
+    "LMP403H1-S-20169": {
+        "courseId": "1438",
+        "org": "LMP",
+        "orgName": "Laboratory Medicine and Pathobiology (LMP)",
+        "courseTitle": "Immunopathology",
+        "code": "LMP403H1",
+        "courseDescription": "<p>The immune system in disease. Responses of the immune system to host invasion, injurious stimuli, and transplantation. Immunopathology of organ-specific diseases including pancreas, gut, liver, heart, kidney, and blood. Intended for students specializing in pathobiology or related programs.<\/p>",
+        "prerequisite": "(IMM340H1, IMM350H1)\/(IMM341H1, IMM351H1)",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-30474": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "30474",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MS 2173"
+                    }
+                },
+                "instructors": {
+                    "1160776": {
+                        "instructorId": "1160776",
+                        "firstName": "O",
+                        "lastName": "Adeyi"
+                    },
+                    "1160777": {
+                        "instructorId": "1160777",
+                        "firstName": "H",
+                        "lastName": "Ni"
+                    }
+                },
+                "meetingId": "2870",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "22",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "P",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "357",
+                        "postCode": "ASSPE2025",
+                        "postName": "SP PATHOBIOLOGY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

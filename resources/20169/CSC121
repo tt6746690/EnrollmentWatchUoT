@@ -1,0 +1,69 @@
+{
+    "CSC121H1-S-20169": {
+        "courseId": "2843",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Computer Science for Statistics",
+        "code": "CSC121H1",
+        "courseDescription": "<p>An introduction to computer science for students planning to use computers for statistical analysis and research. Using a statistical programming environment, fundamental programming concepts, and computational topics relevant to statistics, such as issues with numerical calculation, random number generation, and management of data. Practicals consist of supervised work in the computer laboratory to reinforce concepts and develop programming skills. No previous programming experience is necessary. Please consult with the CS Undergraduate office if you intend to continue on to CSC148H1.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "Any CSC course, with the exception of CSC104H1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-45608": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45608",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MB 128"
+                    },
+                    "WE-45610": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "45610",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BA CDF Labs"
+                    },
+                    "FR-45609": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45609",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "MB 128"
+                    }
+                },
+                "instructors": {
+                    "1159142": {
+                        "instructorId": "1159142",
+                        "firstName": "R",
+                        "lastName": "Neal"
+                    }
+                },
+                "meetingId": "6412",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "\"R\" programming language",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "156",
+                "actualEnrolment": "116",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

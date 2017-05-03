@@ -1,0 +1,89 @@
+{
+    "PHL247H1-S-20169": {
+        "courseId": "1753",
+        "org": "PHL",
+        "orgName": "Philosophy (PHL)",
+        "courseTitle": "Critical Reasoning",
+        "code": "PHL247H1",
+        "courseDescription": "<p>The area of informal logic - the logic of ordinary language, usually non-deductive. Criteria for the critical assessment of arguments as strong or merely persuasive. Different types of arguments and techniques of refutation; their use and abuse.<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "TRN200Y1",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-47796": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47796",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "OI 5170"
+                    },
+                    "FR-47797": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "47797",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BL 205"
+                    }
+                },
+                "instructors": {
+                    "1161313": {
+                        "instructorId": "1161313",
+                        "firstName": "T",
+                        "lastName": "Mathien"
+                    }
+                },
+                "meetingId": "15215",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "65",
+                "actualEnrolment": "53",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": "Room Changed: January 27, 2017",
+                "enrollmentControls": [
+                    {
+                        "postId": null,
+                        "postCode": null,
+                        "postName": null,
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": "84",
+                        "primaryOrgCode": "TYP",
+                        "primaryOrgName": "Transitional Year Programme",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

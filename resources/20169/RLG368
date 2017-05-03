@@ -1,0 +1,53 @@
+{
+    "RLG368H1-F-20169": {
+        "courseId": "4163",
+        "org": "RLG",
+        "orgName": "Religion (RLG) (MHB) (JPR)",
+        "courseTitle": "Yoga and Ayurveda",
+        "code": "RLG368H1",
+        "courseDescription": "<p>The course surveys the textual sources of the practices of Yoga and Ayurveda. It critically evaluates the assumption of an unbroken continuity of tradition of these practices from antiquity onwards and comes to consider what they have come to constitute as a result of modernity and globalization.<\/p>",
+        "prerequisite": "RLG205Y1; see note above for general prerequisites",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TU-25003": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "25003",
+                        "assignedRoom1": "SS 1080",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161952": {
+                        "instructorId": "1161952",
+                        "firstName": "S",
+                        "lastName": "Raman"
+                    }
+                },
+                "meetingId": "7001",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

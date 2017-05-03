@@ -1,0 +1,94 @@
+{
+    "PHC460H1-S-20169": {
+        "courseId": "1736",
+        "org": "PHM",
+        "orgName": "Pharmaceutical Chemistry (PHC) (JFP)",
+        "courseTitle": "Fundamentals of Drug Discovery",
+        "code": "PHC460H1",
+        "courseDescription": "<p>Lectures by scientists from academia and industry, and student seminars based on journal articles dealing with strategies for discovering new drugs for therapy and diagnosis. This course is restricted to Pharmaceutical Chemistry specialist program students.<\/p>",
+        "prerequisite": "BIO120H1, BIO130H1, PHC301H1 and enrolled as a Year 4 student in the Pharmaceutical Chemistry program.",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-27578": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "13:00",
+                        "meetingEndTime": "15:00",
+                        "meetingScheduleId": "27578",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "PB 245"
+                    },
+                    "WE-27579": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "15:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "27579",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "PB 245"
+                    }
+                },
+                "instructors": {
+                    "1161292": {
+                        "instructorId": "1161292",
+                        "firstName": "R",
+                        "lastName": "Laposa"
+                    },
+                    "1161293": {
+                        "instructorId": "1161293",
+                        "firstName": "P",
+                        "lastName": "Pennefather"
+                    }
+                },
+                "meetingId": "3495",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "10",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "R1",
+                "meetingStatusNotes": null,
+                "enrollmentControls": [
+                    {
+                        "postId": "291",
+                        "postCode": "ASSPE1211",
+                        "postName": "SP PHARMACEUTICAL CHEMISTRY",
+                        "subjectId": "1",
+                        "subjectCode": "*",
+                        "subjectName": "",
+                        "designationId": "1",
+                        "designationCode": "*",
+                        "designationName": "",
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": "1",
+                        "typeOfProgramCode": "*",
+                        "typeOfProgramName": "All Types",
+                        "primaryOrgId": "1",
+                        "primaryOrgCode": "*",
+                        "primaryOrgName": "",
+                        "secondaryOrgId": "1",
+                        "secondaryOrgCode": "*",
+                        "secondaryOrgName": "",
+                        "assocOrgId": "1",
+                        "assocOrgCode": "*",
+                        "assocOrgName": "",
+                        "adminOrgId": "1",
+                        "adminOrgCode": "*",
+                        "adminOrgName": ""
+                    }
+                ]
+            }
+        }
+    }
+}

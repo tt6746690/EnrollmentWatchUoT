@@ -1,0 +1,47 @@
+{
+    "PSL498Y1-Y-20169": {
+        "courseId": "1994",
+        "org": "PSL",
+        "orgName": "Physiology (PSL)",
+        "courseTitle": "Project in Physiology",
+        "code": "PSL498Y1",
+        "courseDescription": "<p>Laboratory research project with reading assignments leading to a final report. By special arrangement with a Physiology staff member after admission to course. <a target=_blank\" href=\"http:\/\/www.artsandscience.utoronto.ca\/ofr\/calendar\/crs_psl.htm#PSL498Y1\">PSL498Y1<\/a> is recommended for students applying to the Physiology graduate program.&nbsp; Enrollment in this course is restricted to students in the Physiology Specialist and Major Programs",
+        "prerequisite": "although permission is granted to students in other programs upon approval by the Department. Not eligible for CR\/NCR option.<\/p>\"",
+        "corequisite": "(PSL304H1, PSL305H1)\/PSL303Y1, PSL372H1, PSL374H1, permission of Department",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "Y",
+        "session": "20169",
+        "webTimetableInstructions": "Enrolment is done at the Department (not on ROSI\/ACORN). Please contact the course director, Dr. Anthony Gramolini, at anthony.gramolini@utoronto.ca for more information and visit the course website: http:\/\/www.physiology.utoronto.ca\/psl498y-project-physiology",
+        "breadthCategories": "Living Things and Their Environment (4)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": [],
+                "meetingId": "4056",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "17",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "NMC284H1-S-20169": {
+        "courseId": "1639",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Judaism and Feminism",
+        "code": "NMC284H1",
+        "courseDescription": "<p>Explores the interaction between Jewish religious and secular movements and feminism. Investigates Jewish law (halakha) and the Jewish legal (halakhic) process in terms of feminist critique. Marriage, divorce, Torah study, bat mitzvah, other ceremonies, female rabbinic ordination and womens prayer groups are some of the topics considered. (Offered in alternate years)<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "WE-45751": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45751",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "BF 315"
+                    }
+                },
+                "instructors": {
+                    "1161156": {
+                        "instructorId": "1161156",
+                        "firstName": "T",
+                        "lastName": "Meacham"
+                    }
+                },
+                "meetingId": "14903",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "30",
+                "actualEnrolment": "18",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "BCH441H1-F-20169": {
+        "courseId": "158",
+        "org": "BCH",
+        "orgName": "Biochemistry (BCH) (BCB)",
+        "courseTitle": "Bioinformatics",
+        "code": "BCH441H1",
+        "courseDescription": "<p>This course is an introduction to computational methods and internet resources in modern biochemistry and molecular biology. The main topics include: sequence and genome databases, sequence alignment and homology search, use and interpretation of molecular structure, and phylogenetic analysis. Assignments focus on hands-on competence building with web-based bioinformatics tools and databases, downloadable software including a molecular viewer and a multiple sequence alignment editor, and the statistics workbench and programming language &ldquo;R&rdquo;. For syllabus details see: <a target=_blank\" href=\"http:\/\/www.biochemistry.utoronto.ca\/undergraduates\/courses\/BCH441H1\/\">www.biochemistry.utoronto.ca\/undergraduates\/courses\/BCH441H\/<\/a><br \/><br \/>Note BCB420H1 extends this syllabus to computational topics of systems biology.<\/p>\"",
+        "prerequisite": "BCH210H1\/BCH242Y1; BCH311H1\/MGY311Y1\/PSL350H1 or special permission of the course coordinator",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TU-46593": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "17:00",
+                        "meetingEndTime": "18:00",
+                        "meetingScheduleId": "46593",
+                        "assignedRoom1": "WI 1016",
+                        "assignedRoom2": null
+                    },
+                    "TU-46594": {
+                        "meetingDay": "TU",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "46594",
+                        "assignedRoom1": "WI 1016",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158633": {
+                        "instructorId": "1158633",
+                        "firstName": "B",
+                        "lastName": "Steipe"
+                    }
+                },
+                "meetingId": "318",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "100",
+                "actualEnrolment": "48",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room changed: September 8th, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

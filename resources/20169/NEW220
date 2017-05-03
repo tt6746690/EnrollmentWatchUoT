@@ -1,0 +1,53 @@
+{
+    "NEW220H1-F-20169": {
+        "courseId": "3740",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Comparative Caribbean Literature I: Canonical Readings",
+        "code": "NEW220H1",
+        "courseDescription": "<p>Introduction to the rich and multi-linguistic literary traditions of the Caribbean and its diaspora, focusing on canonical texts of Caribbean literature.&nbsp; Texts not originally written in English are read in translation.&nbsp;<\/p>",
+        "prerequisite": "",
+        "corequisite": "",
+        "exclusion": "NEW222H1, NEW222Y1, NEW223Y1",
+        "recommendedPreparation": "NEW120Y1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "WE-21496": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "21496",
+                        "assignedRoom1": "WI 524",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161050": {
+                        "instructorId": "1161050",
+                        "firstName": "R",
+                        "lastName": "Victoriano-Martinez"
+                    }
+                },
+                "meetingId": "5992",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "10",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": null,
+                "enrollmentControls": []
+            }
+        }
+    }
+}

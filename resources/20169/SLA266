@@ -1,0 +1,53 @@
+{
+    "SLA266H1-S-20169": {
+        "courseId": "4288",
+        "org": "SLA",
+        "orgName": "Slavic Languages and Literature (SLA) (EST) (FIN)",
+        "courseTitle": "War and Culture",
+        "code": "SLA266H1",
+        "courseDescription": "<p>Poland and Europe 1914-1945.&nbsp; As we commemorate the centenary of the outbrake of WWI, this cataclysmic event that launched the 20th century and was followed by another total war soon after still defines our view of the world and understanding of it. It may be time now to look anew at how various forms of expression, including literature, film, theatre, painting and sculpture produced during the two wars, between them or many decades later deal with the extreme and everyday experiences, with shattered worlds of individuals, ethnicities, and nations.<\/p>",
+        "prerequisite": "SLA216H1 or permission of the instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47490": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "16:00",
+                        "meetingScheduleId": "47490",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "TF 101"
+                    }
+                },
+                "instructors": {
+                    "1162352": {
+                        "instructorId": "1162352",
+                        "firstName": "L",
+                        "lastName": "Wodzynski"
+                    }
+                },
+                "meetingId": "12631",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "35",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "Room Change: Dec. 20, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "NML380H1-S-20169": {
+        "courseId": "4683",
+        "org": "NMC",
+        "orgName": "Near & Middle Eastern Civilizations (NMC) (NML)",
+        "courseTitle": "Introduction to Ge'ez (Classical Ethiopic)",
+        "code": "NML380H1",
+        "courseDescription": "<div>This course covers the essentials of Ge'ez (Classical Ethiopic) grammar, and introduces students to Ge'ez texts of elementary to intermediate difficulty.<\/div>\n<div>Designed for students with no previous knowledge of Ge'ez.<\/div>",
+        "prerequisite": "NML110Y1\/NML220Y1\/NML250Y1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-44111": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44111",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LI 301"
+                    },
+                    "WE-44112": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "12:00",
+                        "meetingScheduleId": "44112",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LI 301"
+                    }
+                },
+                "instructors": {
+                    "1161212": {
+                        "instructorId": "1161212",
+                        "firstName": "R",
+                        "lastName": "Holmstedt"
+                    }
+                },
+                "meetingId": "14653",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

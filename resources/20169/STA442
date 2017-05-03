@@ -1,0 +1,53 @@
+{
+    "STA442H1-F-20169": {
+        "courseId": "2446",
+        "org": "STAT",
+        "orgName": "Statistical Sciences (STA) (ACT)",
+        "courseTitle": "Methods of Applied Statistics",
+        "code": "STA442H1",
+        "courseDescription": "<p>Advanced topics in statistics and data analysis with emphasis on applications. Diagnostics and residuals in linear models, introduction to generalized linear models, graphical methods, additional topics such as random effects models, designed experiments, model selection,&nbsp; analysis of censored data, introduced as needed in the context of case studies.<\/p>",
+        "prerequisite": "STA302H1, CSC108H1\/CSC120H1\/CSC121H1\/CSC148H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "At least an additional 1.0 FCE in STA courses at the 300 or 400 level",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "FR-45973": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "14:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "45973",
+                        "assignedRoom1": "SS 2117",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1162622": {
+                        "instructorId": "1162622",
+                        "firstName": "L",
+                        "lastName": "Brunner"
+                    }
+                },
+                "meetingId": "5029",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "120",
+                "actualEnrolment": "82",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

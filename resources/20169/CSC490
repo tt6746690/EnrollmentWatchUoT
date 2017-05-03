@@ -1,0 +1,69 @@
+{
+    "CSC490H1-F-20169": {
+        "courseId": "442",
+        "org": "CSC",
+        "orgName": "Computer Science (CSC) (ECE)",
+        "courseTitle": "Capstone Design Project",
+        "code": "CSC490H1",
+        "courseDescription": "<p>This half-course gives students experience solving a substantial problem that may span several areas of Computer Science. Students will define the scope of the problem, develop a solution plan, produce a working implementation, and present their work using written, oral, and (if suitable) video reports. Class time will focus on the project, but may include some lectures. The class will be small and highly interactive. Project themes change each year. Contact the Computer Science Undergraduate Office for information about this year&rsquo;s topic themes, required preparation, and course enrolment procedures. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "Permission of the instructor",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "To enrol in this course, please contact the Computer Science Undergraduate Office at ug@cs.toronto.edu.",
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-47317": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47317",
+                        "assignedRoom1": "LA 341",
+                        "assignedRoom2": null
+                    },
+                    "WE-47318": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47318",
+                        "assignedRoom1": "LA 341",
+                        "assignedRoom2": null
+                    },
+                    "FR-47319": {
+                        "meetingDay": "FR",
+                        "meetingStartTime": "10:00",
+                        "meetingEndTime": "11:00",
+                        "meetingScheduleId": "47319",
+                        "assignedRoom1": "LA 341",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1159313": {
+                        "instructorId": "1159313",
+                        "firstName": "F",
+                        "lastName": "Rudzicz"
+                    }
+                },
+                "meetingId": "13250",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Artificial Intelligence in Clinical Medicine",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "40",
+                "actualEnrolment": "12",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "Title Changed: November 21, 2016",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

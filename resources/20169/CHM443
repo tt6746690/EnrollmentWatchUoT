@@ -1,0 +1,61 @@
+{
+    "CHM443H1-S-20169": {
+        "courseId": "243",
+        "org": "CHM",
+        "orgName": "Chemistry (CHM) (JSC)",
+        "courseTitle": "Physical Organic Chemistry",
+        "code": "CHM443H1",
+        "courseDescription": "<p>Noncovalent binding forces, solutions, and molecular recognition. Electronic structure theory and computational techniques. Reaction mechanisms: experimental probes and reactive intermediates, including carbenes and radicals. Photophysics and photochemistry of organic compounds.<\/p>",
+        "prerequisite": "CHM220H1\/CHM222H1\/CHM225Y1, CHM348H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "The Physical and Mathematical Universes (5)",
+        "distributionCategories": "Science",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "MO-41267": {
+                        "meetingDay": "MO",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41267",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 157"
+                    },
+                    "WE-41268": {
+                        "meetingDay": "WE",
+                        "meetingStartTime": "16:00",
+                        "meetingEndTime": "17:00",
+                        "meetingScheduleId": "41268",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "LM 157"
+                    }
+                },
+                "instructors": {
+                    "1158938": {
+                        "instructorId": "1158938",
+                        "firstName": "M",
+                        "lastName": "Taylor"
+                    }
+                },
+                "meetingId": "577",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "13",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

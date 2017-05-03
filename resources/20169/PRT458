@@ -1,0 +1,53 @@
+{
+    "PRT458H1-S-20169": {
+        "courseId": "4066",
+        "org": "SPA",
+        "orgName": "Spanish (SPA) (PRT)",
+        "courseTitle": "The Luso-Brazilian Short Story",
+        "code": "PRT458H1",
+        "courseDescription": "<p>The development of the Luso-Brazilian short story. Examination of theories of the genre as they relate to short stories of Machado de Assis, E&ccedil;a de Queiroz, Graciliano Ramos, Jo&atilde;o Guimaraes Rosa, Clarice Lispector and others. (Offered in alternate years)<\/p>",
+        "prerequisite": "PRT258H1",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "PRT320Y1, PRT420H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": null,
+        "breadthCategories": "Creative and Cultural Representations (1)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-5101": {
+                "schedule": {
+                    "TH-31906": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "18:00",
+                        "meetingEndTime": "20:00",
+                        "meetingScheduleId": "31906",
+                        "assignedRoom1": null,
+                        "assignedRoom2": "EM 105"
+                    }
+                },
+                "instructors": {
+                    "1161688": {
+                        "instructorId": "1161688",
+                        "firstName": "A",
+                        "lastName": "Jordao"
+                    }
+                },
+                "meetingId": "13916",
+                "teachingMethod": "LEC",
+                "sectionNumber": "5101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "Y",
+                "online": "",
+                "enrollmentCapacity": "20",
+                "actualEnrolment": "4",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": null,
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

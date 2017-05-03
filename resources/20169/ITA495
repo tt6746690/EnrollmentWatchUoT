@@ -1,0 +1,104 @@
+{
+    "ITA495H1-F-20169": {
+        "courseId": "1336",
+        "org": "ITA",
+        "orgName": "Italian (ITA)",
+        "courseTitle": "Directed Research",
+        "code": "ITA495H1",
+        "courseDescription": "<p>Based on a professor&rsquo;s research project currently in progress, this course will enable an undergraduate student to play a useful role in the project while receiving concrete training in research. This course is mandatory for all students enrolled in the specialist&rsquo;s program.<\/p>",
+        "prerequisite": "Permission of Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: contact the Undergraduate Coordinator at 416-926-2338 or italian.undergrad@utoronto.ca for an appointment. Departmental Hours: Monday to Friday 9:00 a.m. to 5:00 p.m.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160641": {
+                        "instructorId": "1160641",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "2674",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "2",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "ITA495H1-S-20169": {
+        "courseId": "1336",
+        "org": "ITA",
+        "orgName": "Italian (ITA)",
+        "courseTitle": "Directed Research",
+        "code": "ITA495H1",
+        "courseDescription": "<p>Based on a professor&rsquo;s research project currently in progress, this course will enable an undergraduate student to play a useful role in the project while receiving concrete training in research. This course is mandatory for all students enrolled in the specialist&rsquo;s program.<\/p>",
+        "prerequisite": "Permission of Department",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "For 'E' indicator courses: contact the Undergraduate Coordinator at 416-926-2338 or italian.undergrad@utoronto.ca for an appointment. Departmental Hours: Monday to Friday 9:00 a.m. to 5:00 p.m.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1160642": {
+                        "instructorId": "1160642",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "2675",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}

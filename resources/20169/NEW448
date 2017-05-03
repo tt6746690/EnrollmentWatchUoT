@@ -1,0 +1,81 @@
+{
+    "NEW448H1-F-20169": {
+        "courseId": "3769",
+        "org": "NEW",
+        "orgName": "New College (NEW) (ELL) (IFP) (JQR) (JHN) (JLN) (JNH) ",
+        "courseTitle": "Advanced Special Topics in Disability Studies",
+        "code": "NEW448H1",
+        "courseDescription": "<p>An advanced level seminar course.&nbsp; Topics of study vary from year to year.<\/p>",
+        "prerequisite": "NEW240Y1\/NEW241Y1 and an additional 0.5 Equity Studies Core Group 300+ level course",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "For \u201cAE\u201d indicator courses: contact the Program Secretary, Room 133, 300 Huron Street, Monday to Friday, 9:00 a.m. to 1:00 p.m. and 2:00 p.m. to 4:30 p.m. Email: nc.programs@utoronto.ca. Phone: 416-978-5404.",
+        "breadthCategories": "Thought, Belief and Behaviour (2)",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "TH-45315": {
+                        "meetingDay": "TH",
+                        "meetingStartTime": "12:00",
+                        "meetingEndTime": "14:00",
+                        "meetingScheduleId": "45315",
+                        "assignedRoom1": "WI 2008",
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1161108": {
+                        "instructorId": "1161108",
+                        "firstName": "A",
+                        "lastName": "McGuire"
+                    }
+                },
+                "meetingId": "14044",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "Disability and the Child",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "25",
+                "actualEnrolment": "23",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "AE",
+                "meetingStatusNotes": "",
+                "enrollmentControls": [
+                    {
+                        "postId": "89",
+                        "postCode": "ASMAJ1140",
+                        "postName": "MA EQUITY STUDIES",
+                        "subjectId": null,
+                        "subjectCode": null,
+                        "subjectName": null,
+                        "designationId": null,
+                        "designationCode": null,
+                        "designationName": null,
+                        "yearOfStudy": "*",
+                        "typeOfProgramId": null,
+                        "typeOfProgramCode": null,
+                        "typeOfProgramName": null,
+                        "primaryOrgId": null,
+                        "primaryOrgCode": null,
+                        "primaryOrgName": null,
+                        "secondaryOrgId": null,
+                        "secondaryOrgCode": null,
+                        "secondaryOrgName": null,
+                        "assocOrgId": null,
+                        "assocOrgCode": null,
+                        "assocOrgName": null,
+                        "adminOrgId": null,
+                        "adminOrgCode": null,
+                        "adminOrgName": null
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "CJS499H1-F-20169": {
+        "courseId": "281",
+        "org": "JSP",
+        "orgName": "Jewish Studies, Centre for (CJS) (JGJ)",
+        "courseTitle": "Independent Study",
+        "code": "CJS499H1",
+        "courseDescription": "<p>A scholarly project on an approved topic supervised by a faculty affiliated with the Centre for Jewish Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "CJS200H1 and permission of the Centre",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "CJS400H1",
+        "section": "F",
+        "session": "20169",
+        "webTimetableInstructions": "Please contact Emily Springgay at cjs.toronto@utoronto.ca or 416-978-1624 to enrol in this course.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158988": {
+                        "instructorId": "1158988",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "661",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "3",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    },
+    "CJS499H1-S-20169": {
+        "courseId": "281",
+        "org": "JSP",
+        "orgName": "Jewish Studies, Centre for (CJS) (JGJ)",
+        "courseTitle": "Independent Study",
+        "code": "CJS499H1",
+        "courseDescription": "<p>A scholarly project on an approved topic supervised by a faculty affiliated with the Centre for Jewish Studies. Not eligible for CR\/NCR option.<\/p>",
+        "prerequisite": "CJS200H1 and permission of the Centre",
+        "corequisite": "",
+        "exclusion": "",
+        "recommendedPreparation": "CJS400H1",
+        "section": "S",
+        "session": "20169",
+        "webTimetableInstructions": "Please contact Emily Springgay at cjs.toronto@utoronto.ca or 416-978-1624 to enrol in this course.",
+        "breadthCategories": "",
+        "distributionCategories": "Humanities",
+        "meetings": {
+            "LEC-0101": {
+                "schedule": {
+                    "-": {
+                        "meetingDay": null,
+                        "meetingStartTime": null,
+                        "meetingEndTime": null,
+                        "meetingScheduleId": null,
+                        "assignedRoom1": null,
+                        "assignedRoom2": null
+                    }
+                },
+                "instructors": {
+                    "1158989": {
+                        "instructorId": "1158989",
+                        "firstName": "",
+                        "lastName": "STAFF"
+                    }
+                },
+                "meetingId": "662",
+                "teachingMethod": "LEC",
+                "sectionNumber": "0101",
+                "subtitle": "",
+                "cancel": "",
+                "waitlist": "N",
+                "online": "",
+                "enrollmentCapacity": "9999",
+                "actualEnrolment": "0",
+                "actualWaitlist": "0",
+                "enrollmentIndicator": "E",
+                "meetingStatusNotes": "",
+                "enrollmentControls": []
+            }
+        }
+    }
+}
