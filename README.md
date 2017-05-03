@@ -15,25 +15,55 @@
       + overwrite if changed
       + requires
         + procedure to `read`/`write` data. `write` is assumed to be infrequent
+    + efficiency
+      + incorporate use of `thread` in downloading about 5000 json files each time
 + storage
   + `course = code-section-session` (`CSC369H1-F-20169`)
   + as json file for each `course`
     + under `/resources/session/subject` (`/resources/20169/`)
     + info related to course, section, instructor, meeting, schedule,
     + assuming general information changes infrequently and only the lastest version is of importance
+  + write a simple API for update (i.e. `read`/`write` specific fields)
 + database
   + `enrolment` for each `course`
     + `waitlist`: `bool`
     + `actual_enrolment`: `int`
     + `actual_waitlist`: `int`
     + `timestamp`: `time`
++ statistical inference
+  + enrollment/waitlist prediction
+    + time series analysis: have to look more into this
+    + think about smaller problem that behaves nicer
+  + enrollment/waitlist
+    + correlation with other features (that may help to infer future..), i.e.  
+      + length of lecture
+      + instructor
+  + use of machine learning in any way?
+    + ask others
++ backend: flask
+  + keep it simple
++ frontend: react
+  + keep it simple
 
 
----
+
+
+## Objectives
++ refresher on sql/database stuff
++ try out flask/react  
++ statistics problem solving
++ implement part of project with cpp? (think about it)
++ learn how daemon works
+
+
 ```
 jupyter nbconvert scraper.py.ipynb --to script
 ```
+
+
 ---
+
+# Python Libs Notes
 
 ## `urllib`
 
@@ -90,7 +120,6 @@ jupyter nbconvert scraper.py.ipynb --to script
     + `reason`
 
 
----
 
 ## `re`
 + regular expression matching
@@ -109,7 +138,6 @@ jupyter nbconvert scraper.py.ipynb --to script
     + `if match` evaluates if match
 
 
----
 
 ## data structure
 
@@ -128,9 +156,8 @@ jupyter nbconvert scraper.py.ipynb --to script
 ``
 
 
----
 
-## IO
+## I/O
 + `open(file, mode='r', ...)`
   + open file and return _file object_
   + `file`:
@@ -153,7 +180,6 @@ jupyter nbconvert scraper.py.ipynb --to script
 + read more on `json` and `pickle` modules
 
 
----
 
 ## JSON
 + `json.dump(obj, fp, ...)`
@@ -172,60 +198,3 @@ jupyter nbconvert scraper.py.ipynb --to script
 
 
 ---
-
-
-<details>
-<summary>Tables</summary>
-instructor
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;instuctorId
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; firstName
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; lastName
-schedule
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meetingDay
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meetingStartTime
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meetingEndTime
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meetingScheduledId
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; assignedRoom1
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; assignedRoom2
-post
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; postId
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; postCode
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; subjectId:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; subjectCode: `CSC`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; designationId
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ...
-  ...
-meetings
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; schedule
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; instructor
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meetingId
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; teachingMethod : `LEC` or `TUT`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sectionNumber: `0101`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; subtitle
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cancel
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; waitlist : `Y` or `N`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; online
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; enrollmentCapacity
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; actualEnrolment
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; actualWaitlist
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; enrollmentIndicator: `P`, ...
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meetingStatusNotes
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; enrollmentControls: [post]
-course `CSC209H1-F-20169` (i.e. `code-section-session`)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; courseId
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; org: `CSC`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; orgNmae: `Computer Science (CSC) (ECE)`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; courseTitle: `SoftwareTools and Systems Programming`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; code: `CSC209H1`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; courseDescription: `<p>software techiniques...`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; prerequisite: `CSC207H1`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; corequisite:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; exclusion: `CSC373H1, CSC369H1, ...`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recommendedPreparation:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; section: `F`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; session: `20169`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; webTimetableInstruction
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; breadthCategories: `The Physical and Mathematical Universe (5)`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; distributionCategories: `Science`
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meetings: meetings
-</details>
