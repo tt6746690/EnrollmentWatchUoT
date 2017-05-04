@@ -29,8 +29,11 @@
     + `waitlist`: `bool`
     + `actual_enrolment`: `int`
     + `actual_waitlist`: `int`
-    + `timestamp`: `time`
+    + `timestamp`: `time` as epoch time
 + statistical inference
+  + exploratory
+    + interested in enrollment period
+      +
   + enrollment/waitlist prediction
     + time series analysis: have to look more into this
     + think about smaller problem that behaves nicer
@@ -195,6 +198,12 @@ jupyter nbconvert scraper.py.ipynb --to script
   + `json.JSONDecoder`
     + conversion table by default
     + ![](assets/README-f1316.png)
+
+
+## OS
+
++ `os.listdir(path)`
+  + excludes `.` or `..` entries
 
 
 ---
