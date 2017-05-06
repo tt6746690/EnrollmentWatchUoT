@@ -29,9 +29,18 @@
     + `timestamp`: `time` as epoch time
 + statistical inference
   + exploratory
-    + interested in enrollment period
-      + waitlist or S section code courses close
-      + Jan 18, 2017 last day to add and change meeting sections in S courses
+    + data that is relevant
+      + before Jan 18, 2017 last day to add and change meeting sections in S courses
+      + `waitlist = Y`
+      + `teachingMethod = LEC`
+      + `section = S`
+      + `actualWaitlist` is not zero most of the time
+    + features  
+      + year offer (1-4)
+      + enrollmentCapacity
+      + department (`CSC`, `STA`)
+      + time till last day to drop waitlist
+      + `demand = actualEnrolment * actualWaitlist`
   + enrollment/waitlist prediction
     + time series analysis: have to look more into this
     + think about smaller problem that behaves nicer
