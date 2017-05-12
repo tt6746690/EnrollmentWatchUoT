@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "removeComments": true,
+        "allowJs": true,
+        "module": "commonjs",
+        "lib": [
+            "dom",
+            "es5",
+            "scripthost"
+        ],
+        "target": "es5",
+        "jsx": "react"
+    },
+    "include": [
+        "./src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

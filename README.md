@@ -54,6 +54,21 @@
   + keep it simple
 + frontend: react
   + keep it simple
++ UI 
+  + search bar 
+    + feed course code into it 
+  + line graph
+    + no network request
+      + enroll or waitlist
+      + mean waitlist number adjustable 
+    + requires re-fetch 
+      + different subject
+    + highlight onselect
+    + info panel 
+      + actual enrolment number 
+      + course name
+    + axis 
+    + 
 
 
 
@@ -65,7 +80,3 @@
 + implement part of project with cpp? (think about it)
 + learn how daemon works
 
-
-```
-jupyter nbconvert scraper.py.ipynb --to script
-```
