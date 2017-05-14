@@ -6,6 +6,7 @@ import sys
 from settings import DATA_201701, CUTOFF_DATE, INFO_FLAG, FIG_SIZE, BATCH_LINE_GRAPH
 
 
+
 def get_line_graph(img, c, nc):
     SAVED_IMAGE = img
     COURSE_CODES = c
@@ -106,8 +107,7 @@ def get_line_graph(img, c, nc):
     ax.get_yaxis().tick_left()
 
 
-    courseID = df["id"].unique()
-
+    courseID = df["id"].unique()  
     for rank, course_id in enumerate(courseID):
         color = tableau20[rank % 20]
         

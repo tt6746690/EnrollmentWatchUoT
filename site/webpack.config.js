@@ -11,7 +11,6 @@ module.exports = {
         // add .ts and .tsx as resolvable extensions 
         extensions: [".ts", ".tsx", ".js", ".json"]
     },
-
     module: {
         rules: [
             // all files with `.ts` and `.tsx` will be handled by `awesome-typescript-loader` 
