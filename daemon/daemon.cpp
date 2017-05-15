@@ -4,21 +4,29 @@
 
 using namespace std;
 
+std::string format_err_msg(int err, const std::string& msg){
+    std::string errn = std::to_string(err);
+    std::string errstr(std::strerror(err));
+    return errn + "-" + errstr + ": " + msg; 
+}
+
+void throw_last_err(bool expr, const std::string& msg){
+    if(expr){
+        throw DaemonRuntimeException(errno, msg);
+    }
+}
+
 int Daemon::initialize(){
 
     pid_t pid, sid;
     int curfd;
     int fd[2];
-    int nbytes = 1, flag;
+    int nbytes = 1, flag = INIT_FAIL;
 
-    if(pipe(fd) < 0){
-        perror("pipe");
-        return -1;
-    }
+    if(pipe(fd) < 0){ return INIT_FAIL; }
 
     if((pid = fork()) < 0){
-        perror("fork");
-        return -1;
+        return INIT_FAIL;
     } else if(pid > 0){
         /*
          * Parent process exists upon receiving 
@@ -28,23 +36,19 @@ int Daemon::initialize(){
          */
         close(fd[1]);
         if(read(fd[0], &flag, nbytes) < 0){
-            perror("read");
-            return -1;
+            return INIT_FAIL;
         }
         if(flag == INIT_SUCCESS){
-            // cout << "parent " << getpid() << " exited successfully " << endl;
             close(fd[0]);
             exit(EXIT_SUCCESS);
-        } else if(flag == INIT_FAIL){
-            return -1;
+        } else{
+            return INIT_FAIL;
         }
     } else{
         close(fd[0]);
     }    
-
     if((sid = setsid()) < 0){
-        perror("setsid");
-        return -1;
+        return INIT_FAIL;
     }
 
     /* 
@@ -53,16 +57,14 @@ int Daemon::initialize(){
      * -- write to fd[1] on success from daemon process
      */
     if((pid = fork()) < 0){
-        perror("fork");
-        return -1;
+        return INIT_FAIL;
     } else if(pid > 0){
         close(fd[1]);
         exit(EXIT_SUCCESS);
     } else{
         flag = INIT_SUCCESS;
         if(write(fd[1], &flag, nbytes) < 0){
-            perror("write");
-            return -1;
+            return INIT_FAIL;
         }
         close(fd[1]);
     }
@@ -72,21 +74,21 @@ int Daemon::initialize(){
     // }
     umask(0);
     if(chdir("/") < 0){
-        perror("chdir");
-        return -1;
+        return INIT_FAIL;
     }
-    
-    cout << getpid() << " parent: " << getppid() << endl;
-    return pid;
+    return getpid();
 }
 
 int main(int argc, char **argv){
 
     unused(argc, argv);
 
-    Daemon* d = new Daemon();
+    try{
+        Daemon* d = new Daemon();
+        cout << "daemon with pid = " << d->pid << endl;
+    } catch(const DaemonRuntimeException& e){
+        cout << e.what() << endl;
+    }
 
-    cout << " daemon with pid = " << d->pid << endl;
-   
     return 0;
 }

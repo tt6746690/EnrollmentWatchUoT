@@ -5,7 +5,7 @@ EXECUTABLES = $(CPP_FILES:.cpp=)
 
 all: $(EXECUTABLES)
 
-%: %.cpp
+%: %.cpp %.h
 	$(COMPILER) $(FLAGS) -o $@ $<
 
 run: 
