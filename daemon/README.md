@@ -10,6 +10,7 @@
 
 
 + _Daemon_ 
+    + [beginner's guide](http://shahmirj.com/blog/beginners-guide-to-creating-a-daemon-in-linux) and [stackoverflow answer](http://stackoverflow.com/questions/17954432/creating-a-daemon-in-linux)
     + steps 
         + fork child, exit parent process, process adopted by `init`
         + `setsid`: 
@@ -23,7 +24,7 @@
         + `umask`
         + `close` all fd inherited from parents
     + [tutorial](http://0pointer.de/public/systemd-man/daemon.html#New-Style%20Daemons)
-
+    + some of the [features](http://libslack.org/daemon/manpages/daemon.1.html) to impl. later
 
 
 
@@ -42,4 +43,9 @@
     + motivation 
         + A session is a set of processes which shares a controlling terminal
 
+
+
++ _exception handling_ 
+    + [microsoft tutorial](https://msdn.microsoft.com/en-us/library/hh279691.aspx)
+        + when calling non-exception function, wrap that function in C++ that detects error and throw exceptions
 
