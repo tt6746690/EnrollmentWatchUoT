@@ -19,11 +19,11 @@ int Daemon::spawn(){
 
     pid_t pid, sid;
     int fd[2];
-    int nbytes = 1, flag = INIT_FAIL;
+    int nbytes = 1, flag = SYSCALL_FAIL;
 
-    if(pipe(fd) < 0){ return INIT_FAIL; }
+    if(pipe(fd) < 0){ return SYSCALL_FAIL; }
 
-    if((pid = fork()) < 0){ return INIT_FAIL; }
+    if((pid = fork()) < 0){ return SYSCALL_FAIL; }
     else if(pid > 0){
         /*
          * Parent process exists upon receiving 
@@ -32,20 +32,20 @@ int Daemon::spawn(){
          * fails at some point
          */
 
-        if(close(fd[1]) < 0){ return INIT_FAIL; }
-        if(read(fd[0], &flag, nbytes) < 0){ return INIT_FAIL; }
+        if(close(fd[1]) < 0){ return SYSCALL_FAIL; }
+        if(read(fd[0], &flag, nbytes) < 0){ return SYSCALL_FAIL; }
 
-        if(flag == INIT_SUCCESS){
+        if(flag == SYSCALL_SUCCESS){
             exit(EXIT_SUCCESS);
         } else{
-            return INIT_FAIL;
+            return SYSCALL_FAIL;
         }
     } else{
-        if(close(fd[0]) < 0){ return INIT_FAIL; }
+        if(close(fd[0]) < 0){ return SYSCALL_FAIL; }
     }    
 
 
-    if((sid = setsid()) < 0){ return INIT_FAIL; }
+    if((sid = setsid()) < 0){ return SYSCALL_FAIL; }
 
 
     /* 
@@ -53,13 +53,13 @@ int Daemon::spawn(){
      * -- close fd[1] for parent and exists
      * -- write to fd[1] on success from daemon process
      */
-    if((pid = fork()) < 0){ return INIT_FAIL; }
+    if((pid = fork()) < 0){ return SYSCALL_FAIL; }
     else if(pid > 0){
         exit(EXIT_SUCCESS);
     } else{
-        flag = INIT_SUCCESS;
-        if(write(fd[1], &flag, nbytes) < 0){ return INIT_FAIL; }
-        if(close(fd[1]) < 0){ return INIT_FAIL; }
+        flag = SYSCALL_SUCCESS;
+        if(write(fd[1], &flag, nbytes) < 0){ return SYSCALL_FAIL; }
+        if(close(fd[1]) < 0){ return SYSCALL_FAIL; }
     }
     return getpid();
 }
@@ -75,16 +75,15 @@ int Daemon::configure(){
     }
 
     if(chdir(this->working_dir.c_str()) < 0){
-        return INIT_FAIL;
+        return SYSCALL_FAIL;
     }
 
     umask(this->mask);
 
-    int curfd;
-    for(curfd = sysconf(_SC_OPEN_MAX); curfd >= 0; curfd--){
-        fcntl(curfd, F_SETFD, FD_CLOEXEC);
-    }
-    std::cout << "Here" << std::endl;
+    // int curfd;
+    // for(curfd = sysconf(_SC_OPEN_MAX); curfd >= 0; curfd--){
+    //     close(curfd);
+    // }
     
     /* Saves name.pid, indicating active daemon */
     std::ofstream pid_fs(pidp, std::ofstream::out);
@@ -95,10 +94,28 @@ int Daemon::configure(){
     setlogmask(LOG_UPTO(LOG_NOTICE));
     openlog(this->name.c_str(), LOG_PID, LOG_DAEMON);
 
-    return INIT_SUCCESS;
+    return SYSCALL_SUCCESS;
 }
 
+int Daemon::destroy(){
+    struct stat buf;
+    const char *pidp = (this->pidfile_path + this->pidfile).c_str();
+    std::cout << pidp << std::endl;
 
+    if(stat(pidp, &buf) < 0){ 
+        return SYSCALL_FAIL;
+    }
+
+    std::cout << "in destructor" << std::endl;
+    
+    if(std::remove(pidp) < 0){ 
+        throw DaemonRuntimeException(errno, "Cannot remove daemon pidfile.");
+    }
+
+    closelog();
+
+    return SYSCALL_SUCCESS;
+}
 
 
 int main(int argc, char **argv){
@@ -106,8 +123,8 @@ int main(int argc, char **argv){
     unused(argc, argv);
 
     try{
-        Daemon* d = new Daemon();
-        std::cout << "daemon with pid = " << d->pid << std::endl;
+        std::auto_ptr <Daemon> d(new Daemon);
+        usleep(3000000);
     } catch(const DaemonRuntimeException& e){
         std::cout << e.what() << std::endl;
     }

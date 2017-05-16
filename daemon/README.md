@@ -49,3 +49,17 @@
     + [microsoft tutorial](https://msdn.microsoft.com/en-us/library/hh279691.aspx)
         + when calling non-exception function, wrap that function in C++ that detects error and throw exceptions
 
+
++ _destructor_ 
+    ```cpp
+    int main(){
+        Foo *ptr=  new Foo()
+        return 0;
+    }
+    ```
+    + automatic variable `ptr` is destroyed when goes out of scope 
+    + however, what `ptr` points to is dynamically allocated, hence not destroyed, so have to 
+        + `delete ptr;`
+    + alternatively we use `std::auto_ptr` in C++03
+        + `Foo` that `ptr` points is deleted in `auto_ptr`'s destructor when `ptr` goes out of scope
+        + `std::auto_ptr <Foo> ptr(new Foo)`

@@ -3,7 +3,7 @@
 
 #include <cstdlib>          // exit
 #include <cstdio>           // remove
-#include <unistd.h>         // fork
+#include <unistd.h>         // fork, usleep
 #include <fcntl.h>          // close fd
 #include <sys/stat.h>       // umask / flags
 #include <syslog.h>       
@@ -18,8 +18,8 @@
 template <typename... Args> inline void unused(Args&&...) {}
 
 
-#define INIT_SUCCESS 1
-#define INIT_FAIL 0
+#define SYSCALL_SUCCESS 1
+#define SYSCALL_FAIL 0
 #define SYSLOG_OUT "/var/log/system.log" 
 
 /*
@@ -64,14 +64,14 @@ class Daemon{
          * -- fork: detach from calling terminal
          * Returns
          * -- pid of daemon on success 
-         * -- INIT_FAIL for sys call failure
+         * -- SYSCALL_FAIL for sys call failure
          * Note processes are exited properly during initialization
          */
         int spawn();
         /*
          * Configures daemon
          * -- check for pidfile at pidfile_path
-         * ---- return INIT_FAIL if another instance of daemon is present
+         * ---- throws runtime exception if another instance of daemon is present
          * ---- continue otherwise
          * -- change directory 
          * -- clears umask for explicit file creation
@@ -79,8 +79,8 @@ class Daemon{
          * -- saves daemon pid to pidfile at pidfile_path
          * -- setup syslog facilities 
          * Returns 
-         * -- INIT_SUCCESS on success
-         * -- INIT_FAIL on failure
+         * -- SYSCALL_SUCCESS on success
+         * -- SYSCALL_FAIL on failure
          */
         int configure();
         /*
@@ -96,28 +96,31 @@ class Daemon{
         std::string working_dir = "/";
         mode_t mask = S_IRWXU | S_IRWXG | S_IRWXO;
         bool respawn = false;
+
+        /*
+         * Destroys a daemon 
+         * -- remove pidfile from pidpath
+         * -- close syslog 
+         * Return 
+         * -- SYSCALL_SUCCESS for success
+         * -- SYSCALL_FAILURE for failed syscals
+         */
+        int destroy();
     public: 
         int pid;
+
+        /* Constructor spawns a daemon and configures the process */
         Daemon(): pid(this->spawn()) {
-            throw_last_err(this->pid == INIT_FAIL, "Daemon initialization failed.");
-            throw_last_err(this->configure() == INIT_FAIL, "Daemon configuration failed.");
-            syslog(LOG_NOTICE, "hi");
-        }
+            throw_last_err(this->pid == SYSCALL_FAIL, 
+                    "Daemon initialization failed.");
+            throw_last_err(this->configure() == SYSCALL_FAIL, 
+                    "Daemon configuration failed.");
+            syslog(LOG_INFO, "daemon starts running...");
+        };
+
         ~Daemon(){
-            struct stat buf;
-            const char *pidp = (this->pidfile_path + this->pidfile).c_str();
-
-            /* daemon fails if another instance already exists */
-            if(stat(pidp, &buf) == 0){ 
-                throw std::runtime_error("Daemon pidfile cannot be found.");
-            }
-
-            std::cout << "daemon destructor" << std::endl; 
-            
-            if(std::remove(pidp) < 0){ 
-                throw DaemonRuntimeException(errno, "Cannot remove daemon pidfile.");
-            }
-            closelog();
+            throw_last_err(this->destroy() == SYSCALL_FAIL, 
+                    "Daemon destruction failed.");
         };
 };
 
