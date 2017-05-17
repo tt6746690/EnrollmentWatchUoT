@@ -9,7 +9,6 @@ all: $(EXECUTABLES)
 	$(COMPILER) $(FLAGS) -o $@ $<
 
 run: 
-	rm /tmp/enrolwatchd.pid
 	./daemon
 	cat /var/log/system.log | grep enrol | tail
 

@@ -11,6 +11,8 @@
 #include <syslog.h>       
 
 #include <iostream>
+#include <unordered_map>
+#include <sstream>          // split string
 #include <fstream>          
 #include <string>            
 #include <stdexcept>        // runtime_error
@@ -22,6 +24,8 @@ template <typename... Args> inline void unused(Args&&...) {}
 #define SYSCALL_SUCCESS 1
 #define SYSCALL_FAIL 0
 #define SYSLOG_OUT "/var/log/system.log" 
+
+#define CONF_DELIM '='
 
 /*
  * formats errno, associated interpretation, 
@@ -62,11 +66,33 @@ void throw_last_err(bool expr, const std::string& msg);
  */
 void dsig_handler(int sig);
 
+
+/*
+ * Daemon configuration struct 
+ * -- name: identifier for logging 
+ * -- pidfile: a file for safekeeping running daemon instance
+ * -- pidfile_path: path for which pidfile is stored
+ * -- conf_path: custom configuration file path
+ * -- working_dir: directory to which the daemon lives
+ * -- mask: permission mask 
+ * -- respawn: if daemon respawn upon termination
+ */ 
+typedef struct dconfig{
+    std::string name = "enrolwatchd";
+    std::string pidfile = this->name + ".pid";
+    std::string pidfile_path = "/tmp/";
+    std::string conf_path = ".daemon.conf";
+    std::string working_dir = "/";
+    mode_t mask = S_IRWXU | S_IRWXG | S_IRWXO;
+    bool respawn = false;
+} dconfig;
+
 /*
  * A Daemon that is active in the background
  */
 class Daemon{
     private:
+        dconfig config;
         /* Spawns a daemon 
          * -- fork: create child process 
          * -- setsid: child leads new session 
@@ -79,26 +105,20 @@ class Daemon{
          */
         int spawn();
         /*
-         * Configures daemon
+         * Parses config file stream and 
+         * returns a map of configuration with 
+         * keys as corresponding member of Daemon class
+         */ 
+        std::unordered_map<std::string, std::string> parse_conf(std::ifstream& fs);
+        /*
+         * Configures daemon 
          * -- check for pidfile at pidfile_path
          * ---- throws runtime exception if another instance of daemon is present
          * ---- continue otherwise
          * -- change directory 
          * -- clears umask for explicit file creation
          * -- close all open fds
-         * -- saves daemon pid to pidfile at pidfile_path
-         * -- setup syslog facilities 
-         * Returns 
-         * -- SYSCALL_SUCCESS on success
-         * -- SYSCALL_FAILURE on failed syscalls
-         */
-        int configure();
-        /*
-         * Default configuration member
-         * -- pidfile + pidfile_path: file where pid of daemon is written to
-         * -- working_dir: working directory for daemon
-         * -- mask: umask for daemon process
-         * -- signals: proper sigaction
+         * -- signal handling 
          * ---- SIG_IGN: 
          * ------ SIGCHLD: signal from child termination signal
          * ------ SIGTSTP: keyboard interrupts
@@ -107,14 +127,17 @@ class Daemon{
          * ------ SIGTTUOT: background write attempted from terminal
          * ------ SIGTERM: terminates
          * ------ SIGUSR1: terminates and if respawn is true restarts
-         * -- respawn: if daemon restart on termination
+         * -- saves daemon pid to pidfile at pidfile_path
+         * -- setup syslog facilities 
+         * Returns 
+         * -- SYSCALL_SUCCESS on success
+         * -- SYSCALL_FAILURE on failed syscalls
          */
-        std::string name = "enrolwatchd";
-        std::string pidfile = this->name + ".pid";
-        std::string pidfile_path = "/tmp/";
-        std::string working_dir = "/";
-        mode_t mask = S_IRWXU | S_IRWXG | S_IRWXO;
-        bool respawn = false;
+        int configure();
+        /*
+         * Configures daemon based on file given at conf_path
+         */
+        int configure(std::string conf_path);
         /*
          * Destroys a daemon 
          * -- remove pidfile from pidpath
@@ -127,19 +150,13 @@ class Daemon{
     public: 
         int pid;
 
-        /* Constructor spawns a daemon and configures the process */
-        Daemon(): pid(this->spawn()) {
-            throw_last_err(this->pid == SYSCALL_FAIL, 
-                    "Daemon initialization failed.");
-            throw_last_err(this->configure() == SYSCALL_FAIL, 
-                    "Daemon configuration failed.");
-            syslog(LOG_INFO, "daemon starts running...");
-        };
-
-        ~Daemon(){
-            throw_last_err(this->destroy() == SYSCALL_FAIL, 
-                    "Daemon destruction failed.");
-        };
+        /* Constructor 
+         * -- spawns a daemon
+         * -- configures the process 
+         */
+        Daemon();   
+        /* Destructor */
+        ~Daemon();
 };
 
 #endif

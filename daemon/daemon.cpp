@@ -1,5 +1,6 @@
 #include <iostream>
-#include <curl/curl.h>
+#include <chrono>
+#include <thread>
 #include "daemon.h"
 
 std::string format_err_msg(int err, const std::string& msg){
@@ -17,11 +18,12 @@ void throw_last_err(bool expr, const std::string& msg){
 void dsig_handler(int sig){
     switch(sig){
         case SIGHUP:{
-            std::auto_ptr <Daemon> d(new Daemon);
+            syslog(LOG_NOTICE, "Reload Config on SIGHUP");
             exit(EXIT_SUCCESS);
             break;
         }
         case SIGTERM:{
+            syslog(LOG_NOTICE, "Exit daemon on SIGTERM");
             exit(EXIT_SUCCESS);
             break;
          }
@@ -82,21 +84,66 @@ int Daemon::spawn(){
 }
 
 
+/*
+ * Parses config file stream and 
+ * returns a map of configuration with 
+ * keys as corresponding member of Daemon class
+ */ 
+std::unordered_map<std::string, std::string> Daemon::parse_conf(std::ifstream& fs){
+
+    std::unordered_map<std::string, std::string> conf;
+
+    std::string conf_line;
+    while(std::getline(fs, conf_line)){
+
+        for(auto iter = conf_line.begin(); iter != conf_line.end(); iter++){
+            if(*iter == CONF_DELIM && iter + 1 != conf_line.end()){
+                conf[std::string(conf_line.begin(), iter)] = std::string(iter + 1, conf_line.end());
+                break;
+            }
+        }
+
+    }
+    return conf;
+}
+
+int Daemon::configure(std::string conf_path){
+
+    std::ifstream conf_fs(conf_path, std::ofstream::in);
+    std::unordered_map<std::string, std::string> conf;
+
+    if(conf_fs.is_open()){
+        conf = parse_conf(conf_fs);
+
+        for(auto it: conf)
+            std::cout << it.first << ": " << it.second << std::endl;
+    } else {
+        throw std::runtime_error("Daemon configuration file does not exists");
+    }
+    return SYSCALL_SUCCESS;
+}
+
+
 int Daemon::configure(){
 
+    dconfig& config = this->config;
+
+    this->configure(config.conf_path);
+
+
     struct stat buf;
-    const char *pidp = (this->pidfile_path + this->pidfile).c_str();
+    const char *pidp = (config.pidfile_path + config.pidfile).c_str();
 
     /* daemon fails if another instance already exists */
     if(stat(pidp, &buf) == 0){ 
         throw std::runtime_error("Daemon already running.");
     }
 
-    if(chdir(this->working_dir.c_str()) < 0){
+    if(chdir(config.working_dir.c_str()) < 0){
         return SYSCALL_FAIL;
     }
 
-    umask(this->mask);
+    umask(config.mask);
 
     // int curfd;
     // for(curfd = sysconf(_SC_OPEN_MAX); curfd >= 0; curfd--){
@@ -114,15 +161,15 @@ int Daemon::configure(){
     pid_fs << this->pid << std::endl;
     pid_fs.close();
 
-    setlogmask(LOG_UPTO(LOG_NOTICE));
-    openlog(this->name.c_str(), LOG_PID, LOG_DAEMON);
+    setlogmask(LOG_UPTO(LOG_INFO));
+    openlog(config.name.c_str(), LOG_PID, LOG_DAEMON);
 
     return SYSCALL_SUCCESS;
 }
 
 int Daemon::destroy(){
     struct stat buf;
-    const char *pidp = (this->pidfile_path + this->pidfile).c_str();
+    const char *pidp = (this->config.pidfile_path + this->config.pidfile).c_str();
 
     if(stat(pidp, &buf) < 0){ return SYSCALL_FAIL; }
 
@@ -135,17 +182,38 @@ int Daemon::destroy(){
 }
 
 
+Daemon::Daemon(): pid(this->spawn()) {
+    throw_last_err(this->pid == SYSCALL_FAIL, 
+            "Daemon initialization failed.");
+    throw_last_err(this->configure() == SYSCALL_FAIL, 
+            "Daemon configuration failed.");
+    syslog(LOG_NOTICE, "daemon starts running...");
+};
+
+
+Daemon::~Daemon(){
+    syslog(LOG_NOTICE, "daemon terminated...");
+    throw_last_err(this->destroy() == SYSCALL_FAIL, 
+            "Daemon destruction failed.");
+};
+
+
 int main(int argc, char **argv){
 
     unused(argc, argv);
 
-
-
     try{
         std::auto_ptr <Daemon> d(new Daemon);
-        usleep(3000000);
+        int i = 0;
+        while(i++ < 20){
+            syslog(LOG_NOTICE, "Loop # %d", i);
+            std::this_thread::sleep_for(std::chrono::milliseconds(500));
+            raise(SIGHUP);
+       }
+
+        std::this_thread::sleep_for(std::chrono::seconds(3));
     } catch(const DaemonRuntimeException& e){
-        std::cout << e.what() << std::endl;
+        syslog(LOG_ERR, "runtime exception -> %s", e.what());
     }
 
     exit(EXIT_SUCCESS);
