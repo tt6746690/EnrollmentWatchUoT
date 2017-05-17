@@ -14,8 +14,25 @@ void throw_last_err(bool expr, const std::string& msg){
     }
 }
 
+void dsig_handler(int sig){
+    switch(sig){
+        case SIGHUP:{
+            std::auto_ptr <Daemon> d(new Daemon);
+            exit(EXIT_SUCCESS);
+            break;
+        }
+        case SIGTERM:{
+            exit(EXIT_SUCCESS);
+            break;
+         }
+    }
+}
+
 int Daemon::spawn(){
 
+    if(getppid()==1){
+        throw std::runtime_error("Already a daemon");
+    }
 
     pid_t pid, sid;
     int fd[2];
@@ -64,6 +81,7 @@ int Daemon::spawn(){
     return getpid();
 }
 
+
 int Daemon::configure(){
 
     struct stat buf;
@@ -84,7 +102,12 @@ int Daemon::configure(){
     // for(curfd = sysconf(_SC_OPEN_MAX); curfd >= 0; curfd--){
     //     close(curfd);
     // }
-    
+   
+    signal(SIGCHLD, SIG_IGN); /* child terminate signal */
+    signal(SIGTSTP,SIG_IGN); /* ignore tty signals */
+    signal(SIGHUP, dsig_handler);
+    signal(SIGTERM, dsig_handler);
+
     /* Saves name.pid, indicating active daemon */
     std::ofstream pid_fs(pidp, std::ofstream::out);
     chmod(pidp, 0644);
@@ -100,20 +123,14 @@ int Daemon::configure(){
 int Daemon::destroy(){
     struct stat buf;
     const char *pidp = (this->pidfile_path + this->pidfile).c_str();
-    std::cout << pidp << std::endl;
 
-    if(stat(pidp, &buf) < 0){ 
-        return SYSCALL_FAIL;
-    }
+    if(stat(pidp, &buf) < 0){ return SYSCALL_FAIL; }
 
-    std::cout << "in destructor" << std::endl;
-    
     if(std::remove(pidp) < 0){ 
         throw DaemonRuntimeException(errno, "Cannot remove daemon pidfile.");
     }
 
     closelog();
-
     return SYSCALL_SUCCESS;
 }
 
@@ -122,6 +139,8 @@ int main(int argc, char **argv){
 
     unused(argc, argv);
 
+
+
     try{
         std::auto_ptr <Daemon> d(new Daemon);
         usleep(3000000);
@@ -129,5 +148,5 @@ int main(int argc, char **argv){
         std::cout << e.what() << std::endl;
     }
 
-    return 0;
+    exit(EXIT_SUCCESS);
 }

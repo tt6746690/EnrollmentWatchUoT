@@ -3,6 +3,8 @@
 
 #include <cstdlib>          // exit
 #include <cstdio>           // remove
+#include <cstring>          // strerror 
+#include <csignal>          // signal
 #include <unistd.h>         // fork, usleep
 #include <fcntl.h>          // close fd
 #include <sys/stat.h>       // umask / flags
@@ -12,7 +14,6 @@
 #include <fstream>          
 #include <string>            
 #include <stdexcept>        // runtime_error
-#include <cstring>          // strerror 
 
 // Suppress unused warning 
 template <typename... Args> inline void unused(Args&&...) {}
@@ -54,6 +55,14 @@ void throw_last_err(bool expr, const std::string& msg);
 
 
 /*
+ * Handles signal interrupts for daemon
+ * -- SIGUP: restart daemon with new config
+ * -- SIGTERM: terminate daemon despite resapwn flag
+ * -- SIGUSR1: wakes up from sleep and perform action
+ */
+void dsig_handler(int sig);
+
+/*
  * A Daemon that is active in the background
  */
 class Daemon{
@@ -61,10 +70,11 @@ class Daemon{
         /* Spawns a daemon 
          * -- fork: create child process 
          * -- setsid: child leads new session 
+         * ---- detaches from controlling tty
          * -- fork: detach from calling terminal
          * Returns
          * -- pid of daemon on success 
-         * -- SYSCALL_FAIL for sys call failure
+         * -- SYSCALL_FAIL on syscall failure
          * Note processes are exited properly during initialization
          */
         int spawn();
@@ -80,7 +90,7 @@ class Daemon{
          * -- setup syslog facilities 
          * Returns 
          * -- SYSCALL_SUCCESS on success
-         * -- SYSCALL_FAIL on failure
+         * -- SYSCALL_FAILURE on failed syscalls
          */
         int configure();
         /*
@@ -88,6 +98,15 @@ class Daemon{
          * -- pidfile + pidfile_path: file where pid of daemon is written to
          * -- working_dir: working directory for daemon
          * -- mask: umask for daemon process
+         * -- signals: proper sigaction
+         * ---- SIG_IGN: 
+         * ------ SIGCHLD: signal from child termination signal
+         * ------ SIGTSTP: keyboard interrupts
+         * ------ SIGTTIN: background read attempted from terminal
+         * ---- dsig_handler:
+         * ------ SIGTTUOT: background write attempted from terminal
+         * ------ SIGTERM: terminates
+         * ------ SIGUSR1: terminates and if respawn is true restarts
          * -- respawn: if daemon restart on termination
          */
         std::string name = "enrolwatchd";
@@ -96,14 +115,13 @@ class Daemon{
         std::string working_dir = "/";
         mode_t mask = S_IRWXU | S_IRWXG | S_IRWXO;
         bool respawn = false;
-
         /*
          * Destroys a daemon 
          * -- remove pidfile from pidpath
          * -- close syslog 
          * Return 
-         * -- SYSCALL_SUCCESS for success
-         * -- SYSCALL_FAILURE for failed syscals
+         * -- SYSCALL_SUCCESS on success
+         * -- SYSCALL_FAILURE on failed syscalls
          */
         int destroy();
     public: 
