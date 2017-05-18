@@ -38,6 +38,13 @@ void dsig_handler(int sig)
 }
 
 
+std::string trim(std::string& str)
+{
+    str.erase(0, str.find_first_not_of(' '));
+    str.erase(str.find_last_not_of(' ') + 1);
+    return str;
+}
+
 std::unordered_map<std::string, std::string> Daemon::dconfig::parse_conf(std::ifstream& fs)
 {
 
@@ -50,7 +57,13 @@ std::unordered_map<std::string, std::string> Daemon::dconfig::parse_conf(std::if
         {
             if(*iter == CONF_DELIM && iter + 1 != conf_line.end())
             {
-                conf[std::string(conf_line.begin(), iter)] = std::string(iter + 1, conf_line.end());
+                std::string key = std::string(conf_line.begin(), iter);
+                std::string t_key = trim(key);
+
+                std::string val = std::string(iter + 1, conf_line.end());
+                std::string t_val = trim(val);
+
+                conf[t_key] = t_val;
                 break;
             }
         }
@@ -144,14 +157,15 @@ int Daemon::configure() const
     //     close(curfd);
     // }
    
-    signal(SIGCHLD, SIG_IGN); /* child terminate signal */
-    signal(SIGTSTP,SIG_IGN); /* ignore tty signals */
-    signal(SIGHUP, dsig_handler);
-    signal(SIGTERM, dsig_handler);
+    if(signal(SIGCHLD, SIG_IGN) == SIG_ERR){ return SYSCALL_FAIL; }
+    if(signal(SIGTSTP, SIG_IGN) == SIG_ERR){ return SYSCALL_FAIL; }
+    if(signal(SIGHUP, SIG_IGN) == SIG_ERR){ return SYSCALL_FAIL; }
+    if(signal(SIGTERM, SIG_IGN) == SIG_ERR){ return SYSCALL_FAIL; }
+    
 
     /* Saves name.pid, indicating active daemon */
     std::ofstream pid_fs(pidp, std::ofstream::out);
-    chmod(pidp, 0644);
+    if(chmod(pidp, 0644) < 0){ return SYSCALL_FAIL; };
     pid_fs << pid_ << std::endl;
     pid_fs.close();
 
@@ -171,13 +185,23 @@ int Daemon::configure(std::string& conf_path)
     if(conf_fs.is_open())
     {
         conf = dconfig::parse_conf(conf_fs);
-        for(auto it: conf)
-            std::cout << it.first << ": " << it.second << std::endl;
 
+        for(auto it: conf)
+        {
+            if(it.first == "name"){ config_.name = it.second; continue;}
+            if(it.first == "pidfile_path"){ config_.pidfile_path = it.second; continue; }
+            if(it.first == "conf_path"){ config_.conf_path = it.second; continue; }
+            if(it.first == "working_dir"){ config_.working_dir = it.second; continue; }
+            if(it.first == "mask"){ config_.mask = std::stoi(it.second); continue; }
+            if(it.first == "respawn"){ config_.respawn = (it.second == "1") ? true:false; continue; }
+        }
+             
         } else {
+
         throw std::runtime_error("Daemon configuration file does not exists");
     }
-    return SYSCALL_SUCCESS;
+
+    return configure();
 }
 
 
@@ -234,10 +258,8 @@ int main(int argc, char **argv)
     unused(argc, argv);
 
     try{
-        Daemon::dconfig conf;
-        conf.name = "enrold";
-
-        std::auto_ptr <Daemon> d(new Daemon(conf));
+        std::string conf_p(".daemon.conf");
+        std::auto_ptr <Daemon> d(new Daemon(conf_p));
         int i = 0;
 
         while(i++ < 20)

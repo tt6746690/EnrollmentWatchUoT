@@ -12,6 +12,7 @@
 
 #include <iostream>
 #include <unordered_map>
+#include <vector>
 #include <sstream>          // split string
 #include <fstream>          
 #include <string>            
@@ -25,7 +26,11 @@ template <typename... Args> inline void unused(Args&&...) {}
 #define SYSCALL_FAIL 0
 #define SYSLOG_OUT "/var/log/system.log" 
 
-#define CONF_DELIM '='
+
+/*
+ * Trims str leading and trailing whitespaces
+ */
+std::string trim(std::string& str);
 
 /*
  * formats errno, associated interpretation, 
@@ -71,7 +76,6 @@ void dsig_handler(int sig);
 /*
  * Daemon configuration struct type
  * -- name: identifier for logging 
- * -- pidfile: a file for safekeeping running daemon instance
  * -- pidfile_path: path for which pidfile is stored
  * -- conf_path: custom configuration file path
  * -- working_dir: directory to which the daemon lives
@@ -82,6 +86,8 @@ void dsig_handler(int sig);
  */ 
 struct dconfig
 {
+    static char CONF_DELIM;
+
     std::string name = "enrolwatchd";
     std::string pidfile_path = "/tmp/";
     std::string conf_path = ".daemon.conf";
@@ -164,5 +170,7 @@ class Daemon{
          */
         int destroy() const;
 };
+
+char Daemon::dconfig::CONF_DELIM = '=';
 
 #endif
