@@ -24,13 +24,13 @@ void dsig_handler(int sig)
     {
         case SIGHUP:
         {
-            syslog(LOG_NOTICE, "Reload Config on SIGHUP");
+            syslog(LOG_NOTICE, "Respawns daemon with newest config on SIGHUP");
             exit(EXIT_SUCCESS);
             break;
         }
         case SIGTERM:
         {
-            syslog(LOG_NOTICE, "Exit daemon on SIGTERM");
+            syslog(LOG_NOTICE, "Exits daemon on SIGTERM");
             exit(EXIT_SUCCESS);
             break;
         }
@@ -75,11 +75,6 @@ std::unordered_map<std::string, std::string> Daemon::dconfig::parse_conf(std::if
 
 int Daemon::spawn() const
 {
-
-    if(getppid()==1)
-    {
-        throw std::runtime_error("Already a daemon");
-    }
 
     pid_t pid, sid;
     int fd[2];
@@ -137,7 +132,7 @@ int Daemon::configure() const
 {
 
     struct stat buf;
-    const char *pidp = (config_.pidfile_path + config_.name + ".pid").c_str();
+    const char *pidp = (config_.pidfile_path_ + config_.name_ + ".pid").c_str();
 
     /* daemon fails if another instance already exists */
     if(stat(pidp, &buf) == 0)
@@ -145,12 +140,12 @@ int Daemon::configure() const
         throw std::runtime_error("Daemon already running.");
     }
 
-    if(chdir(config_.working_dir.c_str()) < 0)
+    if(chdir(config_.working_dir_.c_str()) < 0)
     {
         return SYSCALL_FAIL;
     }
 
-    umask(config_.mask);
+    umask(config_.mask_);
 
     // int curfd;
     // for(curfd = sysconf(_SC_OPEN_MAX); curfd >= 0; curfd--){
@@ -159,9 +154,8 @@ int Daemon::configure() const
    
     if(signal(SIGCHLD, SIG_IGN) == SIG_ERR){ return SYSCALL_FAIL; }
     if(signal(SIGTSTP, SIG_IGN) == SIG_ERR){ return SYSCALL_FAIL; }
-    if(signal(SIGHUP, SIG_IGN) == SIG_ERR){ return SYSCALL_FAIL; }
-    if(signal(SIGTERM, SIG_IGN) == SIG_ERR){ return SYSCALL_FAIL; }
-    
+    if(signal(SIGHUP, dsig_handler) == SIG_ERR){ return SYSCALL_FAIL; }
+    if(signal(SIGTERM, dsig_handler) == SIG_ERR){ return SYSCALL_FAIL; }
 
     /* Saves name.pid, indicating active daemon */
     std::ofstream pid_fs(pidp, std::ofstream::out);
@@ -170,7 +164,7 @@ int Daemon::configure() const
     pid_fs.close();
 
     setlogmask(LOG_UPTO(LOG_INFO));
-    openlog(config_.name.c_str(), LOG_PID, LOG_DAEMON);
+    openlog(config_.name_.c_str(), LOG_PID, LOG_DAEMON);
 
     return SYSCALL_SUCCESS;
 }
@@ -188,12 +182,12 @@ int Daemon::configure(std::string& conf_path)
 
         for(auto it: conf)
         {
-            if(it.first == "name"){ config_.name = it.second; continue;}
-            if(it.first == "pidfile_path"){ config_.pidfile_path = it.second; continue; }
-            if(it.first == "conf_path"){ config_.conf_path = it.second; continue; }
-            if(it.first == "working_dir"){ config_.working_dir = it.second; continue; }
-            if(it.first == "mask"){ config_.mask = std::stoi(it.second); continue; }
-            if(it.first == "respawn"){ config_.respawn = (it.second == "1") ? true:false; continue; }
+            if(it.first == "name"){ config_.name_ = it.second; continue;}
+            if(it.first == "pidfile_path"){ config_.pidfile_path_ = it.second; continue; }
+            if(it.first == "conf_path"){ config_.conf_path_ = it.second; continue; }
+            if(it.first == "working_dir"){ config_.working_dir_ = it.second; continue; }
+            if(it.first == "mask"){ config_.mask_ = std::stoi(it.second); continue; }
+            if(it.first == "respawn"){ config_.respawn_ = (it.second == "1") ? true:false; continue; }
         }
              
         } else {
@@ -204,11 +198,18 @@ int Daemon::configure(std::string& conf_path)
     return configure();
 }
 
+void Daemon::respawn(std::string conf_path)
+{
+    syslog(LOG_NOTICE, "Daemon respawning...");
+    std::auto_ptr <Daemon> d(new Daemon(conf_path));
+    job();
+    exit(EXIT_SUCCESS);
+}
 
-int Daemon::destroy() const
+int Daemon::destroy()
 {
     struct stat buf;
-    const char *pidp = (config_.pidfile_path + config_.name + ".pid").c_str();
+    const char *pidp = (config_.pidfile_path_ + config_.name_ + ".pid").c_str();
 
     if(stat(pidp, &buf) < 0){ return SYSCALL_FAIL; }
 
@@ -218,6 +219,11 @@ int Daemon::destroy() const
     }
 
     closelog();
+
+    if(config_.respawn_)
+    {
+        Daemon::respawn(config_.conf_path_);
+    }
     return SYSCALL_SUCCESS;
 }
 
@@ -247,9 +253,20 @@ Daemon::Daemon(dconfig& config): pid_(spawn()), config_(config)
 Daemon::~Daemon()
 {
     syslog(LOG_NOTICE, "daemon terminated...");
-    throw_last_err(destroy() == SYSCALL_FAIL, 
-            "Daemon destruction failed.");
+    throw_last_err(destroy() == SYSCALL_FAIL, "Daemon destruction failed.");
 };
+
+
+
+void job()
+{
+    int i = 0;
+    while(i++ < 5)
+    {
+        syslog(LOG_NOTICE, "Loop # %d", i);
+        std::this_thread::sleep_for(std::chrono::milliseconds(500));
+    }
+}
 
 
 int main(int argc, char **argv)
@@ -258,18 +275,10 @@ int main(int argc, char **argv)
     unused(argc, argv);
 
     try{
-        std::string conf_p(".daemon.conf");
-        std::auto_ptr <Daemon> d(new Daemon(conf_p));
-        int i = 0;
+        // std::string conf_p(".daemon.conf");
+        std::auto_ptr <Daemon> d(new Daemon());
+        job();
 
-        while(i++ < 20)
-        {
-            syslog(LOG_NOTICE, "Loop # %d", i);
-            std::this_thread::sleep_for(std::chrono::milliseconds(500));
-            // raise(SIGHUP);
-       }
-
-        std::this_thread::sleep_for(std::chrono::seconds(3));
     } catch(const DaemonRuntimeException& e){
         syslog(LOG_ERR, "runtime exception -> %s", e.what());
     }

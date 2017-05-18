@@ -12,7 +12,6 @@
 
 #include <iostream>
 #include <unordered_map>
-#include <vector>
 #include <sstream>          // split string
 #include <fstream>          
 #include <string>            
@@ -62,6 +61,10 @@ class DaemonRuntimeException: public std::runtime_error{
  */
 void throw_last_err(bool expr, const std::string& msg);
 
+/*
+ * Daemon's job 
+ */
+void job();
 
 /*
  * Handles signal interrupts for daemon
@@ -88,12 +91,12 @@ struct dconfig
 {
     static char CONF_DELIM;
 
-    std::string name = "enrolwatchd";
-    std::string pidfile_path = "/tmp/";
-    std::string conf_path = ".daemon.conf";
-    std::string working_dir = "/";
-    mode_t mask = S_IRWXU | S_IRWXG | S_IRWXO;
-    bool respawn = false;
+    std::string name_ = "enrolwatchd";
+    std::string pidfile_path_ = "/tmp/";
+    std::string conf_path_ = "/Users/markwang/github/EnrollmentWatchUofT/daemon/.daemon.conf";
+    std::string working_dir_ = "/";
+    mode_t mask_ = S_IRWXU | S_IRWXG | S_IRWXO;
+    bool respawn_ = true;
     /*
      * Parses config file stream and 
      * returns a map of configuration with 
@@ -107,8 +110,8 @@ struct dconfig
  */
 class Daemon{
     public: 
+        int pid_;
         typedef struct dconfig dconfig;
-        const int pid_;
         /* Constructor 
          * -- (): spawn and configures a daemon
          * -- (std::string path): initialize daemon with given config path string 
@@ -160,6 +163,14 @@ class Daemon{
          * Configures a daemon based on file given at conf_path
          */
         int configure(std::string& conf_path);
+
+        /*
+         * Respawns a daemon
+         * -- spawns a new daemon as another process
+         * -- terminates current process
+         * Note the new daemon gets a new pid after respawn
+         */
+        static void respawn(std::string conf_path);
         /*
          * Destroys a daemon 
          * -- remove pidfile from pidpath
@@ -168,7 +179,7 @@ class Daemon{
          * -- SYSCALL_SUCCESS on success
          * -- SYSCALL_FAILURE on failed syscalls
          */
-        int destroy() const;
+        int destroy();
 };
 
 char Daemon::dconfig::CONF_DELIM = '=';
