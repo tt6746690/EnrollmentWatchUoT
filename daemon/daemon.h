@@ -67,8 +67,9 @@ void throw_last_err(bool expr, const std::string& msg);
 void dsig_handler(int sig);
 
 
+
 /*
- * Daemon configuration struct 
+ * Daemon configuration struct type
  * -- name: identifier for logging 
  * -- pidfile: a file for safekeeping running daemon instance
  * -- pidfile_path: path for which pidfile is stored
@@ -76,23 +77,44 @@ void dsig_handler(int sig);
  * -- working_dir: directory to which the daemon lives
  * -- mask: permission mask 
  * -- respawn: if daemon respawn upon termination
+ * Type made public to be populated and passed into constructor
+ * even though config_ is private
  */ 
-typedef struct dconfig{
+struct dconfig
+{
     std::string name = "enrolwatchd";
-    std::string pidfile = this->name + ".pid";
     std::string pidfile_path = "/tmp/";
     std::string conf_path = ".daemon.conf";
     std::string working_dir = "/";
     mode_t mask = S_IRWXU | S_IRWXG | S_IRWXO;
     bool respawn = false;
-} dconfig;
+    /*
+     * Parses config file stream and 
+     * returns a map of configuration with 
+     * keys as corresponding member of Daemon class
+     */ 
+    static std::unordered_map<std::string, std::string> parse_conf(std::ifstream& fs);
+};
 
 /*
  * A Daemon that is active in the background
  */
 class Daemon{
+    public: 
+        typedef struct dconfig dconfig;
+        const int pid_;
+        /* Constructor 
+         * -- (): spawn and configures a daemon
+         * -- (std::string path): initialize daemon with given config path string 
+         * -- (Daemon::dconfig config): initialize daemon with populated dconfig struct
+         */
+        Daemon();   
+        Daemon(std::string& conf_path);
+        Daemon(dconfig& config);
+        /* Destructor */
+        ~Daemon();
     private:
-        dconfig config;
+        dconfig config_;
         /* Spawns a daemon 
          * -- fork: create child process 
          * -- setsid: child leads new session 
@@ -103,15 +125,9 @@ class Daemon{
          * -- SYSCALL_FAIL on syscall failure
          * Note processes are exited properly during initialization
          */
-        int spawn();
+        int spawn() const;
         /*
-         * Parses config file stream and 
-         * returns a map of configuration with 
-         * keys as corresponding member of Daemon class
-         */ 
-        std::unordered_map<std::string, std::string> parse_conf(std::ifstream& fs);
-        /*
-         * Configures daemon 
+         * Configures a daemon 
          * -- check for pidfile at pidfile_path
          * ---- throws runtime exception if another instance of daemon is present
          * ---- continue otherwise
@@ -133,11 +149,11 @@ class Daemon{
          * -- SYSCALL_SUCCESS on success
          * -- SYSCALL_FAILURE on failed syscalls
          */
-        int configure();
+        int configure() const;
         /*
-         * Configures daemon based on file given at conf_path
+         * Configures a daemon based on file given at conf_path
          */
-        int configure(std::string conf_path);
+        int configure(std::string& conf_path);
         /*
          * Destroys a daemon 
          * -- remove pidfile from pidpath
@@ -146,17 +162,7 @@ class Daemon{
          * -- SYSCALL_SUCCESS on success
          * -- SYSCALL_FAILURE on failed syscalls
          */
-        int destroy();
-    public: 
-        int pid;
-
-        /* Constructor 
-         * -- spawns a daemon
-         * -- configures the process 
-         */
-        Daemon();   
-        /* Destructor */
-        ~Daemon();
+        int destroy() const;
 };
 
 #endif

@@ -1,4 +1,9 @@
 
+## planning
+
++ change pidfile to perhaps a lock 
+
+
 + _Cron_ 
     + a daemon that executes scheduled commands
         + starts automatically from `/etc/init.d`
@@ -63,6 +68,44 @@
     + alternatively we use `std::auto_ptr` in C++03
         + `Foo` that `ptr` points is deleted in `auto_ptr`'s destructor when `ptr` goes out of scope
         + `std::auto_ptr <Foo> ptr(new Foo)`
+
+
++ _static_ 
+    + properties 
+        + static member has only one copy despite however many instantiation, i.e. shared by all classes
+        + static function can be called without any instantiation using `::`
+        + static function can access static variable only, does not have access to `this` pointer
+    + syntax
+        + static member can be declared `static` inside class definition, 
+        + but initialization must be made outside of class definition using scope resolution operator `::` 
+            + only exception to this is type `const int`, which can use inline initialization
+
++ _nested class_ 
+    + the declaration of class/struct within another class
+    + properties 
+        + name of nested class exists in scope of enclosing class
+        + name lookup from a member function of nested class exame scoep of enclosing class after examing scope of nested class
+        + nested class has access to enclosing class member (private, protected, public), but not `this` pointer
+    + note 
+        + cannot use `typedef` with `static` because `typedef` declares a type, `static` quantifies an instance, not a type
+
+
+
++ _forward declaration_ 
+    + a declaration of identifier (type, variable, constant, function) for which a complete definition is yet to be given
+    + properties   
+        + OK to be forward declared if only need to use pointer type (pointer are same size despite type); 
+            + pointer
+            + refrerence
+            + as args or return types of function declaration
+            + pointer/reference of previous point
+        + cannot be used to declare a member, or a base class, since compiler does not know about its type (i.e. size)
+            + base class, i.e. the parent class 
+            + as member of class
+            + _define_ function as args or return type
+            + use its member variable/function
+    + note 
+        + nested class cannot be forward declared
 
 
 + _abstract class_
