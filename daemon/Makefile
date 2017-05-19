@@ -12,5 +12,11 @@ run:
 	./daemon
 	cat /var/log/system.log | grep enrol | tail
 
+show:
+	cat /var/log/system.log | grep enrol 
+
+kill:
+	kill "$(cat *.pid)"
+
 
 	

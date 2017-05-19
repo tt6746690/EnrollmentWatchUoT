@@ -104,26 +104,60 @@ struct dconfig
      */ 
     static std::unordered_map<std::string, std::string> parse_conf(std::ifstream& fs);
 };
-
 /*
  * A Daemon that is active in the background
  */
 class Daemon{
     public: 
-        int pid_;
+        /* Type definition */
         typedef struct dconfig dconfig;
+        typedef void (*djob)(); 
+
+        /* member */
+        int pid_;
+        /*
+         * Execute a given function 
+         */
+        void work_on(djob job);
+        /*
+         * Get the singleton daemon
+         * -- instantiate a unique pointer with corresponding constructor if daemon_ is empty
+         * -- return daemon_ otherwise
+         */
+        static std::unique_ptr<Daemon> get_daemon();
+        static std::unique_ptr<Daemon> get_daemon(std::string& conf_path);
+        static std::unique_ptr<Daemon> get_daemon(dconfig& config);
+
+        /* public destructor necessary */
+        ~Daemon();
+    private:
+        /* singleton pointer */
+        static std::unique_ptr<Daemon> daemon_;
+        /*
+         * Respawns a daemon
+         * -- instantiates a new daemon
+         * -- execute job_
+         * Postcondition
+         * -- new daemon gets a new pid after respawn
+         */
+        static void respawn(std::string conf_path, djob job);
         /* Constructor 
          * -- (): spawn and configures a daemon
          * -- (std::string path): initialize daemon with given config path string 
-         * -- (Daemon::dconfig config): initialize daemon with populated dconfig struct
+         * -- (Daemon::dconfig config): initialize daemon with dconfig struct
          */
         Daemon();   
         Daemon(std::string& conf_path);
         Daemon(dconfig& config);
-        /* Destructor */
-        ~Daemon();
-    private:
+        /*
+         * private member:
+         * -- config_: configuration for daemon
+         * -- job_: function invoked 
+         * ---- on calling work_on(job)
+         * ---- right after respawn
+         */
         dconfig config_;
+        djob job_;
         /* Spawns a daemon 
          * -- fork: create child process 
          * -- setsid: child leads new session 
@@ -132,7 +166,8 @@ class Daemon{
          * Returns
          * -- pid of daemon on success 
          * -- SYSCALL_FAIL on syscall failure
-         * Note processes are exited properly during initialization
+         * Note the calling process is exited properly
+         * and a new process is returned with pid
          */
         int spawn() const;
         /*
@@ -161,27 +196,23 @@ class Daemon{
         int configure() const;
         /*
          * Configures a daemon based on file given at conf_path
+         * -- load config_ with those provided by conf_path
+         * -- call configure()
          */
         int configure(std::string& conf_path);
-
-        /*
-         * Respawns a daemon
-         * -- spawns a new daemon as another process
-         * -- terminates current process
-         * Note the new daemon gets a new pid after respawn
-         */
-        static void respawn(std::string conf_path);
         /*
          * Destroys a daemon 
          * -- remove pidfile from pidpath
          * -- close syslog 
+         * -- respawns daemon if config.respawn_ is set to true
          * Return 
          * -- SYSCALL_SUCCESS on success
          * -- SYSCALL_FAILURE on failed syscalls
          */
-        int destroy();
+         int destroy();
 };
 
 char Daemon::dconfig::CONF_DELIM = '=';
+std::unique_ptr<Daemon> Daemon::daemon_ = nullptr;
 
 #endif

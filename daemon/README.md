@@ -2,6 +2,7 @@
 ## planning
 
 + change pidfile to perhaps a lock 
++ implement singleton daemon class
 
 
 + _Cron_ 
@@ -224,3 +225,37 @@
                 ```
 
 
++ _unique pointer_ 
+    + properties 
+        + not shared; cannot be copied to another `unique_ptr`, pass by value to function, 
+        + only move is allowed. i.e. ownership of memory resource is transfered and original `unique_ptr` does not own it 
+
++ _smart pointer_ 
+    + `<memory>`
+    + resource acquisition is initialization (RAII):
+        + gives ownership of any heap-allocated resource to a stack allocated object whose destructor contains code to delete or free resource and any associated cleanups
+    + _smart pointer_ 
+        + initialize on stack, by taking in a raw pointer that points to heap allocated object
+        + after initialization, smart pointer owns the raw pointer, i.e. responsible for deleting memory that raw pointer specifies
+        + smart pointer contains call to delete, which is called when smart pointer goes out of scope; this is true even if exception is thrown
+            + i.e. limited garbage collection enabled by scoping rules
+        + access member with `->` and `*` returns raw pointer by overloading operators
+    + _usage_ 
+        + declare smart pointer as automatic variable
+            + no `new` or `malloc` on smart pointer
+        + in type parameter, specify pointer-to-type of encapsulated pointer
+        + pass raw pointer to `new`-d objct in smart pointer constructor
+        + use overloaded `->` and `*` to access the object
+        + let smart pointer delete the object when going out of scope
+    + _member function_
+        + `unique_ptr.reset()`: release memory before smart pointer goes out of scope
+        + `unique_ptr.get()`: return encapsulated raw pointer for usage with legacy function that does not support it
+    + _category_ 
+        + `unique_ptr`: allow exactly one owner of underlying pointer, default for POCO
+            + can be moved to new owner, but not copied or shared, 
+        + `shared_ptr`: reference-counted smart pointer o
+            + use when assign one raw pointer to multiple owners
+            + raw pointer not deleted until all `shared_ptr` owners have gone out of scope, or gave up ownership
+        + `weak_ptr`: special case for use in conjunction with `shared_ptr`
+            + access to object that is owned by one or more `shared_ptr` instances, but does not participate in reference counting
+            + used for observing an object but do not require it to remain alive

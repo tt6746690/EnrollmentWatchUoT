@@ -73,6 +73,13 @@ std::unordered_map<std::string, std::string> Daemon::dconfig::parse_conf(std::if
 
 
 
+void Daemon::work_on(void (*job)())
+{
+    job_ = job;
+    job();
+}
+
+
 int Daemon::spawn() const
 {
 
@@ -170,6 +177,17 @@ int Daemon::configure() const
 }
 
 
+
+void Daemon::respawn(std::string conf_path, djob job)
+{
+    syslog(LOG_NOTICE, "daemon respawning...");
+    std::unique_ptr<Daemon> d = Daemon::get_daemon(conf_path);
+    syslog(LOG_NOTICE, "daemon respawned...");
+
+    d->work_on(job);
+
+}
+
 int Daemon::configure(std::string& conf_path)
 {
 
@@ -198,14 +216,6 @@ int Daemon::configure(std::string& conf_path)
     return configure();
 }
 
-void Daemon::respawn(std::string conf_path)
-{
-    syslog(LOG_NOTICE, "Daemon respawning...");
-    std::auto_ptr <Daemon> d(new Daemon(conf_path));
-    job();
-    exit(EXIT_SUCCESS);
-}
-
 int Daemon::destroy()
 {
     struct stat buf;
@@ -218,13 +228,42 @@ int Daemon::destroy()
         throw DaemonRuntimeException(errno, "Cannot remove daemon pidfile.");
     }
 
-    closelog();
-
     if(config_.respawn_)
     {
-        Daemon::respawn(config_.conf_path_);
+        Daemon::respawn(config_.conf_path_, job_);
+        throw std::runtime_error("Daemon process not terminated on destruction");
     }
+
+    closelog();
     return SYSCALL_SUCCESS;
+}
+
+
+std::unique_ptr<Daemon> Daemon::get_daemon()
+{
+    if(!daemon_){
+        syslog(LOG_NOTICE, "instantiating daemon_ unique_ptr");
+        daemon_ = std::unique_ptr<Daemon>(new Daemon());
+    }
+    return std::move(daemon_);
+}
+
+std::unique_ptr<Daemon> Daemon::get_daemon(std::string& conf_path)
+{
+    if(!daemon_){
+        syslog(LOG_NOTICE, "instantiating daemon_ unique_ptr with conf_path");
+        daemon_ = std::unique_ptr<Daemon>(new Daemon(conf_path));
+    }
+    return std::move(daemon_);
+}
+
+std::unique_ptr<Daemon> Daemon::get_daemon(dconfig& config)
+{
+    if(!daemon_){
+        syslog(LOG_NOTICE, "instantiating daemon_ unique_ptr with config");
+        daemon_ = std::unique_ptr<Daemon>(new Daemon(config));
+    }
+    return std::move(daemon_);
 }
 
 
@@ -232,30 +271,29 @@ Daemon::Daemon(): pid_(spawn())
 {
     throw_last_err(pid_ == SYSCALL_FAIL, "Daemon initialization failed.");
     throw_last_err(configure() == SYSCALL_FAIL, "Daemon configuration failed.");
-    syslog(LOG_NOTICE, "daemon starts running...");
+    syslog(LOG_NOTICE, "Daemon starts running...");
 };
 
 Daemon::Daemon(std::string& conf_path): pid_(spawn()) 
 {
     throw_last_err(pid_ == SYSCALL_FAIL, "Daemon initialization failed.");
     throw_last_err(configure(conf_path) == SYSCALL_FAIL, "Daemon configuration failed.");
-    syslog(LOG_NOTICE, "daemon starts running with given conf_path...");
+    syslog(LOG_NOTICE, "Daemon starts running with conf_path...");
 };
 
 Daemon::Daemon(dconfig& config): pid_(spawn()), config_(config)
 {
     throw_last_err(pid_ == SYSCALL_FAIL, "Daemon initialization failed.");
     throw_last_err(configure() == SYSCALL_FAIL, "Daemon configuration failed.");
-    syslog(LOG_NOTICE, "daemon starts running with dconfig struct...");
+    syslog(LOG_NOTICE, "Daemon starts running with config_...");
 };
 
 
 Daemon::~Daemon()
 {
-    syslog(LOG_NOTICE, "daemon terminated...");
+    syslog(LOG_NOTICE, "Daemon terminating...");
     throw_last_err(destroy() == SYSCALL_FAIL, "Daemon destruction failed.");
 };
-
 
 
 void job()
@@ -271,17 +309,19 @@ void job()
 
 int main(int argc, char **argv)
 {
-
     unused(argc, argv);
 
-    try{
-        // std::string conf_p(".daemon.conf");
-        std::auto_ptr <Daemon> d(new Daemon());
-        job();
-
-    } catch(const DaemonRuntimeException& e){
+    try
+    {
+        std::unique_ptr<Daemon> d = Daemon::get_daemon();
+        d->work_on(job);
+    } 
+    catch(const DaemonRuntimeException& e)
+    {
         syslog(LOG_ERR, "runtime exception -> %s", e.what());
     }
+
+    std::cout << "program exiting successfully" << std::endl;
 
     exit(EXIT_SUCCESS);
 }
