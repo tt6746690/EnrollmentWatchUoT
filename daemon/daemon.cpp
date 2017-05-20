@@ -24,13 +24,17 @@ void dsig_handler(int sig)
     {
         case SIGHUP:
         {
-            syslog(LOG_NOTICE, "Respawns daemon with newest config on SIGHUP");
+            syslog(LOG_NOTICE, "dsig_handler:SIGHUP respawn a new daemon");
+
+            Daemon& d = Daemon::get_daemon();
+            d.respawn(true);
+
             exit(EXIT_SUCCESS);
             break;
         }
         case SIGTERM:
         {
-            syslog(LOG_NOTICE, "Exits daemon on SIGTERM");
+            syslog(LOG_NOTICE, "dsig_handler:SIGTERM daemon terminated unconditionally");
             exit(EXIT_SUCCESS);
             break;
         }
@@ -73,7 +77,7 @@ std::unordered_map<std::string, std::string> Daemon::dconfig::parse_conf(std::if
 
 
 
-void Daemon::work_on(void (*job)())
+void Daemon::work_on(djob job)
 {
     job_ = job;
     job();
@@ -135,6 +139,35 @@ int Daemon::spawn() const
 }
 
 
+void Daemon::terminate()
+{
+    config_.respawn_ = false;
+    Daemon::reset_daemon(nullptr);
+}
+
+
+void Daemon::respawn(bool expr)
+{
+    if(expr)
+    {
+        /* set respawn to false to prevent calling respawn in destructor recursively */
+        config_.respawn_ = false;
+
+        /* reset previous daemon if daemon_ still points a a daemon*/
+        if(daemon_)
+        {
+            Daemon::reset_daemon(nullptr);
+        }
+
+        Daemon& d = Daemon::get_daemon();
+        d.work_on(job_);
+
+        /* exists current daemon */
+        Daemon::reset_daemon(nullptr);
+        exit(EXIT_SUCCESS);
+    }
+}
+
 int Daemon::configure() const
 {
 
@@ -178,16 +211,6 @@ int Daemon::configure() const
 
 
 
-void Daemon::respawn(std::string conf_path, djob job)
-{
-    syslog(LOG_NOTICE, "daemon respawning...");
-    std::unique_ptr<Daemon> d = Daemon::get_daemon(conf_path);
-    syslog(LOG_NOTICE, "daemon respawned...");
-
-    d->work_on(job);
-
-}
-
 int Daemon::configure(std::string& conf_path)
 {
 
@@ -216,94 +239,108 @@ int Daemon::configure(std::string& conf_path)
     return configure();
 }
 
-int Daemon::destroy()
+void Daemon::destroy()
 {
-    struct stat buf;
     const char *pidp = (config_.pidfile_path_ + config_.name_ + ".pid").c_str();
-
-    if(stat(pidp, &buf) < 0){ return SYSCALL_FAIL; }
 
     if(std::remove(pidp) < 0)
     { 
         throw DaemonRuntimeException(errno, "Cannot remove daemon pidfile.");
     }
 
-    if(config_.respawn_)
-    {
-        Daemon::respawn(config_.conf_path_, job_);
-        throw std::runtime_error("Daemon process not terminated on destruction");
-    }
-
     closelog();
-    return SYSCALL_SUCCESS;
 }
 
 
-std::unique_ptr<Daemon> Daemon::get_daemon()
+Daemon& Daemon::get_daemon()
 {
-    if(!daemon_){
-        syslog(LOG_NOTICE, "instantiating daemon_ unique_ptr");
+
+    if(!daemon_)
+    {
+        syslog(LOG_NOTICE, "Daemon::get_daemon  instantiating daemon_ %p", &daemon_);
+        std::cout << "Daemon::get_daemon instantiating daemon_" << &daemon_ << std::endl;
         daemon_ = std::unique_ptr<Daemon>(new Daemon());
+    } else {
+        syslog(LOG_NOTICE, "Daemon::get_daemon  get daemon_ %p", &daemon_);
+        std::cout << "Daemon::get_daemon get daemon_" << &daemon_ << std::endl;
     }
-    return std::move(daemon_);
+
+    return *daemon_;
 }
 
-std::unique_ptr<Daemon> Daemon::get_daemon(std::string& conf_path)
+Daemon& Daemon::get_daemon(std::string& conf_path)
 {
-    if(!daemon_){
-        syslog(LOG_NOTICE, "instantiating daemon_ unique_ptr with conf_path");
+    if(!daemon_)
+    {
+        syslog(LOG_NOTICE, "Daemon::get_daemon  instantiating daemon_ %p", &daemon_);
         daemon_ = std::unique_ptr<Daemon>(new Daemon(conf_path));
+    } else {
+        syslog(LOG_NOTICE, "Daemon::get_daemon  get daemon_ %p", &daemon_);
     }
-    return std::move(daemon_);
+    return *daemon_;
 }
 
-std::unique_ptr<Daemon> Daemon::get_daemon(dconfig& config)
+Daemon& Daemon::get_daemon(dconfig& config)
 {
-    if(!daemon_){
-        syslog(LOG_NOTICE, "instantiating daemon_ unique_ptr with config");
+    if(!daemon_)
+    {
+        syslog(LOG_NOTICE, "Daemon::get_daemon  instantiating daemon_ %p", &daemon_);
         daemon_ = std::unique_ptr<Daemon>(new Daemon(config));
+    } else {
+        syslog(LOG_NOTICE, "Daemon::get_daemon  get daemon_ %p", &daemon_);
     }
-    return std::move(daemon_);
+    return *daemon_;
 }
 
+
+void Daemon::reset_daemon(Daemon* daemon)
+{
+    daemon_.reset(daemon);
+}
 
 Daemon::Daemon(): pid_(spawn()) 
 {
     throw_last_err(pid_ == SYSCALL_FAIL, "Daemon initialization failed.");
     throw_last_err(configure() == SYSCALL_FAIL, "Daemon configuration failed.");
-    syslog(LOG_NOTICE, "Daemon starts running...");
-};
+
+    syslog(LOG_NOTICE, "Daemon::Daemon %p", this);
+}
 
 Daemon::Daemon(std::string& conf_path): pid_(spawn()) 
 {
     throw_last_err(pid_ == SYSCALL_FAIL, "Daemon initialization failed.");
     throw_last_err(configure(conf_path) == SYSCALL_FAIL, "Daemon configuration failed.");
-    syslog(LOG_NOTICE, "Daemon starts running with conf_path...");
-};
+
+    syslog(LOG_NOTICE, "Daemon::Daemon(conf_path) %p", this);
+}
 
 Daemon::Daemon(dconfig& config): pid_(spawn()), config_(config)
 {
     throw_last_err(pid_ == SYSCALL_FAIL, "Daemon initialization failed.");
     throw_last_err(configure() == SYSCALL_FAIL, "Daemon configuration failed.");
-    syslog(LOG_NOTICE, "Daemon starts running with config_...");
-};
+
+    syslog(LOG_NOTICE, "Daemon::Daemon(config) %p", this);
+}
 
 
 Daemon::~Daemon()
 {
-    syslog(LOG_NOTICE, "Daemon terminating...");
-    throw_last_err(destroy() == SYSCALL_FAIL, "Daemon destruction failed.");
-};
+    syslog(LOG_NOTICE, "Daemon::~Daemon %p", this);
+
+    destroy();
+    respawn(config_.respawn_);
+} 
 
 
 void job()
 {
     int i = 0;
-    while(i++ < 5)
+    while(i++ < 100)
     {
         syslog(LOG_NOTICE, "Loop # %d", i);
         std::this_thread::sleep_for(std::chrono::milliseconds(500));
     }
+    // raise(SIGHUP);
 }
 
 
@@ -311,14 +348,17 @@ int main(int argc, char **argv)
 {
     unused(argc, argv);
 
+    setlogmask(LOG_UPTO(LOG_INFO));
+    openlog("/Users/markwang/github/EnrollmentWatchUofT/daemon/", LOG_PID, LOG_DAEMON);
+
     try
     {
-        std::unique_ptr<Daemon> d = Daemon::get_daemon();
-        d->work_on(job);
+        Daemon& d = Daemon::get_daemon();
+        d.work_on(job);
     } 
     catch(const DaemonRuntimeException& e)
     {
-        syslog(LOG_ERR, "runtime exception -> %s", e.what());
+        syslog(LOG_ERR, "%s", e.what());
     }
 
     std::cout << "program exiting successfully" << std::endl;

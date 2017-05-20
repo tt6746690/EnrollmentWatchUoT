@@ -3,6 +3,13 @@
 
 + change pidfile to perhaps a lock 
 + implement singleton daemon class
++ respawn
+    1. respawn called from destructor, respawn if config_.respawn_ is true
+    2. respawn called from 	SIGHUP, respawn once only
+
+## Bugs and fixes
+
+1. [static unique ptr destructor called twice](http://stackoverflow.com/questions/36241068/static-unique-ptr-calls-destructor-twice)
 
 
 + _Cron_ 

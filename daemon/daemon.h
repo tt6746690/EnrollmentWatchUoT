@@ -16,7 +16,8 @@
 #include <fstream>          
 #include <string>            
 #include <stdexcept>        // runtime_error
-
+#include <memory>           // unique pointer
+        
 // Suppress unused warning 
 template <typename... Args> inline void unused(Args&&...) {}
 
@@ -92,7 +93,7 @@ struct dconfig
     static char CONF_DELIM;
 
     std::string name_ = "enrolwatchd";
-    std::string pidfile_path_ = "/tmp/";
+    std::string pidfile_path_ = "/Users/markwang/github/EnrollmentWatchUofT/daemon/";
     std::string conf_path_ = "/Users/markwang/github/EnrollmentWatchUofT/daemon/.daemon.conf";
     std::string working_dir_ = "/";
     mode_t mask_ = S_IRWXU | S_IRWXG | S_IRWXO;
@@ -124,23 +125,35 @@ class Daemon{
          * -- instantiate a unique pointer with corresponding constructor if daemon_ is empty
          * -- return daemon_ otherwise
          */
-        static std::unique_ptr<Daemon> get_daemon();
-        static std::unique_ptr<Daemon> get_daemon(std::string& conf_path);
-        static std::unique_ptr<Daemon> get_daemon(dconfig& config);
+        static Daemon& get_daemon();
+        static Daemon& get_daemon(std::string& conf_path);
+        static Daemon& get_daemon(dconfig& config);
+        /*
+         * Resets daemon with a new daemon
+         * -- daemon_ deletor 
+         * -- Daemon destructor
+         */
+        static void reset_daemon(Daemon* daemon);
+        /*
+         * Respawns a daemon if expr evaluates to true
+         * -- instantiates a new daemon
+         * -- execute job_
+         * -- explicitly destoys daemon
+         * -- exit program
+         * Postcondition
+         * -- new daemon gets a new pid after respawn
+         */
+        void respawn(bool expr);
 
+        /*
+         * terminates daemon even if respawn is true
+         */
+        void terminate();
         /* public destructor necessary */
         ~Daemon();
     private:
         /* singleton pointer */
         static std::unique_ptr<Daemon> daemon_;
-        /*
-         * Respawns a daemon
-         * -- instantiates a new daemon
-         * -- execute job_
-         * Postcondition
-         * -- new daemon gets a new pid after respawn
-         */
-        static void respawn(std::string conf_path, djob job);
         /* Constructor 
          * -- (): spawn and configures a daemon
          * -- (std::string path): initialize daemon with given config path string 
@@ -204,12 +217,11 @@ class Daemon{
          * Destroys a daemon 
          * -- remove pidfile from pidpath
          * -- close syslog 
-         * -- respawns daemon if config.respawn_ is set to true
          * Return 
          * -- SYSCALL_SUCCESS on success
          * -- SYSCALL_FAILURE on failed syscalls
          */
-         int destroy();
+         void destroy();
 };
 
 char Daemon::dconfig::CONF_DELIM = '=';
