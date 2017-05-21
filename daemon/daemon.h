@@ -128,32 +128,28 @@ class Daemon{
         static Daemon& get_daemon();
         static Daemon& get_daemon(std::string& conf_path);
         static Daemon& get_daemon(dconfig& config);
+
         /*
-         * Resets daemon with a new daemon
-         * -- daemon_ deletor 
-         * -- Daemon destructor
+         * Terminate daemon
+         * -- terminate: respect respawnable_ during termination
+         * -- force_terminate: ignore respawnable_ during termination
          */
-        static void reset_daemon(Daemon* daemon);
+        static void terminate();
+        static void force_terminate();
         /*
-         * Respawns a daemon if expr evaluates to true
-         * -- instantiates a new daemon
-         * -- execute job_
-         * -- explicitly destoys daemon
-         * -- exit program
+         * Respawns a daemon 
+         * -- terminate daemon_ 
+         * -- let get_daemon create a new daemon_ instance
          * Postcondition
          * -- new daemon gets a new pid after respawn
          */
-        void respawn(bool expr);
-
-        /*
-         * terminates daemon even if respawn is true
-         */
-        void terminate();
+        static Daemon& respawn();
         /* public destructor necessary */
         ~Daemon();
     private:
         /* singleton pointer */
         static std::unique_ptr<Daemon> daemon_;
+        static bool respawnable_;
         /* Constructor 
          * -- (): spawn and configures a daemon
          * -- (std::string path): initialize daemon with given config path string 
@@ -183,6 +179,10 @@ class Daemon{
          * and a new process is returned with pid
          */
         int spawn() const;
+        /*
+         * respawns daemon and does job if expr is evaluated to true
+         */
+        void respawn_if(bool expr) const;
         /*
          * Configures a daemon 
          * -- check for pidfile at pidfile_path
@@ -224,7 +224,9 @@ class Daemon{
          void destroy();
 };
 
-char Daemon::dconfig::CONF_DELIM = '=';
+bool Daemon::respawnable_ = true;
 std::unique_ptr<Daemon> Daemon::daemon_ = nullptr;
+
+char Daemon::dconfig::CONF_DELIM = '=';
 
 #endif

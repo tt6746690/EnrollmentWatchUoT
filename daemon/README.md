@@ -3,7 +3,7 @@
 
 + change pidfile to perhaps a lock 
 + implement singleton daemon class
-+ respawn
++ respawn: end current daemon without calling respawn in destructor, 
     1. respawn called from destructor, respawn if config_.respawn_ is true
     2. respawn called from 	SIGHUP, respawn once only
 

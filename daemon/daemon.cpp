@@ -26,8 +26,10 @@ void dsig_handler(int sig)
         {
             syslog(LOG_NOTICE, "dsig_handler:SIGHUP respawn a new daemon");
 
-            Daemon& d = Daemon::get_daemon();
-            d.respawn(true);
+            Daemon& d = Daemon::respawn();
+            d.work_on(job);
+            
+            syslog(LOG_NOTICE, "dsig_handler:SIGHUP respawn a new daemon after");
 
             exit(EXIT_SUCCESS);
             break;
@@ -35,6 +37,8 @@ void dsig_handler(int sig)
         case SIGTERM:
         {
             syslog(LOG_NOTICE, "dsig_handler:SIGTERM daemon terminated unconditionally");
+
+            Daemon::force_terminate();
             exit(EXIT_SUCCESS);
             break;
         }
@@ -138,35 +142,16 @@ int Daemon::spawn() const
     return getpid();
 }
 
-
-void Daemon::terminate()
-{
-    config_.respawn_ = false;
-    Daemon::reset_daemon(nullptr);
-}
-
-
-void Daemon::respawn(bool expr)
+void Daemon::respawn_if(bool expr) const
 {
     if(expr)
     {
-        /* set respawn to false to prevent calling respawn in destructor recursively */
-        config_.respawn_ = false;
-
-        /* reset previous daemon if daemon_ still points a a daemon*/
-        if(daemon_)
-        {
-            Daemon::reset_daemon(nullptr);
-        }
-
-        Daemon& d = Daemon::get_daemon();
+        Daemon& d = Daemon::respawn();
         d.work_on(job_);
-
-        /* exists current daemon */
-        Daemon::reset_daemon(nullptr);
-        exit(EXIT_SUCCESS);
+        Daemon::terminate();
     }
 }
+
 
 int Daemon::configure() const
 {
@@ -236,6 +221,9 @@ int Daemon::configure(std::string& conf_path)
         throw std::runtime_error("Daemon configuration file does not exists");
     }
 
+    // static flag updated when loading non-default configuration
+    respawnable_ = config_.respawn_;
+
     return configure();
 }
 
@@ -293,10 +281,27 @@ Daemon& Daemon::get_daemon(dconfig& config)
 }
 
 
-void Daemon::reset_daemon(Daemon* daemon)
+void Daemon::terminate()
 {
-    daemon_.reset(daemon);
+    daemon_.reset(nullptr);
 }
+
+void Daemon::force_terminate()
+{
+    respawnable_ = false;
+    daemon_.reset(nullptr);
+}
+
+
+Daemon& Daemon::respawn()
+{
+    if(daemon_)
+    {
+        Daemon::force_terminate();
+    }
+    return  Daemon::get_daemon();
+}
+
 
 Daemon::Daemon(): pid_(spawn()) 
 {
@@ -304,6 +309,8 @@ Daemon::Daemon(): pid_(spawn())
     throw_last_err(configure() == SYSCALL_FAIL, "Daemon configuration failed.");
 
     syslog(LOG_NOTICE, "Daemon::Daemon %p", this);
+    syslog(LOG_NOTICE, "Daemon::Daemon respawnable %d", respawnable_);
+
 }
 
 Daemon::Daemon(std::string& conf_path): pid_(spawn()) 
@@ -323,24 +330,24 @@ Daemon::Daemon(dconfig& config): pid_(spawn()), config_(config)
 }
 
 
+
 Daemon::~Daemon()
 {
     syslog(LOG_NOTICE, "Daemon::~Daemon %p", this);
 
     destroy();
-    respawn(config_.respawn_);
+    respawn_if(respawnable_);
 } 
 
 
 void job()
 {
     int i = 0;
-    while(i++ < 100)
+    while(i++ < 5)
     {
         syslog(LOG_NOTICE, "Loop # %d", i);
         std::this_thread::sleep_for(std::chrono::milliseconds(500));
     }
-    // raise(SIGHUP);
 }
 
 
