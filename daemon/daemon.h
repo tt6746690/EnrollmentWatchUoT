@@ -24,13 +24,12 @@ template <typename... Args> inline void unused(Args&&...) {}
 
 #define SYSCALL_SUCCESS 1
 #define SYSCALL_FAIL 0
-#define SYSLOG_OUT "/var/log/system.log" 
 
 
 /*
  * Trims str leading and trailing whitespaces
  */
-std::string trim(std::string& str);
+extern std::string trim(std::string& str);
 
 /*
  * formats errno, associated interpretation, 
@@ -38,7 +37,7 @@ std::string trim(std::string& str);
  * Returns 
  * -- string
  */
-std::string format_err_msg(int err, const std::string& msg);
+extern std::string format_err_msg(int err, const std::string& msg);
 
 
 /*
@@ -51,8 +50,11 @@ class DaemonRuntimeException: public std::runtime_error{
     public: 
         explicit DaemonRuntimeException(int err, const std::string& msg)
             : std::runtime_error(format_err_msg(err, msg)), _err(err){}
+        explicit DaemonRuntimeException(const std::string& msg)
+            : std::runtime_error(msg){}
         int get_err() const { return _err; }
 };
+
 
 
 
@@ -60,22 +62,7 @@ class DaemonRuntimeException: public std::runtime_error{
  * Throws DaemonRuntimeError for the newest error 
  * specified by errno with given msg 
  */
-void throw_last_err(bool expr, const std::string& msg);
-
-/*
- * Daemon's job 
- */
-void job();
-
-/*
- * Handles signal interrupts for daemon
- * -- SIGUP: restart daemon with new config
- * -- SIGTERM: terminate daemon despite resapwn flag
- * -- SIGUSR1: wakes up from sleep and perform action
- */
-void dsig_handler(int sig);
-
-
+extern void throw_last_err(bool expr, const std::string& msg);
 
 /*
  * Daemon configuration struct type
@@ -85,17 +72,23 @@ void dsig_handler(int sig);
  * -- working_dir: directory to which the daemon lives
  * -- mask: permission mask 
  * -- respawn: if daemon respawn upon termination
- * Type made public to be populated and passed into constructor
- * even though config_ is private
+ * Note
+ * -- changes to Daemon::dconfig persists during respawn
  */ 
+// #define DEFAULT_DCONFIG_NAME "mydaemon"
+#define DEFAULT_DCONFIG_NAME "watcherd_default"
+// #define DEFAULT_DCONFIG_PIDFILE_PATH "/tmp/"
+#define DEFAULT_DCONFIG_PIDFILE_PATH "/Users/markwang/github/EnrollmentWatchUofT/daemon/"
+#define DEFAULT_DCONFIG_CONF_PATH "/Users/markwang/github/EnrollmentWatchUofT/daemon/.daemon.conf"
+#define DEFAULT_DCONFIG_WORKING_DIR "/"
 struct dconfig
 {
     static char CONF_DELIM;
 
-    std::string name_ = "enrolwatchd";
-    std::string pidfile_path_ = "/Users/markwang/github/EnrollmentWatchUofT/daemon/";
-    std::string conf_path_ = "/Users/markwang/github/EnrollmentWatchUofT/daemon/.daemon.conf";
-    std::string working_dir_ = "/";
+    std::string name_ = DEFAULT_DCONFIG_NAME;
+    std::string pidfile_path_ = DEFAULT_DCONFIG_PIDFILE_PATH;
+    std::string conf_path_ = DEFAULT_DCONFIG_CONF_PATH;
+    std::string working_dir_ = DEFAULT_DCONFIG_WORKING_DIR;
     mode_t mask_ = S_IRWXU | S_IRWXG | S_IRWXO;
     bool respawn_ = true;
     /*
@@ -128,14 +121,6 @@ class Daemon{
         static Daemon& get_daemon();
         static Daemon& get_daemon(std::string& conf_path);
         static Daemon& get_daemon(dconfig& config);
-
-        /*
-         * Terminate daemon
-         * -- terminate: respect respawnable_ during termination
-         * -- force_terminate: ignore respawnable_ during termination
-         */
-        static void terminate();
-        static void force_terminate();
         /*
          * Respawns a daemon 
          * -- terminate daemon_ 
@@ -144,8 +129,26 @@ class Daemon{
          * -- new daemon gets a new pid after respawn
          */
         static Daemon& respawn();
+        static Daemon& respawn(std::string& conf_path);
+        static Daemon& respawn(dconfig& config);
+        /*
+         * Terminate daemon
+         * -- terminate: respect respawnable_ during termination
+         * -- force_terminate: ignore respawnable_ during termination
+         */
+        static void terminate();
+        static void force_terminate();
         /* public destructor necessary */
         ~Daemon();
+    protected:
+        /*
+         * protected member:
+         * -- config_: configuration for daemon
+         * -- job_: function invoked 
+         * ---- on calling work_on(job)
+         */
+        dconfig config_;
+        djob job_;
     private:
         /* singleton pointer */
         static std::unique_ptr<Daemon> daemon_;
@@ -155,18 +158,9 @@ class Daemon{
          * -- (std::string path): initialize daemon with given config path string 
          * -- (Daemon::dconfig config): initialize daemon with dconfig struct
          */
-        Daemon();   
-        Daemon(std::string& conf_path);
-        Daemon(dconfig& config);
-        /*
-         * private member:
-         * -- config_: configuration for daemon
-         * -- job_: function invoked 
-         * ---- on calling work_on(job)
-         * ---- right after respawn
-         */
-        dconfig config_;
-        djob job_;
+        explicit Daemon();   
+        explicit Daemon(std::string& conf_path);
+        explicit Daemon(dconfig& config);
         /* Spawns a daemon 
          * -- fork: create child process 
          * -- setsid: child leads new session 
@@ -181,6 +175,7 @@ class Daemon{
         int spawn() const;
         /*
          * respawns daemon and does job if expr is evaluated to true
+         * -- reloads configuration file by default
          */
         void respawn_if(bool expr) const;
         /*
@@ -222,11 +217,14 @@ class Daemon{
          * -- SYSCALL_FAILURE on failed syscalls
          */
          void destroy();
+        /*
+         * Handles signal interrupts for daemon
+         * -- SIGUP: respawns daemon and reloads config at config_.conf_path_
+         * -- SIGTERM: terminate daemon regardless of resapwnable_ 
+         * -- SIGUSR1: wakes up from sleep and perform action
+         */
+        friend void dsig_handler(int sig);
 };
 
-bool Daemon::respawnable_ = true;
-std::unique_ptr<Daemon> Daemon::daemon_ = nullptr;
-
-char Daemon::dconfig::CONF_DELIM = '=';
 
 #endif

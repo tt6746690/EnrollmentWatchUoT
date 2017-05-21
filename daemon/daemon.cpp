@@ -1,7 +1,10 @@
-#include <iostream>
-#include <chrono>
-#include <thread>
 #include "daemon.h"
+
+/* initialize static variable */
+bool Daemon::respawnable_ = true;
+char Daemon::dconfig::CONF_DELIM = '=';
+std::unique_ptr<Daemon> Daemon::daemon_ = nullptr;
+
 
 std::string format_err_msg(int err, const std::string& msg)
 {
@@ -27,9 +30,8 @@ void dsig_handler(int sig)
             syslog(LOG_NOTICE, "dsig_handler:SIGHUP respawn a new daemon");
 
             Daemon& d = Daemon::respawn();
-            d.work_on(job);
-            
-            syslog(LOG_NOTICE, "dsig_handler:SIGHUP respawn a new daemon after");
+            d.configure(d.config_.conf_path_);
+            // d.work_on(job);
 
             exit(EXIT_SUCCESS);
             break;
@@ -146,7 +148,9 @@ void Daemon::respawn_if(bool expr) const
 {
     if(expr)
     {
-        Daemon& d = Daemon::respawn();
+        std::string pidfp(config_.conf_path_);
+        Daemon& d = Daemon::respawn(pidfp);
+
         d.work_on(job_);
         Daemon::terminate();
     }
@@ -155,6 +159,8 @@ void Daemon::respawn_if(bool expr) const
 
 int Daemon::configure() const
 {
+    setlogmask(LOG_UPTO(LOG_INFO));
+    openlog(config_.name_.c_str(), LOG_PID, LOG_DAEMON);
 
     struct stat buf;
     const char *pidp = (config_.pidfile_path_ + config_.name_ + ".pid").c_str();
@@ -162,7 +168,7 @@ int Daemon::configure() const
     /* daemon fails if another instance already exists */
     if(stat(pidp, &buf) == 0)
     { 
-        throw std::runtime_error("Daemon already running.");
+        throw DaemonRuntimeException("Daemon already running.");
     }
 
     if(chdir(config_.working_dir_.c_str()) < 0)
@@ -187,9 +193,6 @@ int Daemon::configure() const
     if(chmod(pidp, 0644) < 0){ return SYSCALL_FAIL; };
     pid_fs << pid_ << std::endl;
     pid_fs.close();
-
-    setlogmask(LOG_UPTO(LOG_INFO));
-    openlog(config_.name_.c_str(), LOG_PID, LOG_DAEMON);
 
     return SYSCALL_SUCCESS;
 }
@@ -218,11 +221,11 @@ int Daemon::configure(std::string& conf_path)
              
         } else {
 
-        throw std::runtime_error("Daemon configuration file does not exists");
+        throw DaemonRuntimeException("Daemon configuration file does not exists");
     }
 
     // static flag updated when loading non-default configuration
-    respawnable_ = config_.respawn_;
+    Daemon::respawnable_ = config_.respawn_;
 
     return configure();
 }
@@ -246,11 +249,9 @@ Daemon& Daemon::get_daemon()
     if(!daemon_)
     {
         syslog(LOG_NOTICE, "Daemon::get_daemon  instantiating daemon_ %p", &daemon_);
-        std::cout << "Daemon::get_daemon instantiating daemon_" << &daemon_ << std::endl;
         daemon_ = std::unique_ptr<Daemon>(new Daemon());
     } else {
         syslog(LOG_NOTICE, "Daemon::get_daemon  get daemon_ %p", &daemon_);
-        std::cout << "Daemon::get_daemon get daemon_" << &daemon_ << std::endl;
     }
 
     return *daemon_;
@@ -288,7 +289,7 @@ void Daemon::terminate()
 
 void Daemon::force_terminate()
 {
-    respawnable_ = false;
+    Daemon::respawnable_ = false;
     daemon_.reset(nullptr);
 }
 
@@ -303,13 +304,31 @@ Daemon& Daemon::respawn()
 }
 
 
+Daemon& Daemon::respawn(std::string& conf_path)
+{
+    if(daemon_)
+    {
+        Daemon::force_terminate();
+    }
+    return  Daemon::get_daemon(conf_path);
+}
+
+Daemon& Daemon::respawn(dconfig& config)
+{
+    if(daemon_)
+    {
+        Daemon::force_terminate();
+    }
+    return  Daemon::get_daemon(config);
+}
+
 Daemon::Daemon(): pid_(spawn()) 
 {
     throw_last_err(pid_ == SYSCALL_FAIL, "Daemon initialization failed.");
     throw_last_err(configure() == SYSCALL_FAIL, "Daemon configuration failed.");
 
-    syslog(LOG_NOTICE, "Daemon::Daemon %p", this);
-    syslog(LOG_NOTICE, "Daemon::Daemon respawnable %d", respawnable_);
+    syslog(LOG_NOTICE, "Daemon::Daemon");
+    syslog(LOG_NOTICE, "Daemon::Daemon conf_path = %s", config_.conf_path_.c_str());
 
 }
 
@@ -318,7 +337,7 @@ Daemon::Daemon(std::string& conf_path): pid_(spawn())
     throw_last_err(pid_ == SYSCALL_FAIL, "Daemon initialization failed.");
     throw_last_err(configure(conf_path) == SYSCALL_FAIL, "Daemon configuration failed.");
 
-    syslog(LOG_NOTICE, "Daemon::Daemon(conf_path) %p", this);
+    syslog(LOG_NOTICE, "Daemon::Daemon(conf_path=%s)", conf_path.c_str());
 }
 
 Daemon::Daemon(dconfig& config): pid_(spawn()), config_(config)
@@ -340,35 +359,3 @@ Daemon::~Daemon()
 } 
 
 
-void job()
-{
-    int i = 0;
-    while(i++ < 5)
-    {
-        syslog(LOG_NOTICE, "Loop # %d", i);
-        std::this_thread::sleep_for(std::chrono::milliseconds(500));
-    }
-}
-
-
-int main(int argc, char **argv)
-{
-    unused(argc, argv);
-
-    setlogmask(LOG_UPTO(LOG_INFO));
-    openlog("/Users/markwang/github/EnrollmentWatchUofT/daemon/", LOG_PID, LOG_DAEMON);
-
-    try
-    {
-        Daemon& d = Daemon::get_daemon();
-        d.work_on(job);
-    } 
-    catch(const DaemonRuntimeException& e)
-    {
-        syslog(LOG_ERR, "%s", e.what());
-    }
-
-    std::cout << "program exiting successfully" << std::endl;
-
-    exit(EXIT_SUCCESS);
-}
