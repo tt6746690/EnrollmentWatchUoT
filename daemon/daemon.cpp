@@ -26,24 +26,24 @@ void dsig_handler(int sig)
     switch(sig)
     {
         case SIGHUP:
-        {
-            syslog(LOG_NOTICE, "dsig_handler:SIGHUP respawn a new daemon");
+            {
+                syslog(LOG_NOTICE, "dsig_handler:SIGHUP respawn a new daemon");
 
-            Daemon& d = Daemon::respawn();
-            d.configure(d.config_.conf_path_);
-            // d.work_on(job);
+                Daemon& d = Daemon::respawn();
+                d.configure(d.config_.conf_path_);
+                // d.work_on(job);
 
-            exit(EXIT_SUCCESS);
-            break;
-        }
+                exit(EXIT_SUCCESS);
+                break;
+            }
         case SIGTERM:
-        {
-            syslog(LOG_NOTICE, "dsig_handler:SIGTERM daemon terminated unconditionally");
+            {
+                syslog(LOG_NOTICE, "dsig_handler:SIGTERM daemon terminated unconditionally");
 
-            Daemon::force_terminate();
-            exit(EXIT_SUCCESS);
-            break;
-        }
+                Daemon::force_terminate();
+                exit(EXIT_SUCCESS);
+                break;
+            }
     }
 }
 
@@ -182,7 +182,7 @@ int Daemon::configure() const
     // for(curfd = sysconf(_SC_OPEN_MAX); curfd >= 0; curfd--){
     //     close(curfd);
     // }
-   
+
     if(signal(SIGCHLD, SIG_IGN) == SIG_ERR){ return SYSCALL_FAIL; }
     if(signal(SIGTSTP, SIG_IGN) == SIG_ERR){ return SYSCALL_FAIL; }
     if(signal(SIGHUP, dsig_handler) == SIG_ERR){ return SYSCALL_FAIL; }
@@ -218,8 +218,8 @@ int Daemon::configure(std::string& conf_path)
             if(it.first == "mask"){ config_.mask_ = std::stoi(it.second); continue; }
             if(it.first == "respawn"){ config_.respawn_ = (it.second == "1") ? true:false; continue; }
         }
-             
-        } else {
+
+    } else {
 
         throw DaemonRuntimeException("Daemon configuration file does not exists");
     }

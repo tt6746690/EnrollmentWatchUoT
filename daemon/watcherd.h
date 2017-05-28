@@ -4,7 +4,7 @@
 
 #define MY_DAEMON_CONF_PATH "/Users/markwang/github/EnrollmentWatchUofT/daemon/.daemon.conf"
 
-void job();
+void last_updated();
 /*
  * Writer callback invoked as soon as data is received
  * -- buffer is pointer to saved data, where its size is size * nmemb

@@ -2,9 +2,13 @@
 #include <chrono>
 #include <thread>
 #include <curl/curl.h>
+#include <json.hpp>
 
 #include "watcherd.h"
 #include "daemon.h"
+
+
+using json = nlohmann::json;
 
 
 size_t writer_cb(void *buffer, size_t size, size_t nmemb, void *writer_data)
@@ -42,13 +46,11 @@ static void curl_init(CURL *&conn, std::string& url, std::string *data)
     if(code != CURLE_OK) { throw std::runtime_error("Failed to set write data"); }
 }
 
-void job()
+static std::string simple_fetch(std::string url)
 {
-
     std::string data("");
 
     CURL *conn = NULL;
-    std::string url("https://timetable.iit.artsci.utoronto.ca/api/lastupdated");
     CURLcode code = CURLE_OK;
 
     curl_init(conn, url, &data);
@@ -61,8 +63,21 @@ void job()
         throw std::runtime_error("Failed to get response");
     }
 
-    std::cout << data << std::endl;
-    curl_global_cleanup();
+    return data;
+}
+
+
+
+
+void job()
+{
+    std::string url("https://timetable.iit.artsci.utoronto.ca/api/lastupdated");
+    std::string last_updated = simple_fetch(url);
+
+    auto last_updated_json = json::parse(last_updated);
+
+    std::cout << last_updated_json.dump(4) << std::endl;
+
 }
 
 
@@ -85,6 +100,7 @@ int main(int argc, char **argv)
         job();
     } catch(const std::runtime_error& e){
         std::cout << e.what() <<std::endl;
+        curl_global_cleanup();
     }
 
     // setlogmask(LOG_UPTO(LOG_INFO));
