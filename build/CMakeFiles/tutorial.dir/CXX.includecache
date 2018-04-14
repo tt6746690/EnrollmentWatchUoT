@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/markwang/github/EnrollmentWatchUofT/src/tut.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+tut.h
+/Users/markwang/github/EnrollmentWatchUofT/src/tut.h
+math.h
+/Users/markwang/github/EnrollmentWatchUofT/src/math.h
+
+/Users/markwang/github/EnrollmentWatchUofT/src/tut.h
+

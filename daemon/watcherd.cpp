@@ -62,6 +62,7 @@ static std::string simple_fetch(std::string url)
     {
         throw std::runtime_error("Failed to get response");
     }
+    curl_global_cleanup();
 
     return data;
 }
@@ -77,7 +78,6 @@ void job()
     auto last_updated_json = json::parse(last_updated);
 
     std::cout << last_updated_json.dump(4) << std::endl;
-
 }
 
 
@@ -95,27 +95,27 @@ int main(int argc, char **argv)
 {
     unused(argc, argv);
 
-    try
-    {
-        job();
-    } catch(const std::runtime_error& e){
-        std::cout << e.what() <<std::endl;
-        curl_global_cleanup();
-    }
+    // try
+    // {
+    //     job();
+    // } catch(const std::runtime_error& e){
+    //     std::cout << e.what() <<std::endl;
+    //     curl_global_cleanup();
+    // }
 
     // setlogmask(LOG_UPTO(LOG_INFO));
     // openlog(DEFAULT_DCONFIG_NAME, LOG_PID, LOG_DAEMON);
     //
-    // try
-    // {
-    //     std::string conf_path("/Users/markwang/github/EnrollmentWatchUofT/daemon/.daemon.conf");
-    //     Daemon& d = Daemon::get_daemon(conf_path);
-    //     d.work_on(job);
-    // }
-    // catch(const DaemonRuntimeException& e)
-    // {
-    //     syslog(LOG_ERR, "%s", e.what());
-    // }
+    try
+    {
+        std::string conf_path("/Users/markwang/github/EnrollmentWatchUofT/daemon/.daemon.conf");
+        Daemon& d = Daemon::get_daemon(conf_path);
+        d.work_on(job);
+    }
+    catch(const DaemonRuntimeException& e)
+    {
+        syslog(LOG_ERR, "%s", e.what());
+    }
 
     exit(EXIT_SUCCESS);
 }
